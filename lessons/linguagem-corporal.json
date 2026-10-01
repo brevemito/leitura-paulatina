@@ -1,0 +1,58 @@
+{
+"title":"Desvendando os Segredos da Linguagem Corporal",
+"author":"Allan e Barbara Pease",
+"lessons":[
+{
+"id":"001",
+"title":"Introdução (início)",
+"text":[
+"A lista de definições de \"comunicação\" é muito grande; virtualmente cada autor propõe a sua própria. Podemos denominar comunicação ao processo pelo qual, uns seres, umas pessoas atribuem significados a uns fatos produzidos e, entre eles muito especialmente ao comportamento dos outros seres ou pessoas.",
+"A primeira condição para que haja comunicação é a presença de um emissor e um receptor.",
+"O estudo dos símbolos sempre esteve relacionado com o conceito de comunicação. Como é natural, a expressão corporal que abrange os movimentos do corpo e a postura, está relacionada com as características físicas da pessoa.",
+"Há três classes de movimentos observáveis: os faciais, gesticulares e os de postura. Embora possamos categorizar estes tipos de movimentos, a verdade é que estão fortemente entrelaçados, e muito freqüentemente se torna difícil dar um significado a um, prescindindo dos outros."
+],
+"glossary":[
+{"t":"Virtualmente","d":"na prática, quase sem excepção."},
+{"t":"Emissor","d":"quem envia a mensagem."},
+{"t":"Receptor","d":"quem recebe a mensagem."},
+{"t":"Categorizar","d":"separar em grupos ou categorias."},
+{"t":"Entrelaçados","d":"ligados uns aos outros, misturados."},
+{"t":"Prescindir","d":"pôr de lado, dispensar."},
+{"t":"Gesticulares","d":"relativos aos gestos."}
+],
+"questions":[
+{"q":"Segundo o texto, qual é a primeira condição para que haja comunicação?","options":["Que as duas pessoas falem a mesma língua","A presença de um emissor e um receptor","Que exista um gesto ou um símbolo","Que as pessoas se conheçam"],"answer":1,"why":"O texto diz expressamente que a primeira condição é a presença de um emissor e um receptor."},
+{"q":"Quantas classes de movimentos observáveis o texto apresenta?","options":["Duas: verbais e não verbais","Quatro: faciais, gesticulares, de postura e de voz","Três: faciais, gesticulares e de postura","Três: visuais, sonoros e tácteis"],"answer":2,"why":"O texto fala de três classes: os faciais, os gesticulares e os de postura."},
+{"q":"Na frase 'estão fortemente entrelaçados', a palavra 'entrelaçados' quer dizer:","options":["Ligados uns aos outros","Separados por categorias","Escondidos do observador","Repetidos várias vezes"],"answer":0,"why":"Entrelaçados significa ligados, misturados: os tipos de movimento misturam-se."},
+{"q":"Segundo o texto, porque é difícil dar significado a um só tipo de movimento?","options":["Porque os movimentos são raros","Porque só a postura tem significado","Porque os gestos mudam todos os dias","Porque os três tipos estão fortemente entrelaçados"],"answer":3,"why":"Como os três tipos estão entrelaçados, é difícil interpretar um prescindindo dos outros."},
+{"q":"Um gerente diz 'estou muito interessado', mas mantém o rosto sério, olha para o relógio e vira o corpo para a porta. O que é mais prudente, segundo a ideia do texto?","options":["Interpretar só as palavras","Interpretar só o olhar","Considerar em conjunto os movimentos do rosto, dos gestos e da postura","Ignorar o corpo, porque não comunica"],"answer":2,"why":"Rosto, gestos e postura estão ligados, e é difícil dar sentido a um deles sozinho."}
+],
+"summary":"A comunicação exige emissor e receptor, e o corpo comunica através de movimentos do rosto, dos gestos e da postura, que só fazem sentido em conjunto."
+},
+{
+"id":"002",
+"title":"Introdução (continuação)",
+"text":[
+"Na comunicação verbal, sendo a linguagem o fator mais importante, reconhecemos que produzimos e recebemos uma quantidade muito grande de mensagens que não vêm expressas em palavras.",
+"Estas mensagens são os que denominamos não verbais, e vão da cor dos olhos, comprimento do cabelo, movimentos do corpo, postura, e até o tom da voz, passando por objetos, roupas, distribuição do espaço e do tempo.",
+"O estudo rigoroso desses sistemas de comunicação não começou até bastante tempo depois da Segunda Guerra Mundial. Isto não quer dizer que não encontremos alguma referência já nos antigos mundos Grego e Chinês, ou em trabalhos sobre dança, teatro ou liturgia."
+],
+"glossary":[
+{"t":"Verbal","d":"que se exprime por palavras."},
+{"t":"Não verbais","d":"que se exprimem sem palavras."},
+{"t":"Denominar","d":"dar nome a, chamar."},
+{"t":"Distribuição","d":"a forma como algo está repartido ou organizado."},
+{"t":"Rigoroso","d":"feito com método e exactidão."},
+{"t":"Liturgia","d":"conjunto das cerimónias e rituais de uma religião."}
+],
+"questions":[
+{"q":"Segundo o texto, as mensagens não verbais são as que:","options":["Vêm expressas em palavras","Não vêm expressas em palavras","Só existem na escrita","Só se produzem ao telefone"],"answer":1,"why":"O texto define as mensagens não verbais como aquelas que não vêm expressas em palavras."},
+{"q":"Qual destes elementos o texto inclui entre as mensagens não verbais?","options":["O tom da voz","O vocabulário do discurso","A gramática da frase","O título de um livro"],"answer":0,"why":"O texto enumera, entre outros, os movimentos do corpo, a postura e até o tom da voz."},
+{"q":"O estudo rigoroso dos sistemas de comunicação não verbal começou:","options":["Na Grécia antiga","No início do século XX","Bastante tempo depois da Segunda Guerra Mundial","Antes da Primeira Guerra Mundial"],"answer":2,"why":"O texto diz que o estudo rigoroso só começou bastante tempo depois da Segunda Guerra Mundial."},
+{"q":"O texto afirma que já existem referências à comunicação não verbal:","options":["Em nenhum documento antigo","Apenas na liturgia","Só em trabalhos sobre dança","Nos antigos mundos Grego e Chinês, e em trabalhos sobre dança, teatro ou liturgia"],"answer":3,"why":"O autor reconhece referências antigas nos mundos Grego e Chinês e em trabalhos sobre dança, teatro ou liturgia."},
+{"q":"Duas pessoas dizem a mesma frase, 'Está bem'. Uma diz com voz firme e sorriso; a outra, com voz baixa e olhar desviado. O que isto ilustra?","options":["Que as palavras são sempre suficientes","Que o tom da voz não comunica nada","Que o tom da voz e o corpo acrescentam mensagens além das palavras","Que só o vocabulário conta"],"answer":2,"why":"Recebemos muitas mensagens que não vêm em palavras, como o tom da voz e os movimentos do corpo."}
+],
+"summary":"Além das palavras, comunicamos por muitos sinais não verbais, como o corpo, a voz, as roupas e o uso do espaço e do tempo, e o seu estudo rigoroso só começou bem depois da Segunda Guerra Mundial."
+}
+]
+}
