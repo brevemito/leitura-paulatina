@@ -150,6 +150,30 @@
 {"q":"Numa reunião, duas pessoas sentam-se com posturas iguais e uma terceira, de braços cruzados e corpo virado, adopta uma postura diferente. O que é razoável supor, segundo a ideia do texto?","options":["Que as duas primeiras partilham um ponto de vista que a terceira talvez não partilhe","Que a terceira é a mais interessada","Que ninguém tem opinião","Que as três concordam"],"answer":0,"why":"O texto diz que a postura permite muitas vezes detectar quem está a favor de quem, antes de cada um falar."}
 ],
 "summary":"As pessoas tendem a imitar a postura umas das outras, sobretudo quando partilham o mesmo ponto de vista, e isso ajuda a perceber quem está de acordo com quem."
+},
+  {
+"id":"007",
+"title":"A importância da imitação",
+"text":[
+"Observou-se que as pessoas que não se conhecem evitam cuidadosamente adotar as mesmas posições. A importância da imitação pode chegar a ser uma das lições mais significativas que podemos aprender, pois é a forma com que outros nos expressam que coincidem conosco ou que lhes agradamos. Também é a forma com que comunicamos aos outros que realmente nos agradam.",
+"Se um chefe deseja estabelecer rapidamente uma boa relação e criar um ambiente tranqüilo com um empregado, basta copiar a postura deste para obter seus objetivos.",
+"Da mesma maneira que as posturas congruentes expressam acordo, as não congruentes podem ser utilizadas para estabelecer distâncias psicológicas."
+],
+"glossary":[
+{"t":"Cuidadosamente","d":"com atenção, de forma deliberada."},
+{"t":"Coincidir","d":"ser igual, estar de acordo."},
+{"t":"Estabelecer","d":"criar, fixar."},
+{"t":"Congruentes","d":"que coincidem, que combinam entre si."},
+{"t":"Distância psicológica","d":"afastamento emocional entre duas pessoas, mesmo que estejam perto."}
+],
+"questions":[
+{"q":"Segundo o texto, o que fazem as pessoas que não se conhecem em relação às posições do corpo?","options":["Adoptam as mesmas posições","Evitam cuidadosamente adoptar as mesmas posições","Imitam logo a postura do outro","Procuram sentar-se muito perto"],"answer":1,"why":"O texto diz que as pessoas que não se conhecem evitam cuidadosamente adoptar as mesmas posições."},
+{"q":"Segundo o texto, o que expressam os outros ao imitar a nossa postura?","options":["Que coincidem connosco ou que lhes agradamos","Que querem contrariar-nos","Que não nos conhecem","Que estão nervosos"],"answer":0,"why":"A imitação é a forma com que outros nos expressam que coincidem connosco ou que lhes agradamos."},
+{"q":"O que basta a um chefe fazer para criar rapidamente uma boa relação com um empregado?","options":["Falar mais alto","Cruzar os braços","Copiar a postura do empregado","Mudar de sala"],"answer":2,"why":"O texto diz que basta ao chefe copiar a postura do empregado para obter os seus objectivos."},
+{"q":"Segundo o texto, para que podem ser utilizadas as posturas não congruentes?","options":["Para expressar acordo","Para estabelecer distâncias psicológicas","Para imitar o outro","Para mostrar interesse"],"answer":1,"why":"Tal como as congruentes expressam acordo, as não congruentes podem estabelecer distâncias psicológicas."},
+{"q":"Duas colegas conversam. Uma inclina-se para a frente e, sem dar conta, a outra inclina-se também. O que isto sugere, segundo a ideia do texto?","options":["Que há afinidade entre elas","Que discordam uma da outra","Que se acabaram de conhecer e se evitam","Que uma está a dar uma ordem à outra"],"answer":0,"why":"Imitar a postura de alguém é sinal de que coincidimos com essa pessoa ou de que ela nos agrada."}
+],
+"summary":"Imitar a postura do outro mostra afinidade e ajuda a criar boa relação, enquanto posturas diferentes podem criar distância."
 }
 ]
 }
