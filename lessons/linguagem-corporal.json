@@ -102,6 +102,30 @@
 {"q":"Um turista faz um gesto que é amistoso no seu país, mas ofende noutro. Que ideia do texto isto ilustra?","options":["A comunicação não verbal é igual em todo o mundo","Em culturas diferentes há sistemas não verbais diferentes","Só a função referencial importa","Os gestos não têm significado"],"answer":1,"why":"Como cada cultura tem o seu sistema não verbal, o mesmo gesto pode ter sentidos diferentes."}
 ],
 "summary":"As mensagens não verbais exprimem sobretudo emoções, variam de cultura para cultura e, quando as conhecemos, tornam o encontro com os outros mais interessante."
+},
+  {
+"id":"005",
+"title":"Para quem serve este estudo; a postura (início)",
+"text":[
+"Quando se começou a estudar a comunicação não verbal, esta era dirigida ao pessoal de vendas, gerentes e executivos, mas mais tarde se foi ampliando de tal maneira que toda pessoa, qualquer que seja sua vocação e sua posição social, pode usá-la para compreender melhor o acontecimento mais complexo que se apresenta na vida: o encontro cara a cara com outra pessoa.",
+"Para a maioria de nós, a postura é um tema pouco agradável sobre a maneira como nossa mãe costumava nos repreender. Mas para um psicanalista a postura de um paciente muitas vezes constitui uma chave primordial sobre a natureza de seus problemas.",
+"A postura é a chave não verbal mais fácil de descobrir, e observá-la pode ser muito interessante."
+],
+"glossary":[
+{"t":"Vocação","d":"inclinação natural para uma profissão ou actividade."},
+{"t":"Posição social","d":"o lugar que alguém ocupa na sociedade."},
+{"t":"Repreender","d":"chamar a atenção a alguém por algo que fez de errado."},
+{"t":"Psicanalista","d":"profissional que estuda e trata problemas da mente a partir da conversa com o paciente."},
+{"t":"Primordial","d":"fundamental, de primeira importância."}
+],
+"questions":[
+{"q":"A quem era dirigido o estudo da comunicação não verbal quando começou?","options":["Aos psicanalistas e aos pacientes","Ao pessoal de vendas, gerentes e executivos","Aos professores e aos alunos","Aos actores e aos bailarinos"],"answer":1,"why":"O texto diz que, no início, o estudo era dirigido ao pessoal de vendas, gerentes e executivos."},
+{"q":"Segundo o texto, o que aconteceu com o estudo mais tarde?","options":["Só os executivos continuaram a usá-lo","Foi abandonado","Toda pessoa, qualquer que seja a sua vocação e posição social, passou a poder usá-lo","Ficou limitado ao pessoal de vendas"],"answer":2,"why":"O estudo foi-se ampliando, de modo que toda pessoa pode usá-lo, seja qual for a sua vocação e posição social."},
+{"q":"Qual é, segundo o texto, o acontecimento mais complexo que se apresenta na vida?","options":["Um discurso em público","Uma negociação por escrito","Uma conversa por telefone","O encontro cara a cara com outra pessoa"],"answer":3,"why":"O texto aponta o encontro cara a cara com outra pessoa como o acontecimento mais complexo da vida."},
+{"q":"Na frase 'uma chave primordial', a palavra 'primordial' quer dizer:","options":["Fundamental, de primeira importância","Secundária, de pouca importância","Duvidosa, difícil de confirmar","Antiga e esquecida"],"answer":0,"why":"Primordial é aquilo que é fundamental. Para o psicanalista, a postura é uma pista de primeira importância."},
+{"q":"Como o texto descreve a postura entre os sinais não verbais?","options":["A chave não verbal mais difícil de descobrir","Uma chave que só os psicanalistas conseguem ver","A chave não verbal mais fácil de descobrir","Uma chave sem importância"],"answer":2,"why":"O texto diz que a postura é a chave não verbal mais fácil de descobrir."}
+],
+"summary":"O estudo da comunicação não verbal, que nasceu para vendedores e gestores, serve hoje a qualquer pessoa, e a postura é a pista mais fácil de observar."
 }
 ]
 }
