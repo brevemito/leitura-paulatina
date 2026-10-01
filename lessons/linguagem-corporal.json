@@ -198,6 +198,32 @@
 {"q":"Num autocarro cheio, um passageiro põe uma mão junto ao rosto e vira levemente o corpo, do lado de quem está sentado ao lado. O que isto sugere, segundo a ideia do texto?","options":["Que está a mostrar interesse pelo vizinho","Que está a imitar o vizinho","Que está a criar uma barreira, sem dar por isso, por falta de espaço pessoal","Que está a dar uma ordem ao vizinho"],"answer":2,"why":"Quando somos forçados a ficar muito juntos de alguém, criamos barreiras inconscientemente, por exemplo com a mão junto ao rosto."}
 ],
 "summary":"Quando alguém está muito perto de outra pessoa sem querer proximidade, o corpo cria barreiras: braços, pernas e mãos tornam-se uma defesa, e a postura diz quem é, ou não é, o nosso par."
+},
+  {
+"id":"009",
+"title":"A postura como expressão da atitude",
+"text":[
+"A postura não é somente uma chave sobre o caráter, é também uma expressão da atitude. Com efeito, muitos dos estudos psicológicos que se tem feito sobre a postura, a analisam segundo o que revela a respeito dos sentimentos de um indivíduo com respeito às pessoas que o rodeiam.",
+"Um investigador observou que quando um homem se inclina levemente para frente, com as costas um pouco encurvadas, provavelmente simpatiza com a pessoa que está com ele.",
+"A postura é, como já dissemos, o elemento mais fácil de observar e de interpretar de todo o comportamento não verbal. De certo modo, é preocupante saber que alguns movimentos corporais que tínhamos por arbitrários são tão circunscritos, previsíveis e, às vezes, reveladores; mas por outra parte, é muito agradável saber que todo nosso corpo responde continuamente ao desenvolvimento de qualquer encontro humano."
+],
+"glossary":[
+{"t":"Caráter","d":"o conjunto de qualidades que formam a personalidade de alguém."},
+{"t":"Atitude","d":"a disposição ou o modo de sentir em relação a algo ou alguém."},
+{"t":"Encurvadas","d":"curvadas, inclinadas."},
+{"t":"Simpatizar","d":"sentir agrado por alguém."},
+{"t":"Arbitrários","d":"feitos ao acaso, sem regra nem razão."},
+{"t":"Circunscritos","d":"limitados, contidos dentro de certos limites."},
+{"t":"Previsíveis","d":"que se podem adivinhar de antemão."}
+],
+"questions":[
+{"q":"Segundo o texto, a postura é:","options":["Somente uma chave sobre o caráter","Uma chave sobre o caráter e também uma expressão da atitude","Apenas um hábito sem significado","Um sinal que só aparece com a idade"],"answer":1,"why":"O texto diz que a postura não é somente uma chave sobre o caráter, é também uma expressão da atitude."},
+{"q":"O que observou o investigador sobre o homem que se inclina levemente para a frente, com as costas um pouco encurvadas?","options":["Que está com sono","Que está zangado","Que quer sair dali","Que provavelmente simpatiza com a pessoa que está com ele"],"answer":3,"why":"O investigador observou que esse homem provavelmente simpatiza com a pessoa que está com ele."},
+{"q":"Na frase 'movimentos corporais que tínhamos por arbitrários', a palavra 'arbitrários' quer dizer:","options":["Feitos ao acaso, sem regra","Cuidadosamente planeados","Repetidos todos os dias","Proibidos em público"],"answer":0,"why":"Arbitrário é o que se faz ao acaso. O autor diz que os movimentos afinal são circunscritos, previsíveis e reveladores."},
+{"q":"O que o texto considera muito agradável saber?","options":["Que o corpo esconde as emoções","Que os movimentos do corpo são imprevisíveis","Que todo o nosso corpo responde continuamente ao desenvolvimento de qualquer encontro humano","Que a postura não tem importância"],"answer":2,"why":"O texto diz ser muito agradável saber que todo o corpo responde continuamente ao desenvolvimento de qualquer encontro humano."},
+{"q":"Numa entrevista, o candidato inclina-se levemente para a frente enquanto o entrevistador fala. O que isto sugere, segundo a ideia do texto?","options":["Que está aborrecido","Que provavelmente simpatiza com o entrevistador","Que está hostil","Que quer terminar a conversa"],"answer":1,"why":"Segundo o investigador, inclinar-se levemente para a frente sugere simpatia pela pessoa com quem se está."}
+],
+"summary":"A postura revela a atitude e os sentimentos de uma pessoa em relação aos outros, e o nosso corpo responde a cada momento do encontro com outra pessoa."
 }
 ]
 }
