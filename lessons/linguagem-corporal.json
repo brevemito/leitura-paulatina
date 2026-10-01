@@ -224,6 +224,28 @@
 {"q":"Numa entrevista, o candidato inclina-se levemente para a frente enquanto o entrevistador fala. O que isto sugere, segundo a ideia do texto?","options":["Que está aborrecido","Que provavelmente simpatiza com o entrevistador","Que está hostil","Que quer terminar a conversa"],"answer":1,"why":"Segundo o investigador, inclinar-se levemente para a frente sugere simpatia pela pessoa com quem se está."}
 ],
 "summary":"A postura revela a atitude e os sentimentos de uma pessoa em relação aos outros, e o nosso corpo responde a cada momento do encontro com outra pessoa."
+},
+  {
+"id":"010",
+"title":"A postura nas vendas",
+"text":[
+"Por exemplo, os vendedores, em casas de casais casados devem observar os gestos dos cônjuges para ver quem os inicia e quem os copia. Se o marido for o que mantém a conversação e a mulher não diz nada, mas você observa que ele copia os gestos da mulher, descobrirá que é ela quem decide e assina os cheques, assim, convém ao vendedor dirigir sua conversa à senhora."
+],
+"glossary":[
+{"t":"Cônjuges","d":"o marido e a mulher, os dois membros de um casal."},
+{"t":"Conversação","d":"a conversa entre pessoas."},
+{"t":"Iniciar","d":"começar, ser o primeiro a fazer algo."},
+{"t":"Copiar","d":"imitar, repetir o que o outro faz."},
+{"t":"Convém","d":"é vantajoso, é adequado."}
+],
+"questions":[
+{"q":"Segundo o texto, o que devem observar os vendedores nas casas de casais?","options":["O mobiliário da casa","Os gestos dos cônjuges, para ver quem os inicia e quem os copia","Apenas as palavras do marido","A roupa dos cônjuges"],"answer":1,"why":"O texto diz que os vendedores devem observar os gestos dos cônjuges para ver quem os inicia e quem os copia."},
+{"q":"No exemplo do texto, quem mantém a conversação?","options":["A mulher","Ambos ao mesmo tempo","Nenhum dos dois","O marido"],"answer":3,"why":"O texto fala do marido como o que mantém a conversação, enquanto a mulher não diz nada."},
+{"q":"O que descobrirá o vendedor se o marido, que fala, copia os gestos da mulher, que nada diz?","options":["Que é a mulher quem decide e assina os cheques","Que a mulher não tem interesse","Que o marido está nervoso","Que o casal discorda"],"answer":0,"why":"Quem é copiado nos gestos é quem manda: o texto conclui que é a mulher quem decide e assina os cheques."},
+{"q":"Na frase 'convém ao vendedor dirigir sua conversa à senhora', a palavra 'convém' quer dizer:","options":["É proibido","É difícil","É vantajoso, é adequado","É indiferente"],"answer":2,"why":"Convir é ser vantajoso ou adequado: o vendedor ganha em falar com a pessoa que decide."},
+{"q":"Numa loja de móveis, o homem fala muito, mas é a esposa quem faz um gesto primeiro e ele a imita. O que deve fazer o vendedor, segundo a ideia do texto?","options":["Dirigir a conversa ao marido","Dirigir a conversa à esposa, que provavelmente decide","Esperar que saiam da loja","Falar só com os dois ao mesmo tempo"],"answer":1,"why":"Se o marido copia os gestos da mulher, é ela quem decide, por isso a conversa deve ser dirigida a ela."}
+],
+"summary":"Nos gestos de um casal, quem é copiado provavelmente decide a compra, e é a essa pessoa que o vendedor deve dirigir a conversa."
 }
 ]
 }
