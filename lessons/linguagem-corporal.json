@@ -76,6 +76,32 @@
 {"q":"Alguém diz 'não estou nervoso', mas treme as mãos e evita o olhar. O que isto ilustra, segundo o texto?","options":["Que não comunicou nada sobre o nervosismo","Que o corpo comunica algo, mesmo sem querer","Que a mensagem verbal anula sempre a não verbal","Que a mensagem não verbal só conta se for intencional"],"answer":1,"why":"A comunicação não verbal é inevitável e, com freqüência, tem mais significação do que as palavras."}
 ],
 "summary":"A comunicação não verbal acompanha sempre a conversa, depende dela e, com freqüência, diz mais do que as palavras."
+},
+  {
+"id":"004",
+"title":"Características gerais da comunicação não verbal (2)",
+"text":[
+"Nas mensagens não verbais, prepondera a função expressiva ou emotiva sobre a referencial.",
+"Em culturas diferentes, há sistemas não verbais diferentes.",
+"Existe uma especialização de certos comportamentos para a comunicação.",
+"O estudo em que se encontra este tipo de busca é o descritivo.",
+"O conhecimento das formas não verbais de comunicação serve para converter o encontro com outra pessoa em uma experiência interessante."
+],
+"glossary":[
+{"t":"Prepondera","d":"predomina, tem mais peso."},
+{"t":"Função expressiva ou emotiva","d":"a que exprime os sentimentos e as emoções de quem comunica."},
+{"t":"Função referencial","d":"a que informa sobre factos e sobre o assunto de que se fala."},
+{"t":"Sistemas não verbais","d":"conjuntos de sinais sem palavras, como gestos, postura e expressões."},
+{"t":"Descritivo","d":"que descreve o que se observa, sem julgar."}
+],
+"questions":[
+{"q":"Segundo o texto, qual das funções prepondera nas mensagens não verbais?","options":["Referencial","Poética","Expressiva ou emotiva","Nenhuma, porque são todas iguais"],"answer":2,"why":"O texto diz que, nas mensagens não verbais, prepondera a função expressiva ou emotiva sobre a referencial."},
+{"q":"Na frase 'prepondera a função expressiva', a palavra 'prepondera' quer dizer:","options":["Desaparece","Predomina, tem mais peso","Repete-se","Esconde-se"],"answer":1,"why":"Preponderar é predominar: a função expressiva ou emotiva pesa mais do que a referencial."},
+{"q":"O que o texto diz sobre as culturas diferentes?","options":["Usam todas os mesmos gestos","Só as ocidentais comunicam sem palavras","Nenhuma usa comunicação não verbal","Há sistemas não verbais diferentes"],"answer":3,"why":"O texto afirma que, em culturas diferentes, há sistemas não verbais diferentes."},
+{"q":"Segundo o texto, para que serve o conhecimento das formas não verbais de comunicação?","options":["Para converter o encontro com outra pessoa numa experiência interessante","Para evitar falar com os outros","Para substituir a linguagem falada","Para esconder emoções"],"answer":0,"why":"O texto diz que esse conhecimento serve para converter o encontro com outra pessoa em uma experiência interessante."},
+{"q":"Um turista faz um gesto que é amistoso no seu país, mas ofende noutro. Que ideia do texto isto ilustra?","options":["A comunicação não verbal é igual em todo o mundo","Em culturas diferentes há sistemas não verbais diferentes","Só a função referencial importa","Os gestos não têm significado"],"answer":1,"why":"Como cada cultura tem o seu sistema não verbal, o mesmo gesto pode ter sentidos diferentes."}
+],
+"summary":"As mensagens não verbais exprimem sobretudo emoções, variam de cultura para cultura e, quando as conhecemos, tornam o encontro com os outros mais interessante."
 }
 ]
 }
