@@ -126,6 +126,30 @@
 {"q":"Como o texto descreve a postura entre os sinais não verbais?","options":["A chave não verbal mais difícil de descobrir","Uma chave que só os psicanalistas conseguem ver","A chave não verbal mais fácil de descobrir","Uma chave sem importância"],"answer":2,"why":"O texto diz que a postura é a chave não verbal mais fácil de descobrir."}
 ],
 "summary":"O estudo da comunicação não verbal, que nasceu para vendedores e gestores, serve hoje a qualquer pessoa, e a postura é a pista mais fácil de observar."
+},
+  {
+"id":"006",
+"title":"Posturas congruentes",
+"text":[
+"Com surpreendente freqüência, as pessoas imitam as atitudes corporais de outras. Dois amigos se sentam exatamente da mesma maneira, a perna direita cruzada sobre a esquerda, por exemplo, e as mãos entrelaçadas atrás da cabeça; ou um deles o faz ao contrário, a perna esquerda cruzada sobre a direita, como se fosse uma imagem refletida em um espelho. Denomina-se a esse fenômeno posturas congruentes.",
+"Acredita-se que duas pessoas que compartilham um mesmo ponto de vista, acabam compartilhando também uma mesma postura.",
+"Estudar a postura das pessoas durante uma discussão é extremamente interessante, já que muitas vezes poderemos detectar quem está a favor de quem, antes de que cada um fale."
+],
+"glossary":[
+{"t":"Atitudes corporais","d":"as posições e os modos de colocar o corpo."},
+{"t":"Congruentes","d":"que coincidem, que combinam entre si."},
+{"t":"Refletida","d":"devolvida como num espelho, com o lado trocado."},
+{"t":"Compartilhar","d":"partilhar, ter em comum com outra pessoa."},
+{"t":"Detectar","d":"descobrir, perceber através de sinais."}
+],
+"questions":[
+{"q":"Segundo o texto, o que acontece com surpreendente freqüência?","options":["As pessoas evitam olhar umas para as outras","As pessoas imitam as atitudes corporais de outras","As pessoas mudam de postura a cada minuto","As pessoas copiam apenas as palavras dos outros"],"answer":1,"why":"O texto diz que, com surpreendente freqüência, as pessoas imitam as atitudes corporais de outras."},
+{"q":"Como se chama o fenómeno de duas pessoas adoptarem a mesma postura?","options":["Posturas opostas","Posturas neutras","Posturas defensivas","Posturas congruentes"],"answer":3,"why":"O texto denomina esse fenómeno posturas congruentes."},
+{"q":"O texto diz que um dos amigos pode cruzar a perna 'como se fosse uma imagem refletida em um espelho'. Isto quer dizer que:","options":["Um faz o gesto do lado contrário ao do outro, como num espelho","Os dois fazem o gesto exactamente do mesmo lado","Os dois evitam cruzar as pernas","Os dois estão em desacordo"],"answer":0,"why":"Numa imagem refletida o lado fica trocado: um cruza a perna direita sobre a esquerda e o outro faz o contrário."},
+{"q":"Segundo o texto, o que se acredita sobre duas pessoas que compartilham um mesmo ponto de vista?","options":["Falam sempre ao mesmo tempo","Evitam adoptar a mesma postura","Acabam compartilhando também uma mesma postura","Sentam-se sempre longe uma da outra"],"answer":2,"why":"O texto diz que se acredita que quem partilha um ponto de vista acaba por partilhar também a postura."},
+{"q":"Numa reunião, duas pessoas sentam-se com posturas iguais e uma terceira, de braços cruzados e corpo virado, adopta uma postura diferente. O que é razoável supor, segundo a ideia do texto?","options":["Que as duas primeiras partilham um ponto de vista que a terceira talvez não partilhe","Que a terceira é a mais interessada","Que ninguém tem opinião","Que as três concordam"],"answer":0,"why":"O texto diz que a postura permite muitas vezes detectar quem está a favor de quem, antes de cada um falar."}
+],
+"summary":"As pessoas tendem a imitar a postura umas das outras, sobretudo quando partilham o mesmo ponto de vista, e isso ajuda a perceber quem está de acordo com quem."
 }
 ]
 }
