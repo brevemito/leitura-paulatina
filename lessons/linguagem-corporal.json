@@ -174,6 +174,30 @@
 {"q":"Duas colegas conversam. Uma inclina-se para a frente e, sem dar conta, a outra inclina-se também. O que isto sugere, segundo a ideia do texto?","options":["Que há afinidade entre elas","Que discordam uma da outra","Que se acabaram de conhecer e se evitam","Que uma está a dar uma ordem à outra"],"answer":0,"why":"Imitar a postura de alguém é sinal de que coincidimos com essa pessoa ou de que ela nos agrada."}
 ],
 "summary":"Imitar a postura do outro mostra afinidade e ajuda a criar boa relação, enquanto posturas diferentes podem criar distância."
+},
+  {
+"id":"008",
+"title":"A postura como barreira",
+"text":[
+"Ao ver um casal de jovens sentados um ao lado do outro em um sofá. A garota está olhando para o moço, que está sentado olhando para fora, os braços e as pernas como formando uma barreira entre ambos e este permanece sentado assim durante oito longos minutos e só de tempos em tempos vira a cabeça para a garota para falar com ela. Ao término desse tempo entra outra jovem no local e o moço fica de pé e sai com ela; mediante sua postura tinha estabelecido que a garota que estava sentada a seu lado não era seu par.",
+"Algumas vezes, quando as pessoas se vêem forçadas a sentar-se muito juntas, inconscientemente desdobram seus braços e pernas como barreiras. Dois homens sentados muito juntos em um sofá girarão o corpo levemente e cruzarão as pernas de dentro para fora, ou porão uma mão ou um braço para proteger o lado comum do rosto.",
+"Um homem e uma mulher sentados frente a frente a uma distância muito próxima, cruzarão os braços e talvez as pernas, e se virarão para trás em seus assentos."
+],
+"glossary":[
+{"t":"Barreira","d":"algo que se coloca entre duas pessoas para as separar."},
+{"t":"Inconscientemente","d":"sem dar por isso, sem querer."},
+{"t":"Mediante","d":"por meio de."},
+{"t":"Par","d":"companheiro ou companheira, a pessoa com quem se está."},
+{"t":"Desdobrar","d":"abrir, estender o que estava dobrado."}
+],
+"questions":[
+{"q":"Durante quanto tempo o moço permaneceu sentado a olhar para fora, com os braços e as pernas a formar uma barreira?","options":["Dois minutos","Cinco minutos","Oito longos minutos","Meia hora"],"answer":2,"why":"O texto diz que o moço permaneceu assim durante oito longos minutos."},
+{"q":"O que fez o moço quando entrou outra jovem no local?","options":["Continuou sentado","Ficou de pé e saiu com ela","Pediu à garota que saísse","Cruzou ainda mais os braços"],"answer":1,"why":"O texto diz que o moço ficou de pé e saiu com a outra jovem."},
+{"q":"O que o moço estabeleceu, mediante a sua postura?","options":["Que a garota sentada a seu lado não era o seu par","Que estava com frio","Que estava com sono","Que queria conversar mais"],"answer":0,"why":"Mediante a postura, o moço mostrou que a garota sentada a seu lado não era o seu par."},
+{"q":"Segundo o texto, o que fazem inconscientemente as pessoas forçadas a sentar-se muito juntas?","options":["Aproximam ainda mais os corpos","Imitam a postura uma da outra","Começam a conversar animadamente","Desdobram braços e pernas como barreiras"],"answer":3,"why":"O texto diz que, forçadas a sentar-se muito juntas, as pessoas desdobram inconscientemente braços e pernas como barreiras."},
+{"q":"Num autocarro cheio, um passageiro põe uma mão junto ao rosto e vira levemente o corpo, do lado de quem está sentado ao lado. O que isto sugere, segundo a ideia do texto?","options":["Que está a mostrar interesse pelo vizinho","Que está a imitar o vizinho","Que está a criar uma barreira, sem dar por isso, por falta de espaço pessoal","Que está a dar uma ordem ao vizinho"],"answer":2,"why":"Quando somos forçados a ficar muito juntos de alguém, criamos barreiras inconscientemente, por exemplo com a mão junto ao rosto."}
+],
+"summary":"Quando alguém está muito perto de outra pessoa sem querer proximidade, o corpo cria barreiras: braços, pernas e mãos tornam-se uma defesa, e a postura diz quem é, ou não é, o nosso par."
 }
 ]
 }
