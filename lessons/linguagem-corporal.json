@@ -53,6 +53,29 @@
 {"q":"Duas pessoas dizem a mesma frase, 'Está bem'. Uma diz com voz firme e sorriso; a outra, com voz baixa e olhar desviado. O que isto ilustra?","options":["Que as palavras são sempre suficientes","Que o tom da voz não comunica nada","Que o tom da voz e o corpo acrescentam mensagens além das palavras","Que só o vocabulário conta"],"answer":2,"why":"Recebemos muitas mensagens que não vêm em palavras, como o tom da voz e os movimentos do corpo."}
 ],
 "summary":"Além das palavras, comunicamos por muitos sinais não verbais, como o corpo, a voz, as roupas e o uso do espaço e do tempo, e o seu estudo rigoroso só começou bem depois da Segunda Guerra Mundial."
+},
+  {
+"id":"003",
+"title":"Características gerais da comunicação não verbal (1)",
+"text":[
+"A comunicação não verbal, geralmente, mantém uma relação de interdependência com a interação verbal.",
+"Com freqüência as mensagens não verbais têm mais significação que as mensagens verbais.",
+"Em qualquer situação comunicativa, a comunicação não verbal é inevitável."
+],
+"glossary":[
+{"t":"Interdependência","d":"dependência mútua: uma coisa precisa da outra."},
+{"t":"Interação verbal","d":"troca de palavras entre pessoas, a conversa."},
+{"t":"Significação","d":"significado, o sentido de algo."},
+{"t":"Inevitável","d":"que não se pode evitar."}
+],
+"questions":[
+{"q":"Segundo o texto, que tipo de relação mantém a comunicação não verbal com a interação verbal?","options":["Nenhuma relação","Uma relação de interdependência","Uma relação de oposição","Uma relação de substituição"],"answer":1,"why":"O texto diz que, geralmente, a comunicação não verbal mantém uma relação de interdependência com a interação verbal."},
+{"q":"O que o texto diz sobre a significação das mensagens não verbais, em comparação com as verbais?","options":["Têm sempre menos significação","Não têm significação","Têm, com freqüência, mais significação","Têm exactamente a mesma significação"],"answer":2,"why":"O texto afirma que, com freqüência, as mensagens não verbais têm mais significação que as verbais."},
+{"q":"Na frase 'a comunicação não verbal é inevitável', a palavra 'inevitável' quer dizer:","options":["Que não se pode evitar","Que se pode evitar quando se quer","Que acontece raramente","Que só acontece em reuniões"],"answer":0,"why":"Inevitável é aquilo que não se pode evitar: mesmo em silêncio, o corpo comunica."},
+{"q":"Segundo o texto, em que situações a comunicação não verbal está presente?","options":["Só quando as pessoas falam","Só nas conversas formais","Só quando há gestos exagerados","Em qualquer situação comunicativa"],"answer":3,"why":"O texto diz que, em qualquer situação comunicativa, a comunicação não verbal é inevitável."},
+{"q":"Alguém diz 'não estou nervoso', mas treme as mãos e evita o olhar. O que isto ilustra, segundo o texto?","options":["Que não comunicou nada sobre o nervosismo","Que o corpo comunica algo, mesmo sem querer","Que a mensagem verbal anula sempre a não verbal","Que a mensagem não verbal só conta se for intencional"],"answer":1,"why":"A comunicação não verbal é inevitável e, com freqüência, tem mais significação do que as palavras."}
+],
+"summary":"A comunicação não verbal acompanha sempre a conversa, depende dela e, com freqüência, diz mais do que as palavras."
 }
 ]
 }
