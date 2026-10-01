@@ -3,90 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Leitura Paulatina</title>
-<style>
-:root{--bg:#fbfaf7;--fg:#222;--mu:#666;--ac:#8a3b12;--bd:#ddd;--cd:#fff}
-@media (prefers-color-scheme:dark){:root{--bg:#1c1b19;--fg:#eee;--mu:#aaa;--ac:#e8a070;--bd:#444;--cd:#26241f}}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.7 Georgia,serif}
-main{max-width:720px;margin:0 auto;padding:16px}
-header{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;color:var(--mu);font:14px sans-serif}
-nav{display:flex;gap:8px;margin:14px 0;flex-wrap:wrap}
-select,button,textarea{font:16px sans-serif;border:1px solid var(--bd);background:var(--cd);color:var(--fg);border-radius:6px;padding:8px}
-button{cursor:pointer;background:var(--ac);color:var(--bg);border:0}
-textarea{width:100%;box-sizing:border-box;min-height:80px}
-.tx{background:var(--cd);border-left:4px solid var(--ac);padding:4px 16px}
-h1{font-size:1.4em}
-h2{color:var(--ac);font-size:1.05em;margin-top:28px}
-</style>
+<title>Leitura Paulatina | Brevemito</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<main>
-<header><span>Leitura Paulatina</span><span id="tm"></span></header>
-<nav><select id="lb"></select><select id="lt"></select></nav>
-<div id="c">A carregar...</div>
-</main>
-<script>
-var S=window.localStorage,cat=null;
-function $(i){return document.getElementById(i)}
-function g(k,d){try{var v=S.getItem(k);return v?JSON.parse(v):d}catch(e){return d}}
-function s(k,v){try{S.setItem(k,JSON.stringify(v))}catch(e){}}
-function esc(t){return t.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
-function bold(x){return x.replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>")}
-function md(t){
-  return esc(t).trim().split(/\n\s*\n/).map(function(b){
-    var L=b.split("\n");
-    if(/^- /.test(L[0]))return "<ul>"+L.map(function(x){return "<li>"+bold(x.replace(/^- /,""))+"</li>"}).join("")+"</ul>";
-    if(/^\d+\. /.test(L[0]))return "<ol>"+L.map(function(x){return "<li>"+bold(x.replace(/^\d+\. /,""))+"</li>"}).join("")+"</ol>";
-    return "<p>"+bold(L.join(" "))+"</p>";
-  }).join("");
-}
-function parse(t){
-  var o={},p=t.split(/^## /m);
-  o.titulo=(p[0].match(/^# (.+)$/m)||[0,""])[1];
-  for(var i=1;i<p.length;i++){var n=p[i].indexOf("\n");o[p[i].slice(0,n).trim()]=p[i].slice(n+1)}
-  return o;
-}
-function qs(sec,txt,id){
-  return txt.split("\n").filter(function(x){return /^\d+\. /.test(x)}).map(function(x,i){
-    var k="r:"+id+":"+sec+":"+i;
-    return "<p>"+esc(x.replace(/^\d+\. /,""))+"</p><textarea data-k=\""+k+"\" placeholder=\"A tua resposta\">"+esc(g(k,""))+"</textarea>";
-  }).join("");
-}
-function show(b,f){
-  var id=b+"/"+f;
-  fetch("livros/"+b+"/"+f+".md").then(function(r){if(!r.ok)throw 0;return r.text()}).then(function(t){
-    var o=parse(t);
-    $("c").innerHTML="<h1>"+esc(o.titulo)+"</h1>"+
-      "<h2>Texto original</h2><div class=\"tx\">"+md(o["Texto original"]||"")+"</div>"+
-      "<h2>Vocabulário</h2>"+md(o["Vocabulário"]||"")+
-      "<h2>Compreensão</h2>"+qs("c",o["Perguntas de compreensão"]||"",id)+
-      "<h2>Interpretação</h2>"+qs("i",o["Perguntas de interpretação"]||"",id)+
-      "<h2>Autoavaliação</h2><button id=\"bk\">Mostrar / esconder chaves</button><div id=\"kk\" hidden>"+md(o["Chaves de autoavaliação"]||"")+"</div>"+
-      "<h2>Resumo</h2>"+md(o["Resumo em uma frase"]||"")+
-      "<nav><button id=\"bd\">Marcar como concluído</button></nav>";
-    Array.prototype.forEach.call(document.querySelectorAll("textarea"),function(a){a.oninput=function(){s(a.dataset.k,a.value)}});
-    $("bk").onclick=function(){$("kk").hidden=!$("kk").hidden};
-    if(g("done",{})[id])$("bd").textContent="Concluído ✓";
-    $("bd").onclick=function(){var d=g("done",{});d[id]=1;s("done",d);$("bd").textContent="Concluído ✓"};
-  }).catch(function(){$("c").innerHTML="<p>Trecho não encontrado.</p>"});
-}
-function fillT(){
-  var b=cat.livros[$("lb").selectedIndex],d=g("done",{});
-  $("lt").innerHTML=b.trechos.map(function(t){return "<option value=\""+t.id+"\">"+(d[b.id+"/"+t.id]?"✓ ":"")+t.id+" "+esc(t.titulo)+"</option>"}).join("");
-  var f=b.trechos.filter(function(t){return !d[b.id+"/"+t.id]})[0]||b.trechos[0];
-  $("lt").value=f.id;show(b.id,f.id);
-}
-function td(){return "t:"+new Date().toISOString().slice(0,10)}
-function up(){$("tm").textContent="Hoje: "+Math.floor(g(td(),0)/60)+" min de leitura"}
-setInterval(function(){if(!document.hidden){s(td(),g(td(),0)+10);up()}},10000);
-up();
-fetch("livros/catalogo.json").then(function(r){return r.json()}).then(function(c){
-  cat=c;
-  $("lb").innerHTML=c.livros.map(function(b){return "<option>"+esc(b.titulo)+"</option>"}).join("");
-  $("lb").onchange=fillT;
-  $("lt").onchange=function(){show(cat.livros[$("lb").selectedIndex].id,$("lt").value)};
-  fillT();
-}).catch(function(){$("c").innerHTML="<p>Não foi possível carregar o catálogo.</p>"});
-</script>
+<header>
+<h1>Leitura Paulatina</h1>
+<div id="st"></div>
+</header>
+<main id="v">A carregar...</main>
+<script src="app.js"></script>
 </body>
 </html>
