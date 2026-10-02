@@ -5,6 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Leitura Paulatina | Brevemito</title>
 <link rel="stylesheet" href="style.css">
+<style>
+.ad-wrap{padding:0 16px}
+.bm-aviso{max-width:900px;margin:0 auto 2rem;font:12px/1.5 sans-serif;color:var(--mu);text-align:center}
+.bm-chess-ad header.bm-chess-ad-brand{max-width:none;margin:0 0 1.4rem;padding:0}
+.bm-chess-ad h3.bm-chess-ad-title{color:#ffffff}
+</style>
 </head>
 <body>
 <header>
@@ -12,6 +18,324 @@
 <div id="st"></div>
 </header>
 <main id="v">A carregar...</main>
+
+<div class="ad-wrap">
+<aside class="bm-chess-ad" aria-label="Publicidade: Chess.com Premium">
+
+  <style>
+    .bm-chess-ad {
+      --chess-verde: #81b64c;
+      --chess-verde-escuro: #5d8a34;
+      --chess-verde-claro: #a3d160;
+      --chess-preto: #1e1e1e;
+      --bm-vermelho: #c8000a;
+      --bm-ocre: #c8892b;
+      --bm-terracota: #b4552f;
+      --bm-verde-azulado: #2f7d6e;
+      --bm-cinza-medio: #6b6b6b;
+    }
+
+    /* ---------- Cartão ---------- */
+    .bm-chess-ad {
+      position: relative;
+      max-width: 900px;
+      margin: 2.5rem auto;
+      padding: 2.25rem 2.25rem 2rem;
+      background: var(--chess-preto);
+      border-radius: 14px;
+      overflow: hidden;
+      font-family: Georgia, "Times New Roman", serif;
+      color: #ffffff;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+    }
+
+    /* Faixa fina com as cores do Brevemito, a assinar o conteúdo como do site */
+    .bm-chess-ad::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: linear-gradient(
+        90deg,
+        var(--bm-vermelho) 0%,
+        var(--bm-ocre) 33%,
+        var(--bm-terracota) 66%,
+        var(--bm-verde-azulado) 100%
+      );
+    }
+
+    /* Textura de tabuleiro muito subtil no fundo, para reforçar o tema xadrez */
+    .bm-chess-ad::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(45deg, rgba(129,182,76,0.06) 25%, transparent 25%),
+        linear-gradient(-45deg, rgba(129,182,76,0.06) 25%, transparent 25%);
+      background-size: 48px 48px;
+      pointer-events: none;
+    }
+
+    .bm-chess-ad-tag {
+      position: absolute;
+      top: 14px;
+      right: 18px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.62rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.45);
+      z-index: 2;
+    }
+
+    /* ---------- Cabeçalho com marca Chess.com ---------- */
+    .bm-chess-ad-brand {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      margin-bottom: 1.4rem;
+    }
+
+    .bm-chess-ad-logo {
+      flex: 0 0 auto;
+      width: 40px;
+      height: 40px;
+      border-radius: 8px;
+      background: var(--chess-verde);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .bm-chess-ad-logo svg {
+      width: 24px;
+      height: 24px;
+    }
+
+    .bm-chess-ad-wordmark {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1.3rem;
+      font-weight: 800;
+      letter-spacing: -0.01em;
+      color: #ffffff;
+    }
+
+    .bm-chess-ad-wordmark span {
+      color: var(--chess-verde);
+    }
+
+    /* ---------- Corpo ---------- */
+    .bm-chess-ad-body {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 2rem;
+    }
+
+    .bm-chess-ad-content {
+      flex: 1 1 320px;
+      min-width: 0;
+    }
+
+    .bm-chess-ad-title {
+      margin: 0 0 0.5rem 0;
+      font-size: 1.7rem;
+      line-height: 1.2;
+      font-weight: bold;
+    }
+
+    .bm-chess-ad-title .bm-chess-highlight {
+      color: var(--chess-verde-claro);
+    }
+
+    .bm-chess-ad-text {
+      margin: 0 0 1.25rem 0;
+      font-size: 1rem;
+      line-height: 1.5;
+      color: rgba(255,255,255,0.75);
+      max-width: 46ch;
+    }
+
+    .bm-chess-ad-benefits {
+      list-style: none;
+      margin: 0 0 1.5rem 0;
+      padding: 0;
+      display: grid;
+      gap: 0.5rem;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.92rem;
+    }
+
+    .bm-chess-ad-benefits li {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      color: rgba(255,255,255,0.9);
+    }
+
+    .bm-chess-ad-benefits svg {
+      flex: 0 0 auto;
+      width: 18px;
+      height: 18px;
+      color: var(--chess-verde);
+    }
+
+    .bm-chess-ad-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 800;
+      font-size: 1rem;
+      text-decoration: none;
+      color: var(--chess-preto);
+      background: var(--chess-verde);
+      padding: 0.85rem 1.7rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 0 var(--chess-verde-escuro);
+      transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+    }
+
+    .bm-chess-ad-button:hover,
+    .bm-chess-ad-button:focus {
+      background: var(--chess-verde-claro);
+      color: var(--chess-preto);
+      transform: translateY(2px);
+      box-shadow: 0 2px 0 var(--chess-verde-escuro);
+    }
+
+    .bm-chess-ad-button svg {
+      width: 18px;
+      height: 18px;
+    }
+
+    /* ---------- Selo/badge do cavalo grande, à direita ---------- */
+    .bm-chess-ad-badge {
+      flex: 0 0 auto;
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      background: radial-gradient(circle at 35% 30%, var(--chess-verde-claro), var(--chess-verde) 60%, var(--chess-verde-escuro) 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 6px 18px rgba(129,182,76,0.35);
+    }
+
+    .bm-chess-ad-badge svg {
+      width: 76px;
+      height: 76px;
+    }
+
+    /* ---------- Responsivo ---------- */
+    @media (max-width: 620px) {
+      .bm-chess-ad {
+        padding: 2rem 1.4rem 1.75rem;
+      }
+
+      .bm-chess-ad-body {
+        flex-direction: column-reverse;
+        text-align: center;
+      }
+
+      .bm-chess-ad-benefits li {
+        justify-content: center;
+      }
+
+      .bm-chess-ad-title {
+        font-size: 1.4rem;
+      }
+
+      .bm-chess-ad-badge {
+        width: 96px;
+        height: 96px;
+      }
+
+      .bm-chess-ad-badge svg {
+        width: 52px;
+        height: 52px;
+      }
+
+      .bm-chess-ad-button {
+        width: 100%;
+        justify-content: center;
+      }
+    }
+  </style>
+
+  <span class="bm-chess-ad-tag">Publicidade</span>
+
+  <header class="bm-chess-ad-brand">
+    <span class="bm-chess-ad-logo" aria-hidden="true">
+      <svg viewBox="0 0 384 512" fill="#ffffff">
+        <path d="m19 272.47 40.63 18.06a32 32 0 0024.88.47l12.78-5.12a32 32 0 0018.76-20.5l9.22-30.65a24 24 0 0112.55-15.65L159.94 208v50.33a48 48 0 01-26.53 42.94l-57.22 28.65A80 80 0 0032 401.48V416h319.86V224c0-106-85.92-192-191.92-192H12A12 12 0 000 44a16.9 16.9 0 001.79 7.58L16 80l-9 9a24 24 0 00-7 17v137.21a32 32 0 0019 29.26zM52 128a20 20 0 11-20 20 20 20 0 0120-20zm316 320H16a16 16 0 00-16 16v32a16 16 0 0016 16h352a16 16 0 0016-16v-32a16 16 0 00-16-16z"/>
+      </svg>
+    </span>
+    <span class="bm-chess-ad-wordmark">chess<span>.com</span></span>
+  </header>
+
+  <div class="bm-chess-ad-body">
+
+    <div class="bm-chess-ad-content">
+      <h3 class="bm-chess-ad-title">
+        Seja Premium.<br>
+        <span class="bm-chess-highlight">Melhore no Xadrez.</span>
+      </h3>
+      <p class="bm-chess-ad-text">
+        Junte-se a milhões de jogadores em todo o mundo e leve o seu
+        xadrez a outro nível com as ferramentas oficiais do Chess.com.
+      </p>
+      <ul class="bm-chess-ad-benefits">
+        <li>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+            <path d="M4 12l5 5L20 6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Puzzles diários ilimitados
+        </li>
+        <li>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+            <path d="M4 12l5 5L20 6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Análise das suas partidas com IA
+        </li>
+        <li>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+            <path d="M4 12l5 5L20 6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Lições guiadas para todos os níveis
+        </li>
+      </ul>
+      <a
+        class="bm-chess-ad-button"
+        href="https://www.chess.com/membership?ref_id=24845802"
+        target="_blank"
+        rel="sponsored noopener noreferrer"
+      >
+        Assinar Chess.com Premium
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <path d="M5 12h14M13 6l6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+    </div>
+
+    <div class="bm-chess-ad-badge" aria-hidden="true">
+      <svg viewBox="0 0 384 512" fill="#1e1e1e">
+        <path d="m19 272.47 40.63 18.06a32 32 0 0024.88.47l12.78-5.12a32 32 0 0018.76-20.5l9.22-30.65a24 24 0 0112.55-15.65L159.94 208v50.33a48 48 0 01-26.53 42.94l-57.22 28.65A80 80 0 0032 401.48V416h319.86V224c0-106-85.92-192-191.92-192H12A12 12 0 000 44a16.9 16.9 0 001.79 7.58L16 80l-9 9a24 24 0 00-7 17v137.21a32 32 0 0019 29.26zM52 128a20 20 0 11-20 20 20 20 0 0120-20zm316 320H16a16 16 0 00-16 16v32a16 16 0 0016 16h352a16 16 0 0016-16v-32a16 16 0 00-16-16z"/>
+      </svg>
+    </div>
+
+  </div>
+
+</aside>
+<p class="bm-aviso">Publicidade: ligação de afiliado. O Brevemito pode receber uma comissão se subscreveres, sem custo adicional para ti.</p>
+</div>
+
 <script src="app.js"></script>
 </body>
 </html>
