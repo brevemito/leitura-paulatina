@@ -448,6 +448,32 @@
 {"q":"Numa reunião, uma pessoa fica quieta a ouvir, mas, quando se mexe, move o corpo todo na direcção de quem fala. Segundo o texto, ela parece:","options":["Distraída","Nervosa","Estar a prestar muita atenção","Sem interesse"],"answer":2,"why":"O texto diz que quem está quieto a escutar, mas se move com todo o corpo, parece estar a prestar muita atenção."}
 ],
 "summary":"O que revela a participação de alguém é a proporção entre os gestos e a postura: movimentos que envolvem todo o corpo convencem mais do que gestos isolados ou um movimento constante."
+},
+  {
+"id":"019",
+"title":"Movimentos corporais: atitudes persistentes e o problema da centopéia",
+"text":[
+"As atitudes corporais refletem as atitudes e orientações persistentes no indivíduo. Uma pessoa pode estar imóvel ou sentada para a frente de maneira ativa, ou afundada em si mesma, e assim sucessivamente. Estas posições ou posturas, e suas variações ou a falta delas, representam a forma com que alguém se relaciona e orienta com as outras.",
+"Há uma maneira de aprender a controlar a qualidade do movimento?",
+"\"Seria como o problema da centopéia. Se alguma vez começasse a pensar qual pata deve mover primeiro, ficaria totalmente paralisada\"."
+],
+"glossary":[
+{"t":"Persistentes","d":"que duram, que não desaparecem com facilidade."},
+{"t":"Orientações","d":"a direcção ou o modo como alguém se posiciona perante os outros."},
+{"t":"Imóvel","d":"parado, sem se mover."},
+{"t":"Afundada em si mesma","d":"encolhida, fechada, com o corpo descaído."},
+{"t":"Variações","d":"mudanças, alterações."},
+{"t":"Centopéia","d":"animal pequeno, de corpo comprido e muitas patas."},
+{"t":"Paralisada","d":"sem conseguir mover-se."}
+],
+"questions":[
+{"q":"Segundo o texto, o que refletem as atitudes corporais?","options":["Apenas o humor do momento","Atitudes e orientações persistentes no indivíduo","A idade da pessoa","O clima do dia"],"answer":1,"why":"O texto diz que as atitudes corporais refletem as atitudes e orientações persistentes no indivíduo."},
+{"q":"O que representam as posturas, as suas variações ou a falta delas?","options":["A forma como alguém se relaciona e se orienta com as outras pessoas","O cansaço físico","O gosto pela roupa","A cultura do país"],"answer":0,"why":"O texto diz que as posições ou posturas representam a forma com que alguém se relaciona e orienta com as outras pessoas."},
+{"q":"Que pergunta faz o autor no final do trecho?","options":["Porque cruzamos os braços?","Quantos gestos existem?","Os gestos são iguais em todas as culturas?","Se há uma maneira de aprender a controlar a qualidade do movimento"],"answer":3,"why":"O texto pergunta: há uma maneira de aprender a controlar a qualidade do movimento?"},
+{"q":"No exemplo da centopéia, o que aconteceria se ela começasse a pensar qual pata deve mover primeiro?","options":["Andaria mais depressa","Ficaria totalmente paralisada","Mudaria de direcção","Adormeceria"],"answer":1,"why":"O texto diz que, se alguma vez começasse a pensar qual pata deve mover primeiro, a centopéia ficaria totalmente paralisada."},
+{"q":"Alguém tenta controlar cada gesto numa apresentação e acaba rígido e desajeitado. Que ideia do texto isto ilustra?","options":["Que os gestos não se podem aprender","Que o corpo não comunica","Que pensar demasiado em cada movimento pode atrapalhar, como na centopéia","Que só as mãos contam"],"answer":2,"why":"Tal como a centopéia fica paralisada se pensar em cada pata, pensar demasiado em cada movimento pode tornar-nos rígidos."}
+],
+"summary":"A postura revela atitudes persistentes e a forma como nos relacionamos com os outros, e tentar controlar conscientemente cada movimento pode ser tão difícil como a centopéia pensar em cada pata."
 }
 ]
 }
