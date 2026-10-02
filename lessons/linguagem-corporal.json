@@ -641,6 +641,114 @@
 {"q":"Ao ver alguém a contar uma história, repara que as mãos e a cabeça se movem ao ritmo da fala. Segundo o texto, isto é:","options":["Anormal","Normal: os movimentos do corpo coincidem com o compasso do discurso","Um sinal de mentira","Um sinal de doença"],"answer":1,"why":"O texto diz que, cada vez que uma pessoa fala, os movimentos do corpo coincidem com o compasso do seu discurso."}
 ],
 "summary":"Quando falamos, o corpo acompanha o ritmo da fala, com mãos, cabeça e outros movimentos, e esse ritmo só se altera em casos de doença ou perturbação cerebral."
+},
+  {
+"id":"027",
+"title":"O espaço pessoal: as distâncias zonais",
+"text":[
+"O raio ao redor do indivíduo branco de classe média que vive na Austrália, Nova Zelândia, Inglaterra ou América do Norte pode dividir-se em quatro distâncias zonais bem claras:",
+"Zona íntima (de 15 a 45 cm) É a mais importante e é a que a pessoa cuida como sua propriedade. Só se permite a entrada aos que estão muito perto emocionalmente da pessoa, como o amante, pais, filhos, amigos íntimos e parentes.",
+"Zona pessoal (entre 46cm e 1,22 metros): é a distância que separa as pessoas em uma reunião social, ou de escritório, e nas festas.",
+"Zona social (entre 1,22 e 3,6 metros): essa é a distância que nos separa dos estranhos, do encanador, de quem faz reparos na casa, dos fornecedores, das pessoas que não conhecemos bem.",
+"Zona pública (a mais de 3,6 metros): é a distância cômoda para nos dirigir a um grupo de pessoas."
+],
+"glossary":[
+{"t":"Raio","d":"a distância medida a partir de um ponto central, em todas as direcções."},
+{"t":"Zonais","d":"relativas a zonas, a áreas bem definidas."},
+{"t":"Íntima","d":"muito pessoal, reservada a quem está muito próximo."},
+{"t":"Encanador","d":"canalizador, profissional que repara canos e torneiras."},
+{"t":"Fornecedores","d":"pessoas ou empresas que fornecem produtos ou serviços."},
+{"t":"Cômoda","d":"confortável, adequada."}
+],
+"questions":[
+{"q":"Quantas distâncias zonais bem claras o texto apresenta?","options":["Três","Quatro","Cinco","Seis"],"answer":1,"why":"O texto diz que o raio ao redor do indivíduo pode dividir-se em quatro distâncias zonais bem claras."},
+{"q":"Qual é a distância da zona íntima, segundo o texto?","options":["De 15 a 45 cm","Entre 46 cm e 1,22 m","Entre 1,22 e 3,6 m","Mais de 3,6 m"],"answer":0,"why":"O texto situa a zona íntima entre 15 e 45 cm."},
+{"q":"Quem pode entrar na zona íntima?","options":["Qualquer pessoa","Estranhos e fornecedores","Apenas colegas de trabalho","Os que estão muito perto emocionalmente, como pais, filhos e amigos íntimos"],"answer":3,"why":"O texto diz que só se permite a entrada aos que estão muito perto emocionalmente da pessoa."},
+{"q":"Em que zona nos separa o encanador, segundo o texto?","options":["Íntima","Pessoal","Social","Pública"],"answer":2,"why":"O texto diz que a zona social (entre 1,22 e 3,6 metros) nos separa dos estranhos, do encanador e dos fornecedores."},
+{"q":"Numa festa, duas pessoas conversam a cerca de 80 cm uma da outra. Em que zona estão?","options":["Íntima","Pessoal","Social","Pública"],"answer":1,"why":"A zona pessoal vai de 46 cm a 1,22 metros e é a distância das reuniões sociais e das festas."}
+],
+"summary":"À volta de cada pessoa há quatro zonas: íntima, pessoal, social e pública, e cada uma corresponde a um tipo de relação."
+},
+{
+"id":"028",
+"title":"O espaço pessoal: a intromissão e as regras não escritas",
+"text":[
+"Embora toleremos intrusos na zona pessoal e social, a intromissão de um estranho na zona íntima ocasiona mudanças fisiológicas em nossos corpos. Por isso rodear com o braço os ombros de alguém que se acaba de conhecer, embora seja de maneira muito amistosa, pode fazer que a pessoa tome uma atitude negativa em relação a você.",
+"A aglomeração nos concertos, elevadores, ônibus, ocasiona a intromissão inevitável nas zonas íntimas de outras pessoas. Há uma série de regras não escritas que os ocidentais respeitam fielmente quando se encontram nestas situações, como por ex.:",
+"Não é correto falar com ninguém, nem sequer com alguém conhecido.",
+"Deve-se evitar encarar as pessoas.",
+"Deve-se manter \"cara de paisagem\", totalmente inexpressiva.",
+"Se carregar um livro ou um jornal, simulará estar lendo.",
+"Quanto mais pessoas houver no lugar, menos movimentos deve efetuar.",
+"Nos elevadores se deve ficar olhando o painel indicador dos andares."
+],
+"glossary":[
+{"t":"Intrusos","d":"pessoas que entram onde não são chamadas."},
+{"t":"Intromissão","d":"entrada num espaço que é de outra pessoa."},
+{"t":"Fisiológicas","d":"relativas ao funcionamento do corpo."},
+{"t":"Amistosa","d":"de amigo, cordial."},
+{"t":"Aglomeração","d":"grande concentração de pessoas no mesmo lugar."},
+{"t":"Encarar","d":"olhar de frente, directamente."},
+{"t":"Simular","d":"fingir, dar a entender o que não é verdade."}
+],
+"questions":[
+{"q":"O que ocasiona a intromissão de um estranho na zona íntima?","options":["Mudanças fisiológicas nos nossos corpos","Alegria","Indiferença","Nada de especial"],"answer":0,"why":"O texto diz que a intromissão de um estranho na zona íntima ocasiona mudanças fisiológicas em nossos corpos."},
+{"q":"Porque pode ser má ideia rodear com o braço os ombros de alguém que se acabou de conhecer?","options":["Porque faz a pessoa sorrir","Porque mostra respeito","Porque pode fazer a pessoa tomar uma atitude negativa em relação a nós","Porque não tem qualquer efeito"],"answer":2,"why":"O texto diz que, mesmo de forma amistosa, isso pode fazer a pessoa tomar uma atitude negativa em relação a nós."},
+{"q":"Segundo o texto, onde a intromissão nas zonas íntimas dos outros se torna inevitável?","options":["Em casa","Em concertos, elevadores e autocarros cheios","Num escritório vazio","Num parque deserto"],"answer":1,"why":"O texto refere a aglomeração em concertos, elevadores e ônibus como causa de intromissão inevitável."},
+{"q":"Qual destas é uma das regras não escritas dos ocidentais em lugares cheios?","options":["Falar alto com os conhecidos","Encarar as outras pessoas","Fazer muitos movimentos","Manter 'cara de paisagem', totalmente inexpressiva"],"answer":3,"why":"O texto indica que se deve manter 'cara de paisagem', totalmente inexpressiva."},
+{"q":"Num elevador cheio, a maioria das pessoas fica a olhar para o painel dos andares. Segundo o texto, isto é:","options":["Uma regra não escrita que os ocidentais respeitam perante a intromissão inevitável","Sinal de que estão todos com pressa","Um gesto de hostilidade","Sinal de que todos se conhecem"],"answer":0,"why":"O texto diz que, nos elevadores, se deve ficar a olhar o painel indicador dos andares, como regra não escrita."}
+],
+"summary":"Um estranho na zona íntima provoca reacções do corpo; por isso, em lugares cheios, seguimos regras não escritas: não falar, não encarar e mexer-nos pouco."
+},
+{
+"id":"029",
+"title":"O espaço pessoal: os rituais do uso do espaço",
+"text":[
+"Quando uma pessoa procura espaço entre estranhos o faz sempre procurando o maior espaço disponível entre dois espaços ocupados e reclamar a zona do centro. No cinema, escolherá um assento que esteja na metade do caminho entre a extremidade da fila e o da pessoa que esteja sentada. O propósito deste ritual é não incomodar as outras pessoas aproximando-se ou afastando-se demais delas.",
+"A distância normal para observar entre habitantes urbanos.",
+"A atitude negativa de uma mulher sobre cujo território um homem tenha avançado: anda para atrás para manter uma distancia confortável."
+],
+"glossary":[
+{"t":"Reclamar","d":"pedir para si, tomar como seu."},
+{"t":"Ritual","d":"conjunto de acções repetidas de forma habitual."},
+{"t":"Extremidade","d":"ponta, fim de algo."},
+{"t":"Fila","d":"linha de assentos ou de pessoas, uma atrás da outra ou lado a lado."},
+{"t":"Território","d":"espaço que uma pessoa sente como seu."},
+{"t":"Urbanos","d":"da cidade."}
+],
+"questions":[
+{"q":"Quando procura espaço entre estranhos, o que procura uma pessoa?","options":["O menor espaço disponível","O maior espaço disponível entre dois espaços ocupados","Sempre a extremidade","Ficar encostada a alguém"],"answer":1,"why":"O texto diz que a pessoa procura o maior espaço disponível entre dois espaços ocupados e reclama a zona do centro."},
+{"q":"No cinema, que assento escolherá a pessoa?","options":["Um encostado à pessoa sentada","Sempre o primeiro da fila","O mais afastado da sala","Um assento a meio caminho entre a extremidade da fila e a pessoa sentada"],"answer":3,"why":"O texto diz que escolherá um assento na metade do caminho entre a extremidade da fila e a pessoa que está sentada."},
+{"q":"Qual é o propósito deste ritual, segundo o texto?","options":["Mostrar autoridade","Chamar a atenção","Não incomodar as outras pessoas, aproximando-se ou afastando-se demais","Ficar o mais perto possível dos outros"],"answer":2,"why":"O texto diz que o propósito do ritual é não incomodar as outras pessoas aproximando-se ou afastando-se demais delas."},
+{"q":"O que faz a mulher sobre cujo território um homem avançou, segundo a legenda?","options":["Anda para trás para manter uma distância confortável","Avança também","Cumprimenta-o","Fica parada e sorri"],"answer":0,"why":"A legenda diz que ela anda para trás para manter uma distância confortável."},
+{"q":"Numa paragem, dois desconhecidos estão sentados nas pontas de um banco comprido e chega uma terceira pessoa. Segundo a ideia do texto, onde tende a sentar-se?","options":["Encostada a um deles","Mais ou menos a meio, entre os dois","Fora do banco","Na ponta, junto a um deles"],"answer":1,"why":"O texto diz que se procura o maior espaço disponível entre dois espaços ocupados e se reclama a zona do centro."}
+],
+"summary":"Entre estranhos escolhemos o lugar mais afastado de todos, normalmente no centro, para não incomodar ninguém; quem vê o seu território invadido afasta-se."
+},
+{
+"id":"030",
+"title":"O espaço pessoal: zonas urbanas e rurais",
+"text":[
+"Os que cresceram em zonas rurais pouco povoadas precisam de mais espaço que os que cresceram em lugares densamente povoados. Observar o quanto alguém estende o braço para dar a mão dá a chave para saber se foi criada na cidade ou no campo. O habitante da cidade tem sua área privativa de 46 cm, e até essa distância estende o braço para saudar.",
+"A pessoa criada no campo pode ter seu espaço pessoal de 1 metro ou mais e até essa distância estenderá a mão.",
+"Dois homens da cidade dando as mãos.",
+"Dois homens do campo se cumprimentando."
+],
+"glossary":[
+{"t":"Rurais","d":"do campo, fora das cidades."},
+{"t":"Densamente","d":"com muita concentração, muito cheio."},
+{"t":"Privativa","d":"reservada a uma só pessoa, que é só sua."},
+{"t":"Saudar","d":"cumprimentar."},
+{"t":"Estender","d":"esticar, levar para a frente."}
+],
+"questions":[
+{"q":"Segundo o texto, quem precisa de mais espaço?","options":["Os criados em lugares densamente povoados","Os criados em zonas rurais pouco povoadas","Todos precisam do mesmo","Só os idosos"],"answer":1,"why":"O texto diz que os criados em zonas rurais pouco povoadas precisam de mais espaço do que os criados em lugares densamente povoados."},
+{"q":"O que dá a chave para saber se alguém foi criado na cidade ou no campo?","options":["A roupa que usa","O sotaque","O quanto estende o braço para dar a mão","A profissão"],"answer":2,"why":"O texto diz que observar o quanto alguém estende o braço para dar a mão dá a chave."},
+{"q":"Qual é a área privativa do habitante da cidade, segundo o texto?","options":["46 cm","15 cm","1 metro","3,6 metros"],"answer":0,"why":"O texto diz que o habitante da cidade tem a sua área privativa de 46 cm."},
+{"q":"Qual pode ser o espaço pessoal de quem foi criado no campo?","options":["Cerca de 20 cm","Menos de 46 cm","Exactamente 46 cm","1 metro ou mais"],"answer":3,"why":"O texto diz que a pessoa criada no campo pode ter o seu espaço pessoal de 1 metro ou mais."},
+{"q":"Ao cumprimentar-te, um homem estende o braço até quase 1 metro de distância. Segundo a ideia do texto, é provável que tenha sido criado:","options":["Na cidade","No campo","Num país estrangeiro","Numa fábrica"],"answer":1,"why":"Quem foi criado no campo tem um espaço pessoal maior e estende a mão até essa distância."}
+],
+"summary":"Quem cresce no campo precisa de mais espaço pessoal do que quem cresce na cidade, e isso nota-se até na distância a que estende a mão para cumprimentar."
 }
 ]
 }
