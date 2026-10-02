@@ -400,6 +400,30 @@
 {"q":"Uma pessoa atravessa a sala devagar, com passos regulares e sem pressa. Segundo o texto, pode parecer:","options":["Impaciente","Agressiva","Insegura","Paciente e perseverante"],"answer":3,"why":"O texto diz que quem caminha mais lentamente, de maneira mais homogénea, nos faz pensar numa pessoa paciente e perseverante."}
 ],
 "summary":"O modo como alguém se move, por exemplo ao caminhar, revela traços estáveis da sua personalidade, como decisão, impaciência, paciência ou falta de segurança."
+},
+  {
+"id":"017",
+"title":"Movimentos corporais: o 'como' e o 'que'",
+"text":[
+"O fato de levantar os quadris exageradamente dá impressão de confiança em si mesmo; se ao mesmo tempo se produz uma leve rotação, estamos diante de alguém garboso e desenvolto. Se a isto se adiciona-lhe um pouco mais de ritmo, mais ênfase e uma figura em forma de violão, teremos a maneira de caminhar que, em uma mulher, faz os homens se virarem para olhar, na rua.",
+"Isto representa o \"como\" do movimento corporal, em contraste com o \"que\": não o ato de caminhar em si, mas sim a maneira como é feito; não o ato de estreitar a mão, mas sim a forma de fazê-lo."
+],
+"glossary":[
+{"t":"Exageradamente","d":"de forma excessiva, mais do que o normal."},
+{"t":"Garboso","d":"elegante, com boa presença."},
+{"t":"Desenvolto","d":"à vontade, solto nos movimentos."},
+{"t":"Ênfase","d":"força ou destaque dado a algo."},
+{"t":"Em contraste com","d":"por oposição a, em comparação com."},
+{"t":"Estreitar a mão","d":"apertar a mão em saudação."}
+],
+"questions":[
+{"q":"Segundo o texto, o que dá impressão de confiança em si mesmo?","options":["Levantar os quadris exageradamente","Caminhar de cabeça baixa","Arrastar os pés","Caminhar sempre muito devagar"],"answer":0,"why":"O texto diz que o facto de levantar os quadris exageradamente dá impressão de confiança em si mesmo."},
+{"q":"Se, ao mesmo tempo, se produz uma leve rotação, estamos diante de alguém:","options":["Tímido e inseguro","Impaciente e agressivo","Distraído e cansado","Garboso e desenvolto"],"answer":3,"why":"O texto diz que, com a leve rotação, estamos diante de alguém garboso e desenvolto."},
+{"q":"Na palavra 'garboso', o sentido é:","options":["Cansado e lento","Zangado e agressivo","Elegante, com boa presença","Escondido e tímido"],"answer":2,"why":"Garboso é quem tem elegância e boa presença ao mover-se."},
+{"q":"Como se distingue o 'como' do 'que' do movimento corporal, segundo o texto?","options":["Ambos significam o mesmo","O 'como' é a maneira de fazer o movimento, e o 'que' é o próprio acto","O 'como' é o acto, e o 'que' é a maneira de o fazer","O 'como' só vale para quem caminha"],"answer":1,"why":"O texto dá como exemplo: o 'que' é o acto de caminhar ou de apertar a mão; o 'como' é a maneira de o fazer."},
+{"q":"Dois candidatos apertam a mão ao entrevistador: um com firmeza e olhando-o, o outro sem força e a desviar o olhar. Segundo a ideia do texto, o que importa?","options":["Só o facto de apertar a mão","Só as palavras que dizem","A forma como apertam a mão, e não apenas o acto","A roupa que vestem"],"answer":2,"why":"O texto diz que o que conta não é o acto de estreitar a mão, mas a forma de o fazer."}
+],
+"summary":"No movimento do corpo importa menos o acto em si (caminhar, apertar a mão) e mais a maneira como é feito, que revela confiança e personalidade."
 }
 ]
 }
