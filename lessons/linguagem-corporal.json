@@ -246,6 +246,33 @@
 {"q":"Numa loja de móveis, o homem fala muito, mas é a esposa quem faz um gesto primeiro e ele a imita. O que deve fazer o vendedor, segundo a ideia do texto?","options":["Dirigir a conversa ao marido","Dirigir a conversa à esposa, que provavelmente decide","Esperar que saiam da loja","Falar só com os dois ao mesmo tempo"],"answer":1,"why":"Se o marido copia os gestos da mulher, é ela quem decide, por isso a conversa deve ser dirigida a ela."}
 ],
 "summary":"Nos gestos de um casal, quem é copiado provavelmente decide a compra, e é a essa pessoa que o vendedor deve dirigir a conversa."
+},
+  {
+"id":"011",
+"title":"A comunicação dos sentidos: o tato (início)",
+"text":[
+"O tato é o sentido que está presente em todos os outros. A luz e os aromas nos envolvem.",
+"Nos sentimos muitas vezes embalados pela música. Imaginemos o que aconteceria a uma criança a quem fosse impedida sua relação por meio do tato. Possivelmente terminaria sendo uma perfeita inválida.",
+"Nossa pele é usualmente um fiel reflexo de nossas emoções, como o medo, a ira, o ódio. O tato possui uma classe especial de proximidade, posto que quando uma pessoa toca a outra, a experiência é totalmente mútua. A pele fica em contato com a pele, de forma direta ou através da vestimenta, e se estabelece uma imediata tomada de consciência de ambas as partes. Esta tomada de consciência é mais aguda quando o contato é pouco freqüente."
+],
+"glossary":[
+{"t":"Tato","d":"o sentido do toque, que se exerce sobretudo através da pele."},
+{"t":"Aromas","d":"cheiros agradáveis."},
+{"t":"Embalados","d":"levados suavemente, como num embalo."},
+{"t":"Inválida","d":"pessoa com graves limitações para viver por si própria."},
+{"t":"Fiel reflexo","d":"imagem exacta, que mostra a realidade sem a alterar."},
+{"t":"Mútua","d":"que acontece nos dois sentidos, entre as duas partes."},
+{"t":"Vestimenta","d":"a roupa que se veste."},
+{"t":"Aguda","d":"intensa, muito sentida."}
+],
+"questions":[
+{"q":"Segundo o texto, o tato é o sentido que:","options":["Só existe nas mãos","Está presente em todos os outros","Só funciona com a luz","Substitui a visão"],"answer":1,"why":"O texto diz que o tato é o sentido que está presente em todos os outros."},
+{"q":"O que aconteceria possivelmente a uma criança a quem fosse impedida a relação por meio do tato?","options":["Terminaria sendo uma perfeita inválida","Ficaria mais forte","Aprenderia a ver melhor","Não notaria diferença"],"answer":0,"why":"O texto diz que, possivelmente, essa criança terminaria sendo uma perfeita inválida."},
+{"q":"Segundo o texto, a nossa pele é usualmente um fiel reflexo de quê?","options":["Da nossa idade","Do clima","Das nossas emoções, como o medo, a ira, o ódio","Do nosso peso"],"answer":2,"why":"O texto afirma que a pele é usualmente um fiel reflexo das nossas emoções, como o medo, a ira e o ódio."},
+{"q":"Porque diz o texto que, no tato, a experiência é 'totalmente mútua'?","options":["Porque só uma pessoa sente o contacto","Porque o tato só existe entre amigos","Porque a roupa impede o contacto","Porque, quando uma pessoa toca a outra, ambas tomam consciência do contacto"],"answer":3,"why":"Quando uma pessoa toca a outra, a pele fica em contacto com a pele e ambas as partes tomam consciência dele."},
+{"q":"Duas pessoas que raramente se encontram trocam um aperto de mão. Segundo a ideia do texto, a consciência do contacto tende a ser:","options":["Mais aguda, porque o contacto é pouco freqüente","Menos aguda, porque se conhecem","Nula, porque há roupa","Igual à de quem se toca todos os dias"],"answer":0,"why":"O texto diz que a tomada de consciência é mais aguda quando o contacto é pouco freqüente."}
+],
+"summary":"O tato está presente em todos os sentidos e é especial porque o contacto é sentido pelas duas pessoas; a pele reflecte as nossas emoções e a consciência do toque é maior quando ele é raro."
 }
 ]
 }
