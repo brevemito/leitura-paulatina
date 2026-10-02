@@ -374,6 +374,32 @@
 {"q":"Um visitante estranha ver pessoas a andar de braços dados num país e não noutro. Que ideia do texto isto ilustra?","options":["O contacto físico tem o mesmo sentido em todo o lado","Os costumes de contacto físico variam de um lugar para outro","Só a América do Sul usa o tato","O tato não comunica nada"],"answer":1,"why":"O texto compara os Estados Unidos com a América do Sul para mostrar que os costumes de contacto físico mudam de cultura para cultura."}
 ],
 "summary":"Os costumes de contacto físico variam de cultura para cultura, e o tato, o paladar e o olfato são sentidos de proximidade, enquanto a audição e a visão actuam à distância."
+},
+  {
+"id":"016",
+"title":"Movimentos corporais: o modo de caminhar",
+"text":[
+"As investigações a respeito da comunicação humana freqüentemente descuidaram do indivíduo em si. Não obstante, é óbvio que qualquer de nós pode fazer uma análise aproximada do caráter de um indivíduo apoiando-se em sua maneira de mover-se — rígido, desenvolto, vigoroso,— e a maneira como o faça representará um traço bastante estável de sua personalidade.",
+"Tomemos por exemplo a simples ação de caminhar. Este só feito nos pode indicar muitas coisas. O homem que habitualmente pise com força ao caminhar nos dará a impressão de ser um indivíduo decidido. Se caminhar ligeiro, poderá parecer impaciente ou agressivo, embora se com o mesmo impulso o faz mais lentamente, de maneira mais homogênea, nos fará pensar que se trata de uma pessoa paciente e perseverante. Outra o fará com muito pouco impulso, como se cruzando um gramado cuidando de não arruiná-lo e nos dará uma idéia de falta de segurança."
+],
+"glossary":[
+{"t":"Descuidar","d":"não dar atenção a algo, deixar de lado."},
+{"t":"Não obstante","d":"apesar disso, no entanto."},
+{"t":"Óbvio","d":"evidente, que todos percebem facilmente."},
+{"t":"Rígido","d":"duro, pouco flexível."},
+{"t":"Desenvolto","d":"à vontade, solto nos movimentos."},
+{"t":"Vigoroso","d":"cheio de força e energia."},
+{"t":"Traço","d":"característica que distingue alguém."},
+{"t":"Perseverante","d":"que não desiste, que persiste no que começou."}
+],
+"questions":[
+{"q":"Segundo o texto, de que se descuidaram frequentemente as investigações sobre a comunicação humana?","options":["Da linguagem escrita","Do indivíduo em si","Das culturas diferentes","Dos gestos das mãos"],"answer":1,"why":"O texto diz que as investigações sobre a comunicação humana freqüentemente descuidaram do indivíduo em si."},
+{"q":"Em que se pode apoiar qualquer um de nós para fazer uma análise aproximada do carácter de alguém?","options":["Na cor da roupa","No seu nome","Na sua profissão","Na sua maneira de mover-se"],"answer":3,"why":"O texto diz que se pode analisar o carácter de um indivíduo apoiando-se na sua maneira de mover-se."},
+{"q":"Na frase 'Não obstante, é óbvio que...', a expressão 'não obstante' quer dizer:","options":["Por esse motivo","Como consequência","Apesar disso, no entanto","Em primeiro lugar"],"answer":2,"why":"Não obstante significa apesar disso: apesar de as investigações descuidarem o indivíduo, é óbvio que podemos analisá-lo pelo seu modo de mover-se."},
+{"q":"Que impressão nos dá o homem que habitualmente pisa com força ao caminhar?","options":["A de ser um indivíduo decidido","A de ser uma pessoa insegura","A de ser uma pessoa paciente","A de ser uma pessoa distraída"],"answer":0,"why":"O texto diz que quem habitualmente pisa com força ao caminhar dá a impressão de ser um indivíduo decidido."},
+{"q":"Uma pessoa atravessa a sala devagar, com passos regulares e sem pressa. Segundo o texto, pode parecer:","options":["Impaciente","Agressiva","Insegura","Paciente e perseverante"],"answer":3,"why":"O texto diz que quem caminha mais lentamente, de maneira mais homogénea, nos faz pensar numa pessoa paciente e perseverante."}
+],
+"summary":"O modo como alguém se move, por exemplo ao caminhar, revela traços estáveis da sua personalidade, como decisão, impaciência, paciência ou falta de segurança."
 }
 ]
 }
