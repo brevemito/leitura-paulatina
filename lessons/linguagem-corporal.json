@@ -273,6 +273,81 @@
 {"q":"Duas pessoas que raramente se encontram trocam um aperto de mão. Segundo a ideia do texto, a consciência do contacto tende a ser:","options":["Mais aguda, porque o contacto é pouco freqüente","Menos aguda, porque se conhecem","Nula, porque há roupa","Igual à de quem se toca todos os dias"],"answer":0,"why":"O texto diz que a tomada de consciência é mais aguda quando o contacto é pouco freqüente."}
 ],
 "summary":"O tato está presente em todos os sentidos e é especial porque o contacto é sentido pelas duas pessoas; a pele reflecte as nossas emoções e a consciência do toque é maior quando ele é raro."
+},
+  {
+"id":"012",
+"title":"A comunicação dos sentidos: o tato (continuação)",
+"text":[
+"O que o homem experimenta através da pele é muito mais importante do que a maioria de nós pensa. Prova disso é o surpreendente tamanho das áreas táteis do cérebro, a sensorial e a motora.",
+"Os lábios, o dedo indicador e o polegar, sobretudo, ocupam uma parte desproporcional do espaço cerebral. A experiência tátil, portanto, deve ser considerada muito complexa e de grande significado. Todo ser humano está em contato constante com o mundo exterior através da pele. Apesar de que não é se é consciente disso até que se detém a pensá-lo, sempre existe, pelo menos, a pressão do pavimento contra a planta do pé, ou a do assento contra as nádegas.",
+"Na realidade, todo o meio ambiente o afeta através da pele; sente a pressão do ar, o vento, a luz do sol, a névoa, as ondas acústicas e, algumas vezes, outros seres humanos."
+],
+"glossary":[
+{"t":"Tátil","d":"relativo ao tato, ao toque."},
+{"t":"Sensorial","d":"relativo aos sentidos, à capacidade de sentir."},
+{"t":"Motora","d":"relativa ao movimento do corpo."},
+{"t":"Desproporcional","d":"maior ou menor do que seria de esperar."},
+{"t":"Complexa","d":"com muitos elementos, difícil de explicar de forma simples."},
+{"t":"Pavimento","d":"o chão, o piso."},
+{"t":"Planta do pé","d":"a parte de baixo do pé, a sola."},
+{"t":"Ondas acústicas","d":"as ondas do som."}
+],
+"questions":[
+{"q":"Segundo o texto, qual é a prova de que o que experimentamos pela pele é muito importante?","options":["O número de pessoas que gostam de ser tocadas","A quantidade de roupa que usamos","O surpreendente tamanho das áreas táteis do cérebro","A temperatura do corpo"],"answer":2,"why":"O texto diz que a prova é o surpreendente tamanho das áreas táteis do cérebro, a sensorial e a motora."},
+{"q":"Que partes do corpo ocupam, sobretudo, uma parte desproporcional do espaço cerebral?","options":["Os ombros e as costas","Os lábios, o dedo indicador e o polegar","Os joelhos e os cotovelos","Os olhos e os ouvidos"],"answer":1,"why":"O texto refere os lábios, o dedo indicador e o polegar como os que ocupam uma parte desproporcional do cérebro."},
+{"q":"Na frase 'uma parte desproporcional do espaço cerebral', a palavra 'desproporcional' quer dizer:","options":["Muito pequena","Igual para todas as partes do corpo","Escondida","Maior do que seria de esperar"],"answer":3,"why":"Desproporcional é o que é maior (ou menor) do que o esperado. Aqui, estas partes ocupam mais espaço no cérebro do que o seu tamanho faria supor."},
+{"q":"Segundo o texto, que pressão existe sempre, pelo menos?","options":["A do pavimento contra a planta do pé, ou a do assento contra as nádegas","A do vento contra o rosto","A da roupa apertada","A do ar dentro dos pulmões"],"answer":0,"why":"O texto diz que existe sempre, pelo menos, a pressão do pavimento contra a planta do pé ou a do assento contra as nádegas."},
+{"q":"Alguém está sentado a ler e só repara na cadeira quando pára para pensar nisso. Que ideia do texto isto ilustra?","options":["Que o tato só funciona quando queremos","Que a cadeira não toca o corpo","Que estamos em contacto constante com o mundo pela pele, mesmo sem darmos por isso","Que a pele não sente a pressão"],"answer":2,"why":"O texto diz que estamos em contacto constante com o mundo exterior através da pele, embora só tenhamos consciência disso quando paramos para pensar."}
+],
+"summary":"A pele é muito mais importante do que pensamos: grande parte do cérebro dedica-se ao tato, e estamos sempre em contacto com o mundo, mesmo sem darmos por isso."
+},
+  {
+"id":"013",
+"title":"O tato, o sentido mais primitivo",
+"text":[
+"O tato é provavelmente o mais primitivo dos sentidos. O bebê recém-nascido explora mediante o tato; é assim que descobre onde termina seu próprio corpo e começa o mundo exterior. À medida que a criança cresce, aprende que há objetos e partes de seu próprio corpo e do das outras pessoas, que se podem tocar e outras que não. Quando o indivíduo descobre as relações sexuais, na realidade está redescobrindo a comunicação tátil."
+],
+"glossary":[
+{"t":"Primitivo","d":"muito antigo, dos mais básicos e originais."},
+{"t":"Explorar","d":"examinar, procurar conhecer."},
+{"t":"Mediante","d":"por meio de."},
+{"t":"Mundo exterior","d":"tudo o que está fora do nosso próprio corpo."},
+{"t":"Redescobrir","d":"descobrir de novo."}
+],
+"questions":[
+{"q":"Segundo o texto, qual é provavelmente o mais primitivo dos sentidos?","options":["A visão","A audição","O olfacto","O tato"],"answer":3,"why":"O texto diz que o tato é provavelmente o mais primitivo dos sentidos."},
+{"q":"Como explora o bebê recém-nascido o que o rodeia?","options":["Mediante o tato","Mediante a fala","Apenas pela visão","Apenas pelo cheiro"],"answer":0,"why":"O texto diz que o bebê recém-nascido explora mediante o tato."},
+{"q":"O que descobre o bebê através do tato?","options":["Quantas pessoas estão na sala","Onde termina o seu próprio corpo e começa o mundo exterior","Que a luz o incomoda","Como se fala"],"answer":1,"why":"É assim que o bebê descobre onde termina o seu próprio corpo e começa o mundo exterior."},
+{"q":"O que aprende a criança à medida que cresce?","options":["Que todos os objectos se podem tocar","Que nada se pode tocar","Que há objectos e partes do corpo, seu e de outras pessoas, que se podem tocar e outros que não","Que só se tocam as pessoas conhecidas"],"answer":2,"why":"O texto diz que a criança aprende que há objectos e partes do corpo, seu e dos outros, que se podem tocar e outros que não."},
+{"q":"Uma criança pequena agarra todos os objectos para os conhecer. Que ideia do texto isto ilustra?","options":["Que o tato só se desenvolve na escola","Que as crianças não distinguem os objectos","Que a visão é o primeiro sentido","Que o tato é um modo básico de explorar o mundo"],"answer":3,"why":"Se o tato é o sentido mais primitivo, é natural que as crianças o usem para explorar e conhecer o que as rodeia."}
+],
+"summary":"O tato é provavelmente o sentido mais primitivo: é por ele que o bebê descobre os limites do seu corpo e, ao crescer, aprende o que pode ou não tocar."
+},
+  {
+"id":"014",
+"title":"O contacto e o mecanismo da conversação",
+"text":[
+"Se se interromper uma conversa, a pessoa que o faz poderá pôr sua mão no braço de seu interlocutor, já que este gesto poderá ser interpretado como o pedido de \"um momento\" e evidentemente faz parte do mecanismo da conversação.",
+"Também é importante a parte do corpo que se toca. Uma mão que repousa suavemente sobre um antebraço terá um impacto totalmente diferente do que teria se colocada sobre um joelho.",
+"O contato — pelo menos o mais impessoal — produz-se em todo nosso entorno, percebamo-lo ou não. Vinculamos o contato físico com o sexo, exceto quando se nota claramente que não há conexão entre ambos; por isso o utilizamos escassamente para expressar amizade e afeto."
+],
+"glossary":[
+{"t":"Interlocutor","d":"a pessoa com quem estamos a falar."},
+{"t":"Mecanismo da conversação","d":"as regras não escritas que fazem a conversa funcionar, como a vez de falar."},
+{"t":"Antebraço","d":"a parte do braço entre o cotovelo e o pulso."},
+{"t":"Impessoal","d":"sem carácter íntimo ou pessoal."},
+{"t":"Entorno","d":"o que nos rodeia, o ambiente à nossa volta."},
+{"t":"Vincular","d":"ligar, associar uma coisa a outra."},
+{"t":"Escassamente","d":"pouco, raramente."}
+],
+"questions":[
+{"q":"Segundo o texto, o que pode fazer quem interrompe uma conversa?","options":["Levantar a voz","Dar um passo atrás","Pôr a mão no braço do interlocutor","Bater palmas"],"answer":2,"why":"O texto diz que quem interrompe poderá pôr a mão no braço do seu interlocutor."},
+{"q":"Como pode ser interpretado esse gesto de pôr a mão no braço?","options":["Como o pedido de 'um momento'","Como uma ordem","Como uma ameaça","Como um cumprimento"],"answer":0,"why":"O texto diz que o gesto pode ser interpretado como o pedido de um momento e faz parte do mecanismo da conversação."},
+{"q":"Segundo o texto, porque é importante a parte do corpo que se toca?","options":["Porque só o braço pode ser tocado","Porque todas as partes têm o mesmo efeito","Porque a roupa impede o toque","Porque o impacto é diferente: uma mão no antebraço não é igual a uma mão no joelho"],"answer":3,"why":"O texto compara uma mão no antebraço com uma mão no joelho, e diz que o impacto é totalmente diferente."},
+{"q":"Segundo o texto, porque usamos escassamente o contacto físico para expressar amizade e afeto?","options":["Porque é proibido por lei","Porque o vinculamos com o sexo, exceto quando se nota que não há conexão","Porque ninguém gosta de ser tocado","Porque só os familiares se tocam"],"answer":1,"why":"O texto diz que vinculamos o contacto físico com o sexo, salvo quando é claro que não há ligação, e por isso o usamos pouco para expressar amizade e afeto."},
+{"q":"Num escritório, um colega põe levemente a mão no teu antebraço para pedir que o deixes falar. Segundo a ideia do texto, esse gesto:","options":["Faz parte do mecanismo da conversação e pede 'um momento'","Declara hostilidade","Tem o mesmo impacto que uma mão no joelho","Quer terminar a conversa"],"answer":0,"why":"Uma mão que repousa suavemente no antebraço pode ser lida como um pedido de um momento e é parte normal da conversa."}
+],
+"summary":"Um toque suave no braço pode pedir a vez de falar, o impacto do toque depende da parte do corpo tocada, e usamos pouco o contacto para expressar amizade porque o ligamos ao sexo."
 }
 ]
 }
