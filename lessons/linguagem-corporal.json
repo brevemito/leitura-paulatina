@@ -548,6 +548,99 @@
 {"q":"Segundo o texto, a velocidade de alguns gestos e o modo como se tornam óbvios estão relacionados com:","options":["O clima","A idade dos indivíduos","A profissão","A língua falada"],"answer":1,"why":"O texto diz que a velocidade de alguns gestos e o modo como se tornam óbvios estão relacionados com a idade dos indivíduos."}
 ],
 "summary":"Os mesmos gestos podem querer dizer coisas diferentes consoante o contexto: braços cruzados num dia de frio não são o mesmo que braços cruzados diante de um vendedor."
+},
+  {
+"id":"023",
+"title":"A mão na boca: a menina e a adolescente",
+"text":[
+"Se uma menina de cinco anos diz uma mentira a seus pais, tapará imediatamente a boca com uma ou as duas mãos. O gesto indica aos pais que a menina mentiu e esse gesto continua sendo usado toda a vida, variando somente sua velocidade.",
+"Quando a adolescente diz uma mentira, também leva a mão à boca como a menina de cinco anos, mas, em lugar de tapá-la bruscamente, seus dedos como que roçam sua boca."
+],
+"glossary":[
+{"t":"Imediatamente","d":"logo, sem demora."},
+{"t":"Bruscamente","d":"de forma rápida e repentina."},
+{"t":"Roçar","d":"tocar de leve, passar de raspão."},
+{"t":"Velocidade","d":"a rapidez com que algo se faz."}
+],
+"questions":[
+{"q":"O que faz a menina de cinco anos quando diz uma mentira aos pais?","options":["Tapa imediatamente a boca com uma ou as duas mãos","Cobre os olhos","Cruza os braços","Vira as costas"],"answer":0,"why":"O texto diz que a menina tapará imediatamente a boca com uma ou as duas mãos."},
+{"q":"Segundo o texto, o que indica esse gesto aos pais?","options":["Que a menina tem fome","Que a menina mentiu","Que a menina tem frio","Que a menina quer brincar"],"answer":1,"why":"O texto diz que o gesto indica aos pais que a menina mentiu."},
+{"q":"Segundo o texto, o que varia, ao longo da vida, no gesto de tapar a boca?","options":["O sentido do gesto","A mão usada","Somente a sua velocidade","A parte do rosto que se tapa"],"answer":2,"why":"O texto diz que o gesto continua a ser usado toda a vida, variando somente a sua velocidade."},
+{"q":"Como difere o gesto da adolescente do da menina de cinco anos?","options":["A adolescente não faz qualquer gesto","A adolescente tapa os ouvidos","A adolescente tapa a boca com as duas mãos, mais depressa","Em vez de tapar a boca bruscamente, os dedos da adolescente como que roçam a boca"],"answer":3,"why":"O texto diz que a adolescente leva a mão à boca, mas em lugar de a tapar bruscamente os dedos como que roçam a boca."},
+{"q":"Um adolescente diz que fez os trabalhos de casa e, ao falar, os dedos roçam-lhe os lábios. Segundo a ideia do texto, esse gesto:","options":["Não tem qualquer relação com o gesto da menina","É uma versão mais discreta do gesto de tapar a boca da infância","É um sinal de que fala a verdade","É um gesto que só os adultos fazem"],"answer":1,"why":"O texto mostra que o gesto da adolescente é como o da menina, mas mais discreto: os dedos roçam a boca em vez de a tapar bruscamente."}
+],
+"summary":"A criança tapa a boca quando mente; na adolescência o gesto mantém-se, mas torna-se mais discreto, com os dedos a roçar a boca."
+},
+{
+"id":"024",
+"title":"A mão na boca: o adulto",
+"text":[
+"O gesto de tapar a boca se torna mais refinado na idade adulta.",
+"Quando o adulto diz uma mentira, o cérebro ordena à mão que tampe a boca para bloquear a saída das palavras falsas, como ocorria com a menina e a adolescente, mas no último momento, tira a mão da boca e o resultado é um gesto tocando o nariz. Esse gesto não é mais que a versão refinada, adulta, do gesto de tampar a boca que se usou na infância. Isto serve de exemplo para mostrar que quando um indivíduo se faz maior, muitos de seus gestos se tornam mais elaborados e menos óbvios. É mais difícil identificar as atitudes de quem os faz."
+],
+"glossary":[
+{"t":"Refinado","d":"mais discreto e elaborado, menos grosseiro."},
+{"t":"Bloquear","d":"impedir a passagem, travar."},
+{"t":"Versão","d":"forma diferente de algo que continua a ser o mesmo."},
+{"t":"Elaborados","d":"trabalhados, mais complexos."},
+{"t":"Óbvios","d":"evidentes, fáceis de perceber."}
+],
+"questions":[
+{"q":"O que acontece ao gesto de tapar a boca na idade adulta, segundo o texto?","options":["Desaparece","Torna-se mais refinado","Torna-se mais brusco","Passa a usar os dois braços"],"answer":1,"why":"O texto diz que o gesto de tapar a boca se torna mais refinado na idade adulta."},
+{"q":"Quando o adulto diz uma mentira, o que ordena o cérebro à mão?","options":["Que toque o nariz de imediato","Que tape os olhos","Que tampe a boca, para bloquear a saída das palavras falsas","Que coce a cabeça"],"answer":2,"why":"O texto diz que o cérebro ordena à mão que tampe a boca para bloquear a saída das palavras falsas."},
+{"q":"O que faz o adulto no último momento?","options":["Tapa os ouvidos","Cruza os braços","Fecha os olhos","Tira a mão da boca e o resultado é um gesto a tocar o nariz"],"answer":3,"why":"O texto diz que, no último momento, o adulto tira a mão da boca e o resultado é um gesto a tocar o nariz."},
+{"q":"Segundo o texto, o gesto de tocar o nariz é:","options":["Um gesto sem relação com a infância","Um sinal de alergia","A versão refinada, adulta, do gesto de tampar a boca da infância","Um gesto exclusivo das crianças"],"answer":2,"why":"O texto diz que esse gesto não é mais que a versão refinada, adulta, do gesto de tampar a boca que se usou na infância."},
+{"q":"Segundo o texto, porque é mais difícil identificar as atitudes de um adulto?","options":["Porque os adultos mentem menos","Porque os gestos se tornam mais elaborados e menos óbvios","Porque os adultos não fazem gestos","Porque os adultos falam mais depressa"],"answer":1,"why":"O texto diz que, quando o indivíduo se faz maior, muitos gestos se tornam mais elaborados e menos óbvios, e por isso é mais difícil identificar as atitudes."}
+],
+"summary":"Com a idade, o gesto de tapar a boca transforma-se num toque no nariz: é a mesma reacção, mas mais discreta e mais difícil de identificar."
+},
+{
+"id":"025",
+"title":"Gestos ao início de uma conversação",
+"text":[
+"O encontro é um momento fundamental da conversa e, a partir dele, desencadeia-se uma série de estratégias através de sutis negociações não verbais que têm lugar dos primeiros momentos. Os primeiros 15 a 45 segundos são fundamentais, já que representam a afirmação de uma relação que preexista ou uma negociação.",
+"Aquelas pautas de comportamento comunicativo, aquelas regras de interação que pomos em funcionamento para expressar ou negociar a intimidade, são as que fazemos para fazer saber a uma pessoa se nós gostarmos dela ou não. E raramente fazemos isso de maneira verbal."
+],
+"glossary":[
+{"t":"Desencadear","d":"dar início, pôr em marcha."},
+{"t":"Sutis","d":"delicadas, quase imperceptíveis."},
+{"t":"Negociação","d":"troca em que as partes ajustam o que querem, até chegarem a um entendimento."},
+{"t":"Preexistir","d":"já existir antes."},
+{"t":"Pautas","d":"normas, regras de conduta."},
+{"t":"Intimidade","d":"proximidade e confiança entre pessoas."}
+],
+"questions":[
+{"q":"Segundo o texto, qual é um momento fundamental da conversa?","options":["O encontro","A despedida","O silêncio","A pergunta final"],"answer":0,"why":"O texto diz que o encontro é um momento fundamental da conversa."},
+{"q":"Segundo o texto, quanto tempo duram os primeiros momentos fundamentais?","options":["Cerca de 5 segundos","Cerca de 10 minutos","Entre 15 e 45 segundos","Entre 2 e 3 minutos"],"answer":2,"why":"O texto diz que os primeiros 15 a 45 segundos são fundamentais."},
+{"q":"O que representam esses primeiros 15 a 45 segundos?","options":["Um momento sem importância","Apenas uma formalidade","O fim da conversa","A afirmação de uma relação que já existia, ou uma negociação"],"answer":3,"why":"O texto diz que representam a afirmação de uma relação que preexista ou uma negociação."},
+{"q":"De que maneira, segundo o texto, raramente fazemos saber a alguém se gostamos dela ou não?","options":["De maneira não verbal","De maneira verbal","Por escrito","Através de terceiros"],"answer":1,"why":"O texto diz que raramente fazemos isso de maneira verbal, ou seja, fazemo-lo sobretudo sem palavras."},
+{"q":"Duas pessoas conhecem-se numa festa. Antes de dizerem uma frase, uma sorri e inclina-se para a frente, e a outra vira o corpo para o lado. Segundo o texto, o que está a acontecer?","options":["Nada, porque ainda não falaram","Estão a mentir","Estão a negociar a relação de forma não verbal, nos primeiros momentos","Estão a fazer uma avaliação crítica"],"answer":2,"why":"O texto diz que, nos primeiros momentos, há sutis negociações não verbais sobre a relação."}
+],
+"summary":"Os primeiros segundos de um encontro são decisivos: a relação negocia-se por sinais não verbais, e é raro dizermos com palavras se gostamos ou não de alguém."
+},
+{
+"id":"026",
+"title":"Ritmos corporais",
+"text":[
+"Cada vez que uma pessoa fala, os movimentos de suas mãos e dedos, as sacudidas de cabeça, os piscadas, todos os movimentos do corpo coincidem com o compasso de seu discurso.",
+"Esse ritmo se altera quando há enfermidades ou transtornos cerebrais."
+],
+"glossary":[
+{"t":"Sacudidas","d":"movimentos rápidos e repetidos."},
+{"t":"Coincidir","d":"acontecer ao mesmo tempo, ser igual."},
+{"t":"Compasso","d":"ritmo, cadência."},
+{"t":"Discurso","d":"o que alguém diz ao falar."},
+{"t":"Enfermidades","d":"doenças."},
+{"t":"Transtornos","d":"perturbações no funcionamento normal."}
+],
+"questions":[
+{"q":"Segundo o texto, com o que coincidem os movimentos do corpo de quem fala?","options":["Com o ritmo de quem escuta","Com a música ao redor","Com o compasso do seu discurso","Apenas com o tom da voz"],"answer":2,"why":"O texto diz que todos os movimentos do corpo coincidem com o compasso do discurso."},
+{"q":"Que movimentos o texto refere como acompanhando o discurso?","options":["Só os das mãos","Só os da cabeça","Só os dos pés","Os das mãos e dedos, as sacudidas de cabeça, as piscadelas e todos os movimentos do corpo"],"answer":3,"why":"O texto refere os movimentos das mãos e dedos, as sacudidas de cabeça, os piscadas e todos os movimentos do corpo."},
+{"q":"Segundo o texto, quando se altera esse ritmo?","options":["Quando há enfermidades ou transtornos cerebrais","Quando está frio","Quando a pessoa é jovem","Quando está sentada"],"answer":0,"why":"O texto diz que esse ritmo se altera quando há enfermidades ou transtornos cerebrais."},
+{"q":"Na frase 'coincidem com o compasso de seu discurso', a palavra 'compasso' quer dizer:","options":["Instrumento para medir distâncias","Ritmo, cadência","Direcção","Volume da voz"],"answer":1,"why":"Compasso, aqui, é o ritmo ou cadência da fala."},
+{"q":"Ao ver alguém a contar uma história, repara que as mãos e a cabeça se movem ao ritmo da fala. Segundo o texto, isto é:","options":["Anormal","Normal: os movimentos do corpo coincidem com o compasso do discurso","Um sinal de mentira","Um sinal de doença"],"answer":1,"why":"O texto diz que, cada vez que uma pessoa fala, os movimentos do corpo coincidem com o compasso do seu discurso."}
+],
+"summary":"Quando falamos, o corpo acompanha o ritmo da fala, com mãos, cabeça e outros movimentos, e esse ritmo só se altera em casos de doença ou perturbação cerebral."
 }
 ]
 }
