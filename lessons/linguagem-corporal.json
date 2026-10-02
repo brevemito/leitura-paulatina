@@ -474,6 +474,80 @@
 {"q":"Alguém tenta controlar cada gesto numa apresentação e acaba rígido e desajeitado. Que ideia do texto isto ilustra?","options":["Que os gestos não se podem aprender","Que o corpo não comunica","Que pensar demasiado em cada movimento pode atrapalhar, como na centopéia","Que só as mãos contam"],"answer":2,"why":"Tal como a centopéia fica paralisada se pensar em cada pata, pensar demasiado em cada movimento pode tornar-nos rígidos."}
 ],
 "summary":"A postura revela atitudes persistentes e a forma como nos relacionamos com os outros, e tentar controlar conscientemente cada movimento pode ser tão difícil como a centopéia pensar em cada pata."
+},
+  {
+"id":"020",
+"title":"O conjunto de gestos: o erro do novato",
+"text":[
+"Um dos enganos mais graves que um novato na linguagem do corpo pode cometer é interpretar um gesto isolado de outros e das circunstâncias. Coçar a cabeça, por exemplo, pode significar muitas coisas: caspa, piolhos, suor, insegurança, esquecimento ou mentira, em função de outros gestos que se façam simultaneamente. Para chegar a conclusões acertadas, deveremos observar os gestos em seu conjunto.",
+"Como qualquer outra linguagem, o do corpo tem também palavras, frases e pontuação. Cada gesto é como uma só palavra e uma palavra pode ter vários significados. Só quando a palavra forma parte de uma frase, pode se saber seu significado correto.",
+"A pessoa perceptiva é a que lê bem as frases não verbais e as compara com as expressas verbalmente."
+],
+"glossary":[
+{"t":"Novato","d":"pessoa que está a começar, sem experiência."},
+{"t":"Isolado","d":"separado dos outros, sozinho."},
+{"t":"Caspa","d":"pequenas escamas brancas que se soltam do couro cabeludo."},
+{"t":"Simultaneamente","d":"ao mesmo tempo."},
+{"t":"Acertadas","d":"correctas, certeiras."},
+{"t":"Perceptiva","d":"que repara nos pormenores, que percebe bem o que vê."},
+{"t":"Pontuação","d":"os sinais que organizam as frases, como a vírgula e o ponto."}
+],
+"questions":[
+{"q":"Segundo o texto, um dos enganos mais graves que um novato pode cometer é:","options":["Observar os gestos em conjunto","Interpretar um gesto isolado de outros e das circunstâncias","Ignorar as palavras de quem fala","Olhar demasiado para o rosto"],"answer":1,"why":"O texto diz que o engano mais grave do novato é interpretar um gesto isolado de outros e das circunstâncias."},
+{"q":"O que pode significar coçar a cabeça, segundo o texto?","options":["Apenas mentira","Apenas insegurança","Muitas coisas: caspa, piolhos, suor, insegurança, esquecimento ou mentira","Sempre que a pessoa tem frio"],"answer":2,"why":"O texto lista várias possibilidades, e diz que o sentido depende dos outros gestos feitos ao mesmo tempo."},
+{"q":"Com o que compara o texto cada gesto?","options":["Com uma só palavra","Com uma frase completa","Com um parágrafo","Com um livro"],"answer":0,"why":"O texto diz que cada gesto é como uma só palavra, e uma palavra pode ter vários significados."},
+{"q":"Para chegar a conclusões acertadas, o que devemos fazer?","options":["Observar com atenção um único gesto","Perguntar sempre à pessoa","Observar os gestos em seu conjunto","Esperar que ela fale"],"answer":2,"why":"O texto diz que, para chegar a conclusões acertadas, devemos observar os gestos em seu conjunto."},
+{"q":"Um colega coça a cabeça durante uma reunião. O que é mais prudente, segundo a ideia do texto?","options":["Concluir logo que está a mentir","Concluir logo que tem piolhos","Concluir logo que está inseguro","Observar os outros gestos que faz ao mesmo tempo antes de concluir"],"answer":3,"why":"Um gesto sozinho pode ter vários significados; só em conjunto com outros gestos se percebe o sentido correcto."}
+],
+"summary":"Um gesto isolado pode querer dizer muitas coisas; tal como as palavras só fazem sentido numa frase, os gestos só se interpretam bem em conjunto."
+},
+{
+"id":"021",
+"title":"O conjunto de gestos: a avaliação crítica",
+"text":[
+"A figura mostra um conjunto de gestos que expressam avaliação crítica. O principal é o da mão no rosto, com o indicador levantando a bochecha e outro dedo tampando a boca enquanto o polegar sustenta o queixo.",
+"Outras evidências de que o que escuta analisa criticamente o que fala, são proporcionadas pelas pernas muito cruzadas e o braço cruzado sobre o peito (defesa), enquanto a cabeça e o queixo estão um pouco inclinados para baixo (hostilidade). A \"frase não verbal\" diz algo assim como \"eu não gosto do que está dizendo e não estou de acordo\".",
+"A observação dos grupos de gestos e a congruência entre os canais verbais e não verbais de comunicação são as chaves para interpretar corretamente a linguagem do corpo."
+],
+"glossary":[
+{"t":"Avaliação crítica","d":"análise em que se procura defeitos ou pontos fracos no que se ouve."},
+{"t":"Evidências","d":"sinais claros, provas visíveis."},
+{"t":"Proporcionadas","d":"dadas, oferecidas."},
+{"t":"Hostilidade","d":"atitude contrária, de oposição ou ameaça."},
+{"t":"Congruência","d":"concordância, ligação harmoniosa entre duas coisas."},
+{"t":"Canais","d":"vias por onde passa a comunicação, como a fala e o corpo."}
+],
+"questions":[
+{"q":"Qual é o conjunto de gestos que expressa avaliação crítica, segundo o texto?","options":["A mão no rosto, com o indicador na bochecha, outro dedo na boca e o polegar a sustentar o queixo","Os braços abertos e as palmas para cima","As mãos atrás da cabeça","As mãos nos bolsos"],"answer":0,"why":"O texto descreve a mão no rosto, com o indicador a levantar a bochecha, outro dedo a tapar a boca e o polegar a sustentar o queixo."},
+{"q":"Qual destes sinais o texto associa à defesa?","options":["A cabeça erguida","O sorriso","As mãos nos quadris","O braço cruzado sobre o peito"],"answer":3,"why":"O texto refere as pernas muito cruzadas e o braço cruzado sobre o peito como sinais de defesa."},
+{"q":"O que indicam a cabeça e o queixo um pouco inclinados para baixo, segundo o texto?","options":["Hostilidade","Alegria","Cansaço","Interesse"],"answer":0,"why":"O texto indica entre parênteses que a cabeça e o queixo inclinados para baixo significam hostilidade."},
+{"q":"O que diz a 'frase não verbal' formada por este conjunto de gestos?","options":["Estou de acordo e quero continuar","Eu não gosto do que está dizendo e não estou de acordo","Estou com frio","Estou com sono"],"answer":1,"why":"O texto resume o conjunto como: eu não gosto do que está dizendo e não estou de acordo."},
+{"q":"Um cliente ouve a proposta com a mão no rosto, os braços e as pernas cruzados e o queixo baixo. O que isto sugere, segundo o texto?","options":["Que está interessado e descontraído","Que está com sono","Que provavelmente analisa de forma crítica e não concorda","Que quer mais informação"],"answer":2,"why":"É o conjunto de gestos que o texto associa à avaliação crítica, à defesa e à hostilidade."}
+],
+"summary":"Mão no rosto, braços e pernas cruzados e queixo baixo formam uma frase não verbal de avaliação crítica e desacordo; para a ler bem, observam-se os gestos em grupo e a sua congruência com as palavras."
+},
+{
+"id":"022",
+"title":"O conjunto de gestos: o contexto",
+"text":[
+"Além de considerar o conjunto dos gestos e de ter em conta a congruência entre o que é dito e o movimento corporal, todos os gestos devem ser considerados dentro do contexto em que se produzem. Por exemplo, se alguém estiver de pé na parada do ônibus, com os braços e as pernas cruzados e o queixo baixo, em um dia de inverno, o mais provável é que tenha frio e não que esteja na defensiva. Mas se essa pessoa faz os mesmos gestos quando está sentada em frente a um homem, com uma mesa entre os dois, e esse homem está tentando convencer o outro de algo, de lhe vender uma idéia, um produto ou um serviço, a interpretação correta é que a pessoa está na defensiva e com atitude negativa.",
+"A velocidade de alguns gestos e o modo como se tornam óbvios para os outros está relacionada com a idade dos indivíduos."
+],
+"glossary":[
+{"t":"Contexto","d":"as circunstâncias em que algo acontece."},
+{"t":"Parada","d":"paragem, local onde se espera o transporte."},
+{"t":"Na defensiva","d":"em posição de defesa, desconfiado."},
+{"t":"Atitude negativa","d":"disposição contrária, de recusa."},
+{"t":"Óbvios","d":"evidentes, fáceis de perceber."}
+],
+"questions":[
+{"q":"Além do conjunto dos gestos e da congruência, o que mais devemos considerar, segundo o texto?","options":["O contexto em que os gestos se produzem","A idade de quem fala","A hora do dia","O nome da pessoa"],"answer":0,"why":"O texto diz que todos os gestos devem ser considerados dentro do contexto em que se produzem."},
+{"q":"Alguém está de pé na paragem do autocarro, de braços e pernas cruzados e queixo baixo, num dia de inverno. O mais provável é que:","options":["Esteja na defensiva","Tenha frio","Esteja zangado","Esteja a mentir"],"answer":1,"why":"O texto explica que, nesse contexto, o mais provável é que tenha frio e não que esteja na defensiva."},
+{"q":"Se a mesma pessoa faz os mesmos gestos sentada diante de alguém que tenta vender-lhe algo, a interpretação correcta é que:","options":["Tem frio","Está distraída","Está muito interessada","Está na defensiva e com atitude negativa"],"answer":3,"why":"O texto diz que, nessa situação de venda, a interpretação correcta é que a pessoa está na defensiva e com atitude negativa."},
+{"q":"Na expressão 'congruência entre o que é dito e o movimento corporal', a congruência quer dizer que:","options":["Se contradizem","Só o corpo conta","Combinam entre si","São independentes um do outro"],"answer":2,"why":"Congruência é concordância: as palavras e o corpo dizem a mesma coisa."},
+{"q":"Segundo o texto, a velocidade de alguns gestos e o modo como se tornam óbvios estão relacionados com:","options":["O clima","A idade dos indivíduos","A profissão","A língua falada"],"answer":1,"why":"O texto diz que a velocidade de alguns gestos e o modo como se tornam óbvios estão relacionados com a idade dos indivíduos."}
+],
+"summary":"Os mesmos gestos podem querer dizer coisas diferentes consoante o contexto: braços cruzados num dia de frio não são o mesmo que braços cruzados diante de um vendedor."
 }
 ]
 }
