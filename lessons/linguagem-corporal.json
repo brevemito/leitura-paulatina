@@ -348,6 +348,32 @@
 {"q":"Num escritório, um colega põe levemente a mão no teu antebraço para pedir que o deixes falar. Segundo a ideia do texto, esse gesto:","options":["Faz parte do mecanismo da conversação e pede 'um momento'","Declara hostilidade","Tem o mesmo impacto que uma mão no joelho","Quer terminar a conversa"],"answer":0,"why":"Uma mão que repousa suavemente no antebraço pode ser lida como um pedido de um momento e é parte normal da conversa."}
 ],
 "summary":"Um toque suave no braço pode pedir a vez de falar, o impacto do toque depende da parte do corpo tocada, e usamos pouco o contacto para expressar amizade porque o ligamos ao sexo."
+},
+  {
+"id":"015",
+"title":"O contacto em culturas diferentes; sentidos de proximidade",
+"text":[
+"Nas ruas dos Estados Unidos não é costume ver-se homens nem mulheres que caminhem de braços dados.",
+"Entretanto, este é um costume bastante comum na América do Sul. Aos norte-americanos parece um indício de homossexualidade. Até os pais e filhos maiores têm entre si um contato mais superficial",
+"O tato, o paladar e o olfato são sentidos de proximidade. A audição e a visão, em troca, podem proporcionar experiências à distância."
+],
+"glossary":[
+{"t":"De braços dados","d":"a andar com o braço enlaçado no braço de outra pessoa."},
+{"t":"Entretanto","d":"no entanto, em contraste com o que foi dito."},
+{"t":"Indício","d":"sinal ou pista que leva a uma conclusão."},
+{"t":"Superficial","d":"pouco profundo, sem grande intimidade."},
+{"t":"Paladar","d":"o sentido do gosto."},
+{"t":"Olfato","d":"o sentido do cheiro."},
+{"t":"Em troca","d":"em contrapartida, ao contrário."}
+],
+"questions":[
+{"q":"Segundo o texto, o que não é costume ver nas ruas dos Estados Unidos?","options":["Pessoas a apertar a mão","Homens nem mulheres a caminhar de braços dados","Pais a abraçar os filhos pequenos","Amigos a conversar"],"answer":1,"why":"O texto diz que, nas ruas dos Estados Unidos, não é costume ver homens nem mulheres a caminhar de braços dados."},
+{"q":"Segundo o texto, o costume de caminhar de braços dados é, na América do Sul:","options":["Raro","Proibido","Bastante comum","Desconhecido"],"answer":2,"why":"O texto diz que este é um costume bastante comum na América do Sul."},
+{"q":"Quais são os sentidos de proximidade, segundo o texto?","options":["O tato, o paladar e o olfato","A audição e a visão","A visão, o paladar e a audição","O tato e a audição"],"answer":0,"why":"O texto diz que o tato, o paladar e o olfato são sentidos de proximidade."},
+{"q":"Que sentidos, segundo o texto, podem proporcionar experiências à distância?","options":["O tato e o paladar","O olfato e o tato","O paladar e o olfato","A audição e a visão"],"answer":3,"why":"O texto diz que a audição e a visão, em troca, podem proporcionar experiências à distância."},
+{"q":"Um visitante estranha ver pessoas a andar de braços dados num país e não noutro. Que ideia do texto isto ilustra?","options":["O contacto físico tem o mesmo sentido em todo o lado","Os costumes de contacto físico variam de um lugar para outro","Só a América do Sul usa o tato","O tato não comunica nada"],"answer":1,"why":"O texto compara os Estados Unidos com a América do Sul para mostrar que os costumes de contacto físico mudam de cultura para cultura."}
+],
+"summary":"Os costumes de contacto físico variam de cultura para cultura, e o tato, o paladar e o olfato são sentidos de proximidade, enquanto a audição e a visão actuam à distância."
 }
 ]
 }
