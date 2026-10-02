@@ -424,6 +424,30 @@
 {"q":"Dois candidatos apertam a mão ao entrevistador: um com firmeza e olhando-o, o outro sem força e a desviar o olhar. Segundo a ideia do texto, o que importa?","options":["Só o facto de apertar a mão","Só as palavras que dizem","A forma como apertam a mão, e não apenas o acto","A roupa que vestem"],"answer":2,"why":"O texto diz que o que conta não é o acto de estreitar a mão, mas a forma de o fazer."}
 ],
 "summary":"No movimento do corpo importa menos o acto em si (caminhar, apertar a mão) e mais a maneira como é feito, que revela confiança e personalidade."
+},
+  {
+"id":"018",
+"title":"Movimentos corporais: a proporção entre gesto e postura",
+"text":[
+"A proporção entre gesto e postura é uma forma de avaliar o grau de participação de um indivíduo em uma determinada situação. Um homem que sacode energicamente os braços não parecerá convincente se seus movimentos não se estendem ao resto do corpo.",
+"O que importa é a proporção existente entre os movimentos posturais e os gestuais, mais que o mero número de movimentos posturais. Um homem pode estar sentado muito quieto, escutando, mas se, ao se mover, o faz com todo seu corpo, parecerá estar prestando muita atenção; muito mais que se estivesse continuamente em movimento, jogando talvez constantemente com alguma parte de seu corpo."
+],
+"glossary":[
+{"t":"Proporção","d":"a relação entre duas quantidades, a medida em que uma se compara com a outra."},
+{"t":"Participação","d":"o envolvimento de alguém no que está a acontecer."},
+{"t":"Convincente","d":"que consegue convencer, que parece verdadeiro."},
+{"t":"Postural","d":"relativo à postura, à posição do corpo."},
+{"t":"Gestual","d":"relativo aos gestos."},
+{"t":"Mero","d":"simples, apenas isso."}
+],
+"questions":[
+{"q":"Segundo o texto, a proporção entre gesto e postura é uma forma de avaliar:","options":["O grau de participação de um indivíduo numa determinada situação","A idade de um indivíduo","A cultura de um indivíduo","A profissão de um indivíduo"],"answer":0,"why":"O texto diz que a proporção entre gesto e postura é uma forma de avaliar o grau de participação de um indivíduo numa situação."},
+{"q":"Segundo o texto, um homem que sacode energicamente os braços não parecerá convincente se:","options":["Falar em voz baixa","Estiver sentado","Os seus movimentos não se estenderem ao resto do corpo","Usar gravata"],"answer":2,"why":"O texto diz que não parecerá convincente se os seus movimentos não se estendem ao resto do corpo."},
+{"q":"Na expressão 'mais que o mero número de movimentos', a palavra 'mero' quer dizer:","options":["Enorme","Simples, apenas isso","Falso","Raro"],"answer":1,"why":"Mero significa simples, apenas isso: o que importa não é só quantos movimentos há."},
+{"q":"O que importa, segundo o texto?","options":["O número de movimentos posturais","O número de gestos","A cor da roupa","A proporção entre os movimentos posturais e os gestuais"],"answer":3,"why":"O texto diz que o que importa é a proporção entre os movimentos posturais e os gestuais, mais do que o número de movimentos posturais."},
+{"q":"Numa reunião, uma pessoa fica quieta a ouvir, mas, quando se mexe, move o corpo todo na direcção de quem fala. Segundo o texto, ela parece:","options":["Distraída","Nervosa","Estar a prestar muita atenção","Sem interesse"],"answer":2,"why":"O texto diz que quem está quieto a escutar, mas se move com todo o corpo, parece estar a prestar muita atenção."}
+],
+"summary":"O que revela a participação de alguém é a proporção entre os gestos e a postura: movimentos que envolvem todo o corpo convencem mais do que gestos isolados ou um movimento constante."
 }
 ]
 }
