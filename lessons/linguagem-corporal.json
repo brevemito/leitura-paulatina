@@ -749,6 +749,104 @@
 {"q":"Ao cumprimentar-te, um homem estende o braço até quase 1 metro de distância. Segundo a ideia do texto, é provável que tenha sido criado:","options":["Na cidade","No campo","Num país estrangeiro","Numa fábrica"],"answer":1,"why":"Quem foi criado no campo tem um espaço pessoal maior e estende a mão até essa distância."}
 ],
 "summary":"Quem cresce no campo precisa de mais espaço pessoal do que quem cresce na cidade, e isso nota-se até na distância a que estende a mão para cumprimentar."
+},
+  {
+"id":"031",
+"title":"Gestos com as mãos: introdução",
+"text":[
+"É uma antiga brincadeira dizer que \"Fulano ficaria mudo se lhe atassem as mãos\".",
+"Entretanto, é certo que todos ficaríamos bastante incomodados se tivéssemos que renunciar aos gestos com que tão freqüentemente acompanhamos e ilustramos nossas palavras.",
+"A maioria das pessoas são conscientes dos movimentos das mãos dos outros, mas geralmente os ignoram, encarando-os como não se tratando de mais do que gestos sem sentido. Entretanto, os gestos comunicam. Às vezes, contribuem para esclarecer uma mensagem verbal pouco clara."
+],
+"glossary":[
+{"t":"Brincadeira","d":"gracejo, piada."},
+{"t":"Fulano","d":"uma pessoa qualquer, de quem não se diz o nome."},
+{"t":"Atassem","d":"prendessem, amarrassem."},
+{"t":"Renunciar","d":"abdicar, deixar de fazer."},
+{"t":"Ilustrar","d":"tornar mais claro, aqui com gestos."},
+{"t":"Esclarecer","d":"tornar claro, explicar melhor."}
+],
+"questions":[
+{"q":"Segundo a antiga brincadeira, o que aconteceria a 'Fulano' se lhe atassem as mãos?","options":["Ficaria mudo","Falaria mais alto","Ficaria zangado","Começaria a dançar"],"answer":0,"why":"A brincadeira diz que Fulano ficaria mudo se lhe atassem as mãos."},
+{"q":"O que, segundo o texto, nos incomodaria bastante?","options":["Falar em público","Renunciar aos gestos com que acompanhamos e ilustramos as palavras","Ouvir música alta","Estar em silêncio"],"answer":1,"why":"O texto diz que todos ficaríamos bastante incomodados se tivéssemos de renunciar aos gestos com que acompanhamos e ilustramos as palavras."},
+{"q":"O que faz geralmente a maioria das pessoas em relação aos movimentos das mãos dos outros?","options":["Imita-os","Regista-os por escrito","Ignora-os, encarando-os como gestos sem sentido","Interpreta-os sempre bem"],"answer":2,"why":"O texto diz que a maioria é consciente dos movimentos das mãos, mas geralmente ignora-os, como se fossem gestos sem sentido."},
+{"q":"Segundo o texto, os gestos das mãos podem:","options":["Apenas enfeitar o discurso","Substituir sempre a fala","Atrapalhar a mensagem verbal","Contribuir para esclarecer uma mensagem verbal pouco clara"],"answer":3,"why":"O texto diz que, às vezes, os gestos contribuem para esclarecer uma mensagem verbal pouco clara."},
+{"q":"Alguém explica um caminho e desenha no ar o percurso com as mãos. Segundo a ideia do texto, o que está a fazer?","options":["Gestos sem sentido","Ilustrar e esclarecer a mensagem com as mãos","Mentir","Mostrar nervosismo"],"answer":1,"why":"Os gestos acompanham e ilustram as palavras, e ajudam a esclarecer a mensagem."}
+],
+"summary":"Os gestos das mãos acompanham a fala, comunicam e, muitas vezes, ajudam a esclarecer o que as palavras não deixam claro, embora a maioria das pessoas os ignore."
+},
+{
+"id":"032",
+"title":"A palma da mão: verdade e honestidade",
+"text":[
+"O gesto de exibir as palmas das mãos sempre foi associado com a verdade, a honestidade, a lealdade e a deferência. Muitos juramentos são efetuados colocando a palma da mão sobre o coração; a mão se levanta com a palma para fora quando alguém declara em um tribunal; diante dos membros do tribunal, a Bíblia é sustentada com a mão esquerda e se levanta a palma direita.",
+"Palmas abertas indicam honestidade."
+],
+"glossary":[
+{"t":"Exibir","d":"mostrar, deixar à vista."},
+{"t":"Lealdade","d":"fidelidade, firmeza no compromisso com alguém."},
+{"t":"Deferência","d":"respeito, consideração."},
+{"t":"Juramento","d":"promessa solene de dizer a verdade ou cumprir um dever."},
+{"t":"Tribunal","d":"local onde se faz justiça."},
+{"t":"Sustentada","d":"segurada, mantida."}
+],
+"questions":[
+{"q":"Com que valores sempre foi associado o gesto de exibir as palmas das mãos?","options":["Verdade, honestidade, lealdade e deferência","Raiva e hostilidade","Medo e fuga","Orgulho e superioridade"],"answer":0,"why":"O texto diz que o gesto sempre foi associado com a verdade, a honestidade, a lealdade e a deferência."},
+{"q":"Onde se coloca a palma da mão em muitos juramentos?","options":["Sobre a testa","Sobre o coração","Sobre a boca","Sobre o ombro"],"answer":1,"why":"O texto diz que muitos juramentos são feitos colocando a palma da mão sobre o coração."},
+{"q":"Como se levanta a mão quando alguém declara em tribunal?","options":["Com o punho fechado","Com a palma para dentro","Com a palma para fora","Com o dedo apontado"],"answer":2,"why":"O texto diz que a mão se levanta com a palma para fora quando alguém declara em tribunal."},
+{"q":"Diante dos membros do tribunal, o que se faz com a mão direita?","options":["Sustenta-se a Bíblia","Cobre-se a boca","Aperta-se a mão do juiz","Levanta-se a palma direita"],"answer":3,"why":"O texto diz que a Bíblia é sustentada com a mão esquerda e se levanta a palma direita."},
+{"q":"Alguém mostra as duas palmas abertas ao dizer 'juro que não fui eu'. Segundo a ideia do texto, esse gesto:","options":["Reforça a ideia de verdade e honestidade","Indica que está a mentir","Mostra superioridade","Não tem qualquer significado"],"answer":0,"why":"Exibir as palmas das mãos está associado à verdade e à honestidade, tal como nos juramentos."}
+],
+"summary":"Mostrar as palmas das mãos sempre foi associado à verdade e à honestidade, como se vê nos juramentos e nas declarações em tribunal."
+},
+{
+"id":"033",
+"title":"A palma da mão: confiança e os três gestos",
+"text":[
+"Na vida cotidiana, as pessoas usam duas posições fundamentais das palmas das mãos: palmas para cima na posição do mendigo que pede dinheiro ou comida, e a outra é a das palmas para baixo como se tratasse de se conter, de manter algo. Quando alguém deseja ser franco e honesto, levanta uma ou ambas as palmas para a outra pessoa e diz algo assim como: \"vou ser franco com você\".",
+"Quando alguém começa a confiar em outro, expor-lhe as palmas ou partes delas é um gesto inconsciente como quase todas as linguagens do corpo, um gesto que proporciona ao que o vê a sensação ou o pressentimento de que estão lhe dizendo a verdade.",
+"Há três gestos principais de gestos com as palmas: a palma para cima (já comentada), para baixo e a palma fechada com um dedo apontando em uma direção."
+],
+"glossary":[
+{"t":"Cotidiana","d":"do dia a dia."},
+{"t":"Mendigo","d":"pessoa que pede esmola."},
+{"t":"Franco","d":"sincero, que diz o que pensa."},
+{"t":"Inconsciente","d":"feito sem dar por isso."},
+{"t":"Pressentimento","d":"sensação que antecipa algo, sem prova."}
+],
+"questions":[
+{"q":"Quais são as duas posições fundamentais das palmas na vida cotidiana?","options":["Palmas para cima e palmas para baixo","Palmas para dentro e para fora","Punhos e dedos abertos","Palmas juntas e separadas"],"answer":0,"why":"O texto fala de palmas para cima e palmas para baixo."},
+{"q":"Com quem compara o texto a posição das palmas para cima?","options":["Com um juiz","Com um mendigo que pede dinheiro ou comida","Com um professor","Com um polícia"],"answer":1,"why":"O texto compara as palmas para cima à posição do mendigo que pede dinheiro ou comida."},
+{"q":"O que faz alguém que deseja ser franco e honesto?","options":["Cruza os braços","Esconde as mãos nos bolsos","Levanta uma ou ambas as palmas para a outra pessoa","Aponta o dedo"],"answer":2,"why":"O texto diz que quem deseja ser franco e honesto levanta uma ou ambas as palmas para a outra pessoa."},
+{"q":"Quando alguém começa a confiar em outro, expor-lhe as palmas é um gesto:","options":["Calculado e planeado","Inconsciente","Proibido","Só dos políticos"],"answer":1,"why":"O texto diz que expor as palmas, quando se começa a confiar, é um gesto inconsciente."},
+{"q":"Quais são os três gestos principais com as palmas, segundo o texto?","options":["Palma para cima, palma para baixo e palma fechada com um dedo a apontar","Palma na testa, na boca e no queixo","Palma aberta, fechada e cruzada","Palma para a esquerda, para a direita e para a frente"],"answer":0,"why":"O texto indica a palma para cima, a palma para baixo e a palma fechada com um dedo a apontar numa direcção."}
+],
+"summary":"Palmas para cima ou para baixo são as duas posições do dia a dia; mostrar as palmas transmite sinceridade e confiança, e existem três gestos principais com as palmas."
+},
+{
+"id":"034",
+"title":"A palma da mão: submissão, autoridade e ordem",
+"text":[
+"A palma para cima é um gesto não ameaçador que denota submissão.",
+"Quando alguém coloca a palma para baixo adquire imediatamente autoridade. A pessoa receptora sente que está lhe dando uma ordem.",
+"A palma fechada em um punho, com o dedo assinalando a direção, é o plano simbólico com que um ordena ao que o escuta para fazer que lhe obedeça."
+],
+"glossary":[
+{"t":"Ameaçador","d":"que mete medo, que ameaça."},
+{"t":"Submissão","d":"aceitação da autoridade de outra pessoa."},
+{"t":"Autoridade","d":"poder de mandar ou de ser obedecido."},
+{"t":"Receptora","d":"que recebe, aqui a pessoa a quem o gesto se dirige."},
+{"t":"Punho","d":"a mão fechada."},
+{"t":"Simbólico","d":"que representa algo através de um sinal."}
+],
+"questions":[
+{"q":"A palma para cima é um gesto:","options":["Ameaçador, que denota agressão","Não ameaçador, que denota submissão","Autoritário, que dá ordens","Hostil, que denota raiva"],"answer":1,"why":"O texto diz que a palma para cima é um gesto não ameaçador que denota submissão."},
+{"q":"Quando alguém coloca a palma para baixo, adquire imediatamente:","options":["Medo","Simpatia","Autoridade","Dúvidas"],"answer":2,"why":"O texto diz que quem coloca a palma para baixo adquire imediatamente autoridade."},
+{"q":"O que sente a pessoa receptora perante a palma para baixo?","options":["Que lhe oferecem ajuda","Que lhe pedem desculpa","Que lhe pedem um favor","Que lhe estão a dar uma ordem"],"answer":3,"why":"O texto diz que a pessoa receptora sente que está a receber uma ordem."},
+{"q":"O que simboliza a palma fechada em punho, com o dedo a assinalar a direcção?","options":["Ordenar ao ouvinte que obedeça","Pedir ajuda","Mostrar medo","Agradecer"],"answer":0,"why":"O texto diz que é o plano simbólico com que alguém ordena ao ouvinte que lhe obedeça."},
+{"q":"Numa reunião, o chefe pede silêncio com a mão aberta e a palma virada para baixo. Segundo a ideia do texto, o gesto:","options":["Mostra submissão","Pede um favor","Transmite autoridade","Mostra dúvida"],"answer":2,"why":"A palma para baixo faz com que quem a coloca adquira autoridade e quem a vê sinta que lhe estão a dar uma ordem."}
+],
+"summary":"Palma para cima mostra submissão, palma para baixo dá autoridade e o punho fechado com um dedo a apontar serve para ordenar e fazer obedecer."
 }
 ]
 }
