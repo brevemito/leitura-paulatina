@@ -847,6 +847,106 @@
 {"q":"Numa reunião, o chefe pede silêncio com a mão aberta e a palma virada para baixo. Segundo a ideia do texto, o gesto:","options":["Mostra submissão","Pede um favor","Transmite autoridade","Mostra dúvida"],"answer":2,"why":"A palma para baixo faz com que quem a coloca adquira autoridade e quem a vê sinta que lhe estão a dar uma ordem."}
 ],
 "summary":"Palma para cima mostra submissão, palma para baixo dá autoridade e o punho fechado com um dedo a apontar serve para ordenar e fazer obedecer."
+},
+  {
+"id":"035",
+"title":"O aperto de mãos: a origem",
+"text":[
+"Apertar as mãos é um vestígio que ficou do homem das cavernas. Quando dois cavernícolas se encontravam, levantavam os braços com as palmas à vista para demonstrar que não escondiam nenhuma arma.",
+"Com o transcorrer dos séculos, esse gesto de exibição das palmas foi transformando-se em outros como o da palma levantada para a saudação, a palma sobre o coração e muitos outros.",
+"A forma moderna desse ancestral gesto de saudação é estreitar as palmas e sacudi-las. No Ocidente se pratica essa saudação ao encontrar-se e ao despedir-se."
+],
+"glossary":[
+{"t":"Vestígio","d":"sinal ou resto de algo que existiu no passado."},
+{"t":"Cavernícolas","d":"pessoas que viviam em cavernas, na pré-história."},
+{"t":"Transcorrer","d":"o passar do tempo."},
+{"t":"Ancestral","d":"muito antigo, que vem dos antepassados."},
+{"t":"Estreitar","d":"apertar."},
+{"t":"Ocidente","d":"conjunto de países da Europa e das Américas, em contraste com o Oriente."}
+],
+"questions":[
+{"q":"Segundo o texto, apertar as mãos é um vestígio de quê?","options":["Do homem das cavernas","Da Idade Média","Do comércio antigo","Da vida militar"],"answer":0,"why":"O texto diz que apertar as mãos é um vestígio que ficou do homem das cavernas."},
+{"q":"Porque levantavam os cavernícolas os braços com as palmas à vista?","options":["Para pedir comida","Para demonstrar que não escondiam nenhuma arma","Para se aquecerem","Para chamar outros"],"answer":1,"why":"O texto diz que o faziam para demonstrar que não escondiam nenhuma arma."},
+{"q":"Em que foi transformando-se, com o tempo, o gesto de exibição das palmas?","options":["Desapareceu por completo","Apenas no aperto de mãos","Em outros gestos, como a palma levantada para a saudação e a palma sobre o coração","Num gesto de ameaça"],"answer":2,"why":"O texto diz que o gesto foi-se transformando em outros, como a palma levantada para a saudação e a palma sobre o coração."},
+{"q":"Qual é a forma moderna desse ancestral gesto de saudação?","options":["Levantar os braços","Pôr a mão sobre o coração","Inclinar a cabeça","Estreitar as palmas e sacudi-las"],"answer":3,"why":"O texto diz que a forma moderna é estreitar as palmas e sacudi-las."},
+{"q":"Segundo o texto, quando se pratica essa saudação no Ocidente?","options":["Só ao despedir-se","Ao encontrar-se e ao despedir-se","Só ao encontrar-se","Apenas em reuniões formais"],"answer":1,"why":"O texto diz que no Ocidente se pratica essa saudação ao encontrar-se e ao despedir-se."}
+],
+"summary":"O aperto de mãos vem do tempo das cavernas, quando mostrar as palmas provava que não se escondia uma arma, e é hoje a forma moderna de saudar no Ocidente."
+},
+{
+"id":"036",
+"title":"Apertos de mãos submissos e dominantes: as três atitudes",
+"text":[
+"Tendo em conta o que já foi dito sobre a força de uma petição feita com as palmas para cima ou para baixo, estudemos a importância dessas posições no aperto de mãos.",
+"Suponhamos que acabam de nos apresentar a alguém e se realiza um aperto de mãos. Três atitudes podem transmitir-se no aperto:",
+"A atitude de domínio: \"Esse indivíduo está tentando me submeter. Vou estar alerta.\"",
+"A atitude de submissão: \"Posso fazer o que quiser com essa pessoa.\"",
+"E a atitude de igualdade: \"Eu gosto, nos daremos bem.\"",
+"Essas atitudes se transmitem de forma inconsciente mas, com a prática e a aplicação conscientes, as seguintes técnicas para estreitar a mão podem ter um efeito imediato no resultado de um encontro com outra pessoa."
+],
+"glossary":[
+{"t":"Petição","d":"pedido."},
+{"t":"Domínio","d":"controle, poder sobre outra pessoa."},
+{"t":"Submeter","d":"fazer alguém obedecer, pôr sob o seu controle."},
+{"t":"Submissão","d":"aceitação da autoridade de outro."},
+{"t":"Alerta","d":"atento, preparado para o que possa acontecer."},
+{"t":"Igualdade","d":"situação em que as duas pessoas estão ao mesmo nível."}
+],
+"questions":[
+{"q":"Segundo o texto, quantas atitudes podem transmitir-se num aperto de mãos?","options":["Duas","Três","Quatro","Cinco"],"answer":1,"why":"O texto diz que três atitudes podem transmitir-se no aperto: domínio, submissão e igualdade."},
+{"q":"Qual é a frase que corresponde à atitude de domínio?","options":["Eu gosto, nos daremos bem","Posso fazer o que quiser com essa pessoa","Esse indivíduo está tentando me submeter. Vou estar alerta","Não tenho opinião sobre esta pessoa"],"answer":2,"why":"Quem recebe um aperto dominante pensa que o outro está a tentar submetê-lo e fica alerta."},
+{"q":"Qual é a frase que corresponde à atitude de submissão?","options":["Esse indivíduo está tentando me submeter","Eu gosto, nos daremos bem","Vou estar alerta","Posso fazer o que quiser com essa pessoa"],"answer":3,"why":"Perante um aperto submisso, o outro sente que pode fazer o que quiser com essa pessoa."},
+{"q":"Qual é a frase que corresponde à atitude de igualdade?","options":["Eu gosto, nos daremos bem","Posso fazer o que quiser com essa pessoa","Vou estar alerta","Esse indivíduo está tentando me submeter"],"answer":0,"why":"Num aperto de igualdade, o outro sente simpatia e pensa que se darão bem."},
+{"q":"Como se transmitem essas atitudes, segundo o texto?","options":["Só por palavras","De forma inconsciente, mas com prática e aplicação conscientes as técnicas podem ter efeito imediato","Só por escrito","Apenas entre amigos"],"answer":1,"why":"O texto diz que se transmitem de forma inconsciente, mas que a prática e a aplicação conscientes das técnicas têm efeito imediato no encontro."}
+],
+"summary":"Num aperto de mãos transmitem-se, sem darmos por isso, três atitudes: domínio, submissão ou igualdade; com prática, podemos usar essas técnicas conscientemente."
+},
+{
+"id":"037",
+"title":"Apertos de mãos submissos e dominantes: o domínio",
+"text":[
+"O domínio se transmite quando a palma (a da manga escura na figura) fica para baixo.",
+"Não é necessário que a palma fique para o chão; basta com que esteja para baixo sobre a palma da outra pessoa. Esta posição indica para um que o outro quer tomar o controle dessa reunião."
+],
+"glossary":[
+{"t":"Transmitir","d":"fazer chegar a outra pessoa."},
+{"t":"Manga","d":"a parte da roupa que cobre o braço."},
+{"t":"Basta","d":"é suficiente."},
+{"t":"Controle","d":"poder de dirigir uma situação."},
+{"t":"Reunião","d":"encontro entre pessoas."}
+],
+"questions":[
+{"q":"Segundo o texto, quando se transmite o domínio num aperto de mãos?","options":["Quando a palma fica para cima","Quando as mãos ficam na vertical","Quando não há contacto","Quando a palma fica para baixo"],"answer":3,"why":"O texto diz que o domínio se transmite quando a palma fica para baixo."},
+{"q":"É necessário que a palma fique virada para o chão?","options":["Sim, sempre","Só em reuniões formais","Não; basta que esteja para baixo sobre a palma da outra pessoa","Só com desconhecidos"],"answer":2,"why":"O texto diz que não é necessário que a palma fique para o chão, basta que esteja para baixo sobre a palma da outra pessoa."},
+{"q":"O que indica essa posição à outra pessoa, segundo o texto?","options":["Que quem a faz quer tomar o controle da reunião","Que quem a faz quer ceder o controle","Que quem a faz está nervoso","Que quem a faz quer ser amigo"],"answer":0,"why":"O texto diz que esta posição indica que o outro quer tomar o controle da reunião."},
+{"q":"Qual destas descreve um aperto de mãos dominante?","options":["A mão oferecida com a palma para cima","A mão com a palma para baixo sobre a palma do outro","As duas mãos na vertical","Nenhum contacto de palmas"],"answer":1,"why":"No aperto dominante, a palma fica para baixo sobre a palma da outra pessoa."},
+{"q":"Ao cumprimentar-te, alguém coloca a mão sobre a tua, com a palma virada para baixo. O que isto sugere, segundo o texto?","options":["Que quer ceder-te o controle","Que está nervoso","Que quer tomar o controle da reunião","Que só quer a tua amizade"],"answer":2,"why":"A palma para baixo sobre a palma do outro indica que quem a faz quer tomar o controle da reunião."}
+],
+"summary":"A palma virada para baixo, sobre a palma do outro, transmite domínio e indica que quem a faz quer tomar o controle do encontro."
+},
+{
+"id":"038",
+"title":"Apertos de mãos submissos e dominantes: a submissão e a igualdade",
+"text":[
+"O contrário do aperto dominante é oferecer a mão com a palma para cima. Esse gesto resulta especialmente efetivo quando se deseja ceder ao outro o controle da situação, ou lhe fazer sentir que o tem.",
+"Quando duas pessoas dominantes se estreitam as mãos tem lugar uma luta simbólica, já que cada uma tenta pôr a palma da outra em posição de submissão. O resultado é um aperto de mãos vertical no qual cada um transmite ao outro um sentimento de respeito e simpatia."
+],
+"glossary":[
+{"t":"Efetivo","d":"que produz efeito, que funciona."},
+{"t":"Ceder","d":"entregar, deixar que o outro tenha."},
+{"t":"Simbólica","d":"que acontece por sinais, sem violência real."},
+{"t":"Vertical","d":"em pé, na direcção de cima para baixo."},
+{"t":"Respeito","d":"consideração pelo outro."},
+{"t":"Simpatia","d":"sentimento de agrado por alguém."}
+],
+"questions":[
+{"q":"Qual é o contrário do aperto dominante, segundo o texto?","options":["Oferecer a mão com a palma para cima","Apertar com muita força","Não oferecer a mão","Oferecer as duas mãos"],"answer":0,"why":"O texto diz que o contrário do aperto dominante é oferecer a mão com a palma para cima."},
+{"q":"Quando é especialmente efetivo oferecer a mão com a palma para cima?","options":["Quando se quer impor autoridade","Quando se deseja ceder ao outro o controle da situação, ou fazê-lo sentir que o tem","Quando se quer terminar a reunião","Quando se quer mostrar raiva"],"answer":1,"why":"O texto diz que esse gesto é especialmente efetivo quando se deseja ceder ao outro o controle da situação, ou fazê-lo sentir que o tem."},
+{"q":"O que acontece quando duas pessoas dominantes se cumprimentam?","options":["Uma cede logo","Não se cumprimentam","Há uma luta simbólica, em que cada uma tenta pôr a palma da outra em posição de submissão","Trocam de lugar"],"answer":2,"why":"O texto diz que tem lugar uma luta simbólica, porque cada uma tenta pôr a palma da outra em posição de submissão."},
+{"q":"Qual é o resultado dessa luta simbólica?","options":["Um aperto com a palma para baixo","Um aperto fraco","Um vencedor claro","Um aperto de mãos vertical, com respeito e simpatia de ambos os lados"],"answer":3,"why":"O texto diz que o resultado é um aperto de mãos vertical em que cada um transmite ao outro respeito e simpatia."},
+{"q":"Um vendedor quer que o cliente sinta que tem o controle da conversa. O que pode fazer ao apertar-lhe a mão, segundo o texto?","options":["Oferecer a mão com a palma para cima","Oferecer a mão com a palma para baixo","Apertar com muita força","Não cumprimentar"],"answer":0,"why":"Oferecer a mão com a palma para cima faz o outro sentir que tem o controle da situação."}
+],
+"summary":"Oferecer a mão com a palma para cima cede o controle ao outro, e quando duas pessoas dominantes se cumprimentam, a luta simbólica termina num aperto vertical, de respeito e simpatia."
 }
 ]
 }
