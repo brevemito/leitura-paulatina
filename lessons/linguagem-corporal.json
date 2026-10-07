@@ -947,6 +947,100 @@
 {"q":"Um vendedor quer que o cliente sinta que tem o controle da conversa. O que pode fazer ao apertar-lhe a mão, segundo o texto?","options":["Oferecer a mão com a palma para cima","Oferecer a mão com a palma para baixo","Apertar com muita força","Não cumprimentar"],"answer":0,"why":"Oferecer a mão com a palma para cima faz o outro sentir que tem o controle da situação."}
 ],
 "summary":"Oferecer a mão com a palma para cima cede o controle ao outro, e quando duas pessoas dominantes se cumprimentam, a luta simbólica termina num aperto vertical, de respeito e simpatia."
+},
+  {
+"id":"039",
+"title":"Os estilos para estreitar a mão: o estilo mais agressivo",
+"text":[
+"Estender o braço com a mão esticada e a palma para baixo é o estilo mais agressivo de iniciação da saudação, pois não dá oportunidade à outra pessoa de estabelecer uma relação em igualdade de condições. Essa forma de dar a mão é típica do macho dominante e agressivo que sempre inicia o saudação. Seu braço rígido e a palma para baixo obrigam o outro indivíduo a ficar em situação totalmente submissa, pois tem que responder com sua palma para cima."
+],
+"glossary":[
+{"t":"Iniciação","d":"o começo de algo, o primeiro passo."},
+{"t":"Esticada","d":"estendida, sem dobrar."},
+{"t":"Igualdade de condições","d":"situação em que as duas pessoas estão ao mesmo nível."},
+{"t":"Rígido","d":"duro, sem flexibilidade."},
+{"t":"Submissa","d":"que aceita a autoridade do outro."}
+],
+"questions":[
+{"q":"Segundo o texto, qual é o estilo mais agressivo de iniciação da saudação?","options":["Estender o braço com a mão esticada e a palma para baixo","Estender as duas mãos","Estender a mão com a palma para cima","Não estender a mão"],"answer":0,"why":"O texto diz que estender o braço com a mão esticada e a palma para baixo é o estilo mais agressivo de iniciação da saudação."},
+{"q":"Porque é um estilo agressivo, segundo o texto?","options":["Porque aperta com muita força","Porque é muito lento","Porque não dá oportunidade à outra pessoa de estabelecer uma relação em igualdade de condições","Porque é feito com as duas mãos"],"answer":2,"why":"O texto explica que esse estilo não dá à outra pessoa a oportunidade de criar uma relação em igualdade de condições."},
+{"q":"De quem é típica essa forma de dar a mão?","options":["Do tímido e reservado","Do macho dominante e agressivo que sempre inicia a saudação","Da criança","Do amigo íntimo"],"answer":1,"why":"O texto diz que é típica do macho dominante e agressivo que sempre inicia a saudação."},
+{"q":"O que obrigam o braço rígido e a palma para baixo o outro indivíduo a fazer?","options":["A responder com a palma para baixo também","A afastar-se","A recusar o cumprimento","A ficar em situação submissa, respondendo com a sua palma para cima"],"answer":3,"why":"O texto diz que o outro fica em situação totalmente submissa, pois tem de responder com a sua palma para cima."},
+{"q":"Um desconhecido estende o braço rígido, com a palma para baixo. Segundo o texto, esse gesto é:","options":["Amistoso e igualitário","Hesitante","Uma tentativa de dominar, que não dá oportunidade de igualdade","Um sinal de timidez"],"answer":2,"why":"A palma para baixo e o braço rígido são o estilo mais agressivo, que obriga o outro a ficar em posição submissa."}
+],
+"summary":"Estender o braço rígido com a palma para baixo é o estilo mais agressivo de saudação: obriga o outro a responder em posição submissa."
+},
+{
+"id":"040",
+"title":"Os estilos para estreitar a mão: o 'tipo luva' e a trituração dos nódulos",
+"text":[
+"O aperto de mãos \"tipo luva\" se chama às vezes \"aperto de mãos do político\". O iniciador trata de dar a impressão de ser uma pessoa digna de confiança e honesta, mas quando usa essa técnica com alguém que se acaba de conhecer, o efeito é oposto.",
+"A trituração dos nódulos é a marca do tipo rude e agressivo."
+],
+"glossary":[
+{"t":"Luva","d":"peça de roupa que cobre a mão; aqui, uma comparação com o modo como uma mão envolve a outra."},
+{"t":"Iniciador","d":"quem começa o gesto, quem toma a iniciativa."},
+{"t":"Digna de confiança","d":"em quem se pode confiar."},
+{"t":"Trituração","d":"o acto de esmagar, de apertar com muita força."},
+{"t":"Nódulos","d":"aqui, as articulações dos dedos."},
+{"t":"Rude","d":"grosseiro, sem delicadeza."}
+],
+"questions":[
+{"q":"Como se chama às vezes o aperto de mãos 'tipo luva'?","options":["Aperto do amigo","Aperto de mãos do político","Aperto do vendedor","Aperto do soldado"],"answer":1,"why":"O texto diz que se chama às vezes 'aperto de mãos do político'."},
+{"q":"O que procura o iniciador do aperto 'tipo luva'?","options":["Mostrar autoridade","Intimidar o outro","Dar a impressão de ser uma pessoa digna de confiança e honesta","Terminar depressa o cumprimento"],"answer":2,"why":"O texto diz que o iniciador trata de dar a impressão de ser uma pessoa digna de confiança e honesta."},
+{"q":"Que efeito tem esta técnica com alguém que se acaba de conhecer?","options":["O efeito é oposto ao desejado","Cria grande confiança","Não tem qualquer efeito","Mostra respeito"],"answer":0,"why":"O texto diz que, com alguém que se acaba de conhecer, o efeito é oposto."},
+{"q":"De que tipo de pessoa é marca a trituração dos nódulos?","options":["Do tímido","Do diplomata","Do nervoso","Do tipo rude e agressivo"],"answer":3,"why":"O texto diz que a trituração dos nódulos é a marca do tipo rude e agressivo."},
+{"q":"Um desconhecido envolve a tua mão com as duas dele ao ser-te apresentado, como se fosse uma luva. Segundo o texto, é provável que:","options":["Passes a confiar nele de imediato","Estranhes, porque com quem se acaba de conhecer o efeito é o oposto do desejado","Sintas que é um amigo íntimo","Sintas que está a submeter-se a ti"],"answer":1,"why":"O aperto 'tipo luva' com alguém que se acaba de conhecer tem efeito oposto ao de dar confiança."}
+],
+"summary":"O aperto 'tipo luva', ou do político, tenta passar confiança mas, com quem acabamos de conhecer, tem o efeito contrário; apertar até esmagar os nódulos é marca do tipo rude e agressivo."
+},
+{
+"id":"041",
+"title":"Os estilos para estreitar a mão: duas mãos e o braço",
+"text":[
+"A intenção que se manifesta ao estender as duas mãos para o receptor demonstra sinceridade, confiança ou um sentimento profundo para o receptor.",
+"Pegar na parte superior do braço transmite mais sentimento do que pegar o pulso. E mais até transmite o tirar do ombro. Pegar no pulso e no cotovelo é aceito somente entre amigos íntimos ou parentes. Se um político ou um vendedor fizer isso com um eventual cliente, isso desloca o receptor e não é bom."
+],
+"glossary":[
+{"t":"Manifestar","d":"mostrar, deixar ver."},
+{"t":"Receptor","d":"quem recebe o gesto."},
+{"t":"Sinceridade","d":"qualidade de quem diz ou faz o que sente de verdade."},
+{"t":"Pulso","d":"a parte do braço junto à mão."},
+{"t":"Cotovelo","d":"a articulação a meio do braço."},
+{"t":"Eventual","d":"possível, que pode vir a acontecer."}
+],
+"questions":[
+{"q":"Segundo o texto, o que demonstra a intenção manifestada ao estender as duas mãos para o receptor?","options":["Pressa","Sinceridade, confiança ou um sentimento profundo","Hostilidade","Indiferença"],"answer":1,"why":"O texto diz que estender as duas mãos demonstra sinceridade, confiança ou um sentimento profundo para o receptor."},
+{"q":"O que transmite mais sentimento, segundo o texto?","options":["Pegar na parte superior do braço, em vez do pulso","Pegar o pulso, em vez do braço","Apertar só os dedos","Pegar no cotovelo"],"answer":0,"why":"O texto diz que pegar na parte superior do braço transmite mais sentimento do que pegar o pulso."},
+{"q":"Pegar no pulso e no cotovelo é aceito somente entre quem?","options":["Desconhecidos","Colegas de trabalho","Amigos íntimos ou parentes","Políticos e vendedores"],"answer":2,"why":"O texto diz que pegar no pulso e no cotovelo é aceito somente entre amigos íntimos ou parentes."},
+{"q":"O que acontece se um político ou vendedor fizer isso com um eventual cliente?","options":["Ganha a confiança do cliente","O cliente sente-se honrado","O cliente retribui com as duas mãos","Isso desloca o receptor e não é bom"],"answer":3,"why":"O texto diz que isso desloca o receptor e não é bom."},
+{"q":"Um vendedor, ao conhecer um cliente, agarra-lhe o pulso e o cotovelo ao cumprimentar. Segundo o texto, isso:","options":["Mostra proximidade que o cliente aprecia","Pode deixar o cliente desconfortável, pois só é aceite entre amigos íntimos ou parentes","Mostra respeito","Mostra submissão"],"answer":1,"why":"Segundo o texto, esse tipo de contacto só é aceite entre amigos íntimos ou parentes, e com um cliente desloca o receptor."}
+],
+"summary":"Estender as duas mãos mostra sinceridade e confiança; segurar o braço transmite sentimento, mas pulso e cotovelo só são aceites entre amigos íntimos ou parentes."
+},
+{
+"id":"042",
+"title":"Mãos com os dedos entrelaçados",
+"text":[
+"A princípio pode parecer que esse é um gesto de bem-estar porque a pessoa que o usa frequentemente está sorrindo ao mesmo tempo, e parece feliz. Mas realmente é um gesto de frustração ou atitude hostil e a pessoa que o faz está dissimulando uma atitude negativa. É preciso provocar alguma ação para desenlaçar os dedos e expor as palmas e a parte dianteira do corpo, senão permanecerá a atitude hostil.",
+"Parece que existe uma relação entre a altura a que se sustentam as mãos e a intensidade da atitude negativa. quanto mais altas estão as mãos, mais difícil será o trato com a pessoa."
+],
+"glossary":[
+{"t":"Bem-estar","d":"sensação de conforto e de estar bem."},
+{"t":"Frustração","d":"sentimento de quem não consegue o que queria."},
+{"t":"Hostil","d":"contrário, pouco amigável."},
+{"t":"Dissimular","d":"esconder o que realmente se sente."},
+{"t":"Desenlaçar","d":"desfazer o que estava entrelaçado."},
+{"t":"Trato","d":"a forma de lidar com alguém."}
+],
+"questions":[
+{"q":"Porque pode parecer, a princípio, que este gesto é de bem-estar?","options":["Porque a pessoa frequentemente está a sorrir e parece feliz","Porque é um gesto de saudação","Porque só se faz entre amigos","Porque se faz com as mãos abaixadas"],"answer":0,"why":"O texto diz que a pessoa frequentemente sorri ao mesmo tempo e parece feliz."},
+{"q":"O que é realmente este gesto, segundo o texto?","options":["Um gesto de entusiasmo","Um gesto de frustração ou atitude hostil, que dissimula uma atitude negativa","Um gesto de sono","Um gesto de submissão"],"answer":1,"why":"O texto diz que é um gesto de frustração ou atitude hostil, e que quem o faz dissimula uma atitude negativa."},
+{"q":"O que é preciso fazer para que a atitude hostil não permaneça?","options":["Esperar em silêncio","Apenas mudar de assunto","Provocar alguma acção para desenlaçar os dedos e expor as palmas e a parte dianteira do corpo","Fazer o mesmo gesto"],"answer":2,"why":"O texto diz que é preciso provocar alguma acção para desenlaçar os dedos e expor as palmas e a parte dianteira do corpo."},
+{"q":"Que relação existe entre a altura das mãos e a atitude negativa?","options":["Quanto mais baixas as mãos, mais difícil o trato","Não há qualquer relação","Mãos altas indicam felicidade","Quanto mais altas estão as mãos, mais difícil será o trato com a pessoa"],"answer":3,"why":"O texto diz que, quanto mais altas estão as mãos, mais difícil será o trato com a pessoa."},
+{"q":"Numa negociação, a outra parte sorri, mas mantém os dedos entrelaçados à altura do rosto. Segundo o texto:","options":["Está muito satisfeita","Pode estar a dissimular uma atitude negativa, e o trato será difícil","Está a ceder","Está a pedir desculpa"],"answer":1,"why":"Dedos entrelaçados indicam frustração ou atitude hostil dissimulada, e mãos mais altas indicam atitude mais difícil."}
+],
+"summary":"Mãos com os dedos entrelaçados, mesmo com um sorriso, indicam frustração ou hostilidade escondida, e quanto mais altas estão as mãos, mais difícil é lidar com a pessoa."
 }
 ]
 }
