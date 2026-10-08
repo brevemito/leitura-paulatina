@@ -1041,6 +1041,100 @@
 {"q":"Numa negociação, a outra parte sorri, mas mantém os dedos entrelaçados à altura do rosto. Segundo o texto:","options":["Está muito satisfeita","Pode estar a dissimular uma atitude negativa, e o trato será difícil","Está a ceder","Está a pedir desculpa"],"answer":1,"why":"Dedos entrelaçados indicam frustração ou atitude hostil dissimulada, e mãos mais altas indicam atitude mais difícil."}
 ],
 "summary":"Mãos com os dedos entrelaçados, mesmo com um sorriso, indicam frustração ou hostilidade escondida, e quanto mais altas estão as mãos, mais difícil é lidar com a pessoa."
+},
+  {
+"id":"043",
+"title":"Mãos em ogiva",
+"text":[
+"A pessoa que se tem confiança, que é superior, ou a que usa mínima gesticulação, com freqüência faz este gesto, e com ele expressa sua atitude de segurança. Também é um gesto comum entre os contadores, advogados, gerentes e outros profissionais.",
+"A ogiva para cima se usa quando esta pessoa opinando, quando é a que fala. A ogiva para baixo se usa mais quando se está escutando."
+],
+"glossary":[
+{"t":"Ogiva","d":"aqui, o gesto em que as pontas dos dedos das duas mãos se encostam, formando uma figura em ponta, como o tecto de uma torre."},
+{"t":"Gesticulação","d":"o acto de fazer gestos ao falar."},
+{"t":"Mínima","d":"a menor possível, muito pouca."},
+{"t":"Segurança","d":"confiança em si mesmo, sem dúvidas."},
+{"t":"Opinar","d":"dar a sua opinião."},
+{"t":"Contadores","d":"profissionais que tratam da contabilidade, das contas."}
+],
+"questions":[
+{"q":"Segundo o texto, quem faz com freqüência o gesto das mãos em ogiva?","options":["A pessoa insegura e nervosa","A pessoa que quer pedir desculpa","A pessoa que se tem confiança, que é superior, ou a que usa mínima gesticulação","A pessoa que está com frio"],"answer":2,"why":"O texto diz que quem tem confiança, é superior ou usa mínima gesticulação faz com freqüência este gesto."},
+{"q":"Que atitude expressa o gesto das mãos em ogiva?","options":["Segurança","Medo","Aborrecimento","Hostilidade"],"answer":0,"why":"O texto diz que, com este gesto, a pessoa expressa a sua atitude de segurança."},
+{"q":"Entre que profissionais, segundo o texto, é um gesto comum?","options":["Bailarinos e actores","Atletas e treinadores","Cozinheiros e padeiros","Contadores, advogados, gerentes e outros profissionais"],"answer":3,"why":"O texto diz que é um gesto comum entre os contadores, advogados, gerentes e outros profissionais."},
+{"q":"Quando se usa a ogiva para cima, segundo o texto?","options":["Quando se está a escutar","Quando a pessoa está a opinar, ou seja, quando é a que fala","Quando se está a dormir","Quando se tem frio"],"answer":1,"why":"O texto diz que a ogiva para cima se usa quando a pessoa está a opinar, quando é a que fala."},
+{"q":"Um advogado ouve o cliente com as pontas dos dedos encostadas e viradas para baixo. Segundo o texto, esta ogiva para baixo:","options":["Usa-se mais quando se está a escutar","Usa-se só quando se fala","Mostra frustração","Mostra aborrecimento"],"answer":0,"why":"O texto diz que a ogiva para baixo se usa mais quando se está a escutar."}
+],
+"summary":"As mãos em ogiva expressam segurança e são comuns em profissionais como contadores e advogados: para cima quando se fala, para baixo sobretudo quando se escuta."
+},
+{
+"id":"044",
+"title":"Mãos, braços e pulsos",
+"text":[
+"Caminhar com a cabeça levantada, o queixo para diante e as mãos para trás das costas são gestos comuns nos policiais que percorrem as ruas, do diretor da escola, dos militares e de todas as pessoas que tenham autoridade. É um gesto de superioridade e segurança. Mas não se deve confundir esse gesto, pegando no pulso ou no braço, já que estes últimos mostram frustração e intenção de autocontrolar-se."
+],
+"glossary":[
+{"t":"Policiais","d":"agentes da polícia."},
+{"t":"Autoridade","d":"poder de mandar ou de ser respeitado."},
+{"t":"Superioridade","d":"sentimento de estar acima dos outros."},
+{"t":"Pulso","d":"a parte do braço junto à mão."},
+{"t":"Frustração","d":"sentimento de quem não consegue o que queria."},
+{"t":"Autocontrolar-se","d":"conter-se, dominar os próprios impulsos."}
+],
+"questions":[
+{"q":"Que gestos são comuns nos polícias que percorrem as ruas, no director da escola e nos militares?","options":["Cruzar os braços e baixar o queixo","Caminhar com a cabeça levantada, o queixo para a frente e as mãos atrás das costas","Pôr as mãos nos bolsos","Esfregar as mãos"],"answer":1,"why":"O texto descreve este conjunto de gestos como comum nas pessoas que têm autoridade."},
+{"q":"Que ideia exprime esse gesto?","options":["Medo e submissão","Cansaço","Frustração","Superioridade e segurança"],"answer":3,"why":"O texto diz que é um gesto de superioridade e segurança."},
+{"q":"Com que gesto não se deve confundir as mãos atrás das costas?","options":["Com o gesto de pegar no pulso ou no braço","Com o gesto de pôr as mãos nos quadris","Com o gesto de cruzar as pernas","Com o gesto de sorrir"],"answer":0,"why":"O texto avisa para não confundir com o gesto de pegar no pulso ou no braço."},
+{"q":"O que mostram os gestos de pegar no pulso ou no braço, segundo o texto?","options":["Autoridade","Segurança","Frustração e intenção de autocontrolar-se","Alegria"],"answer":2,"why":"O texto diz que estes últimos mostram frustração e intenção de autocontrolar-se."},
+{"q":"Um director de escola passeia no pátio de cabeça erguida, queixo para a frente e mãos atrás das costas. O que sugere, segundo o texto?","options":["Frustração","Superioridade e segurança, próprias de quem tem autoridade","Timidez","Cansaço"],"answer":1,"why":"É o gesto típico de quem tem autoridade, e expressa superioridade e segurança."}
+],
+"summary":"Cabeça erguida e mãos atrás das costas mostram superioridade e segurança; mas se as mãos seguram o pulso ou o braço, o gesto mostra frustração e autocontrolo."
+},
+{
+"id":"045",
+"title":"Os gestos com o polegar: domínio e superioridade",
+"text":[
+"Em quiromancia, os polegares assinalam a força do caráter e o ego. O uso dos polegares na expressão não verbal confirma o anterior. Usam-se para expressar domínio, superioridade e inclusive agressão; os gestos com os polegares são secundários, formam parte de um grupo de gestos.",
+"Representam expressões positivas usadas freqüentemente nas posições típicas do gerente \"frio\" diante de seus subordinados."
+],
+"glossary":[
+{"t":"Quiromancia","d":"suposta arte de adivinhar o carácter e o futuro pelas linhas da mão."},
+{"t":"Ego","d":"a ideia que alguém tem de si próprio, o seu eu."},
+{"t":"Domínio","d":"controlo, poder sobre os outros."},
+{"t":"Secundários","d":"de importância menor, que não são os principais."},
+{"t":"Subordinados","d":"pessoas que estão sob as ordens de um chefe."}
+],
+"questions":[
+{"q":"Segundo o texto, o que assinalam os polegares em quiromancia?","options":["A força do carácter e o ego","A idade","A saúde","A profissão"],"answer":0,"why":"O texto diz que, em quiromancia, os polegares assinalam a força do carácter e o ego."},
+{"q":"Para que se usam os polegares na expressão não verbal?","options":["Para expressar tristeza e medo","Para pedir ajuda","Para expressar domínio, superioridade e inclusive agressão","Para mostrar cansaço"],"answer":2,"why":"O texto diz que se usam para expressar domínio, superioridade e inclusive agressão."},
+{"q":"Como são os gestos com os polegares, segundo o texto?","options":["Os principais, bastam sozinhos","Secundários, fazem parte de um grupo de gestos","Sempre agressivos","Muito raros"],"answer":1,"why":"O texto diz que os gestos com os polegares são secundários e formam parte de um grupo de gestos."},
+{"q":"Em que posições típicas aparecem estas expressões, segundo o texto?","options":["Do vendedor humilde","Do aluno tímido","Do cliente impaciente","Do gerente 'frio' diante dos seus subordinados"],"answer":3,"why":"O texto diz que são usadas freqüentemente nas posições típicas do gerente 'frio' diante dos seus subordinados."},
+{"q":"Vês um gerente com os polegares em evidência. Segundo a ideia do texto, o mais prudente é:","options":["Concluir logo que é agressivo","Ver o gesto como parte de um grupo de gestos, e não isolado","Ignorar o corpo","Concluir que está triste"],"answer":1,"why":"O texto diz que os gestos com os polegares são secundários e formam parte de um grupo de gestos."}
+],
+"summary":"Os polegares expressam domínio, superioridade e, por vezes, agressão, mas são um gesto secundário que se lê dentro de um grupo de gestos, como na postura do gerente 'frio'."
+},
+{
+"id":"046",
+"title":"Os gestos com o polegar: prestígio e mensagem contraditória",
+"text":[
+"O homem que corteja a uma mulher os emprega diante dela e são de uso comum também entre as pessoas de prestígio, de alto status e bem vestidas. As pessoas que usam roupas novas e atraentes fazem mais gestos com os polegares do que as que usam roupas fora de moda.",
+"Os polegares, que expressam superioridade, se tornam mais evidentes quando uma pessoa está dando uma mensagem verbal contraditória."
+],
+"glossary":[
+{"t":"Cortejar","d":"procurar conquistar alguém, mostrar interesse amoroso."},
+{"t":"Prestígio","d":"boa reputação, consideração dos outros."},
+{"t":"Status","d":"posição social de uma pessoa."},
+{"t":"Atraentes","d":"que chamam a atenção de forma agradável."},
+{"t":"Evidentes","d":"fáceis de ver."},
+{"t":"Contraditória","d":"que diz o contrário de outra coisa."}
+],
+"questions":[
+{"q":"Quem emprega os polegares diante de uma mulher, segundo o texto?","options":["O homem que a corteja","O homem tímido","Só os idosos","Só os gerentes"],"answer":0,"why":"O texto diz que o homem que corteja uma mulher os emprega diante dela."},
+{"q":"Entre que outras pessoas são de uso comum estes gestos?","options":["Entre pessoas muito pobres","Entre crianças","Entre pessoas de prestígio, de alto status e bem vestidas","Entre pessoas doentes"],"answer":2,"why":"O texto diz que são de uso comum entre as pessoas de prestígio, de alto status e bem vestidas."},
+{"q":"Quem faz mais gestos com os polegares, segundo o texto?","options":["Quem usa roupas fora de moda","Quem usa roupas novas e atraentes","Quem não usa roupas","Quem não fala"],"answer":1,"why":"O texto diz que as pessoas que usam roupas novas e atraentes fazem mais gestos com os polegares do que as que usam roupas fora de moda."},
+{"q":"Quando se tornam mais evidentes os polegares que expressam superioridade?","options":["Quando a pessoa está calada","Quando está a dormir","Quando está sozinha","Quando a pessoa está a dar uma mensagem verbal contraditória"],"answer":3,"why":"O texto diz que se tornam mais evidentes quando a pessoa está a dar uma mensagem verbal contraditória."},
+{"q":"Ao dizer 'a decisão é sua', alguém mostra os polegares de forma bem evidente. O que pode sugerir, segundo o texto?","options":["Que está muito submisso","Que não tem opinião","Que a mensagem verbal pode estar a contradizer a superioridade que os polegares expressam","Que está com frio"],"answer":2,"why":"Os polegares tornam-se mais evidentes quando a mensagem verbal é contraditória com a superioridade que expressam."}
+],
+"summary":"Os polegares são usados por quem corteja, por pessoas de prestígio e bem vestidas, e tornam-se mais visíveis quando as palavras dizem o contrário da superioridade que o corpo mostra."
 }
 ]
 }
