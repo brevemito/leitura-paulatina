@@ -1321,6 +1321,101 @@
 {"q":"Alguém que diz uma mentira e suspeita que foi descoberto puxa o colarinho da camisa. O que sugere o texto que se faça?","options":["Acusá-lo logo","Ignorar o gesto","Pedir que repita ou que explique novamente o que falou","Sair da sala"],"answer":2,"why":"O texto diz que, se se perceber isso, se pode pedir à pessoa que repita ou que explique novamente o que falou."}
 ],
 "summary":"Esfregar o pescoço umas cinco vezes indica dúvida ou incerteza, sobretudo quando as palavras dizem o contrário, e puxar o colarinho pode mostrar que alguém que mentiu suspeita ter sido descoberto."
+},
+  {
+"id":"055",
+"title":"Os dedos na boca",
+"text":[
+"O gesto da pessoa que fica os dedos na boca quando se sente pressionada é a tentativa inconsciente da pessoa de voltar para a segurança do recém-nascido que suga o peito materno. A criança substitui o peito da mãe pelo polegar, e o adulto não fica com os dedos na boca, mas substitui por inserir nela coisas como cigarros, lapiseiras, etc.",
+"Embora quase todos os gestos feitos com as mãos no rosto expressem mentira ou desilusão, meter os dedos na boca é uma manifestação de necessidade de segurança. É adequado dar garantias e segurança à pessoa que faz este gesto."
+],
+"glossary":[
+{"t":"Pressionada","d":"sob pressão, sentindo-se obrigada ou apertada por alguma situação."},
+{"t":"Inconsciente","d":"feito sem dar por isso."},
+{"t":"Recém-nascido","d":"bebé que acabou de nascer."},
+{"t":"Sugar","d":"puxar com a boca, como faz o bebé ao mamar."},
+{"t":"Desilusão","d":"perda de uma ilusão, desencanto."},
+{"t":"Garantias","d":"sinais de que se pode confiar, promessas de segurança."}
+],
+"questions":[
+{"q":"Segundo o texto, o gesto de pôr os dedos na boca quando alguém se sente pressionado é a tentativa inconsciente de quê?","options":["Esconder uma mentira","Pedir ajuda em voz alta","Voltar à segurança do recém-nascido que suga o peito materno","Mostrar superioridade"],"answer":2,"why":"O texto diz que é a tentativa inconsciente de voltar à segurança do recém-nascido que suga o peito materno."},
+{"q":"Pelo que substitui a criança o peito da mãe?","options":["Pelo polegar","Pela chupeta de borracha","Por um cobertor","Por um brinquedo"],"answer":0,"why":"O texto diz que a criança substitui o peito da mãe pelo polegar."},
+{"q":"O que faz o adulto, em vez de ficar com os dedos na boca?","options":["Fecha os olhos","Cruza os braços","Roça o nariz","Insere na boca coisas como cigarros e lapiseiras"],"answer":3,"why":"O texto diz que o adulto substitui os dedos por coisas como cigarros, lapiseiras, etc."},
+{"q":"Embora quase todos os gestos das mãos no rosto expressem mentira ou desilusão, meter os dedos na boca é:","options":["Um sinal de mentira","Uma manifestação de necessidade de segurança","Um sinal de raiva","Um sinal de superioridade"],"answer":1,"why":"O texto diz que meter os dedos na boca é uma manifestação de necessidade de segurança."},
+{"q":"Numa prova oral, um aluno morde a caneta enquanto o examinador faz uma pergunta difícil. O que é adequado fazer, segundo o texto?","options":["Dar-lhe garantias e segurança","Pressioná-lo mais","Acusá-lo de mentir","Ignorar o gesto"],"answer":0,"why":"O texto diz que é adequado dar garantias e segurança à pessoa que faz este gesto."}
+],
+"summary":"Pôr os dedos ou objectos na boca sob pressão é um regresso inconsciente à segurança do bebé, e a pessoa que o faz precisa de garantias e de segurança."
+},
+{
+"id":"056",
+"title":"O aborrecimento",
+"text":[
+"Quando o que está escutando começa a apoiar a cabeça na mão, está dando sinais de aborrecimento: a mão sustenta a cabeça para tentar não dormir. O grau de aborrecimento está em relação direta com a força com que o braço e a mão estão sustentando a cabeça. Um movimento simples como o de entregar algo ao ouvinte para lhe alterar a posição pode produzir um mudança de atitude."
+],
+"glossary":[
+{"t":"Apoiar","d":"encostar, pôr o peso sobre algo."},
+{"t":"Aborrecimento","d":"tédio, falta de interesse."},
+{"t":"Sustentar","d":"segurar, manter em cima."},
+{"t":"Relação direta","d":"quando uma coisa aumenta à medida que a outra aumenta."},
+{"t":"Ouvinte","d":"quem escuta."}
+],
+"questions":[
+{"q":"Quando o ouvinte começa a apoiar a cabeça na mão, está a dar sinais de quê?","options":["Entusiasmo","Aborrecimento","Concordância","Raiva"],"answer":1,"why":"O texto diz que apoiar a cabeça na mão é um sinal de aborrecimento."},
+{"q":"Porque sustenta a mão a cabeça, segundo o texto?","options":["Para pensar melhor","Para mostrar respeito","Para esconder o rosto","Para tentar não dormir"],"answer":3,"why":"O texto diz que a mão sustenta a cabeça para tentar não dormir."},
+{"q":"Com que está em relação directa o grau de aborrecimento?","options":["Com a força com que o braço e a mão sustentam a cabeça","Com a duração do discurso","Com a idade do ouvinte","Com a altura da cadeira"],"answer":0,"why":"O texto diz que o grau de aborrecimento está em relação directa com a força com que o braço e a mão sustentam a cabeça."},
+{"q":"O que pode produzir uma mudança de atitude no ouvinte?","options":["Falar mais devagar","Falar mais alto","Entregar-lhe algo, para lhe alterar a posição","Apagar as luzes"],"answer":2,"why":"O texto diz que um movimento simples, como entregar algo ao ouvinte para lhe alterar a posição, pode produzir uma mudança de atitude."},
+{"q":"Numa formação, vês vários formandos com a cabeça muito apoiada na mão. O que pode ajudar, segundo o texto?","options":["Continuar sem alterar nada","Pedir silêncio","Entregar-lhes material ou algo para mexerem, mudando-lhes a posição","Terminar logo a sessão"],"answer":2,"why":"Alterar a posição dos ouvintes, por exemplo ao entregar-lhes algo, pode mudar a atitude de aborrecimento."}
+],
+"summary":"A cabeça apoiada na mão sinaliza aborrecimento, tanto maior quanto mais força faz a mão; entregar algo ao ouvinte para mudar a sua posição pode mudar a atitude."
+},
+{
+"id":"057",
+"title":"O gesto de avaliação e a decisão",
+"text":[
+"A primeira das três figuras mostra o gesto de avaliação\". A avaliação se demonstra com a mão fechada apoiada na bochecha, em geral com o indicador para cima.",
+"O gesto de passar a mão no queixo é um sinal que indica que o que o faz está tomando uma decisão.",
+"Quando uma pessoa fica com um objeto na boca (cigarro, lapiseira, etc.) quando lhe pede que tome uma decisão, esse gesto indica que não está seguro sobre a decisão a adotar e que vai a ser necessário lhe dar mas segurança porque o objeto que tem na boca lhe faz ganhar tempo."
+],
+"glossary":[
+{"t":"Avaliação","d":"análise do que se ouve ou vê, para decidir o que pensar."},
+{"t":"Bochecha","d":"parte macia e arredondada do rosto, de cada lado."},
+{"t":"Queixo","d":"parte de baixo do rosto, por baixo da boca."},
+{"t":"Decisão","d":"escolha entre várias possibilidades."},
+{"t":"Adotar","d":"escolher, assumir."}
+],
+"questions":[
+{"q":"Como se demonstra a avaliação, segundo o texto?","options":["Com a mão fechada apoiada na bochecha, em geral com o indicador para cima","Com os braços cruzados","Com as mãos nos bolsos","Com as mãos atrás das costas"],"answer":0,"why":"O texto diz que a avaliação se demonstra com a mão fechada apoiada na bochecha, em geral com o indicador para cima."},
+{"q":"O que indica o gesto de passar a mão no queixo?","options":["Que a pessoa está aborrecida","Que a pessoa está a mentir","Que quem o faz está a tomar uma decisão","Que a pessoa tem frio"],"answer":2,"why":"O texto diz que passar a mão no queixo indica que quem o faz está a tomar uma decisão."},
+{"q":"O que indica o objecto na boca (cigarro, caneta, etc.) quando se pede a alguém que decida?","options":["Que está confiante","Que não está seguro da decisão a adoptar","Que quer terminar a conversa","Que concorda de imediato"],"answer":1,"why":"O texto diz que esse gesto indica que a pessoa não está segura sobre a decisão a adoptar."},
+{"q":"Porque é necessário dar mais segurança a quem tem um objecto na boca, segundo o texto?","options":["Porque está com fome","Porque quer fumar","Porque quer sair","Porque o objecto na boca lhe faz ganhar tempo"],"answer":3,"why":"O texto diz que é preciso dar mais segurança porque o objecto que tem na boca lhe faz ganhar tempo."},
+{"q":"Um cliente, depois de ouvir o preço, passa a mão no queixo e fica calado. O que sugere o texto?","options":["Que está aborrecido","Que quer reclamar","Que está a mentir","Que está a tomar uma decisão"],"answer":3,"why":"Passar a mão no queixo é um sinal de que a pessoa está a tomar uma decisão."}
+],
+"summary":"A mão fechada na bochecha mostra avaliação, passar a mão no queixo mostra que se está a decidir, e um objecto na boca sinaliza dúvida e pede mais segurança."
+},
+{
+"id":"058",
+"title":"Esfregar a nuca ou espalmar a cabeça",
+"text":[
+"A versão exagerada de puxar a gola da camisa é esfregar a nuca com a palma da mão. A pessoa que faz esse gesto quando mente, em geral evita o olhar direto e olha para baixo. Esse gesto expressa também zanga ou frustração. Se ao mostrar um engano a alguém, essa pessoa reconhecer o esquecimento cometido e se golpear a testa, é porque não se sentiu intimidada por sua observação.",
+"Se, ao contrário, se dá a palmada na nuca, reflete que se sentiu constrangida por você lhe haver exposto o engano.",
+"Os que habitualmente esfregam a nuca têm tendência a ser negativos e a criticar, enquanto que os que esfregam a testa para não verbalizar um engano são pessoas mais abertas e com as quais se trabalha mais facilmente."
+],
+"glossary":[
+{"t":"Gola","d":"a parte da camisa que rodeia o pescoço."},
+{"t":"Nuca","d":"a parte de trás do pescoço."},
+{"t":"Palma da mão","d":"a parte interior da mão."},
+{"t":"Intimidada","d":"com medo ou receio, sentindo-se ameaçada."},
+{"t":"Constrangida","d":"envergonhada, desconfortável."},
+{"t":"Verbalizar","d":"dizer por palavras."}
+],
+"questions":[
+{"q":"Qual é a versão exagerada de puxar a gola da camisa, segundo o texto?","options":["Esfregar a nuca com a palma da mão","Cobrir a boca","Cruzar os braços","Tocar o nariz"],"answer":0,"why":"O texto diz que a versão exagerada de puxar a gola da camisa é esfregar a nuca com a palma da mão."},
+{"q":"O que faz em geral quem esfrega a nuca quando mente?","options":["Olha fixamente para o outro","Sorri muito","Evita o olhar directo e olha para baixo","Fala mais alto"],"answer":2,"why":"O texto diz que quem faz esse gesto quando mente, em geral, evita o olhar directo e olha para baixo."},
+{"q":"Que outras emoções expressa também esse gesto?","options":["Alegria e surpresa","Zanga ou frustração","Calma e confiança","Fome e sono"],"answer":1,"why":"O texto diz que esse gesto expressa também zanga ou frustração."},
+{"q":"Se uma pessoa, ao ver o seu engano mostrado, se golpeia a testa, o que sugere o texto?","options":["Que está zangada","Que está a mentir","Que está envergonhada","Que não se sentiu intimidada pela observação"],"answer":3,"why":"O texto diz que, se reconhece o esquecimento e se golpeia a testa, é porque não se sentiu intimidada pela observação."},
+{"q":"Que diferença o texto aponta entre quem esfrega a nuca e quem esfrega a testa?","options":["Quem esfrega a nuca tende a ser negativo e crítico; quem esfrega a testa é mais aberto e mais fácil de trabalhar","Quem esfrega a nuca é mais aberto; quem esfrega a testa é mais negativo","Não há diferença","Quem esfrega a testa nunca mente"],"answer":0,"why":"O texto diz que quem habitualmente esfrega a nuca tende a ser negativo e a criticar, enquanto quem esfrega a testa é mais aberto e mais fácil de trabalhar."}
+],
+"summary":"Esfregar a nuca é uma versão exagerada de puxar a gola e liga-se a mentira, zanga ou frustração; já bater na testa mostra alguém mais aberto, que não se sentiu intimidado."
 }
 ]
 }
