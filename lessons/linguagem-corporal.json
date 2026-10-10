@@ -1226,6 +1226,101 @@
 {"q":"Um colega leva uma vez a mão ao rosto enquanto fala. O que é mais prudente, segundo o texto?","options":["Concluir logo que está a mentir","Ignorar totalmente o gesto","Observar outros grupos de gestos antes de concluir","Interrompê-lo e acusá-lo"],"answer":2,"why":"O texto diz que a observação de outros grupos de gestos pode confirmar as suspeitas, e que não se deve interpretar isoladamente os gestos com as mãos no rosto."}
 ],
 "summary":"Os gestos das mãos no rosto são a base dos gestos de engano, mas só se podem interpretar bem em conjunto com outros gestos, nunca isoladamente."
+},
+  {
+"id":"051",
+"title":"O guardião da boca",
+"text":[
+"Tampar a boca é um dos gestos tão óbvios nos adultos como nas crianças. A mão cobre a boca e o polegar se aperta contra a bochecha, quando o cérebro ordena, em forma subconsciente, que se suprimam as palavras enganosas que acabam de se dizer. Às vezes, o gesto se faz tampando a boca com alguns dedos ou com o punho, mas o significado é o mesmo. Se a pessoa que está falando usa este gesto, denota que está dizendo uma mentira."
+],
+"glossary":[
+{"t":"Óbvios","d":"evidentes, fáceis de perceber."},
+{"t":"Subconsciente","d":"parte da mente que actua sem darmos por isso."},
+{"t":"Suprimir","d":"fazer desaparecer, travar, não deixar sair."},
+{"t":"Enganosas","d":"que enganam, que não são verdadeiras."},
+{"t":"Denotar","d":"indicar, mostrar, dar a entender."}
+],
+"questions":[
+{"q":"Segundo o texto, em quem é tão óbvio o gesto de tampar a boca?","options":["Só nas crianças","Só nos adultos","Tanto nos adultos como nas crianças","Só nos idosos"],"answer":2,"why":"O texto diz que tampar a boca é um dos gestos tão óbvios nos adultos como nas crianças."},
+{"q":"Como se faz o gesto de tampar a boca, segundo o texto?","options":["A mão cobre a boca e o polegar se aperta contra a bochecha","A mão cobre os olhos e o polegar toca a testa","As duas mãos cobrem os ouvidos","A mão fica no queixo, com o polegar para cima"],"answer":0,"why":"O texto diz que a mão cobre a boca e o polegar se aperta contra a bochecha."},
+{"q":"Porque ordena o cérebro, em forma subconsciente, esse gesto?","options":["Para falar mais alto","Para repetir a frase","Para fechar os olhos","Para que se suprimam as palavras enganosas que acabam de se dizer"],"answer":3,"why":"O texto diz que o cérebro ordena, em forma subconsciente, que se suprimam as palavras enganosas que acabam de se dizer."},
+{"q":"Quando o gesto se faz com alguns dedos ou com o punho, o significado é:","options":["Outro, menos importante","O mesmo","Contrário","Nenhum"],"answer":1,"why":"O texto diz que, mesmo com alguns dedos ou com o punho, o significado é o mesmo."},
+{"q":"Durante uma entrevista, ao responder, o candidato cobre a boca com o punho. Segundo o texto, isso:","options":["Mostra que está confiante","Mostra que tem frio","Denota que pode estar a dizer uma mentira, a confirmar com outros gestos","Mostra que está a rir"],"answer":2,"why":"O texto diz que quem fala e usa este gesto denota que está a dizer uma mentira, mas os gestos das mãos no rosto não se interpretam isoladamente."}
+],
+"summary":"Tapar a boca, com a mão, alguns dedos ou o punho, é um gesto subconsciente para travar palavras enganosas e denota que quem fala pode estar a mentir."
+},
+{
+"id":"052",
+"title":"Tocar o nariz",
+"text":[
+"O gesto de tocar o nariz é, essencialmente, uma versão dissimulada de tocar a boca. Pode consistir em ficar roçando suavemente debaixo do nariz ou pode ser um toque rápido e quase imperceptível.",
+"Uma explicação da origem do gesto de tocar o nariz é que, quando a mente tem o pensamento negativo, o subconsciente ordena à mão que tampe a boca, mas, no último instante, para que não seja um gesto tão óbvio, a mão se retira da boca e toca rapidamente o nariz.",
+"Outra explicação é que mentir produz coceira nas delicadas terminações nervosas do nariz e, para que passe, se faz necessário esfregá-lo."
+],
+"glossary":[
+{"t":"Essencialmente","d":"no fundo, basicamente."},
+{"t":"Dissimulada","d":"disfarçada, menos visível."},
+{"t":"Imperceptível","d":"que quase não se nota."},
+{"t":"Coceira","d":"comichão."},
+{"t":"Terminações nervosas","d":"pontas dos nervos, que permitem sentir."}
+],
+"questions":[
+{"q":"Segundo o texto, o gesto de tocar o nariz é, essencialmente:","options":["Uma versão exagerada de coçar a cabeça","Uma versão dissimulada de tocar a boca","Um gesto de saudação","Um gesto de cansaço"],"answer":1,"why":"O texto diz que tocar o nariz é, essencialmente, uma versão dissimulada de tocar a boca."},
+{"q":"Como pode consistir o gesto de tocar o nariz?","options":["Num soco leve no nariz","Em tapar o nariz com as duas mãos","Em assoar o nariz","Em roçar suavemente debaixo do nariz ou num toque rápido e quase imperceptível"],"answer":3,"why":"O texto diz que pode consistir em roçar suavemente debaixo do nariz ou num toque rápido e quase imperceptível."},
+{"q":"Qual é a primeira explicação para a origem do gesto?","options":["A mão tenta tapar a boca mas, no último instante, retira-se e toca rapidamente o nariz","É um gesto aprendido na escola","É causado pelo frio","Nada tem a ver com a boca"],"answer":0,"why":"O texto explica que o subconsciente ordena à mão que tampe a boca, mas no último instante a mão toca rapidamente o nariz, para não ser tão óbvio."},
+{"q":"Qual é a segunda explicação?","options":["Mentir faz sentir calor","Mentir faz o nariz sangrar","Mentir produz coceira nas delicadas terminações nervosas do nariz, que se esfrega para passar","Mentir faz o nariz crescer"],"answer":2,"why":"O texto diz que mentir produz coceira nas delicadas terminações nervosas do nariz e que, para passar, se faz necessário esfregá-lo."},
+{"q":"Alguém, ao falar, toca rapidamente uma vez no nariz. O que é mais prudente, segundo o texto?","options":["Concluir logo que está a mentir","Ver se outros gestos confirmam a suspeita","Ignorar sempre o gesto","Pedir sempre que repita"],"answer":1,"why":"O texto avisa que os gestos com as mãos no rosto não devem ser interpretados isoladamente e que outros grupos de gestos podem confirmar as suspeitas."}
+],
+"summary":"Tocar o nariz é uma versão discreta de tapar a boca, que se explica pela ordem travada no último instante ou pela comichão que a mentira provoca no nariz."
+},
+{
+"id":"053",
+"title":"Esfregar o olho e a orelha",
+"text":[
+"O gesto representa a tentativa do cérebro de bloquear a visão do engano ou de evitar ter que olhar a face da pessoa a quem se está mentindo.",
+"O mesmo acontece com o esfregar a orelha. É a tentativa de quem escuta de \"não ouvir o mau\", de bloquear as palavras de mentira. É a versão adulta do gesto dos meninos de tampar os ouvidos com as duas mãos para não ouvir uma reprimenda."
+],
+"glossary":[
+{"t":"Tentativa","d":"esforço para conseguir algo."},
+{"t":"Bloquear","d":"impedir a passagem, travar."},
+{"t":"Engano","d":"acto de enganar."},
+{"t":"Face","d":"rosto."},
+{"t":"Reprimenda","d":"repreensão, chamada de atenção por algo que se fez de errado."}
+],
+"questions":[
+{"q":"O que representa o gesto de esfregar o olho, segundo o texto?","options":["Cansaço","Alegria","Surpresa","A tentativa do cérebro de bloquear a visão do engano ou de evitar olhar a face da pessoa a quem se está mentindo"],"answer":3,"why":"O texto diz que o gesto representa a tentativa do cérebro de bloquear a visão do engano ou de evitar ter de olhar a face da pessoa a quem se está a mentir."},
+{"q":"O que representa o gesto de esfregar a orelha?","options":["A tentativa de quem escuta de 'não ouvir o mau', de bloquear as palavras de mentira","Sinal de fome","Sinal de calor","Sinal de pressa"],"answer":0,"why":"O texto diz que é a tentativa de quem escuta de 'não ouvir o mau', de bloquear as palavras de mentira."},
+{"q":"De que gesto infantil é versão adulta o esfregar a orelha?","options":["De fechar os olhos","De cobrir a boca","De tampar os ouvidos com as duas mãos para não ouvir uma reprimenda","De bater palmas"],"answer":2,"why":"O texto diz que é a versão adulta do gesto dos meninos de tampar os ouvidos com as duas mãos para não ouvir uma reprimenda."},
+{"q":"Na palavra 'reprimenda', o sentido é:","options":["Elogio","Repreensão, chamada de atenção","Convite","Aplauso"],"answer":1,"why":"Reprimenda é uma repreensão, uma chamada de atenção por algo errado."},
+{"q":"Enquanto o chefe lhe fala de um erro, o funcionário esfrega a orelha. Segundo o texto, pode sugerir:","options":["Que tenta, de forma inconsciente, bloquear o que ouve","Que está muito feliz","Que concorda totalmente","Que tem frio"],"answer":0,"why":"Esfregar a orelha é a tentativa de quem escuta de bloquear as palavras que não quer ouvir."}
+],
+"summary":"Esfregar o olho tenta bloquear a visão do engano, e esfregar a orelha tenta bloquear palavras que não se querem ouvir, como na criança que tapa os ouvidos para não ouvir uma reprimenda."
+},
+{
+"id":"054",
+"title":"Esfregar o pescoço",
+"text":[
+"Neste caso o indicador da mão direita esfrega debaixo do lóbulo da orelha ou do flanco do pescoço. Nossas observações desse gesto revelam algo interessante: a pessoa se esfrega umas cinco vezes. É estranho que o faça mais ou menos vezes.",
+"O gesto indica dúvida, incerteza, e é característico da pessoa que diz: \"Não sei se estou de acordo\". É muito notório quando a linguagem verbal contradiz o gesto; por exemplo, quando a pessoa diz: \"Entendo como se sente\".",
+"Algumas pessoas quando dizem uma mentira e suspeitam que foram descobertas, realizam o gesto de puxar o colarinho da camisa.",
+"Se perceber isso, pode lhe pedir que repita ou que explique novamente o que falou."
+],
+"glossary":[
+{"t":"Indicador","d":"o dedo ao lado do polegar, usado para apontar."},
+{"t":"Lóbulo","d":"a parte mole e baixa da orelha."},
+{"t":"Flanco","d":"lado."},
+{"t":"Característico","d":"típico, que distingue."},
+{"t":"Notório","d":"fácil de ver, evidente."},
+{"t":"Colarinho","d":"a gola da camisa."}
+],
+"questions":[
+{"q":"Onde esfrega o indicador, neste gesto?","options":["Na testa","Na nuca","Debaixo do lóbulo da orelha ou do flanco do pescoço","No queixo"],"answer":2,"why":"O texto diz que o indicador da mão direita esfrega debaixo do lóbulo da orelha ou do flanco do pescoço."},
+{"q":"Quantas vezes se esfrega a pessoa, segundo as observações dos autores?","options":["Duas vezes","Umas cinco vezes","Dez vezes","Uma só vez"],"answer":1,"why":"O texto diz que a pessoa se esfrega umas cinco vezes e que é estranho que o faça mais ou menos vezes."},
+{"q":"O que indica este gesto, segundo o texto?","options":["Alegria","Raiva","Certeza","Dúvida, incerteza"],"answer":3,"why":"O texto diz que o gesto indica dúvida, incerteza, e é característico de quem diz: 'Não sei se estou de acordo'."},
+{"q":"Quando é este gesto muito notório?","options":["Quando a linguagem verbal contradiz o gesto, por exemplo ao dizer 'Entendo como se sente'","Quando a pessoa está calada","Quando está sozinha","Quando está a rir"],"answer":0,"why":"O texto diz que é muito notório quando a linguagem verbal contradiz o gesto."},
+{"q":"Alguém que diz uma mentira e suspeita que foi descoberto puxa o colarinho da camisa. O que sugere o texto que se faça?","options":["Acusá-lo logo","Ignorar o gesto","Pedir que repita ou que explique novamente o que falou","Sair da sala"],"answer":2,"why":"O texto diz que, se se perceber isso, se pode pedir à pessoa que repita ou que explique novamente o que falou."}
+],
+"summary":"Esfregar o pescoço umas cinco vezes indica dúvida ou incerteza, sobretudo quando as palavras dizem o contrário, e puxar o colarinho pode mostrar que alguém que mentiu suspeita ter sido descoberto."
 }
 ]
 }
