@@ -1686,6 +1686,93 @@
 {"q":"Alguém olha de lado para ti, com as sobrancelhas franzidas. O que sugere o texto?","options":["Interesse amoroso","Hostilidade","Surpresa agradável","Timidez"],"answer":1,"why":"A olhadela de esguelha com sobrancelhas franzidas ou baixas indica hostilidade."}
 ],
 "summary":"O olhar íntimo passa dos olhos ao resto do corpo e pede resposta do mesmo estilo; a olhadela de lado indica interesse com sobrancelhas levantadas e sorriso, ou hostilidade com sobrancelhas franzidas."
+},
+  {
+"id":"071",
+"title":"Cruzamento de pernas",
+"text":[
+"Lê no teu PDF o início da secção 10, Gestos com as pernas, e a secção 10.1, Cruzamento de pernas (os três primeiros parágrafos), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Defensiva","d":"de quem se protege, pronto a defender-se."},
+{"t":"Zona genital","d":"a região do corpo que se protege ao cruzar as pernas."},
+{"t":"Propósito","d":"objectivo, intenção."},
+{"t":"Evidente","d":"fácil de ver, claro."},
+{"t":"Damas","d":"mulheres educadas segundo regras de boas maneiras."}
+],
+"questions":[
+{"q":"Segundo o texto, as pernas cruzadas, tal como os braços cruzados, indicam a possível existência de:","options":["Uma atitude negativa ou defensiva","Uma atitude de entusiasmo","Uma atitude de superioridade","Uma atitude de cansaço"],"answer":0,"why":"O texto diz que as pernas cruzadas, como os braços cruzados, indicam a possível existência de uma atitude negativa ou defensiva."},
+{"q":"Que zona do corpo se tenta proteger ao cruzar as pernas?","options":["O coração","A zona genital","A cabeça","As mãos"],"answer":1,"why":"O texto diz que cruzar as pernas é a tentativa de proteger a zona genital, tal como cruzar os braços defendia o coração e a região superior."},
+{"q":"Qual dos dois gestos assinala uma atitude mais negativa e é mais evidente?","options":["Cruzar as pernas","Nenhum dos dois","Cruzar os braços","Os dois por igual"],"answer":2,"why":"O texto diz que o cruzamento de braços assinala uma atitude mais negativa do que cruzar as pernas, e é mais evidente."},
+{"q":"Porque é preciso ter cuidado ao interpretar as pernas cruzadas de uma mulher?","options":["Porque as mulheres nunca cruzam as pernas","Porque o gesto é sempre agressivo","Porque só os homens o fazem","Porque muitas foram ensinadas que é assim que se sentam as damas"],"answer":3,"why":"O texto diz que muitas mulheres foram ensinadas que 'assim se sentam as damas', por isso o gesto pode não ter significado defensivo."},
+{"q":"Uma colega senta-se de pernas cruzadas, mas sorri, tem os braços abertos e fala à vontade. O que é mais prudente?","options":["Não concluir logo que está na defensiva, porque pode ser só hábito ou educação","Concluir que está zangada","Concluir que está a mentir","Concluir que quer sair"],"answer":0,"why":"Sem outros sinais negativos, pernas cruzadas podem ser apenas hábito, e o gesto não se interpreta isoladamente."}
+],
+"summary":"Pernas cruzadas, tal como braços cruzados, podem indicar uma atitude defensiva (proteger a zona genital), mas são menos evidentes e menos negativas, e nas mulheres pode ser apenas uma regra de educação."
+},
+{
+"id":"072",
+"title":"O cruzamento de pernas padrão",
+"text":[
+"Lê no teu PDF a secção 10.1.1, O cruzamento de pernas padrão (um parágrafo), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Padrão","d":"modelo, a forma mais comum de fazer algo."},
+{"t":"Reservada","d":"que não se abre aos outros, discreta."},
+{"t":"Nitidamente","d":"de forma clara, bem visível."},
+{"t":"Isolado do contexto","d":"visto sozinho, sem ter em conta o resto da situação."}
+],
+"questions":[
+{"q":"Como é o cruzamento de pernas padrão?","options":["Uma perna cruza-se nitidamente por cima da outra, em geral a direita sobre a esquerda","Os dois pés ficam enganchados","O tornozelo apoia-se no joelho","Os joelhos ficam muito abertos"],"answer":0,"why":"O texto descreve o cruzamento padrão como uma perna cruzada nitidamente sobre a outra, em geral a direita sobre a esquerda."},
+{"q":"Entre quem é o cruzamento normal?","options":["Norte-americanos","Europeus, britânicos, australianos e neozelandeses","Apenas crianças","Apenas mulheres"],"answer":1,"why":"O texto diz que é o cruzamento normal para os europeus, britânicos, australianos e neozelandeses."},
+{"q":"Que atitude pode indicar o cruzamento de pernas padrão?","options":["Entusiasmo","Superioridade","Defensiva, reservada ou nervosa","Alegria"],"answer":2,"why":"O texto diz que indica uma atitude defensiva, reservada ou nervosa."},
+{"q":"Como deve ser interpretado este gesto?","options":["Sempre isoladamente","Como sinal de mentira","Como sinal de saudação","Como apoio a outros gestos negativos, e não isolado do contexto"],"answer":3,"why":"O texto diz que é um gesto de apoio a outros gestos negativos e não deve ser interpretado isolado do contexto."},
+{"q":"Num escritório inglês, um director senta-se com a perna direita sobre a esquerda, sorri e mantém os braços abertos. O que sugere o texto?","options":["Que está sempre na defensiva","Que pode ser só o seu modo habitual de sentar, a confirmar com outros gestos","Que está a mentir","Que está zangado"],"answer":1,"why":"É um cruzamento normal para os europeus e britânicos, e só tem significado negativo se vier com outros gestos negativos."}
+],
+"summary":"O cruzamento padrão é o normal para europeus, britânicos, australianos e neozelandeses; pode indicar atitude defensiva, reservada ou nervosa, mas só se interpreta junto com outros gestos."
+},
+{
+"id":"073",
+"title":"O cruzamento de pernas norte-americano em 4",
+"text":[
+"Lê no teu PDF a secção 10.1.2, O cruzamento de pernas norte-americano em 4 (os dois parágrafos), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Competência","d":"aqui, atitude de competição, de querer vencer."},
+{"t":"Discussão","d":"troca de argumentos, por vezes com desacordo."},
+{"t":"Súdito britânico","d":"pessoa que tem nacionalidade britânica."},
+{"t":"Fechada","d":"que não se abre aos outros, defensiva."},
+{"t":"Relaxada","d":"descontraída, sem tensão."}
+],
+"questions":[
+{"q":"O que indica o cruzamento de pernas em 4, segundo o texto?","options":["Uma atitude de timidez","Uma atitude de sono","Uma atitude de competência ou discussão","Uma atitude de alegria"],"answer":2,"why":"O texto diz que este cruzamento indica uma atitude de competência ou discussão."},
+{"q":"Quem usa esta posição?","options":["Os norte-americanos","Os franceses","Os alunos","Os médicos"],"answer":0,"why":"O texto diz que é a posição que usam os norte-americanos."},
+{"q":"Porque é difícil interpretar este gesto num norte-americano durante uma conversa?","options":["Porque quase ninguém o faz","Porque é a posição que habitualmente usam, por isso é pouco revelador, ao contrário do que acontece com um britânico","Porque é sempre sinal de mentira","Porque só aparece de noite"],"answer":1,"why":"O texto diz que é um gesto de difícil interpretação num norte-americano, mas muito claro quando feito por um súdito britânico."},
+{"q":"Quando as pessoas não se conhecem e estão a conversar, de braços e pernas cruzados, o que demonstram os seus corpos?","options":["Uma atitude de entusiasmo","Uma atitude de superioridade","Uma atitude de concordância","Uma atitude fechada"],"answer":3,"why":"O texto diz que braços e pernas cruzados demonstram uma atitude fechada."},
+{"q":"À medida que duas pessoas se sentem confortáveis e se vão conhecendo, o que tende a acontecer?","options":["Cruzam ainda mais os braços","Mantêm a posição fechada","Começa o processo de abertura e adoptam uma posição mais relaxada e aberta","Afastam-se"],"answer":2,"why":"O texto diz que, ao sentirem-se confortáveis, começa o processo de abertura e adoptam uma posição mais relaxada e aberta."}
+],
+"summary":"A perna cruzada em 4 sugere competição ou discussão e é a posição habitual dos norte-americanos; entre desconhecidos, braços e pernas cruzados mostram uma atitude fechada, que se abre com a confiança."
+},
+{
+"id":"074",
+"title":"O cruzamento de tornozelos",
+"text":[
+"Lê no teu PDF a secção 10.2, Cruzamento de tornozelos (os três parágrafos), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Tornozelos","d":"as articulações entre a perna e o pé."},
+{"t":"Punhos","d":"as mãos fechadas."},
+{"t":"Poltrona","d":"cadeira grande e confortável, com braços."},
+{"t":"Dissimulação","d":"acto de esconder o que se sente."},
+{"t":"Temor","d":"medo."}
+],
+"questions":[
+{"q":"O que indica o cruzamento de tornozelos, segundo o texto?","options":["A mesma atitude negativa ou defensiva do cruzamento de braços e de pernas","Uma atitude de superioridade","Alegria","Cansaço"],"answer":0,"why":"O texto diz que o cruzamento de tornozelos indica o mesmo que o cruzar de braços e de pernas: atitude negativa ou defensiva."},
+{"q":"Com que se combina frequentemente a versão masculina?","options":["Com as mãos atrás da cabeça","Com os punhos apoiados nos joelhos ou com as mãos a segurar com força os braços da poltrona","Com os braços abertos","Com as mãos nos bolsos"],"answer":1,"why":"O texto diz que a versão masculina se combina freqüentemente com os punhos nos joelhos ou com as mãos a segurar com força os braços da poltrona."},
+{"q":"Como é a versão feminina?","options":["Pernas bem abertas e pés para a frente","Pernas cruzadas em 4","Joelhos juntos, pés para um lado e mãos a descansar nas coxas","Pés enganchados na outra perna"],"answer":2,"why":"O texto diz que na versão feminina os joelhos ficam juntos, os pés podem ficar para um lado e as mãos descansam nas coxas."},
+{"q":"Numa entrevista de venda, o que significa o cruzamento de tornozelos do entrevistado, segundo o texto?","options":["Que concorda","Que está confiante","Que está com frio","Que 'morde os lábios' mentalmente, ou seja, dissimula uma atitude ou emoção negativa"],"answer":3,"why":"O texto diz que o entrevistado está 'mordendo os lábios' mentalmente, a dissimular uma atitude ou emoção negativa."},
+{"q":"Um cliente ouve o preço sentado com os tornozelos cruzados e os punhos nos joelhos. O que sugere o texto?","options":["Segurança total","Interesse imediato","Nervosismo ou temor dissimulado","Alegria"],"answer":2,"why":"O cruzamento de tornozelos assinala a dissimulação de uma atitude ou emoção negativa, como nervosismo ou temor."}
+],
+"summary":"Cruzar os tornozelos indica a mesma atitude defensiva ou negativa, e numa venda sugere que o cliente esconde nervosismo ou temor."
 }
 ]
 }
