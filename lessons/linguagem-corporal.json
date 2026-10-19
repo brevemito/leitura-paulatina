@@ -1416,6 +1416,100 @@
 {"q":"Que diferença o texto aponta entre quem esfrega a nuca e quem esfrega a testa?","options":["Quem esfrega a nuca tende a ser negativo e crítico; quem esfrega a testa é mais aberto e mais fácil de trabalhar","Quem esfrega a nuca é mais aberto; quem esfrega a testa é mais negativo","Não há diferença","Quem esfrega a testa nunca mente"],"answer":0,"why":"O texto diz que quem habitualmente esfrega a nuca tende a ser negativo e a criticar, enquanto quem esfrega a testa é mais aberto e mais fácil de trabalhar."}
 ],
 "summary":"Esfregar a nuca é uma versão exagerada de puxar a gola e liga-se a mentira, zanga ou frustração; já bater na testa mostra alguém mais aberto, que não se sentiu intimidado."
+},
+  {
+"id":"059",
+"title":"Os braços defendem: a barreira",
+"text":[
+"Esconder-se detrás de uma barreira é uma resposta humana normal que aprendemos em tenra idade para nos proteger.",
+"Ao cruzar um ou os dois braços sobre o peito se forma uma barreira que, em essência, é a tentativa de deixar fora de nós a ameaça pendente ou as circunstâncias indesejáveis.",
+"Quando uma pessoa tem uma atitude defensiva, negativa ou nervosa, cruzar os braços demonstra que se sente ameaçada."
+],
+"glossary":[
+{"t":"Barreira","d":"obstáculo que se coloca entre nós e algo ou alguém."},
+{"t":"Tenra idade","d":"idade muito nova, a infância."},
+{"t":"Em essência","d":"no fundo, basicamente."},
+{"t":"Pendente","d":"que está por acontecer, que ameaça vir."},
+{"t":"Indesejáveis","d":"que não queremos que aconteçam."},
+{"t":"Defensiva","d":"de quem se protege, pronto a defender-se."}
+],
+"questions":[
+{"q":"Segundo o texto, esconder-se atrás de uma barreira é:","options":["Uma resposta humana normal que aprendemos em tenra idade para nos proteger","Um sinal de doença","Um hábito só dos adultos","Um gesto aprendido na escola"],"answer":0,"why":"O texto diz que esconder-se atrás de uma barreira é uma resposta humana normal que aprendemos em tenra idade para nos proteger."},
+{"q":"Ao cruzar um ou os dois braços sobre o peito, forma-se:","options":["Uma ponte","Uma barreira","Um sinal de saudação","Um gesto de convite"],"answer":1,"why":"O texto diz que, ao cruzar os braços sobre o peito, se forma uma barreira."},
+{"q":"Em essência, qual é a tentativa de quem cruza os braços?","options":["Mostrar superioridade","Aquecer o corpo","Deixar fora de nós a ameaça pendente ou as circunstâncias indesejáveis","Pedir ajuda"],"answer":2,"why":"O texto diz que a barreira é a tentativa de deixar fora de nós a ameaça pendente ou as circunstâncias indesejáveis."},
+{"q":"Quando uma pessoa tem uma atitude defensiva, negativa ou nervosa, cruzar os braços demonstra que ela:","options":["Está relaxada","Está entusiasmada","Está distraída","Se sente ameaçada"],"answer":3,"why":"O texto diz que cruzar os braços demonstra que a pessoa se sente ameaçada."},
+{"q":"Um aluno, ao ser chamado ao quadro para uma prova oral, cruza os braços sobre o peito. O que pode sugerir, segundo o texto?","options":["Que se sente ameaçado ou nervoso","Que está muito confiante","Que quer cumprimentar","Que está a dar uma ordem"],"answer":0,"why":"Cruzar os braços é uma barreira que mostra que a pessoa se sente ameaçada, negativa ou nervosa."}
+],
+"summary":"Cruzar os braços sobre o peito forma uma barreira que aprendemos em criança para nos proteger e demonstra que a pessoa se sente ameaçada, nervosa ou na defensiva."
+},
+{
+"id":"060",
+"title":"O gesto padrão de braços cruzados",
+"text":[
+"O gesto padrão é universal e expressa a mesma atitude defensiva ou negativa, quase em todas partes.",
+"Costuma ser visto quando a pessoa está entre desconhecidos em reuniões públicas, filas, cafeterias, elevadores ou em qualquer lugar onde se sinta insegura.",
+"Quando o ouvinte cruza os braços, não somente tem pensamentos negativos sobre o que fala mas também presta menos atenção ao que diz. Os oradores com experiência sabem que esse gesto demonstra a necessidade urgente de quebrar o gelo para que os ouvintes adotem atitudes mais receptivas, por exemplo: lhe alcançar um livro, lhe fazer alguma pergunta para que participe, etc."
+],
+"glossary":[
+{"t":"Padrão","d":"modelo, a forma mais comum de fazer algo."},
+{"t":"Universal","d":"que existe em todo o lado."},
+{"t":"Insegura","d":"sem confiança, receosa."},
+{"t":"Oradores","d":"pessoas que falam em público."},
+{"t":"Quebrar o gelo","d":"desfazer a tensão ou a frieza entre pessoas."},
+{"t":"Receptivas","d":"abertas a ouvir e a aceitar."}
+],
+"questions":[
+{"q":"O gesto padrão de braços cruzados é:","options":["Exclusivo dos ocidentais","Universal, e expressa a mesma atitude defensiva ou negativa quase em todas as partes","Típico apenas das crianças","Um gesto que só se faz em casa"],"answer":1,"why":"O texto diz que o gesto padrão é universal e expressa a mesma atitude defensiva ou negativa, quase em todas as partes."},
+{"q":"Onde costuma ser visto este gesto?","options":["Só em tribunais","Só em casa","Entre desconhecidos em reuniões públicas, filas, cafeterias, elevadores ou onde a pessoa se sinta insegura","Só em festas"],"answer":2,"why":"O texto refere reuniões públicas, filas, cafeterias, elevadores ou qualquer lugar onde a pessoa se sinta insegura."},
+{"q":"O que acontece quando o ouvinte cruza os braços?","options":["Presta mais atenção","Concorda com o orador","Fica mais criativo","Tem pensamentos negativos sobre o que fala e presta menos atenção ao que diz"],"answer":3,"why":"O texto diz que o ouvinte não só tem pensamentos negativos sobre o que se diz, como também presta menos atenção."},
+{"q":"O que sabem os oradores com experiência sobre este gesto?","options":["Que demonstra a necessidade urgente de quebrar o gelo, para que os ouvintes adoptem atitudes mais receptivas","Que devem falar mais alto","Que devem terminar de imediato","Que devem ignorar o gesto"],"answer":0,"why":"O texto diz que os oradores com experiência sabem que o gesto demonstra a necessidade urgente de quebrar o gelo."},
+{"q":"Numa palestra, vários ouvintes cruzam os braços. Que atitude do orador sugere o texto?","options":["Falar mais depressa","Entregar-lhes um livro ou fazer-lhes uma pergunta, para que participem","Pedir que saiam","Baixar a voz"],"answer":1,"why":"O texto sugere, por exemplo, alcançar um livro ao ouvinte ou fazer-lhe uma pergunta para que participe."}
+],
+"summary":"Os braços cruzados são um gesto universal de atitude defensiva ou negativa, comum entre desconhecidos, e o orador experiente quebra o gelo para tornar os ouvintes mais receptivos."
+},
+{
+"id":"061",
+"title":"Cruzamento de braços reforçado",
+"text":[
+"Se, além de ter cruzado os braços, a pessoa fechou os punhos, os sinais são de defesa e hostilidade. Este grupo de gestos se combina às vezes com dentes apertados e rosto avermelhado. Nesse caso, pode ser iminente um ataque verbal ou físico."
+],
+"glossary":[
+{"t":"Reforçado","d":"com mais força, acrescentado de outros sinais."},
+{"t":"Punhos","d":"as mãos fechadas."},
+{"t":"Hostilidade","d":"atitude de oposição ou ameaça."},
+{"t":"Avermelhado","d":"que ficou vermelho, corado."},
+{"t":"Iminente","d":"que está prestes a acontecer."}
+],
+"questions":[
+{"q":"Se, além de cruzar os braços, a pessoa fechou os punhos, os sinais são de:","options":["Alegria e entusiasmo","Defesa e hostilidade","Cansaço","Concordância"],"answer":1,"why":"O texto diz que, com os punhos fechados, os sinais são de defesa e hostilidade."},
+{"q":"Com que se combina às vezes este grupo de gestos?","options":["Com sorrisos e olhar atento","Com as mãos abertas","Com dentes apertados e rosto avermelhado","Com o corpo relaxado"],"answer":2,"why":"O texto diz que este grupo de gestos se combina às vezes com dentes apertados e rosto avermelhado."},
+{"q":"Nesse caso, o que pode ser iminente?","options":["Um pedido de desculpa","Uma saudação","Uma conversa calma","Um ataque verbal ou físico"],"answer":3,"why":"O texto diz que, nesse caso, pode ser iminente um ataque verbal ou físico."},
+{"q":"Na palavra 'iminente', o sentido é:","options":["Que está prestes a acontecer","Que aconteceu há muito tempo","Que nunca acontece","Que é impossível"],"answer":0,"why":"Iminente é aquilo que está prestes a acontecer."},
+{"q":"Durante uma discussão, um homem cruza os braços com os punhos fechados, aperta os dentes e fica com o rosto avermelhado. O que sugere o texto?","options":["Que está a relaxar","Que está a concordar","Que pode estar prestes a um ataque verbal ou físico","Que está com sono"],"answer":2,"why":"Braços cruzados com punhos fechados, dentes apertados e rosto avermelhado indicam defesa e hostilidade, e um possível ataque."}
+],
+"summary":"Braços cruzados com os punhos fechados, dentes apertados e rosto avermelhado sinalizam defesa e hostilidade, e podem anunciar um ataque verbal ou físico."
+},
+{
+"id":"062",
+"title":"O gesto de segurar os braços",
+"text":[
+"Este estilo se observa usualmente nas pessoas que estão na sala de espera de um médico ou de um dentista, ou nas que viajam de avião pela primeira vez e esperam a decolagem. É uma atitude negativa de restrição, como querendo sujeitar os braços e não permitindo deixar o corpo exposto."
+],
+"glossary":[
+{"t":"Usualmente","d":"normalmente, na maioria das vezes."},
+{"t":"Decolagem","d":"a subida do avião quando levanta voo, a descolagem."},
+{"t":"Restrição","d":"limitação, contenção."},
+{"t":"Sujeitar","d":"segurar, prender."},
+{"t":"Exposto","d":"à vista, sem protecção."}
+],
+"questions":[
+{"q":"Onde se observa usualmente o gesto de segurar os braços?","options":["Em festas","Na sala de espera de um médico ou de um dentista, ou em quem viaja de avião pela primeira vez","Em reuniões de empresa","Em competições desportivas"],"answer":1,"why":"O texto refere a sala de espera de um médico ou dentista e quem viaja de avião pela primeira vez, à espera da descolagem."},
+{"q":"Que tipo de atitude é esta?","options":["Positiva, de abertura","Neutra","Negativa, de restrição","De superioridade"],"answer":2,"why":"O texto diz que é uma atitude negativa de restrição."},
+{"q":"O que parece fazer quem segura os braços, segundo o texto?","options":["Mostrar o corpo exposto","Pedir que se aproximem","Dar uma ordem","Sujeitar os braços e não deixar o corpo exposto"],"answer":3,"why":"O texto diz que é como querendo sujeitar os braços e não permitindo deixar o corpo exposto."},
+{"q":"Na palavra 'sujeitar', o sentido é:","options":["Segurar, prender","Libertar","Esconder","Levantar"],"answer":0,"why":"Sujeitar, aqui, é segurar ou prender os braços junto ao corpo."},
+{"q":"Uma passageira, na sua primeira viagem de avião, agarra os próprios braços enquanto espera a descolagem. O que sugere o texto?","options":["Que está confiante","Que está aborrecida","Uma atitude de restrição e nervosismo, a tentar não deixar o corpo exposto","Que quer conversar"],"answer":2,"why":"Segurar os braços é uma atitude negativa de restrição, típica de quem espera algo que o deixa tenso."}
+],
+"summary":"Segurar os braços com as mãos é uma atitude negativa de restrição, comum em salas de espera e em quem voa pela primeira vez, como se a pessoa quisesse não deixar o corpo exposto."
 }
 ]
 }
