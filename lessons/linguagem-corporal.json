@@ -1773,6 +1773,95 @@
 {"q":"Um cliente ouve o preço sentado com os tornozelos cruzados e os punhos nos joelhos. O que sugere o texto?","options":["Segurança total","Interesse imediato","Nervosismo ou temor dissimulado","Alegria"],"answer":2,"why":"O cruzamento de tornozelos assinala a dissimulação de uma atitude ou emoção negativa, como nervosismo ou temor."}
 ],
 "summary":"Cruzar os tornozelos indica a mesma atitude defensiva ou negativa, e numa venda sugere que o cliente esconde nervosismo ou temor."
+},
+  {
+"id":"075",
+"title":"O cruzamento de pés",
+"text":[
+"Lê no teu PDF a secção 10.3, Cruzamento de pés (um parágrafo e as ilustrações), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Exclusivamente","d":"só, apenas."},
+{"t":"Enganchar","d":"prender uma coisa noutra, como com um gancho."},
+{"t":"Defensiva","d":"de quem se protege, pronto a defender-se."},
+{"t":"Carapaça","d":"a casca dura que protege o corpo de animais como a tartaruga."},
+{"t":"Discreto","d":"que não chama a atenção, delicado."}
+],
+"questions":[
+{"q":"Segundo o texto, quem faz quase exclusivamente o cruzamento de pés?","options":["Os homens","As mulheres","As crianças","Os idosos"],"answer":1,"why":"O texto diz que é um gesto quase exclusivamente feminino."},
+{"q":"Em que consiste o gesto?","options":["Os dois pés ficam apoiados no chão","Um pé fica sobre o joelho","Os pés ficam muito afastados","Um pé engancha-se na outra perna, reforçando a atitude defensiva"],"answer":3,"why":"O texto diz que um pé se engancha na outra perna para fortalecer a atitude defensiva."},
+{"q":"Com que animal compara o texto a mulher que faz este gesto?","options":["Com uma tartaruga na sua carapaça","Com uma águia","Com um leão","Com uma lebre"],"answer":0,"why":"O texto compara a mulher que se fechou em si mesma a uma tartaruga que se retrai na carapaça."},
+{"q":"Que abordagem sugere o texto para quem quer 'abrir a carapaça'?","options":["Uma abordagem forte e directa","Uma abordagem discreta, amistosa e calorosa","Ignorar a pessoa","Falar mais alto"],"answer":1,"why":"O texto diz que o que se necessita é uma abordagem discreta, amistosa e calorosa."},
+{"q":"Numa festa, uma jovem fala com os pés enganchados na outra perna e responde por monossílabos. O que é mais prudente?","options":["Insistir com perguntas pessoais","Aproximar-se muito","Ir embora de imediato","Manter uma abordagem calorosa e sem pressão, a ver se se abre"],"answer":3,"why":"O gesto é típico de quem se fechou e é tímida; o texto sugere uma abordagem discreta e amistosa."}
+],
+"summary":"Pés enganchados na outra perna são um gesto quase só feminino, de defesa e timidez, e pedem uma abordagem discreta, amistosa e calorosa."
+},
+{
+"id":"076",
+"title":"As posições fundamentais da cabeça",
+"text":[
+"Lê no teu PDF o início da secção 11, Outros gestos, e a secção 11.1, As posições fundamentais da cabeça (um parágrafo e as três ilustrações), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Fundamentais","d":"básicas, as principais."},
+{"t":"Neutra","d":"que não toma partido, sem opinião marcada."},
+{"t":"Inclinada","d":"que não está direita, que pende para um lado."},
+{"t":"Assinalar","d":"indicar, mostrar."},
+{"t":"Oposta","d":"contrária."}
+],
+"questions":[
+{"q":"Quantas posições básicas da cabeça refere o texto?","options":["Duas","Três","Quatro","Cinco"],"answer":1,"why":"O texto diz que há três posições básicas da cabeça."},
+{"q":"O que indica a cabeça para cima?","options":["Interesse","Atitude negativa","Uma atitude neutra em relação ao que se escuta","Cansaço"],"answer":2,"why":"O texto diz que a cabeça para cima é adoptada pela pessoa que tem atitude neutra em relação ao que escuta."},
+{"q":"O que significa a cabeça inclinada para um lado?","options":["Uma demonstração de interesse","Raiva","Aborrecimento","Mentira"],"answer":0,"why":"O texto diz que a cabeça inclinada para um lado significa uma demonstração de interesse."},
+{"q":"O que assinala a cabeça inclinada para baixo?","options":["Entusiasmo","Atenção","Concordância","Que a atitude é negativa e até oposta"],"answer":3,"why":"O texto diz que a cabeça inclinada para baixo assinala que a atitude é negativa e até oposta."},
+{"q":"Numa reunião, um participante ouve com a cabeça levemente inclinada para o lado. O que sugere o texto?","options":["Que não está a ouvir","Que tem interesse no que se diz","Que está a discordar","Que está aborrecido"],"answer":1,"why":"A cabeça inclinada para o lado mostra interesse."}
+],
+"summary":"A cabeça direita indica atitude neutra, inclinada para o lado mostra interesse, e inclinada para baixo revela uma atitude negativa ou até oposta."
+},
+{
+"id":"077",
+"title":"As duas mãos atrás da cabeça",
+"text":[
+"Lê no teu PDF a secção 11.1.1, As duas mãos atrás da cabeça (um parágrafo e a ilustração), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Contadores","d":"profissionais que tratam da contabilidade, das contas."},
+{"t":"Gerentes de vendas","d":"responsáveis por equipas de venda numa empresa."},
+{"t":"Dominadores","d":"pessoas que procuram mandar nos outros."},
+{"t":"Superiores","d":"aqui, que se sentem acima dos outros."},
+{"t":"Irritar","d":"causar irritação, incomodar."}
+],
+"questions":[
+{"q":"De quem é típico o gesto das duas mãos atrás da cabeça, segundo o texto?","options":["De pessoas tímidas","De contadores, advogados, gerentes de vendas ou pessoas que sentem confiança em si, dominadoras ou superiores","Só de crianças","Só de atletas"],"answer":1,"why":"O texto refere contadores, advogados, gerentes de vendas e pessoas confiantes, dominadoras ou que se sentem superiores."},
+{"q":"Que atitude expressa este gesto?","options":["Medo","Dúvida","Confiança e superioridade","Cansaço"],"answer":2,"why":"O texto associa o gesto à confiança em si mesmo e à sensação de superioridade."},
+{"q":"Que pensamento interior o texto associa ao gesto, em tom de ironia?","options":["Estou cansado","Estou com frio","Concordo consigo","Talvez algum dia chegue a ser tão inteligente como eu"],"answer":3,"why":"O texto diz que é como se a pessoa dissesse interiormente: talvez algum dia chegue a ser tão inteligente como eu."},
+{"q":"Que efeito tem o gesto em muita gente?","options":["Irrita","Agrada","Passa despercebido","Faz rir"],"answer":0,"why":"O texto diz que é um gesto que irrita muita gente."},
+{"q":"O gerente reclina-se na cadeira, com as mãos atrás da cabeça, enquanto a equipa lhe expõe um problema. O que sugere o texto?","options":["Que está inseguro","Que está com sono","Que pode transmitir superioridade e irritar a equipa","Que quer ajudar"],"answer":2,"why":"É um gesto de confiança e superioridade, que costuma irritar quem o vê."}
+],
+"summary":"Mãos atrás da cabeça mostram confiança, domínio ou sensação de superioridade, e costumam irritar quem as vê."
+},
+{
+"id":"078",
+"title":"Gestos de agressão",
+"text":[
+"Lê no teu PDF a secção 11.2, Gestos de agressão (dois parágrafos e a ilustração), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Agressão","d":"ataque, atitude de quem quer impor-se pela força."},
+{"t":"Quadris","d":"as ancas, a zona dos lados do corpo, junto à cintura."},
+{"t":"Casaco","d":"peça de roupa que se veste por cima."},
+{"t":"Desdobramento","d":"exibição, demonstração."},
+{"t":"Cordial","d":"amável, simpático."},
+{"t":"Aliviado","d":"menos tenso, mais leve."}
+],
+"questions":[
+{"q":"Porque se põem as mãos nos quadris, segundo o texto, quando se está a brigar?","options":["Para descansar","Para parecer maior","Para esconder as mãos","Para aquecer o corpo"],"answer":1,"why":"O texto diz que, com as mãos nos quadris, se busca parecer maior quando se está a brigar."},
+{"q":"O que assinala o casaco aberto e jogado para trás?","options":["Cansaço","Calor","Uma atitude de agressão directa, expondo o coração e a garganta","Uma atitude de timidez"],"answer":2,"why":"O texto diz que assinala uma atitude de agressão directa, em que o indivíduo expõe o coração e a garganta, como uma demonstração não verbal de valor."},
+{"q":"O que mostram as mãos nos quadris, com os polegares no cinto e em ângulo entre si, em duas pessoas?","options":["Que se estão a avaliar inconscientemente","Que estão aborrecidas","Que estão a concordar","Que querem ajudar-se"],"answer":0,"why":"O texto diz que assinalam estar a avaliar-se inconscientemente."},
+{"q":"Mesmo que a conversa seja cordial, quando é que o ambiente não será aliviado?","options":["Enquanto estiverem sentadas","Enquanto não tirarem as mãos dos quadris","Enquanto falarem baixo","Enquanto sorrirem"],"answer":1,"why":"O texto diz que, enquanto não tirarem as mãos dos quadris, o ambiente não será aliviado."},
+{"q":"Dois colegas discutem, de casaco aberto e jogado para trás, mãos nos quadris. O que sugere o texto?","options":["Que estão relaxados","Que estão a pedir desculpa","Que há uma postura de confronto, de agressão directa","Que estão a mentir"],"answer":2,"why":"Mãos nos quadris e casaco aberto indicam preparação para o confronto e agressão directa."}
+],
+"summary":"Mãos nos quadris e casaco aberto e jogado para trás mostram agressão e vontade de parecer maior, e o ambiente só se alivia quando as mãos saem dos quadris."
 }
 ]
 }
