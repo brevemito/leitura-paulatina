@@ -1599,6 +1599,93 @@
 {"q":"O que diz o texto sobre a duração do olhar?","options":["A duração do contacto entre os olhares sugere uma união de mensagens","Não tem significado","Só importa a cor dos olhos","Só importa o tamanho da pupila"],"answer":0,"why":"O texto diz que a duração do contacto ininterrupto entre os olhares sugere uma união de mensagens."}
 ],
 "summary":"Os olhos são o foco mais expressivo do rosto: o contacto ocular é um sinal chave, e a duração do olhar acrescenta mensagens, o que faz da comunicação ocular a mais subtil forma de expressão corporal."
+},
+  {
+"id":"067",
+"title":"Os sinais com os olhos: as pupilas",
+"text":[
+"Lê no teu PDF a secção 9.1, Os sinais com os olhos (o primeiro parágrafo), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Luminosidade","d":"quantidade de luz que há num lugar."},
+{"t":"Pupilas","d":"os círculos escuros ao centro dos olhos, que se abrem ou fecham consoante a luz."},
+{"t":"Dilatar","d":"aumentar de tamanho, alargar."},
+{"t":"Contrair","d":"diminuir de tamanho, encolher."},
+{"t":"Conquista amorosa","d":"o esforço para atrair o interesse de alguém."}
+],
+"questions":[
+{"q":"Nas mesmas condições de luminosidade, de que depende o tamanho das pupilas, segundo o texto?","options":["Da atitude da pessoa","Da cor dos olhos","Da idade","Da altura"],"answer":0,"why":"O texto diz que, com a mesma luminosidade, as pupilas dilatam ou contraem segundo a atitude da pessoa."},
+{"q":"O que acontece às pupilas quando alguém se entusiasma?","options":["Contraem muito","Não mudam","Dilatam, podendo chegar a quatro vezes o tamanho normal","Desaparecem"],"answer":2,"why":"O texto diz que, no entusiasmo, as pupilas dilatam até ter quatro vezes o tamanho normal."},
+{"q":"O que acontece às pupilas de quem está de mau humor, zangado ou com atitude negativa?","options":["Dilatam","Mudam de cor","Ficam iguais","Contraem"],"answer":3,"why":"O texto diz que, com mau humor, zanga ou atitude negativa, as pupilas contraem."},
+{"q":"Porque usava óculos escuros nas suas negociações o empresário referido no texto?","options":["Por causa do sol","Para que os seus olhos não revelassem os seus pensamentos","Por moda","Por problemas de visão"],"answer":1,"why":"O texto diz que os usava para que os seus olhos não revelassem os seus pensamentos."},
+{"q":"Numa sala bem iluminada, os olhos de um colega parecem muito abertos e brilhantes quando fala do projecto. O que sugere o texto?","options":["Zanga","Entusiasmo","Cansaço","Mentira"],"answer":1,"why":"Pupilas dilatadas indicam entusiasmo."}
+],
+"summary":"Com a luz constante, as pupilas dilatam com o entusiasmo e contraem com o mau humor ou a atitude negativa, e por isso os olhos podem revelar o que pensamos."
+},
+{
+"id":"068",
+"title":"Os sinais com os olhos: quanto tempo se olha",
+"text":[
+"Lê no teu PDF a secção 9.1, Os sinais com os olhos (o segundo parágrafo, sobre o tempo de olhar), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Desonesta","d":"que não é sincera, que engana."},
+{"t":"Ocultar","d":"esconder."},
+{"t":"Sustentar o olhar","d":"manter o olhar fixo sem desviar."},
+{"t":"Interlocutor","d":"a pessoa com quem estamos a falar."},
+{"t":"Desafio","d":"provocação, tentativa de impor-se."}
+],
+"questions":[
+{"q":"Quando uma pessoa é desonesta ou tenta ocultar algo, quanto tempo o seu olhar enfrenta o nosso?","options":["Mais de dois terços do tempo","Metade do tempo","Menos de um terço do tempo","Todo o tempo"],"answer":2,"why":"O texto diz que quem é desonesto ou esconde algo enfrenta o olhar menos de um terço do tempo."},
+{"q":"O que pode indicar sustentar o olhar mais de dois terços do tempo?","options":["Cansaço","Que o interlocutor é considerado atraente, ou hostilidade e desafio","Distracção","Timidez"],"answer":1,"why":"O texto diz que quem sustenta o olhar mais de dois terços do tempo acha o interlocutor atraente ou sente hostilidade, e envia uma mensagem de desafio."},
+{"q":"Que percentagem do tempo se deve olhar para criar uma boa relação?","options":["10 a 20%","30 a 40%","60 a 70%","90 a 100%"],"answer":2,"why":"O texto recomenda olhar durante 60 a 70% do tempo."},
+{"q":"O que acontece, segundo o texto, quando olhamos nessa proporção?","options":["A pessoa sente-se ameaçada","A pessoa começa a sentir simpatia por nós","A pessoa foge","Nada"],"answer":1,"why":"O texto diz que, assim, a pessoa começa a sentir simpatia pela outra."},
+{"q":"Numa entrevista, o candidato quase não te olha nos olhos. O que o texto sugere?","options":["Que pode estar a esconder algo, mas deve ver-se com outros sinais","Que é muito honesto","Que está apaixonado","Que está a desafiar"],"answer":0,"why":"Olhar pouco indica, em geral, desonestidade ou algo escondido, mas deve ser lido com outros gestos."}
+],
+"summary":"Olhar pouco (menos de um terço do tempo) sugere que se esconde algo, olhar demasiado (mais de dois terços) sugere atracção ou desafio, e olhar 60 a 70% do tempo ajuda a criar simpatia."
+},
+{
+"id":"069",
+"title":"O olhar de negócio e o olhar social",
+"text":[
+"Lê no teu PDF as secções 9.1.1, O olhar de negócio, e 9.1.2, O olhar social, e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Triângulo","d":"figura de três lados; aqui, uma zona imaginária do rosto."},
+{"t":"Testa","d":"a parte do rosto acima dos olhos."},
+{"t":"Atmosfera social","d":"ambiente de conversa descontraída."},
+{"t":"A sério","d":"com seriedade, sem brincadeira."}
+],
+"questions":[
+{"q":"Quando se fala de negócios, onde se deve imaginar o triângulo?","options":["Na boca","Na testa da outra pessoa","No peito","Nas mãos"],"answer":1,"why":"O texto diz que se deve imaginar um triângulo na testa da outra pessoa."},
+{"q":"O que se deve fazer com o olhar no olhar de negócio?","options":["Descer até à boca","Mantê-lo dirigido a essa zona, sem descer","Fechar os olhos","Desviá-lo"],"answer":1,"why":"O texto diz que se mantém o olhar dirigido a essa zona e não desce."},
+{"q":"O que percebe o outro quando mantemos o olhar na testa?","options":["Que estamos distraídos","Que estamos nervosos","Que falamos a sério","Que estamos aborrecidos"],"answer":2,"why":"O texto diz que o outro perceberá que falamos a sério."},
+{"q":"O que cria uma atmosfera social, segundo o texto?","options":["Olhar só a testa","Fechar os olhos","Cruzar os braços","Quando o olhar vai para baixo do nível dos olhos"],"answer":3,"why":"O texto diz que, quando o olhar desce abaixo do nível dos olhos, se desenvolve uma atmosfera social."},
+{"q":"Num encontro social, para onde se dirige o olhar?","options":["Ao triângulo formado entre os olhos e a boca","À testa","Ao chão","Ao relógio"],"answer":0,"why":"O texto diz que, nos encontros sociais, o olhar se dirige ao triângulo formado entre os olhos e a boca."}
+],
+"summary":"Em negócios, o olhar fica no triângulo da testa e transmite seriedade; em encontros sociais, desce ao triângulo entre os olhos e a boca e cria um ambiente mais descontraído."
+},
+{
+"id":"070",
+"title":"O olhar íntimo e as olhadas de esguelha",
+"text":[
+"Lê no teu PDF as secções 9.1.3, O olhar íntimo, e 9.1.4, As olhadas de esguelha, e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Íntimo","d":"muito pessoal, de grande proximidade."},
+{"t":"De esguelha","d":"de lado, sem virar a cabeça."},
+{"t":"Sobrancelhas","d":"os pêlos acima dos olhos."},
+{"t":"Franzidas","d":"com rugas, juntas e para baixo."},
+{"t":"Hostilidade","d":"atitude de oposição ou ameaça."}
+],
+"questions":[
+{"q":"Por onde percorre o olhar íntimo, segundo o texto?","options":["Só pelos olhos","Pelos olhos, passa pelo queixo e dirige-se para outras partes do corpo","Só pela testa","Só pelas mãos"],"answer":1,"why":"O texto diz que o olhar íntimo percorre os olhos, passa pelo queixo e dirige-se para outras partes do corpo."},
+{"q":"O que faz uma pessoa interessada perante um olhar íntimo?","options":["Desvia o olhar","Devolve um olhar do mesmo estilo","Fecha os olhos","Vai embora"],"answer":1,"why":"O texto diz que, se a pessoa estiver interessada, devolverá um olhar do mesmo estilo."},
+{"q":"As olhadas de esguelha transmitem interesse amoroso quando combinadas com:","options":["Sobrancelhas franzidas","Cabeça baixa","Uma elevação das sobrancelhas e um sorriso","Braços cruzados"],"answer":2,"why":"O texto diz que transmitem interesse amoroso quando combinadas com uma elevação nas sobrancelhas e um sorriso."},
+{"q":"Quando as olhadas de esguelha transmitem hostilidade?","options":["Com um sorriso","Quando combinadas com sobrancelhas franzidas ou para baixo","Quando a pessoa está calada","Quando se usam óculos"],"answer":1,"why":"O texto diz que transmitem hostilidade quando combinadas com sobrancelhas franzidas ou para baixo."},
+{"q":"Alguém olha de lado para ti, com as sobrancelhas franzidas. O que sugere o texto?","options":["Interesse amoroso","Hostilidade","Surpresa agradável","Timidez"],"answer":1,"why":"A olhadela de esguelha com sobrancelhas franzidas ou baixas indica hostilidade."}
+],
+"summary":"O olhar íntimo passa dos olhos ao resto do corpo e pede resposta do mesmo estilo; a olhadela de lado indica interesse com sobrancelhas levantadas e sorriso, ou hostilidade com sobrancelhas franzidas."
 }
 ]
 }
