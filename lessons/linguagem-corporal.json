@@ -2133,6 +2133,96 @@
 {"q":"Para que se utilizam em geral os charutos, segundo o texto?","options":["Para expressar superioridade, devido ao seu custo e tamanho","Para mostrar humildade","Para relaxar","Para esconder emoções"],"answer":0,"why":"O texto diz que, em geral, se utilizam os charutos para expressar superioridade devido ao seu custo e tamanho."}
 ],
 "summary":"A direcção da fumaça trai a atitude: para cima mostra confiança e superioridade, para baixo mostra desconfiança, de lado e para baixo mostra reserva, e pelo nariz mostra segurança ou, com a cabeça baixa, zanga; os charutos expressam superioridade."
+},
+  {
+"id":"091",
+"title":"Os gestos com os óculos: a haste na boca",
+"text":[
+"Lê no teu PDF a secção 13.2, Os gestos com os óculos (o primeiro parágrafo), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Objetos auxiliares","d":"objectos que usamos como apoio, como óculos ou canetas."},
+{"t":"Reveladores","d":"que mostram algo que não se diz."},
+{"t":"Haste","d":"a parte lateral dos óculos que assenta na orelha."},
+{"t":"Reviver","d":"voltar a sentir algo do passado."},
+{"t":"Afirmação","d":"reforço, confirmação."}
+],
+"questions":[
+{"q":"O que oferecem todos os objectos auxiliares que o homem utiliza, segundo o texto?","options":["Oportunidades para fazer muitos gestos reveladores","Problemas de comunicação","Distracções inúteis","Nada de relevante"],"answer":0,"why":"O texto diz que estes objectos proporcionam oportunidades para fazer muitos gestos reveladores."},
+{"q":"Qual é um dos gestos mais comuns de quem usa óculos?","options":["Limpar as lentes","Pôr na boca a ponta de uma haste","Tirar os óculos e escondê-los","Dobrar as hastes"],"answer":1,"why":"O texto diz que um dos gestos mais comuns é pôr na boca a ponta de uma haste."},
+{"q":"Segundo o texto, o gesto de pôr objectos contra os lábios ou na boca é uma tentativa de reviver a segurança de quê?","options":["De um jogo de crianças","De uma conversa amigável","Do bebé que suga o peito da mãe","De um abraço"],"answer":2,"why":"O texto diz que é uma tentativa de reviver a sensação de segurança do bebé que suga o peito da mãe."},
+{"q":"O texto afirma que o gesto de levar os óculos à boca é um gesto de:","options":["Agressão","Aborrecimento","Mentira","Afirmação da própria segurança"],"answer":3,"why":"O texto diz que o gesto de levar os óculos à boca é um gesto de afirmação da própria segurança."},
+{"q":"Com que outra prática compara o texto o uso dos cigarros pelos fumantes?","options":["Com as crianças que chupam o polegar","Com as crianças que choram","Com os adultos que cantam","Com os animais que dormem"],"answer":0,"why":"O texto diz que os fumantes usam os cigarros com a mesma finalidade das crianças que chupam o polegar."}
+],
+"summary":"Pôr a ponta da haste dos óculos na boca é um gesto que procura segurança, como o bebé que suga o peito da mãe, e o mesmo acontece com os cigarros dos fumantes."
+},
+{
+"id":"092",
+"title":"Os gestos com os óculos: olhar por cima",
+"text":[
+"Lê no teu PDF a secção 13.2 a partir de 'Os atores dos anos 20 e 30...' até ao fim do parágrafo sobre 'olhar por cima dos óculos' (os dois parágrafos antes de 'Os que usam óculos devem tirá-los'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Analítica","d":"que examina as coisas com atenção, parte a parte."},
+{"t":"Crítica","d":"que procura os pontos fracos ou os erros."},
+{"t":"De perto","d":"a pouca distância, como ao ler."},
+{"t":"Cômodo","d":"confortável, mais fácil."},
+{"t":"Engano","d":"erro de interpretação ou de avaliação."},
+{"t":"Defender-se","d":"proteger-se perante algo percebido como ameaça."}
+],
+"questions":[
+{"q":"Que gesto usavam os actores dos anos 20 e 30 para representar uma personalidade analítica e crítica?","options":["Cruzar os braços","Olhar por cima dos óculos","Passar a mão no queixo","Tirar os óculos"],"answer":1,"why":"O texto diz que usavam o gesto de olhar por cima dos óculos."},
+{"q":"Que outra explicação possível aponta o texto para esse gesto?","options":["A pessoa está a mentir","A pessoa está cansada","A pessoa usa óculos para ver de perto e acha mais cómodo olhar por cima deles do que tirá-los","A pessoa está zangada"],"answer":2,"why":"O texto diz que pode ser que a pessoa use óculos para ver de perto e ache mais cómodo olhar por cima deles."},
+{"q":"Porque pode ser um grave engano olhar por cima dos óculos para quem é olhado?","options":["Porque o deixa feliz","Porque o faz rir","Porque o faz fechar os olhos","Porque a pessoa olhada vai defender-se, cruzando os braços e as pernas e adoptando uma atitude negativa"],"answer":3,"why":"O texto diz que a pessoa olhada se defenderá cruzando os braços, as pernas e adoptando uma atitude negativa."},
+{"q":"Que atitude toma a pessoa olhada por cima dos óculos?","options":["Defensiva e negativa","Entusiasmada","Submissa","Distraída"],"answer":0,"why":"Cruzar braços e pernas é um sinal de atitude defensiva e negativa."},
+{"q":"Um professor olha por cima dos óculos para um aluno enquanto este responde. O que pode acontecer, segundo o texto?","options":["O aluno sente-se à vontade","O aluno pode sentir-se julgado e adoptar uma atitude defensiva","O aluno fala mais alto","O aluno ri-se"],"answer":1,"why":"Segundo o texto, quem é olhado por cima dos óculos tende a defender-se e a fechar-se."}
+],
+"summary":"Olhar por cima dos óculos pode parecer analítico e crítico, mas muitas vezes é só comodidade, e quem é olhado assim tende a defender-se, com braços e pernas cruzados."
+},
+{
+"id":"093",
+"title":"Os gestos com os óculos: tirar os óculos ao falar",
+"text":[
+"Lê no teu PDF o último parágrafo da secção 13.2 (começa por 'Os que usam óculos devem tirá-los quando falam...'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Relaxar","d":"tornar mais descontraído, aliviar a tensão."},
+{"t":"Controle da situação","d":"capacidade de dirigir o que está a acontecer."},
+{"t":"Interromper","d":"cortar a fala de alguém."},
+{"t":"Dialogar","d":"conversar com alguém."},
+{"t":"Percebe","d":"repara, compreende."}
+],
+"questions":[
+{"q":"O que devem fazer, segundo o texto, os que usam óculos?","options":["Usá-los sempre","Tirá-los sempre","Tirá-los quando falam e usá-los enquanto ouvem","Usá-los quando falam e tirá-los ao ouvir"],"answer":2,"why":"O texto diz que quem usa óculos deve tirá-los quando fala e usá-los enquanto ouve."},
+{"q":"Que dois efeitos tem isso, segundo o texto?","options":["Relaxa a outra pessoa e permite a quem usa óculos o controle da situação","Cansa os dois","Aborrece a outra pessoa","Cria confusão"],"answer":0,"why":"O texto diz que isso não só relaxa a outra pessoa, mas também permite a quem usa óculos o controle da situação."},
+{"q":"O que percebe logo o outro, quando quem dialoga com ele tira os óculos?","options":["Que a conversa terminou","Que não deve interrompê-lo","Que pode falar de imediato","Que ele está cansado"],"answer":1,"why":"O texto diz que o outro percebe logo que não deve interromper."},
+{"q":"Quando pode falar o outro, segundo o texto?","options":["Quando quiser","Quando o primeiro estiver calado","Quando o primeiro sorrir","Só quando a outra pessoa pôr os óculos"],"answer":3,"why":"O texto diz que o outro só pode falar quando a pessoa põe os óculos."},
+{"q":"Um gerente de óculos quer expor uma ideia sem ser interrompido. O que lhe sugere o texto?","options":["Tirar os óculos enquanto fala e pô-los quando quiser ouvir","Falar mais depressa","Olhar por cima dos óculos","Cruzar os braços"],"answer":0,"why":"Tirar os óculos ao falar sinaliza que não se deve interromper, e pô-los sinaliza que se pode falar."}
+],
+"summary":"Quem usa óculos pode controlar a conversa tirando-os ao falar (sinal de que não se deve interromper) e pondo-os ao ouvir (sinal de que o outro pode falar), o que também relaxa o interlocutor."
+},
+{
+"id":"094",
+"title":"Os indicadores e a posição fechada",
+"text":[
+"Lê no teu PDF o início da secção 14, Os indicadores (o parágrafo inicial), e a secção 14.1, Os ângulos e os triângulos, com 14.1.1, Posição fechada (uma frase), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Indicadores","d":"aqui, as partes do corpo que mostram a direcção em que a pessoa quer ir."},
+{"t":"Postura","d":"a posição do corpo."},
+{"t":"Apontando","d":"virado numa direcção, a indicar um rumo."},
+{"t":"Finalizar","d":"terminar, concluir."},
+{"t":"Intimidade","d":"proximidade e confiança entre pessoas."},
+{"t":"Torsos","d":"o tronco do corpo, do pescoço à cintura."}
+],
+"questions":[
+{"q":"O que mostra a pessoa que fala connosco, quando tem a cabeça virada para nós, mas o corpo e os pés a apontar para a saída ou para outra pessoa?","options":["Que está muito atenta","A direcção que queria tomar","Que está muito cansada","Que está a mentir"],"answer":1,"why":"O texto diz que isso mostra a direcção que a pessoa queria tomar."},
+{"q":"Que sugere o texto que se faça, se se observar isto?","options":["Falar mais alto","Insistir mais","Ignorar o sinal","Terminar a conversa, como se tivéssemos decidido finalizá-la, ou procurar fazer algo que interesse ao outro"],"answer":3,"why":"O texto diz que se deve terminar a conversa como se tivéssemos tomado a decisão de finalizá-la ou procurar fazer algo que interesse ao outro."},
+{"q":"Qual é o ângulo dos torsos numa posição fechada, quando o diálogo requer certa intimidade?","options":["Menor de 90 graus","Maior de 180 graus","Exactamente 180 graus","Maior de 90 graus"],"answer":0,"why":"O texto diz que, quando o diálogo requer certa intimidade, o ângulo formado pelos torsos é menor de 90 graus."},
+{"q":"O que são, neste contexto, os 'indicadores'?","options":["As mãos","Os olhos","Partes do corpo, como o corpo e os pés, que apontam a direcção em que a pessoa quer ir","Os braços"],"answer":2,"why":"No texto, o corpo e os pés apontam a direcção que a pessoa queria tomar."},
+{"q":"Um colega responde às tuas perguntas com a cabeça virada para ti, mas os pés voltados para a porta. O que sugere o texto?","options":["Que quer terminar a conversa e sair","Que está muito interessado","Que está confuso","Que está aborrecido com a sala"],"answer":0,"why":"Os pés e o corpo mostram a direcção que a pessoa queria tomar: a saída."}
+],
+"summary":"O corpo e os pés indicam para onde a pessoa quer ir, mesmo que a cabeça olhe para nós, e uma conversa íntima faz-se com os torsos num ângulo menor de 90 graus, em posição fechada."
 }
 ]
 }
