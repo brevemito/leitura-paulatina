@@ -1510,6 +1510,95 @@
 {"q":"Uma passageira, na sua primeira viagem de avião, agarra os próprios braços enquanto espera a descolagem. O que sugere o texto?","options":["Que está confiante","Que está aborrecida","Uma atitude de restrição e nervosismo, a tentar não deixar o corpo exposto","Que quer conversar"],"answer":2,"why":"Segurar os braços é uma atitude negativa de restrição, típica de quem espera algo que o deixa tenso."}
 ],
 "summary":"Segurar os braços com as mãos é uma atitude negativa de restrição, comum em salas de espera e em quem voa pela primeira vez, como se a pessoa quisesse não deixar o corpo exposto."
+},
+  {
+"id":"063",
+"title":"Cruzamento parcial de braços",
+"text":[
+"Lê no teu PDF a secção 8.1.4, Cruzamento parcial de braços (um parágrafo curto), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Parcial","d":"que é só uma parte, não completo."},
+{"t":"Barreira","d":"obstáculo que se coloca entre nós e algo ou alguém."},
+{"t":"Enfrentar o público","d":"apresentar-se diante de muitas pessoas."},
+{"t":"Prémio","d":"distinção que se recebe por mérito."},
+{"t":"Temor","d":"medo."}
+],
+"questions":[
+{"q":"Em que consiste o cruzamento parcial de braços?","options":["Em segurar um braço com a mão","Em cruzar os dois braços com os punhos fechados","Em pôr as mãos atrás da cabeça","Em esconder os braços nos bolsos"],"answer":0,"why":"O texto apresenta esta versão como segurar um braço com a mão."},
+{"q":"Em que situação é comum este gesto?","options":["Ao dormir","Quando a pessoa tem de enfrentar o público, por exemplo ao receber um prémio ou dizer algumas palavras","Num jogo de futebol","Ao cozinhar"],"answer":1,"why":"O texto diz que é comum em quem deve enfrentar o público, como ao receber um título ou um prémio, ou ao ter de dizer umas palavras."},
+{"q":"A que sensação compara o texto este gesto?","options":["À de ganhar uma competição","À de ter frio","À segurança sentida em criança, quando os pais levavam pela mão em situações de medo","À de estar zangado"],"answer":2,"why":"O texto compara-o a reviver a sensação de segurança de quando os pais levavam a criança pela mão em situações de temor."},
+{"q":"O texto apresenta o cruzamento parcial de braços como:","options":["Um gesto de agressão","Um gesto de saudação","Um gesto de superioridade","Outra versão da barreira"],"answer":3,"why":"O texto chama-lhe outra versão da barreira."},
+{"q":"Um estudante sobe ao palco para receber um diploma e segura o próprio braço com a outra mão. O que sugere o texto?","options":["Segurança total","Nervosismo e procura de segurança","Raiva","Aborrecimento"],"answer":1,"why":"Segurar um braço é comum em quem enfrenta o público e procura a sensação de segurança de que precisa."}
+],
+"summary":"Segurar um braço com a mão é uma versão da barreira, comum em quem enfrenta o público, e recria a segurança que sentíamos em criança quando os pais nos davam a mão."
+},
+{
+"id":"064",
+"title":"Cruzamento de braços dissimulado",
+"text":[
+"Lê no teu PDF a secção 8.1.5, Cruzamento de braços dissimulado (início da secção, até ao fim do parágrafo seguinte), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Dissimulado","d":"disfarçado, escondido para não se notar."},
+{"t":"Exposto ao público","d":"que está sempre à vista de muita gente."},
+{"t":"Punho da camisa","d":"a parte final da manga, junto ao pulso."},
+{"t":"Barreira","d":"obstáculo que se coloca entre nós e algo ou alguém."},
+{"t":"Inseguras","d":"sem confiança em si mesmas."}
+],
+"questions":[
+{"q":"Quem usa o cruzamento de braços dissimulado, segundo o texto?","options":["Pessoas continuamente expostas ao público, como políticos e vendedores","Apenas crianças","Apenas atletas","Apenas idosos"],"answer":0,"why":"O texto refere pessoas continuamente expostas ao público, como políticos e vendedores."},
+{"q":"Porque usam este gesto?","options":["Para mostrar superioridade","Para que o público não perceba que estão nervosas ou inseguras","Para pedir silêncio","Para aquecer as mãos"],"answer":1,"why":"O texto diz que não desejam que o público perceba que estão nervosas ou inseguras."},
+{"q":"Em vez de cruzar um braço sobre o outro, o que faz uma mão?","options":["Fecha-se em punho","Toca o nariz","Segura uma mala, o relógio, o punho da camisa, etc.","Cobre a boca"],"answer":2,"why":"O texto dá como exemplos segurar uma bolsa, o relógio ou o punho da camisa."},
+{"q":"O que se obtém desta maneira?","options":["Uma ameaça","Um sinal de alegria","Uma ordem","Uma barreira e uma sensação de segurança"],"answer":3,"why":"O texto diz que se forma a barreira e se obtém a sensação de segurança."},
+{"q":"Um candidato, num debate, segura constantemente o punho da camisa com a outra mão. O que sugere o texto?","options":["Um esforço para dissimular o nervosismo e ganhar segurança","Concordância","Aborrecimento","Hostilidade"],"answer":0,"why":"É a versão dissimulada do cruzamento de braços, usada para não mostrar nervosismo ou insegurança."}
+],
+"summary":"Quem está sempre exposto ao público cruza os braços de forma disfarçada, segurando um objecto ou o punho da camisa, para criar uma barreira e ganhar segurança sem mostrar nervosismo."
+},
+{
+"id":"065",
+"title":"Expressão facial",
+"text":[
+"Lê no teu PDF o início da secção 9, Expressão facial (os três primeiros parágrafos), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Expressão facial","d":"o que o rosto mostra através dos seus movimentos."},
+{"t":"Papel chave","d":"função central, muito importante."},
+{"t":"Indícios","d":"sinais que levam a uma conclusão."},
+{"t":"Interlocutor","d":"a pessoa com quem estamos a falar."},
+{"t":"Asco","d":"nojo, repulsa."},
+{"t":"Receptor","d":"quem recebe a mensagem."}
+],
+"questions":[
+{"q":"Que papel têm os sinais faciais na comunicação, segundo o texto?","options":["Um papel chave","Um papel secundário","Nenhum papel","Só têm papel com crianças"],"answer":0,"why":"O texto diz que os sinais faciais têm um papel chave na comunicação."},
+{"q":"O que acontece nas conversas telefónicas, por falta destas expressões?","options":["Aumenta a disposição para interpretar as mensagens","Reduz significativamente a disposição do receptor para interpretar as mensagens","Não há qualquer diferença","Melhora a memória"],"answer":1,"why":"O texto diz que a ausência destas expressões reduz significativamente a disposição do receptor para interpretar as mensagens."},
+{"q":"Que lugar ocupam as expressões faciais entre os sinais do estado emocional?","options":["Os menos fiáveis","Apenas decorativas","Os indícios mais precisos do estado emocional de uma pessoa","Só relevantes em público"],"answer":2,"why":"O texto diz que essas expressões são os indícios mais precisos do estado emocional de uma pessoa."},
+{"q":"Que emoções interpretamos pela observação do rosto?","options":["Só alegria e tristeza","Fome e sono","Só raiva","Alegria, tristeza, medo, raiva, surpresa, asco ou afecto"],"answer":3,"why":"O texto refere alegria, tristeza, medo, raiva, surpresa, asco e afecto."},
+{"q":"Numa chamada só de áudio, não vês o rosto de quem fala. O que perdes, segundo o texto?","options":["Os indícios mais precisos do estado emocional, e fica mais difícil interpretar a mensagem","Nada","A voz","O vocabulário"],"answer":0,"why":"Sem o rosto, perdem-se os sinais faciais, que são os indícios mais precisos do estado emocional."}
+],
+"summary":"O rosto tem um papel chave na comunicação: mostra com precisão o estado emocional, e sem ele, como ao telefone, interpretamos as mensagens com mais dificuldade."
+},
+{
+"id":"066",
+"title":"Os olhos e o contacto ocular",
+"text":[
+"Lê no teu PDF os dois últimos parágrafos antes de 9.1 Os sinais com os olhos (sobre o ponto mais importante da comunicação facial), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Foco","d":"ponto principal, centro das atenções."},
+{"t":"Expressivo","d":"que mostra bem o que se sente."},
+{"t":"Contacto ocular","d":"olhar nos olhos de outra pessoa."},
+{"t":"Ininterrupto","d":"sem pausas, contínuo."},
+{"t":"Sutil","d":"delicado, difícil de notar."}
+],
+"questions":[
+{"q":"Onde está, provavelmente, o ponto mais importante da comunicação facial?","options":["Nos olhos, o foco mais expressivo do rosto","Na boca","No queixo","Nas orelhas"],"answer":0,"why":"O texto diz que o ponto mais importante da comunicação facial está nos olhos, o foco mais expressivo da face."},
+{"q":"O que é o contacto ocular, segundo o texto?","options":["Irrelevante na comunicação","Um sinal chave na comunicação com os outros","Um sinal que só existe em conversas formais","Um sinal que só se usa ao telefone"],"answer":1,"why":"O texto diz que o contacto ocular é um sinal chave na nossa comunicação com os outros."},
+{"q":"O que é a 'longitude do olhar', segundo o texto?","options":["O tamanho dos olhos","A distância entre as pessoas","A duração do contacto ininterrupto entre os olhares","A cor dos olhos"],"answer":2,"why":"O texto define-a como a duração do contacto ininterrupto entre os olhares."},
+{"q":"A comunicação ocular é, possivelmente:","options":["A mais óbvia das formas de expressão corporal","A menos importante","A mais ruidosa","A mais subtil das formas de expressão corporal"],"answer":3,"why":"O texto diz que a comunicação ocular é, possivelmente, a mais subtil das formas de expressão corporal."},
+{"q":"O que diz o texto sobre a duração do olhar?","options":["A duração do contacto entre os olhares sugere uma união de mensagens","Não tem significado","Só importa a cor dos olhos","Só importa o tamanho da pupila"],"answer":0,"why":"O texto diz que a duração do contacto ininterrupto entre os olhares sugere uma união de mensagens."}
+],
+"summary":"Os olhos são o foco mais expressivo do rosto: o contacto ocular é um sinal chave, e a duração do olhar acrescenta mensagens, o que faz da comunicação ocular a mais subtil forma de expressão corporal."
 }
 ]
 }
