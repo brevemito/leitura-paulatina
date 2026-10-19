@@ -2223,6 +2223,118 @@
 {"q":"Um colega responde às tuas perguntas com a cabeça virada para ti, mas os pés voltados para a porta. O que sugere o texto?","options":["Que quer terminar a conversa e sair","Que está muito interessado","Que está confuso","Que está aborrecido com a sala"],"answer":0,"why":"Os pés e o corpo mostram a direcção que a pessoa queria tomar: a saída."}
 ],
 "summary":"O corpo e os pés indicam para onde a pessoa quer ir, mesmo que a cabeça olhe para nós, e uma conversa íntima faz-se com os torsos num ângulo menor de 90 graus, em posição fechada."
+},
+  {
+"id":"095",
+"title":"As técnicas de inclusão e exclusão",
+"text":[
+"Lê no teu PDF a secção 14.2, As técnicas de inclusão e exclusão (os dois parágrafos e as ilustrações), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Inclusão","d":"acto de aceitar alguém num grupo ou conversa."},
+{"t":"Exclusão","d":"acto de deixar alguém de fora."},
+{"t":"Triangular","d":"em forma de triângulo, com três pessoas."},
+{"t":"Status social","d":"posição que alguém ocupa na sociedade."},
+{"t":"Bate-papo","d":"conversa informal."}
+],
+"questions":[
+{"q":"Para que se usam a posição triangular aberta ou fechada?","options":["Para incluir ou excluir outra pessoa da conversa","Para mostrar cansaço","Para pedir silêncio","Para terminar a conversa"],"answer":0,"why":"O texto diz que ambas são usadas para incluir ou excluir outra pessoa da conversa."},
+{"q":"Se a terceira pessoa não é aceite, o que fazem as outras duas?","options":["Abrem o triângulo e convidam-na","Mantêm a posição fechada e só viram a cabeça para reconhecer a sua presença","Saem do local","Cruzam os braços"],"answer":1,"why":"O texto diz que mantêm a posição fechada e só giram a cabeça, reconhecendo a sua presença e nada mais."},
+{"q":"O que indicam com a postura as duas pessoas do triângulo aberto, segundo o texto?","options":["Que discutem assuntos íntimos","Que querem ficar sozinhas","Que têm o mesmo status social e não falam de nada pessoal","Que estão zangadas"],"answer":2,"why":"O texto diz que indicam possuir o mesmo status social e não estar a conversar sobre nada pessoal."},
+{"q":"O que fazem ao formar esse triângulo?","options":["Pedem silêncio","Despedem-se","Afastam-se","Convidam alguém de posição social semelhante a participar da conversa"],"answer":3,"why":"O texto diz que estão a convidar, com o triângulo que formam, alguém de posição social semelhante."},
+{"q":"Dois colegas conversam de frente e, quando um terceiro chega, só viram a cabeça para ele. O que sugere o texto?","options":["Que o terceiro não foi aceite na conversa","Que o convidam a entrar","Que estão aborrecidos","Que estão a mentir"],"answer":0,"why":"Manter a posição fechada e só girar a cabeça é a forma de reconhecer a presença do outro sem o aceitar."}
+],
+"summary":"A posição do corpo de quem conversa mostra se aceita ou exclui um terceiro: posição fechada com um simples olhar exclui, e um triângulo aberto convida alguém do mesmo status a juntar-se."
+},
+{
+"id":"096",
+"title":"Os indicadores nas pessoas sentadas",
+"text":[
+"Lê no teu PDF a secção 14.3, Os indicadores nas pessoas sentadas (início, e continua na página seguinte até à ilustração do sofá), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Direcionar","d":"virar numa direcção."},
+{"t":"Aceitação","d":"acto de aceitar, de receber bem."},
+{"t":"Joelhos","d":"a articulação a meio da perna."},
+{"t":"Quebrar","d":"aqui, desfazer ou interromper."},
+{"t":"Posição fechada","d":"postura que não deixa lugar a um terceiro."}
+],
+"questions":[
+{"q":"O que é sinal de aceitação e interesse, em pessoas sentadas?","options":["Cruzar os braços","Cruzar as pernas e direccionar os joelhos para uma pessoa","Olhar para o chão","Afastar a cadeira"],"answer":1,"why":"O texto diz que cruzar as pernas e direccionar os joelhos para uma pessoa é sinal de aceitação e interesse."},
+{"q":"Se a outra pessoa está interessada, o que faz?","options":["Descruza as pernas","Vira as costas","Também cruza as pernas, com os joelhos na direcção da primeira","Levanta-se"],"answer":2,"why":"O texto diz que também cruzará as pernas com os joelhos na direcção da primeira."},
+{"q":"Na figura do sofá, como poderia participar da conversa o homem da direita?","options":["Falando mais alto","Pedindo licença","Trazendo uma cadeira e colocando-a em frente aos outros dois, formando um triângulo","Cruzando os braços"],"answer":2,"why":"O texto diz que a única maneira seria trazer uma cadeira e colocá-la em frente aos outros dois, para formar um triângulo."},
+{"q":"Que outra solução aponta o texto?","options":["Ficar calado","Ir embora","Esperar sentado","Fazer alguma outra acção que quebre a posição fechada"],"answer":3,"why":"O texto diz que se pode fazer alguma outra acção que quebre a posição fechada."},
+{"q":"Duas colegas sentadas no sofá têm os joelhos virados uma para a outra, e um terceiro, ao lado, está de fora. O que sugere o texto?","options":["Que há interesse mútuo entre as duas, e o terceiro está excluído","Que estão aborrecidas","Que estão a discutir","Que estão com frio"],"answer":0,"why":"Joelhos virados uma para a outra mostram aceitação e interesse entre elas, e fecham a posição a um terceiro."}
+],
+"summary":"Sentados, os joelhos apontam para quem nos interessa; para entrar numa conversa de posição fechada é preciso quebrá-la, por exemplo trazendo uma cadeira e formando um triângulo."
+},
+{
+"id":"097",
+"title":"A possibilidade de fingir",
+"text":[
+"Lê no teu PDF a secção 15, A possibilidade de fingir (os cinco parágrafos), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Fingir","d":"fazer parecer algo que não é verdade."},
+{"t":"Congruência","d":"concordância entre duas coisas, aqui entre gestos e palavras."},
+{"t":"Microsinais","d":"sinais muito pequenos, que quase não se veem."},
+{"t":"Farsante","d":"pessoa que finge, que engana."},
+{"t":"Comissura","d":"o canto da boca."},
+{"t":"Infalível","d":"que nunca falha."}
+],
+"questions":[
+{"q":"Qual é a resposta geral à pergunta 'É possível fingir na linguagem do corpo?'","options":["Sim, sem qualquer dificuldade","Só com treino de actor","Não, em geral","Só entre homens"],"answer":2,"why":"O texto diz que a resposta geral é 'não'."},
+{"q":"Porque é difícil fingir?","options":["Porque a falta de congruência se manifestaria entre os gestos principais, os microsinais do corpo e a linguagem falada","Porque ninguém repara nos gestos","Porque os gestos são sempre iguais","Porque só os actores os fazem"],"answer":0,"why":"O texto explica que a incongruência apareceria entre os gestos principais, os microsinais e a linguagem falada."},
+{"q":"No exemplo do texto, o farsante abre as palmas e sorri enquanto mente. O que o delata?","options":["A voz","O sorriso","As palavras","Os microgestos"],"answer":3,"why":"O texto diz que os microgestos o delatam."},
+{"q":"Que microsinais pode mostrar o farsante?","options":["Cobrir a boca","Contrair as pupilas, levantar uma sobrancelha, ou tremer uma comissura","Cruzar os braços","Tossir"],"answer":1,"why":"O texto refere pupilas que contraem, uma sobrancelha levantada e uma comissura a tremer."},
+{"q":"Que mecanismo a mente humana parece possuir, segundo o texto?","options":["Um mecanismo que ignora os gestos","Um mecanismo que prefere as palavras","Um mecanismo infalível que regista a separação quando recebe mensagens não verbais incongruentes","Um mecanismo que só funciona com amigos"],"answer":2,"why":"O texto diz que a mente parece possuir um mecanismo infalível que regista a separação entre mensagens não verbais incongruentes."}
+],
+"summary":"Fingir a linguagem do corpo é, em geral, impossível porque os microsinais traem a mentira e o ouvinte tende a não acreditar; só em alguns casos se simula o corpo deliberadamente, para obter vantagens."
+},
+{
+"id":"098",
+"title":"Análise da linguagem gestual: a história",
+"text":[
+"Lê no teu PDF a secção 16, Análise da linguagem gestual (do início até ao parágrafo sobre os políticos e a desconfiança nas palavras), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Cientificamente","d":"com método e rigor de ciência."},
+{"t":"Popularizar","d":"tornar conhecido do grande público."},
+{"t":"Pioneiros","d":"os primeiros a abrir um caminho."},
+{"t":"Mímico","d":"artista que comunica só com gestos e expressões."},
+{"t":"Desconfiança","d":"falta de confiança."}
+],
+"questions":[
+{"q":"Há quanto tempo, segundo o texto, o homem comunica pela linguagem do corpo?","options":["Há cem anos","Há mais de um milhão de anos","Há mil anos","Há vinte anos"],"answer":1,"why":"O texto diz que faz mais de um milhão de anos que o homem comunica pela linguagem do corpo."},
+{"q":"Desde quando é estudada cientificamente?","options":["Nos últimos vinte anos","Desde a Antiguidade","Desde o século XIX","Desde o ano 2000"],"answer":0,"why":"O texto diz que só começou a ser estudada cientificamente nos últimos vinte anos, e que se popularizou na década de 70."},
+{"q":"Quem foram pioneiros da comunicação não verbal?","options":["Os políticos","Os médicos","Os professores","Charles Chaplin e muitos actores do cinema mudo"],"answer":3,"why":"O texto refere Charles Chaplin e muitos actores do cinema mudo como pioneiros."},
+{"q":"Como comunica o mímico na sua forma mais pura?","options":["Com canções","Com diálogos","Com os movimentos, gestos e expressões dos actores, sem diálogos, canções nem narrativa falada","Com legendas"],"answer":2,"why":"O texto diz que o mímico comunica com uma audiência sem ajuda de diálogos, canções nem narrativa falada."},
+{"q":"Porque, segundo o texto, nasce nos jovens uma desconfiança em relação às palavras?","options":["Porque ouvem os políticos falar de paz e igualdade, mas vêem pobreza, guerra e fanatismo nos noticiários","Porque ninguém fala","Porque a escola não ensina","Porque as palavras são difíceis"],"answer":0,"why":"O texto diz que os jovens, cansados de ouvir os políticos falar de paz, igualdade e honestidade e depois verem pobreza e guerra, passam a desconfiar das palavras."}
+],
+"summary":"O homem comunica pelo corpo há mais de um milhão de anos, mas só foi estudado cientificamente nas últimas décadas; o cinema mudo foi pioneiro, e a desconfiança nas palavras tornou o visual mais importante."
+},
+{
+"id":"099",
+"title":"Análise da linguagem gestual: a cultura",
+"text":[
+"Lê no teu PDF o fim da secção 16 (os dois últimos parágrafos, a partir de 'Como conclusão podemos assinalar...'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Vestimenta","d":"a roupa que se veste."},
+{"t":"Inconscientemente","d":"sem dar por isso."},
+{"t":"Afetividade","d":"capacidade de mostrar afecto."},
+{"t":"Heterogêneo","d":"formado por elementos diferentes."},
+{"t":"Parentesco","d":"relação de família."},
+{"t":"Mitos","d":"histórias tradicionais que explicam o mundo."}
+],
+"questions":[
+{"q":"Como conclusão, os gestos são, segundo o texto:","options":["Inatos e iguais em todo o mundo","Uma questão de cultura, que aprendemos inconscientemente do nosso redor","Só dos actores","Só das crianças"],"answer":1,"why":"O texto conclui que os gestos são uma questão de cultura, algo que aprendemos inconscientemente do nosso redor."},
+{"q":"Que exemplo o texto dá sobre os ingleses?","options":["A frieza quanto às manifestações afectivas","Os abraços calorosos","A fala alta","A pressa"],"answer":0,"why":"O texto fala da frieza dos ingleses quanto às manifestações afectivas."},
+{"q":"E os latinos?","options":["Evitam o contacto","Falam pouco","Manifestam habitualmente a afectividade por beijos, abraços e outras expressões tácteis","Preferem o silêncio"],"answer":2,"why":"O texto diz que os latinos manifestam a afectividade habitualmente por beijos, abraços e outros tipos de expressões tácteis."},
+{"q":"O que acontece, segundo o texto, a um menino norte-americano de mais de dez anos?","options":["Beija sempre o pai","Abraça os amigos","Fala muito","Não beija nem abraça o pai"],"answer":3,"why":"O texto diz que um menino norte-americano de mais de dez anos não beija nem abraça o pai."},
+{"q":"Como se descreve a comunicação no último parágrafo?","options":["Como um processo de participação, complexo e heterogéneo","Como um processo simples","Como um acto isolado","Como uma troca de palavras"],"answer":0,"why":"O texto diz que a comunicação é um processo de participação, uma actividade que contém um processo complexo e heterogéneo."}
+],
+"summary":"Os gestos aprendem-se na cultura, e por isso variam, dos ingleses mais frios aos latinos mais afectuosos; estudar como uma sociedade comunica é estudar os seus valores, mitos, leis e formas de organização."
 }
 ]
 }
