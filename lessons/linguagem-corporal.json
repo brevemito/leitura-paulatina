@@ -1862,6 +1862,95 @@
 {"q":"Dois colegas discutem, de casaco aberto e jogado para trás, mãos nos quadris. O que sugere o texto?","options":["Que estão relaxados","Que estão a pedir desculpa","Que há uma postura de confronto, de agressão directa","Que estão a mentir"],"answer":2,"why":"Mãos nos quadris e casaco aberto indicam preparação para o confronto e agressão directa."}
 ],
 "summary":"Mãos nos quadris e casaco aberto e jogado para trás mostram agressão e vontade de parecer maior, e o ambiente só se alivia quando as mãos saem dos quadris."
+},
+  {
+"id":"079",
+"title":"Gestos de paquera: introdução",
+"text":[
+"Lê no teu PDF o início da secção 12, Gestos de paquera (os quatro primeiros parágrafos, até ao fim da introdução), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Paquera","d":"o ato de procurar atrair a atenção de alguém por quem se tem interesse."},
+{"t":"Cortejo","d":"conjunto de sinais e atitudes usados para atrair alguém."},
+{"t":"Perceptivos","d":"que reparam nos pormenores, que percebem bem o que vêem."},
+{"t":"Linguagem gestual","d":"a comunicação feita através de gestos."},
+{"t":"Amantes","d":"aqui, possíveis parceiros amorosos."}
+],
+"questions":[
+{"q":"De que depende o êxito de algumas pessoas nos encontros com o sexo oposto, segundo o texto?","options":["Da capacidade de enviar os sinais de cortejo e de os reconhecer quando os recebem","Da roupa que vestem","Da idade","Do dinheiro"],"answer":0,"why":"O texto diz que o êxito está em relação directa com a capacidade de enviar os sinais de cortejo e de os reconhecer quando os recebem."},
+{"q":"Quem reconhece rapidamente os sinais de cortejo, segundo o texto?","options":["Os homens","As mulheres","Os idosos","As crianças"],"answer":1,"why":"O texto diz que as mulheres reconhecem rapidamente os sinais do cortejo, tal como todos os gestos."},
+{"q":"Como são os homens, em comparação, segundo o texto?","options":["Mais perceptivos","Igualmente perceptivos","Muito menos perceptivos e, freqüentemente, totalmente cegos à linguagem gestual","Sempre atentos"],"answer":2,"why":"O texto diz que os homens são muito menos perceptivos e freqüentemente totalmente cegos à linguagem gestual."},
+{"q":"Porque se dá mais espaço aos sinais femininos do que aos masculinos?","options":["Porque os homens não usam sinais","Porque as mulheres falam mais","Porque os sinais masculinos são proibidos","Porque as mulheres têm muitos mais sinais do que os homens"],"answer":3,"why":"O texto diz que as mulheres têm muitos mais sinais do que os homens."},
+{"q":"Numa festa, uma mulher envia vários sinais de interesse a um homem, mas ele não reage. O que sugere o texto?","options":["Que os homens são, em geral, menos perceptivos a estes sinais","Que ela não está interessada","Que ele é desonesto","Que ela está a mentir"],"answer":0,"why":"O texto diz que os homens são muito menos perceptivos, e muitas vezes cegos, à linguagem gestual."}
+],
+"summary":"O êxito na paquera depende de enviar e reconhecer sinais de cortejo; as mulheres reconhecem-nos depressa, os homens são menos perceptivos, e as mulheres têm muito mais sinais do que eles."
+},
+{
+"id":"080",
+"title":"As mudanças fisiológicas perante o sexo oposto",
+"text":[
+"Lê no teu PDF o parágrafo seguinte à introdução da secção 12 (o que acontece ao corpo quando alguém está em companhia do sexo oposto) e as ilustrações, e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Fisiológicas","d":"relativas ao funcionamento do corpo."},
+{"t":"Tônus muscular","d":"o grau de tensão dos músculos."},
+{"t":"Flacidez","d":"falta de firmeza, moleza."},
+{"t":"Encurvada","d":"curvada, inclinada para a frente."},
+{"t":"Rejuvenescer","d":"parecer mais jovem."}
+],
+"questions":[
+{"q":"O que acontece ao tónus muscular quando alguém está em companhia do sexo oposto, segundo o texto?","options":["Diminui","Aumenta","Fica igual","Desaparece"],"answer":1,"why":"O texto diz que o tônus muscular aumenta."},
+{"q":"O que acontece às bolsas à volta do rosto e dos olhos?","options":["Aumentam","Ficam iguais","Diminuem","Desaparecem por completo"],"answer":2,"why":"O texto diz que as bolsas ao redor do rosto e dos olhos diminuem."},
+{"q":"O que acontece à postura encurvada?","options":["Piora","Fica igual","Torna-se mais lenta","Desaparece, e o corpo adopta uma posição erecta"],"answer":3,"why":"O texto diz que desaparece a postura encurvada e o corpo adopta uma posição ereta."},
+{"q":"Como parece a pessoa, no conjunto?","options":["Ter rejuvenescido","Estar cansada","Estar zangada","Estar doente"],"answer":0,"why":"O texto diz que a pessoa parece ter rejuvenescido."},
+{"q":"Um homem, ao ver uma pessoa que o atrai, endireita as costas e encolhe a barriga sem dar por isso. O que ilustra isto?","options":["Nervosismo","Cansaço","As mudanças fisiológicas do corpo perante o sexo oposto","Timidez"],"answer":2,"why":"O texto descreve estas mudanças: o peito projecta-se, o estômago encolhe-se e a postura fica erecta."}
+],
+"summary":"Perante o sexo oposto, o corpo muda sem querermos: os músculos ficam mais tensos, o rosto relaxa, a postura endireita-se e a pessoa parece mais jovem."
+},
+{
+"id":"081",
+"title":"Gestos masculinos de paquera",
+"text":[
+"Lê no teu PDF a secção 12.1, Gestos masculinos de paquera (o texto que cobre as duas páginas seguintes, até ao início de 12.2), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Gravata","d":"tira de tecido que se ata ao pescoço, sobre a camisa."},
+{"t":"Gola","d":"a parte da camisa que rodeia o pescoço."},
+{"t":"Pupilas","d":"os círculos escuros ao centro dos olhos."},
+{"t":"Dilatar","d":"aumentar de tamanho."},
+{"t":"Agressivo","d":"que se impõe com força, sem rodeios."}
+],
+"questions":[
+{"q":"O que faz o homem, ao aproximar-se de uma mulher, para mostrar interesse e arranjar-se?","options":["Cruza os braços","Leva uma mão à garganta para arrumar a gravata","Baixa a cabeça","Põe as mãos atrás da cabeça"],"answer":1,"why":"O texto diz que levará uma mão à garganta para arrumar a gravata."},
+{"q":"E se não usar gravata?","options":["Esconde as mãos","Fecha os olhos","Alisa a gola da camisa, tira algum pó imaginário do ombro, ou arruma a camisa ou a jaqueta","Fica parado"],"answer":2,"why":"O texto diz que alisará a gola da camisa, tirará algum pó imaginário do ombro ou arrumará a camisa, a jaqueta ou outro objecto."},
+{"q":"Que gesto passa o homem, também, pelo cabelo?","options":["Esfrega o nariz","Tapa a boca","Cruza as pernas","Passa uma mão pelo cabelo"],"answer":3,"why":"O texto diz que é possível que passe uma mão pelo cabelo."},
+{"q":"Qual é o desdobramento sexual mais agressivo, segundo o texto?","options":["Adoptar a postura com os polegares no cinto","Cruzar os braços","Esconder as mãos","Olhar para o chão"],"answer":0,"why":"O texto diz que o desdobramento sexual mais agressivo é adoptar a postura com os polegares no cinto."},
+{"q":"Que sinal nos olhos mostra que um homem está realmente interessado?","options":["As pupilas contraem","As pupilas dilatam","Pisca muito","Fecha os olhos"],"answer":1,"why":"O texto diz que, se realmente está interessado, as pupilas se dilatarão."}
+],
+"summary":"O homem que se aproxima de uma mulher arranja-se (gravata, gola, cabelo), vira o corpo e um pé para ela, sustenta o olhar e, se está interessado, as pupilas dilatam."
+},
+{
+"id":"082",
+"title":"Sinais e gestos femininos de paquera (1)",
+"text":[
+"Lê no teu PDF a secção 12.2, Sinais e gestos femininos de paquera (os cinco primeiros parágrafos: gestos partilhados com os homens, pupilas e rubor, sacudir a cabeça, exibir os pulsos), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Ruborizar","d":"ficar com o rosto corado, vermelho."},
+{"t":"Sacudir a cabeça","d":"mover a cabeça rapidamente para o lado ou para trás."},
+{"t":"Exibir","d":"mostrar, pôr à vista."},
+{"t":"Pulsos","d":"a parte do braço junto à mão."},
+{"t":"Potencial","d":"que pode vir a ser."},
+{"t":"Erótica","d":"ligada ao desejo amoroso."}
+],
+"questions":[
+{"q":"Que gestos de paquera dos homens usam também as mulheres, segundo o texto?","options":["Só os de agressão","Nenhum","Tocar o cabelo, alisar a roupa, pôr as mãos nos quadris, direccionar o corpo e um pé para o homem, longos olhares íntimos e intenso contacto visual","Só o de cruzar os braços"],"answer":2,"why":"O texto lista estes gestos como partilhados com os homens."},
+{"q":"O que acontece às pupilas e às bochechas de uma mulher excitada?","options":["As pupilas contraem e as bochechas ficam pálidas","Nada muda","As pupilas dilatam e as bochechas ruborizam","As pupilas ficam iguais"],"answer":2,"why":"O texto diz que a excitação lhes dilata as pupilas e lhes ruboriza as bochechas."},
+{"q":"Para que se sacode a cabeça, neste contexto?","options":["Para dizer que não","Para atirar o cabelo para trás ou afastá-lo do rosto, mesmo quem tem o cabelo curto","Para mostrar cansaço","Para esconder o rosto"],"answer":1,"why":"O texto diz que se sacode a cabeça para jogar o cabelo para trás ou afastá-lo do rosto, e até as mulheres de cabelo curto usam o gesto."},
+{"q":"O que faz uma mulher interessada num homem com os pulsos?","options":["Esconde-os","Cruza-os","Aperta-os","Exibe, pouco a pouco, a pele suave e lisa dos pulsos ao companheiro em potencial"],"answer":3,"why":"O texto diz que a mulher interessada exibirá pouco a pouco a pele suave e lisa dos pulsos."},
+{"q":"Porque é fácil, para quem fuma, fazer o gesto de exibir o pulso e a palma, segundo o texto?","options":["Porque o gesto de segurar o cigarro já deixa o pulso e a palma à vista","Porque é obrigatório","Porque faz parte do fumo","Porque é proibido"],"answer":0,"why":"O texto diz que, para as mulheres que fumam, fica muito fácil fazer o gesto sedutor de exibir o pulso e a palma."}
+],
+"summary":"As mulheres usam vários gestos masculinos de paquera (tocar o cabelo, alisar a roupa, olhares íntimos), mostram excitação com pupilas dilatadas e rubor, sacodem a cabeça e exibem pouco a pouco os pulsos e as palmas."
 }
 ]
 }
