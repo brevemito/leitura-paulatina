@@ -1,0 +1,404 @@
+{
+"title":"Fundamentos do Xadrez (Chess Fundamentals)",
+"author":"José Raúl Capablanca",
+"lessons":[
+{
+"id":"001",
+"title":"Prefácio: os princípios não mudam",
+"text":[
+"Os \"Fundamentos do Xadrez\" foram publicados pela primeira vez há treze anos. Desde então apareceram, em momentos diferentes, vários artigos sobre a chamada Teoria Hipermoderna. Quem os leu pode ter pensado que se tinha descoberto algo novo e de importância vital. A verdade é que a Teoria Hipermoderna é apenas a aplicação, geralmente nas fases de abertura, dos mesmos velhos princípios por meio de uma táctica algo nova.",
+"Não houve mudança nos fundamentos. Houve apenas uma mudança de forma, e nem sempre para melhor. No xadrez a táctica pode mudar, mas os princípios estratégicos fundamentais são sempre os mesmos.",
+"Este livro será tão bom daqui a cem anos como é hoje, enquanto as leis e as regras do jogo forem as que são actualmente. O leitor pode, por isso, percorrer o seu conteúdo com a certeza de que nele está tudo o que precisa. (J. R. Capablanca, Nova Iorque, 1 de Setembro de 1934)"
+],
+"glossary":[
+{"t":"Hipermoderna","d":"corrente do xadrez do início do século XX, que defendia controlar o centro à distância em vez de o ocupar com peões."},
+{"t":"Táctica","d":"os lances concretos que servem um objectivo imediato."},
+{"t":"Estratégia","d":"o plano geral da partida, a longo prazo."},
+{"t":"Fundamentos","d":"as bases, os princípios essenciais."},
+{"t":"Abertura","d":"as primeiras jogadas da partida, em que se desenvolvem as peças."}
+],
+"questions":[
+{"q":"Segundo Capablanca, o que é na realidade a Teoria Hipermoderna?","options":["Um sistema completamente novo de jogar","A aplicação, sobretudo nas aberturas, dos mesmos velhos princípios com uma táctica algo nova","O abandono de todos os princípios clássicos","Uma teoria que só serve para os finais"],"answer":1,"why":"O texto diz que é apenas a aplicação, geralmente nas aberturas, dos mesmos velhos princípios por meio de uma táctica algo nova."},
+{"q":"O que mudou no xadrez, segundo o prefácio?","options":["Os fundamentos","As regras do jogo","Tudo, incluindo a estratégia","Apenas a forma, e nem sempre para melhor"],"answer":3,"why":"O autor afirma que não houve mudança nos fundamentos, apenas uma mudança de forma, e nem sempre para melhor."},
+{"q":"Qual é a diferença entre táctica e princípios estratégicos, segundo o texto?","options":["Ambos mudam com o tempo","A táctica pode mudar, mas os princípios estratégicos fundamentais são sempre os mesmos","A táctica é fixa e a estratégia muda","Ambos são sempre os mesmos"],"answer":1,"why":"O texto diz que a táctica pode mudar, mas os princípios estratégicos fundamentais são sempre os mesmos."},
+{"q":"Até quando, segundo o autor, o livro continuará a ser tão bom como no dia em que foi escrito?","options":["Até sair uma nova edição","Durante uns dez anos","Enquanto as leis e as regras do jogo forem as actuais","Enquanto houver campeões do mundo"],"answer":2,"why":"O autor diz que o livro será bom daqui a cem anos, enquanto as leis e as regras do jogo forem as actuais."},
+{"q":"Na frase 'não houve mudança nos fundamentos', a palavra 'fundamentos' quer dizer:","options":["As bases, os princípios essenciais","Os lances de abertura","Os nomes das peças","Os torneios mais famosos"],"answer":0,"why":"Fundamentos são as bases, os princípios essenciais do jogo."}
+],
+"summary":"Capablanca garante que as modas mudam só a forma e a táctica; os princípios estratégicos do xadrez são os mesmos de sempre, e é neles que o estudante deve assentar."
+},
+{
+"id":"002",
+"title":"Mates simples: o Rei tem de colaborar",
+"text":[
+"A primeira coisa que um aluno deve fazer é familiarizar-se com o poder das peças. O melhor modo de o conseguir é aprender a executar depressa alguns mates simples.",
+"No final de Rei e Torre contra Rei, o princípio é conduzir o Rei adversário até à última linha de qualquer lado do tabuleiro. A acção conjunta do Rei e da Torre é necessária para chegar a uma posição em que o mate se possa forçar. A regra geral para o principiante é manter o seu Rei, tanto quanto possível, na mesma fila, ou na mesma coluna, que o Rei adversário.",
+"Com Dama e Rei contra Rei, como a Dama reúne o poder da Torre e do Bispo, o mate é o mais fácil de todos e deve fazer-se sempre em menos de dez lances. Em todos estes finais o princípio é o mesmo: a cooperação do Rei é indispensável. Para forçar o mate sem a ajuda do Rei são precisas, no mínimo, duas Torres.",
+"Nestes finais deve ter-se o cuidado de não cair num afogamento. Pode parecer monótono, mas vale a pena o principiante praticar estas coisas, porque lhe ensinam a manejar bem as peças."
+],
+"glossary":[
+{"t":"Mate","d":"ataque ao Rei sem qualquer defesa possível; termina a partida."},
+{"t":"Afogamento","d":"quando o jogador não tem nenhum lance legal e o seu Rei não está em xeque; a partida é empate."},
+{"t":"Fila","d":"linha horizontal de casas do tabuleiro."},
+{"t":"Coluna","d":"linha vertical de casas do tabuleiro."},
+{"t":"Lance","d":"cada jogada feita por um dos jogadores."}
+],
+"questions":[
+{"q":"Qual é o princípio do final de Rei e Torre contra Rei?","options":["Trocar a Torre pelo Rei adversário","Manter o Rei longe da acção","Conduzir o Rei adversário até à última linha de um dos lados do tabuleiro","Avançar primeiro os peões"],"answer":2,"why":"O texto diz que o princípio é conduzir o Rei adversário até à última linha de qualquer lado do tabuleiro."},
+{"q":"Que conselho se dá ao principiante quanto ao seu Rei?","options":["Mantê-lo, tanto quanto possível, na mesma fila ou coluna que o Rei adversário","Deixá-lo no canto do tabuleiro","Movê-lo o menos possível","Pô-lo sempre ao lado da Torre"],"answer":0,"why":"A regra geral é manter o Rei, tanto quanto possível, na mesma fila ou coluna que o Rei adversário."},
+{"q":"Porque é o mate de Dama e Rei o mais fácil de todos?","options":["Porque não é preciso o Rei","Porque a Dama reúne o poder da Torre e do Bispo","Porque o Rei adversário não se pode mexer","Porque se faz sempre em dois lances"],"answer":1,"why":"O texto explica que a Dama combina o poder da Torre e do Bispo, o que torna o mate mais fácil."},
+{"q":"Quantas Torres são precisas, no mínimo, para dar mate sem a ajuda do Rei?","options":["Uma","Três","Duas","Quatro"],"answer":2,"why":"O texto diz que, para forçar o mate sem a ajuda do Rei, são precisas pelo menos duas Torres."},
+{"q":"De que perigo se deve ter cuidado nestes finais?","options":["Do xeque perpétuo","Da troca de damas","Do roque","Do afogamento, que dá empate"],"answer":3,"why":"O texto avisa que se deve ter cuidado para não cair num afogamento, em que a partida termina empatada."}
+],
+"summary":"Para dar mate com poucas peças, o Rei tem de colaborar: empurra-se o Rei adversário para a borda do tabuleiro, com o Rei e a peça a trabalharem em conjunto, sem cair num afogamento."
+},
+{
+"id":"003",
+"title":"A promoção do peão: o Rei vai à frente",
+"text":[
+"O ganho de um peão é a menor vantagem material que se pode obter num jogo, e muitas vezes basta para ganhar, mesmo quando o peão é a única unidade que resta, além dos Reis. Em geral, é essencial que o Rei esteja à frente do seu peão, com pelo menos uma casa de intervalo. Se o Rei adversário estiver directamente à frente do peão, o jogo não pode ser ganho.",
+"O método a seguir é avançar o Rei o mais possível, desde que seja compatível com a segurança do peão, e nunca avançar o peão enquanto isso não for essencial à sua própria segurança.",
+"Quem defende faz o contrário: mantém sempre o Rei directamente à frente do peão e, quando não o consegue, mantém-no à frente do Rei adversário. Se não puder ficar junto do peão, leva o Rei o mais adiante possível.",
+"Todo este modo de proceder é muito importante e o aluno deve conhecê-lo a fundo, pois envolve princípios que se estudam mais adiante, e muitos principiantes perderam posições idênticas por falta de conhecimento. Nesta fase do livro, nunca é demais insistir na sua importância."
+],
+"glossary":[
+{"t":"Promoção","d":"quando o peão chega à última fila e se transforma noutra peça, em geral numa Dama."},
+{"t":"Unidade","d":"cada peça ou peão."},
+{"t":"Intervalo","d":"espaço, casas livres entre duas peças."},
+{"t":"Compatível","d":"que se pode combinar com outra coisa sem a prejudicar."},
+{"t":"Idênticas","d":"iguais, muito parecidas."}
+],
+"questions":[
+{"q":"Qual é a menor vantagem material que se pode obter num jogo?","options":["Um Bispo","O ganho de um peão","Uma troca de Torre por Cavalo","Um Cavalo"],"answer":1,"why":"O texto diz que o ganho de um peão é a menor vantagem material, mas que muitas vezes basta para ganhar."},
+{"q":"Onde deve estar o Rei para ganhar um final de Rei e peão contra Rei?","options":["Atrás do peão","Longe do peão","À frente do peão, com pelo menos uma casa de intervalo","Ao lado do Rei adversário, sem intervalo"],"answer":2,"why":"É essencial que o Rei esteja à frente do seu peão, com pelo menos uma casa de intervalo."},
+{"q":"O que acontece se o Rei adversário estiver directamente à frente do peão?","options":["O jogo não pode ser ganho","O peão promove-se em seguida","Ganha quem tiver a vez","O peão avança duas casas"],"answer":0,"why":"O texto afirma que, nesse caso, o jogo não pode ser ganho."},
+{"q":"Qual é o método de quem tenta ganhar o final?","options":["Avançar o peão o mais depressa possível","Trocar o peão por uma peça","Manter Rei e peão parados","Avançar o Rei o mais possível e só avançar o peão quando for essencial à sua segurança"],"answer":3,"why":"O método é avançar o Rei o mais possível, sem pôr o peão em risco, e só avançar o peão quando isso for essencial à sua segurança."},
+{"q":"Quando o defensor já não consegue ficar junto do peão, onde deve pôr o seu Rei?","options":["À frente do Rei adversário","Atrás do peão","No canto do tabuleiro","O mais longe possível"],"answer":0,"why":"O texto diz que, quando não pode ficar junto do peão, o Rei deve manter-se à frente do Rei adversário."}
+],
+"summary":"Num final de Rei e peão, quem ataca avança primeiro o Rei e só depois o peão; quem defende põe o seu Rei à frente do peão ou, se não puder, à frente do Rei adversário."
+},
+{
+"id":"004",
+"title":"Finais de peões: onde e como agir",
+"text":[
+"Em finais com dois peões contra um, ou três contra dois, há duas regras gerais. A primeira: sempre que não haja boa razão em contrário, avançar o peão que não tem nenhum peão adversário à frente. A segunda: quando há peões nos dois lados do tabuleiro, agir imediatamente no lado onde se tem as forças superiores.",
+"Quando o adversário avança no outro lado, é preciso decidir se se deve ou não travar esse avanço. Em geral, deve travar-se quando o Rei adversário está longe.",
+"Estes finais, aparentemente tão simples, devem mostrar ao aluno as enormes dificuldades que há a vencer, mesmo quando quase não restam peças, contra um adversário que saiba usar os recursos de que dispõe. Mostram também a necessidade de prestar muita atenção a estas coisas elementares, que são a base da verdadeira maestria no xadrez.",
+"Ninguém aprende a jogar bem apenas pelo estudo de um livro. O livro serve de guia, e o resto tem de ser feito pelo professor, se o aluno o tiver; se não, o aluno terá de perceber, à custa de uma longa e amarga experiência, a aplicação prática de muitas das coisas explicadas."
+],
+"glossary":[
+{"t":"Superiores","d":"em maior número ou mais fortes."},
+{"t":"Travar","d":"impedir o avanço de alguém."},
+{"t":"Recursos","d":"meios de que se dispõe para atingir um fim."},
+{"t":"Elementares","d":"básicas, as mais simples e fundamentais."},
+{"t":"Maestria","d":"grande domínio de uma arte ou técnica."}
+],
+"questions":[
+{"q":"Que regra geral se dá para o avanço dos peões, sempre que nada a contrarie?","options":["Avançar sempre o peão mais atrasado","Trocar logo os peões","Avançar o peão que não tem peão adversário à frente","Recuar o Rei"],"answer":2,"why":"O texto manda avançar o peão que não tem nenhum peão adversário à frente."},
+{"q":"Quando há peões nos dois lados do tabuleiro, onde se deve agir de imediato?","options":["No lado onde se têm as forças superiores","No lado onde há menos peças","No lado do Rei adversário","Em qualquer lado, é indiferente"],"answer":0,"why":"A regra é agir imediatamente no lado onde se têm as forças superiores."},
+{"q":"Quando é geralmente aconselhável travar o avanço do adversário no outro lado?","options":["Nunca","Sempre","Só no fim da partida","Quando o Rei adversário está longe"],"answer":3,"why":"O texto diz que, em geral, o avanço deve ser travado quando o Rei adversário está longe."},
+{"q":"O que deve mostrar ao aluno um final de peões aparentemente tão simples?","options":["Que os finais são fáceis","As enormes dificuldades a vencer, mesmo com quase nenhuma peça no tabuleiro","Que o Rei não é importante","Que os peões não valem nada"],"answer":1,"why":"O texto diz que mostra as enormes dificuldades, mesmo quando quase não restam peças."},
+{"q":"O que diz Capablanca sobre aprender xadrez só com um livro?","options":["Que é o melhor método","Que é inútil","Que basta ler duas vezes","Que o livro serve de guia e o resto depende do professor ou da experiência"],"answer":3,"why":"O autor diz que ninguém aprende a jogar bem só com um livro: ele serve de guia, e o resto vem do professor ou da longa experiência."}
+],
+"summary":"Nos finais de peões, avança-se o peão sem oposição e age-se no lado onde se é mais forte; até os finais mais simples exigem atenção aos detalhes elementares, que são a base da maestria."
+},
+{
+"id":"005",
+"title":"Combinações: coordenar as peças contra um ponto fraco",
+"text":[
+"Antes de passar às aberturas, o autor dedica algum tempo a certas combinações que surgem muitas vezes durante o jogo e que dão ao leitor uma ideia da beleza do xadrez, quando o conhece melhor. Em quase todas, um sacrifício abre caminho ao ataque contra o Rei.",
+"Dois dos exemplos mostram o perigo de avançar um só passo o peão do Cavalo do Rei depois de se ter feito o roque desse lado, porque isso enfraquece a protecção do Rei.",
+"Uma das combinações é longa e tem muitas variantes, por isso um principiante dificilmente a poderá penetrar. Mas, conhecendo o tipo de combinação, poderá, em circunstâncias semelhantes, empreender e levar a cabo um ataque brilhante em que de outro modo nunca pensaria.",
+"Todas as combinações mostradas têm por base a coordenação correcta das peças, que foram todas postas a actuar contra um ponto fraco."
+],
+"glossary":[
+{"t":"Combinação","d":"sequência de lances forçados, muitas vezes com um sacrifício, que leva a uma vantagem decisiva."},
+{"t":"Sacrifício","d":"entregar material de propósito para obter uma vantagem maior."},
+{"t":"Roque","d":"lance especial em que o Rei se abriga e a Torre vai para o centro."},
+{"t":"Coordenação","d":"trabalho conjunto das peças, todas no mesmo sentido."},
+{"t":"Penetrar","d":"aqui, conseguir compreender a fundo."}
+],
+"questions":[
+{"q":"Em que se baseiam todas as combinações mostradas pelo autor?","options":["Na sorte do adversário","Na troca da Dama","Na coordenação correcta das peças contra um ponto fraco","Em abrir a partida com o peão do Rei"],"answer":2,"why":"O texto diz que todas têm por base a coordenação correcta das peças, postas a actuar contra um ponto fraco."},
+{"q":"Porque deve o principiante estudar tipos de combinação, mesmo sem as compreender por inteiro?","options":["Porque assim nunca perde","Porque, conhecendo o tipo, poderá levar a cabo um ataque brilhante em que de outro modo nunca pensaria","Porque as combinações são sempre curtas","Porque as combinações não exigem cálculo"],"answer":1,"why":"O autor explica que, conhecendo o tipo de combinação, o principiante poderá fazer um ataque brilhante noutra situação semelhante."},
+{"q":"Que perigo mostram dois dos exemplos?","options":["Avançar um só passo o peão do Cavalo do Rei depois de fazer o roque desse lado","Trocar as Torres","Mover a Dama muito cedo","Deixar o Bispo no canto"],"answer":0,"why":"O texto refere o perigo de avançar um passo o peão do Cavalo do Rei depois de rocar para esse lado."},
+{"q":"Na frase 'o sacrifício abre caminho ao ataque', 'sacrifício' quer dizer:","options":["Perder a partida de propósito","Entregar material de propósito para obter uma vantagem maior","Trocar duas peças iguais","Desistir do ataque"],"answer":1,"why":"Sacrifício é entregar material de propósito para conseguir uma vantagem maior, como nas combinações do texto."},
+{"q":"O que é preciso para que uma combinação resulte?","options":["Que o adversário se distraia","Ter mais peões","Que todas as peças fiquem na primeira fila","Que as peças estejam bem coordenadas contra um ponto fraco"],"answer":3,"why":"As combinações assentam na boa coordenação das peças, todas dirigidas contra um ponto fraco."}
+],
+"summary":"As combinações brilhantes não nascem do acaso: nascem de peças bem coordenadas contra um ponto fraco, e conhecer os tipos mais comuns ajuda a reconhecê-los na partida."
+},
+{
+"id":"006",
+"title":"O valor relativo das peças",
+"text":[
+"Antes de passar aos princípios gerais das aberturas, convém dar ao aluno uma ideia do valor relativo das peças. Não existe uma tabela completa e rigorosa para todas, e o único modo é comparar as peças duas a duas.",
+"Para todos os efeitos teóricos gerais, o Bispo e o Cavalo têm de ser considerados do mesmo valor, embora na opinião do autor o Bispo se mostre a peça mais valiosa na maioria dos casos; e é bem sabido que dois Bispos são quase sempre melhores do que dois Cavalos. O Bispo é mais forte contra peões do que o Cavalo, e junto com peões também é mais forte contra a Torre.",
+"Uma Torre vale um Cavalo e dois peões, ou um Bispo e dois peões. Duas Torres são um pouco mais fortes do que uma Dama. O poder do Cavalo diminui à medida que se trocam peças; o da Torre, pelo contrário, aumenta.",
+"O Rei, peça puramente defensiva durante o meio-jogo, passa a ser uma peça ofensiva quando todas as peças saem do tabuleiro, e por vezes mesmo quando restam uma ou duas peças menores. O manejo do Rei torna-se então de importância máxima."
+],
+"glossary":[
+{"t":"Relativo","d":"que se mede por comparação com outra coisa."},
+{"t":"Peças menores","d":"o Bispo e o Cavalo."},
+{"t":"Meio-jogo","d":"fase da partida entre a abertura e o final."},
+{"t":"Defensiva","d":"que serve para proteger, não para atacar."},
+{"t":"Ofensiva","d":"que serve para atacar."}
+],
+"questions":[
+{"q":"Para efeitos teóricos gerais, como se consideram o Bispo e o Cavalo?","options":["O Cavalo vale o dobro do Bispo","Do mesmo valor, embora o autor ache o Bispo mais valioso na maioria dos casos","O Bispo vale menos do que três peões","Valem menos do que a Torre e mais do que a Dama"],"answer":1,"why":"O texto diz que têm de ser considerados do mesmo valor, embora o autor julgue o Bispo mais valioso na maioria dos casos."},
+{"q":"O que é quase sempre melhor do que dois Cavalos?","options":["Uma Torre","Dois Bispos","Uma Dama sozinha","Três peões"],"answer":1,"why":"É bem sabido que dois Bispos são quase sempre melhores do que dois Cavalos."},
+{"q":"O que vale uma Torre, segundo o autor?","options":["Um Cavalo e dois peões, ou um Bispo e dois peões","Dois Bispos","Uma Dama","Quatro peões"],"answer":0,"why":"O texto diz que a Torre vale um Cavalo e dois peões, ou um Bispo e dois peões."},
+{"q":"Como evolui o poder do Cavalo e o da Torre à medida que se trocam peças?","options":["Ambos aumentam","Ambos diminuem","O do Cavalo aumenta e o da Torre diminui","O do Cavalo diminui e o da Torre aumenta"],"answer":3,"why":"O poder do Cavalo diminui à medida que as peças se trocam, e o da Torre aumenta."},
+{"q":"O que acontece ao Rei quando as peças saem do tabuleiro?","options":["Fica sem utilidade","Passa de peça defensiva a ofensiva, e o seu manejo torna-se de importância máxima","Deve ficar sempre no canto","Passa a valer menos do que um peão"],"answer":1,"why":"O Rei, defensivo no meio-jogo, torna-se uma peça ofensiva no final, e o seu manejo passa a ser da maior importância."}
+],
+"summary":"Bispo e Cavalo valem aproximadamente o mesmo, mas o Bispo costuma ser melhor; a Torre ganha força com as trocas, o Cavalo perde-a, e no final o Rei torna-se uma peça de ataque."
+},
+{
+"id":"007",
+"title":"A estratégia da abertura: desenvolver depressa",
+"text":[
+"O principal é desenvolver as peças depressa. Pô-las em jogo o mais rapidamente possível. Logo desde o início, os lances do peão do Rei ou do peão da Dama abrem linhas para a Dama e para um Bispo. Por isso, em teoria, um destes dois lances tem de ser o melhor, pois nenhum outro primeiro lance consegue tanto.",
+"Em geral, é aconselhável não sair com o Bispo até ter saído um Cavalo, de preferência o Cavalo do Rei. Sempre que possível, convém juntar o desenvolvimento ao ataque. O roque traz uma Torre para a acção no centro, o que é um ponto muito importante.",
+"Antes de o desenvolvimento estar completo, nenhuma peça deve ser movida mais de uma vez, a não ser que seja essencial para obter vantagem material ou para assegurar liberdade de acção. E o principiante deve lembrar-se também de sair com os Cavalos antes dos Bispos.",
+"No exemplo estudado, o desenvolvimento completo da abertura levou apenas sete lances; em regra, oito devem bastar. Os princípios estratégicos são os mesmos em todas as aberturas, e só a sua aplicação táctica varia conforme as circunstâncias."
+],
+"glossary":[
+{"t":"Desenvolver","d":"tirar as peças das suas casas iniciais e pô-las em posições activas."},
+{"t":"Iniciativa","d":"a vantagem de ser quem ataca e obriga o adversário a responder."},
+{"t":"Linhas","d":"as colunas e diagonais por onde as peças se movem."},
+{"t":"Vantagem material","d":"ter mais material, isto é, mais peças ou peões do que o adversário."},
+{"t":"Liberdade de acção","d":"espaço e meios para as peças se moverem sem estorvo."}
+],
+"questions":[
+{"q":"Qual é o principal objectivo na abertura?","options":["Trocar a Dama","Fazer xeque o mais cedo possível","Desenvolver as peças depressa","Avançar todos os peões"],"answer":2,"why":"O texto diz que o principal é desenvolver as peças depressa, pô-las em jogo o mais rapidamente possível."},
+{"q":"Porque são o peão do Rei e o peão da Dama tão bons como primeiro lance?","options":["Porque abrem linhas para a Dama e para um Bispo","Porque ameaçam o Rei adversário","Porque protegem a Torre","Porque obrigam a trocar peças"],"answer":0,"why":"Esses lances abrem linhas para a Dama e para um Bispo, e nenhum outro primeiro lance consegue tanto."},
+{"q":"Que peças devem sair primeiro, segundo o autor?","options":["As Torres antes dos Cavalos","A Dama antes de tudo","Os Cavalos antes dos Bispos","Os Bispos antes dos Cavalos"],"answer":2,"why":"O texto manda sair com os Cavalos antes dos Bispos."},
+{"q":"Antes de terminar o desenvolvimento, quando se pode mover uma peça mais de uma vez?","options":["Sempre que apetecer","Nunca, em caso algum","Só com a Dama","Só se for essencial para ganhar material ou assegurar liberdade de acção"],"answer":3,"why":"Só se for essencial para obter vantagem material ou para assegurar liberdade de acção."},
+{"q":"Quantos lances bastam, em regra, para completar o desenvolvimento da abertura?","options":["Cerca de oito","Cerca de vinte","Apenas dois","Trinta ou mais"],"answer":0,"why":"O texto diz que, em regra, oito lances devem bastar."}
+],
+"summary":"Na abertura, desenvolve-se depressa e com ordem: Cavalos antes de Bispos, cada peça só uma vez, roque a tempo, tudo para ganhar e manter a iniciativa."
+},
+{
+"id":"008",
+"title":"O controlo do centro",
+"text":[
+"As quatro casas do meio do tabuleiro, nas colunas do Rei e da Dama, são as casas centrais, e o seu controlo é de grande importância. Nenhum ataque violento pode ter êxito sem controlar pelo menos duas destas casas, e possivelmente três. Muitas manobras da abertura têm por único objectivo o controlo do centro, que garante invariavelmente a iniciativa.",
+"Nas aberturas, sempre que possível, deve preferir-se mover peças em vez de peões. Um lance tímido, que assume de imediato uma atitude defensiva, está em princípio errado. E um lance que bloqueia o Bispo da Dama não facilita a acção das peças; pelo contrário, tende a apertá-las.",
+"O autor mostra que por vezes convém adiar o roque, para primeiro pôr as peças em posição e obrigar o adversário a ceder o centro.",
+"O aluno é avisado contra o hábito de mover peões em vez de peças no início da partida, sobretudo os peões das Torres, lances muito comuns entre principiantes."
+],
+"glossary":[
+{"t":"Centro","d":"as quatro casas do meio do tabuleiro."},
+{"t":"Manobra","d":"série de lances com um fim determinado."},
+{"t":"Invariavelmente","d":"sem excepção, sempre."},
+{"t":"Tímido","d":"pouco ousado, que não arrisca."},
+{"t":"Adiar","d":"deixar para mais tarde."}
+],
+"questions":[
+{"q":"O que se entende por controlo do centro?","options":["Ter a Dama no meio do tabuleiro","Ter mais peões do que o adversário","Controlar as quatro casas do meio do tabuleiro","Ter o Rei no meio do tabuleiro"],"answer":2,"why":"O texto chama controlo do centro ao controlo das quatro casas centrais."},
+{"q":"Quantas casas centrais deve controlar, no mínimo, quem leva a cabo um ataque violento?","options":["Pelo menos duas, e possivelmente três","Apenas uma","Nenhuma","Todas as quatro e mais as laterais"],"answer":0,"why":"Nenhum ataque violento tem êxito sem controlar pelo menos duas casas centrais, e possivelmente três."},
+{"q":"Na abertura, o que se deve preferir sempre que possível?","options":["Mover peões","Mover peças em vez de peões","Mover só a Dama","Não mover nada"],"answer":1,"why":"O autor diz que, sempre que possível, se devem mover peças de preferência a peões."},
+{"q":"Porque é criticado um lance tímido, que assume logo uma atitude defensiva?","options":["Porque é ilegal","Porque abre o roque","Porque troca peças","Porque, em princípio, é errado ficar logo na defensiva"],"answer":3,"why":"O texto chama-lhe um lance tímido e diz que, em princípio, é errado assumir logo uma atitude defensiva."},
+{"q":"De que hábito de principiantes avisa Capablanca?","options":["De fazer o roque cedo demais","De mover peões, sobretudo os das Torres, em vez de peças, no início da partida","De trocar todas as peças","De jogar com Brancas"],"answer":1,"why":"O autor avisa contra mover peões em vez de peças no início, sobretudo os peões das Torres."}
+],
+"summary":"Quem controla o centro tem espaço, iniciativa e condições para atacar; para isso, movem-se peças em vez de peões e evitam-se lances tímidos ou que bloqueiem as próprias peças."
+},
+{
+"id":"009",
+"title":"Uma unidade que segura duas",
+"text":[
+"Num final de peões, a regra geral é avançar o peão que está livre de oposição. Mas suponhamos que um jogador, por não conhecer este princípio ou por não lhe dar valor suficiente, joga de outro modo. Então o adversário pode ganhar aplicando um dos princípios cardeais da alta estratégia do xadrez: uma unidade que segura duas.",
+"Neste caso, um peão seguraria dois peões do adversário. O aluno nunca insistirá demais neste princípio. Pode aplicar-se de muitas maneiras e constitui uma das principais armas nas mãos de um mestre.",
+"Noutro final clássico, o autor mostra como o plano de ganhar se divide em três partes, cada uma com o seu objectivo. É por este modo analítico que o aluno deve procurar aprender: treina assim a mente para seguir uma sequência lógica no estudo de qualquer posição."
+],
+"glossary":[
+{"t":"Cardeal","d":"principal, fundamental."},
+{"t":"Alta estratégia","d":"os grandes planos que decidem uma partida."},
+{"t":"Analítico","d":"que decompõe um problema nas suas partes."},
+{"t":"Clássico","d":"exemplar, de referência."},
+{"t":"Oposição (de peões)","d":"quando peões de lados contrários ficam frente a frente na mesma coluna."}
+],
+"questions":[
+{"q":"Qual é a regra geral num final de peões, para escolher o peão a avançar?","options":["Avançar o peão que está livre de oposição","Avançar o mais atrasado","Avançar todos ao mesmo tempo","Não avançar nenhum"],"answer":0,"why":"A regra geral é avançar o peão que está livre de oposição."},
+{"q":"Que princípio cardeal da alta estratégia se enuncia no texto?","options":["Quem ataca primeiro ganha","Uma unidade que segura duas","Peões a mais nunca bastam","O Rei deve ficar escondido"],"answer":1,"why":"O texto enuncia o princípio 'uma unidade que segura duas'."},
+{"q":"Que significa o princípio 'uma unidade que segura duas', no exemplo dado?","options":["Uma peça protege duas outras","Um peão segura dois peões do adversário","Duas peças seguram uma","Um Rei segura duas Torres"],"answer":1,"why":"No exemplo, um peão segura dois peões do adversário."},
+{"q":"O que diz o autor sobre a importância deste princípio?","options":["É secundário","Só serve para principiantes","Só se aplica numa posição","O aluno nunca insistirá demais nele; aplica-se de muitas maneiras e é uma das principais armas de um mestre"],"answer":3,"why":"O autor diz que nunca se insiste demais neste princípio, que se aplica de muitas maneiras e é uma das principais armas de um mestre."},
+{"q":"Como deve o aluno procurar aprender os finais, segundo o texto?","options":["Decorando as jogadas","De forma analítica, dividindo a posição em partes e seguindo uma sequência lógica","Sem pensar, só jogando depressa","Copiando o adversário"],"answer":1,"why":"O texto recomenda o modo analítico, que treina a mente para seguir uma sequência lógica."}
+],
+"summary":"Um único peão bem colocado pode segurar dois do adversário: é um dos grandes princípios do xadrez, e aprende-se melhor analisando as posições por partes, com raciocínio lógico."
+},
+{
+"id":"010",
+"title":"A oposição entre os Reis",
+"text":[
+"Quando os Reis têm de ser movidos, e um jogador consegue, à força, levar o seu Rei a uma posição em que o adversário é obrigado a mover-se e a dar-lhe passagem, diz-se que esse jogador tem a oposição. Os Reis estão directamente frente a frente e o número de casas entre eles é ímpar, uma casa por exemplo.",
+"A oposição pode ser frontal, diagonal ou lateral. Na prática, são todas a mesma coisa: os Reis estão sempre em casas da mesma cor, há apenas uma casa entre eles, e o jogador que moveu por último é quem tem a oposição.",
+"Recuando os Reis ao longo da mesma linha, temos a oposição à distância. Em todas as formas simples de oposição, quando os Reis estão na mesma linha e o número de casas entre eles é par, o jogador que tem a vez de jogar tem a oposição.",
+"A oposição tem um valor enorme. Uma posição com muito pouco material parece, a um principiante, absolutamente igual, mas não é: ganha quem tiver a vez de jogar. Trata-se de uma matéria da maior importância, que por vezes toma formas complicadas, todas elas resolúveis por cálculo."
+],
+"glossary":[
+{"t":"Oposição","d":"situação em que os Reis ficam frente a frente e quem tem a vantagem obriga o outro a ceder passagem."},
+{"t":"Frontal","d":"de frente, na mesma coluna."},
+{"t":"Diagonal","d":"em linha oblíqua, de canto a canto."},
+{"t":"Lateral","d":"de lado, na mesma fila."},
+{"t":"Ímpar","d":"número que não se divide por dois, como 1, 3 ou 5."}
+],
+"questions":[
+{"q":"O que significa ter a oposição?","options":["Ter mais peões","Conseguir que, com os Reis frente a frente, o adversário seja obrigado a mover-se e a dar passagem","Dar xeque ao Rei adversário","Trocar os Reis"],"answer":1,"why":"Tem a oposição quem leva o Rei a uma posição em que o adversário tem de se mover e dar-lhe passagem."},
+{"q":"Que formas pode tomar a oposição simples?","options":["Só a frontal","Frontal, diagonal e lateral, que na prática são todas a mesma coisa","Só a diagonal","Nenhuma, é apenas teoria"],"answer":1,"why":"O texto fala em oposição frontal, diagonal e lateral, todas equivalentes na prática."},
+{"q":"Quando há uma só casa entre os Reis, quem tem a oposição?","options":["O jogador que ainda vai jogar","O jogador das Brancas","O jogador que moveu por último","Nenhum dos dois"],"answer":2,"why":"O jogador que moveu por último é quem tem a oposição."},
+{"q":"Em que casas estão sempre os Reis, na oposição próxima?","options":["Em casas de cor diferente","Em casas da mesma cor","Ambos no canto","Ambos na primeira fila"],"answer":1,"why":"Os Reis estão sempre em casas da mesma cor, com uma só casa entre eles."},
+{"q":"Numa posição simples, com Reis frente a frente e número par de casas entre eles, quem ganha?","options":["Quem tiver a vez de jogar","Quem tiver menos peças","Quem jogar de Pretas","Ninguém, é empate"],"answer":0,"why":"O texto diz que, nesse caso, ganha quem tiver a vez de jogar."}
+],
+"summary":"A oposição decide muitos finais: com os Reis frente a frente, quem consegue obrigar o outro a ceder passagem ganha, e o cálculo exacto vale mais do que a impressão de que a posição é igual."
+},
+{
+"id":"011",
+"title":"Cavalo ou Bispo?",
+"text":[
+"Dois Cavalos sozinhos não podem dar mate. A razão desta curiosidade é evidente: com dois Cavalos só se consegue afogar o Rei, a não ser que o adversário tenha um peão que possa mover-se.",
+"É geralmente pensado pelos amadores que o Cavalo é a peça mais valiosa, sobretudo porque, ao contrário do Bispo, pode actuar nas casas brancas e nas pretas. Esquece-se, porém, que em cada momento o Cavalo só tem a escolha de uma cor, e que demora muito mais a passar de um flanco para o outro.",
+"Quanto mais fraco é o jogador, mais terrível lhe parece o Cavalo; à medida que cresce em força, o valor do Bispo torna-se mais evidente.",
+"Quando o adversário tem um Bispo, convém pôr os seus peões em casas da cor desse Bispo. Quando se tem um Bispo, ponham-se os peões em casas de cor oposta à do próprio Bispo, para que ele não fique limitado por eles.",
+"Num final destes, o processo geral é avançar o Rei para o centro do tabuleiro ou para os peões passados, e avançar rapidamente o peão passado até onde a sua segurança o permita. Não há linha de jogo fixa: cada final é diferente, e o que conta é o cálculo, visualizando as posições futuras."
+],
+"glossary":[
+{"t":"Amadores","d":"jogadores que não são profissionais nem mestres."},
+{"t":"Flanco","d":"cada um dos lados do tabuleiro, o do Rei e o da Dama."},
+{"t":"Peão passado","d":"peão que já não tem peões adversários à frente nem nas colunas vizinhas."},
+{"t":"Visualizar","d":"imaginar mentalmente."},
+{"t":"Afogar","d":"pôr o Rei sem lances legais, sem estar em xeque, o que dá empate."}
+],
+"questions":[
+{"q":"Podem dois Cavalos sozinhos dar mate?","options":["Sim, sempre","Só contra um peão","Não: só conseguem afogar o Rei, a não ser que o adversário tenha um peão que possa mover-se","Só nos cantos"],"answer":2,"why":"O texto diz que dois Cavalos sozinhos não dão mate; só podem afogar o Rei, a não ser que o adversário tenha um peão que se possa mover."},
+{"q":"Porque pensam os amadores que o Cavalo é mais valioso?","options":["Porque pode actuar nas casas brancas e nas pretas","Porque salta mais longe","Porque vale três peões","Porque é mais rápido"],"answer":0,"why":"A razão é que o Cavalo comanda casas brancas e pretas, mas esquecem que num dado momento só escolhe uma cor."},
+{"q":"Em que tipo de posição o autor diz que o Cavalo vale mais do que o Bispo?","options":["Quando há peões nos dois lados","Quando todos os peões estão do mesmo lado, numa posição bloqueada","Quando há peões passados","Nunca"],"answer":1,"why":"O exemplo é o único em que o Cavalo vale mais: posição bloqueada, com todos os peões do mesmo lado."},
+{"q":"Onde deve pôr os seus peões quem tem um Bispo?","options":["Em casas da mesma cor do seu Bispo","Em casas de cor oposta à do seu Bispo","Em qualquer cor","Todos na primeira fila"],"answer":1,"why":"Quando se tem um Bispo, os peões devem ficar em casas de cor oposta à do próprio Bispo."},
+{"q":"Qual é o processo geral nestes finais com peões passados?","options":["Recuar o Rei","Trocar todas as peças","Esperar que o adversário erre","Avançar o Rei para o centro ou para os peões e avançar depressa o peão passado até onde for seguro"],"answer":3,"why":"O processo é levar o Rei ao centro ou para junto dos peões e avançar depressa o peão passado, enquanto for seguro."}
+],
+"summary":"O Bispo é, em regra, melhor do que o Cavalo, sobretudo com peões nos dois lados; o Cavalo só se impõe em posições bloqueadas. Coloca-se os peões em cor oposta à do próprio Bispo e calcula-se com cuidado."
+},
+{
+"id":"012",
+"title":"A iniciativa",
+"text":[
+"No início da partida, as duas partes têm a mesma posição e o mesmo material. As Brancas, porém, têm a vez de jogar, e a vez significa a iniciativa, que, em igualdade de circunstâncias, é uma vantagem.",
+"Essa vantagem deve ser mantida o mais tempo possível, e só deve ser cedida se se obtiver em troca outra vantagem, material ou posicional. As Brancas desenvolvem as peças o mais depressa possível, mas ao mesmo tempo procuram dificultar o desenvolvimento do adversário, aplicando pressão onde puderem. Tentam, antes de mais, controlar o centro; se não o conseguirem, procuram uma vantagem de posição que lhes permita continuar a incomodar o inimigo.",
+"Só abandonam a iniciativa quando obtêm em troca uma vantagem material em condições tão favoráveis que se sintam seguras de resistir ao contra-ataque e, finalmente, de retomar a iniciativa, com a superioridade de material. Só a iniciativa pode dar a vitória, pois, para ganhar, o Rei adversário tem de ser levado a uma posição em que é atacado sem saída.",
+"Depois de bem desenvolvidas as peças, as posições podem ter carácter diferente: pode convir um ataque directo ao Rei; ou melhorar uma posição já vantajosa; ou ganhar material à custa de abdicar da iniciativa durante algum tempo."
+],
+"glossary":[
+{"t":"Iniciativa","d":"a vantagem de quem ataca e obriga o adversário a responder."},
+{"t":"Posicional","d":"relativo à posição das peças e dos peões, não ao material."},
+{"t":"Contra-ataque","d":"ataque feito em resposta ao ataque do adversário."},
+{"t":"Abdicar","d":"renunciar, deixar de ter."},
+{"t":"Superioridade","d":"vantagem em número ou em força."}
+],
+"questions":[
+{"q":"Quem tem a iniciativa no início da partida?","options":["As Pretas","As Brancas, porque têm a vez de jogar","Nenhuma das partes","O jogador mais velho"],"answer":1,"why":"No início, a vez de jogar significa a iniciativa, que é das Brancas."},
+{"q":"Quando se deve renunciar à iniciativa, segundo o texto?","options":["Sempre que o adversário ameaçar","Logo no segundo lance","Só quando se obtém em troca outra vantagem, material ou posicional, em condições favoráveis","Nunca, em circunstância alguma"],"answer":2,"why":"A iniciativa só deve ser cedida se se obtiver em troca outra vantagem, material ou posicional."},
+{"q":"O que faz quem tem a iniciativa, para além de desenvolver as suas peças?","options":["Dificulta o desenvolvimento do adversário aplicando pressão","Espera pelo erro do adversário","Troca a Dama","Recua os peões"],"answer":0,"why":"As Brancas procuram dificultar o desenvolvimento do adversário aplicando pressão onde puderem."},
+{"q":"Porque é que só a iniciativa pode dar a vitória?","options":["Porque as regras o dizem","Porque o adversário se cansa","Porque a defesa é proibida","Porque, para ganhar, o Rei adversário tem de ser levado a uma posição em que é atacado sem saída"],"answer":3,"why":"O texto explica que, para ganhar, o Rei adversário tem de ser atacado sem ter por onde escapar."},
+{"q":"Qual destes não é um dos caminhos possíveis depois do desenvolvimento, segundo o texto?","options":["Atacar directamente o Rei","Melhorar uma posição já vantajosa","Desistir da partida","Ganhar material cedendo a iniciativa por algum tempo"],"answer":2,"why":"O texto fala em ataque directo ao Rei, melhoria da posição e ganho de material à custa da iniciativa; desistir não é uma opção apresentada."}
+],
+"summary":"Quem tem a vez tem a iniciativa, e deve mantê-la desenvolvendo depressa, controlando o centro e pressionando o adversário; só a cede quando recebe em troca uma vantagem segura."
+},
+{
+"id":"013",
+"title":"A força da ameaça",
+"text":[
+"Quando não há oportunidade de um ataque directo, é preciso tentar aumentar as fraquezas que houver na posição do adversário; ou, se não houver nenhuma, criar uma ou mais.",
+"É sempre uma vantagem ameaçar alguma coisa, mas as ameaças só devem ser executadas se com isso se ganhar algo imediatamente. Pois, mantendo a ameaça na mão, o adversário é obrigado a precaver-se contra a sua execução e a manter material pronto para lhe fazer face. Assim, é mais fácil ele descuidar-se, ou não conseguir parar um golpe noutro ponto. Mas, uma vez executada a ameaça, ela deixa de existir, e o adversário pode dedicar a atenção aos seus próprios planos.",
+"Uma das manobras mais bem sucedidas neste tipo de jogo é fazer uma demonstração de um lado, para atrair as forças do adversário para esse lado, e depois, graças à maior mobilidade das próprias peças, passá-las depressa para o outro lado e romper antes de o adversário ter tempo de levar até lá as forças necessárias à defesa."
+],
+"glossary":[
+{"t":"Ameaça","d":"intenção de fazer um lance forte, que o adversário tem de prevenir."},
+{"t":"Precaver-se","d":"tomar medidas para evitar um perigo."},
+{"t":"Golpe","d":"ataque súbito."},
+{"t":"Mobilidade","d":"capacidade de mover-se com facilidade."},
+{"t":"Romper","d":"abrir caminho à força, atravessar."}
+],
+"questions":[
+{"q":"Se não houver oportunidade de ataque directo, o que se deve fazer?","options":["Trocar as peças","Oferecer empate","Aumentar as fraquezas da posição adversária ou criar uma","Retirar-se para a defesa"],"answer":2,"why":"O texto manda aumentar as fraquezas do adversário, ou criar uma ou mais, se não houver nenhuma."},
+{"q":"Porque é vantajoso manter uma ameaça sem a executar?","options":["Porque obriga o adversário a precaver-se e a manter material pronto, e ele pode descuidar-se de outro ponto","Porque o adversário desiste","Porque as ameaças valem pontos","Porque assim o adversário não joga"],"answer":0,"why":"O adversário tem de precaver-se contra a ameaça, e isso torna mais fácil ele descuidar-se noutro ponto."},
+{"q":"O que acontece quando uma ameaça é executada?","options":["Fica mais forte","Deixa de existir, e o adversário pode dedicar-se aos seus planos","Passa a ser dupla","Obriga o adversário a trocar"],"answer":1,"why":"Uma vez executada, a ameaça deixa de existir e o adversário volta a atenção para os seus planos."},
+{"q":"Quando devem as ameaças ser executadas?","options":["Logo que possível","Só no final","Só se com isso se ganhar algo imediatamente","Nunca"],"answer":2,"why":"O texto diz que as ameaças só devem ser executadas se se ganhar algo imediatamente."},
+{"q":"Em que consiste a manobra descrita no último parágrafo?","options":["Trocar todas as peças","Atacar sempre o mesmo ponto","Esperar sem jogar","Fazer uma demonstração de um lado para atrair as forças do adversário e depois romper rapidamente do outro"],"answer":3,"why":"A manobra é fazer uma demonstração de um lado, atrair as forças do adversário e passar depressa as próprias para o outro lado, para romper."}
+],
+"summary":"Uma ameaça mantida vale mais do que uma ameaça executada: obriga o adversário a defender-se e a descuidar-se, e uma demonstração de um lado pode preparar o golpe decisivo do outro."
+},
+{
+"id":"014",
+"title":"O perigo de uma posição segura",
+"text":[
+"Num final jogado em Havana, em 1913, entre Marshall (Brancas) e Kupchik (Pretas), as Brancas estavam em grandes dificuldades: iam perder um peão e a posição era fraca. O melhor que podiam esperar era o empate, a não ser que acontecesse algo totalmente inesperado, e foi o que aconteceu.",
+"Não se pode dar outra razão para a perda das Pretas, a não ser que se sentiram tão seguras de levar a melhor, com um peão a mais e uma posição que julgavam segura, que se tornaram extremamente descuidadas e não consideraram o perigo que realmente existia.",
+"O primeiro erro: as Pretas viram que podiam tomar um peão sem perigo e não pararam para pensar se havia algo melhor. O segundo erro foi tão grave que quase perdeu o jogo: faltou o lance que desfazia os peões brancos e abria espaço ao seu Rei, que estava realmente em perigo. O terceiro erro foi fatal, e depois dele já não havia defesa.",
+"Isto mostra que até um final aparentemente simples tem de ser jogado com cuidado. De uma posição praticamente ganha, as Pretas ficaram com o jogo perdido, e bastaram três lances."
+],
+"glossary":[
+{"t":"Descuidadas","d":"pouco atentas, sem o cuidado necessário."},
+{"t":"Fatal","d":"que decide, que não tem remédio."},
+{"t":"Aparentemente","d":"na aparência, ao que parece."},
+{"t":"Final","d":"fase da partida em que restam poucas peças."},
+{"t":"Empate","d":"resultado em que nenhum dos jogadores ganha."}
+],
+"questions":[
+{"q":"Qual era a situação das Brancas (Marshall) no início do exemplo?","options":["Estavam a ganhar","Iam perder um peão e a posição era fraca; o melhor que podiam esperar era o empate","Tinham mate em dois lances","Estavam em xeque perpétuo"],"answer":1,"why":"O texto diz que as Brancas iam perder um peão e a posição era fraca, e que o melhor era esperar o empate."},
+{"q":"Que razão dá o autor para a perda das Pretas?","options":["Falta de tempo no relógio","Falta de conhecimento da teoria","Excesso de confiança numa posição que julgavam segura, que as tornou descuidadas","Cansaço"],"answer":2,"why":"O autor atribui a perda ao excesso de confiança: sentindo-se seguras, tornaram-se descuidadas."},
+{"q":"Qual foi o primeiro erro das Pretas?","options":["Tomar um peão sem perigo sem parar para pensar se havia algo melhor","Dar xeque cedo demais","Trocar as Torres","Mover o Rei"],"answer":0,"why":"Viram que podiam tomar um peão sem perigo e não pararam para pensar se havia algo melhor."},
+{"q":"Quantos lances bastaram para passar de uma posição ganha a uma posição perdida?","options":["Dez","Cinco","Vinte","Três"],"answer":3,"why":"O texto diz que de uma posição praticamente ganha ficaram com o jogo perdido, e bastaram três lances."},
+{"q":"Qual é a lição geral deste exemplo?","options":["Que se deve jogar sempre depressa","Que até um final aparentemente simples exige cuidado, e que uma posição segura pode esconder perigos","Que os finais são sempre empates","Que Marshall era o melhor jogador"],"answer":1,"why":"A lição é que até um final aparentemente simples tem de ser jogado com cuidado."}
+],
+"summary":"Sentir-se seguro é perigoso: com um peão a mais e uma posição que parecia ganha, as Pretas descuidaram-se e perderam em três lances. Nunca se deve parar de calcular."
+},
+{
+"id":"015",
+"title":"Peões: pontos fracos e peões passados",
+"text":[
+"Convém ter presentes alguns factos sobre as posições de peões, que ajudam a compreender certos lances nas aberturas e certas manobras no meio-jogo.",
+"Uma formação de peões pode ser muito má. Quando um peão fica atrasado, o adversário pode, pela coluna aberta, concentrar nele as suas forças. E há uma casa à sua frente, controlada pelo adversário, onde uma peça instalada já não poderá ser desalojada. Para se livrar dela, seria preciso trocá-la, o que nem sempre é fácil nem conveniente. Tais formações levam invariavelmente ao desastre e devem ser evitadas.",
+"Em abstracto, dois ou mais peões são mais fortes quando estão na mesma fila, lado a lado. Por isso os peões centrais são mais fortes em si mesmos nas casas do Rei e da Dama, e a questão de avançar um ou outro para a quinta fila deve ser pensada com muito cuidado.",
+"Um peão passado é ou muito fraco ou muito forte, e a sua fraqueza ou força aumenta à medida que avança e está em relação directa com o número de peças no tabuleiro. Em regra, a força de um peão passado aumenta à medida que diminui o número de peças no tabuleiro."
+],
+"glossary":[
+{"t":"Peão atrasado","d":"peão que ficou para trás dos vizinhos e já não pode ser defendido por outros peões."},
+{"t":"Coluna aberta","d":"coluna sem peões, por onde as Torres actuam."},
+{"t":"Desalojar","d":"expulsar de uma posição."},
+{"t":"Em abstracto","d":"em termos gerais, sem pensar num caso concreto."},
+{"t":"Formação","d":"a maneira como as peças ou os peões estão dispostos."}
+],
+"questions":[
+{"q":"Qual é o problema de um peão atrasado?","options":["Não pode ser capturado","O adversário pode concentrar nele as suas forças pela coluna aberta","Vale mais do que os outros","Obriga a trocar a Dama"],"answer":1,"why":"O adversário pode concentrar as suas forças contra esse ponto fraco, pela coluna aberta."},
+{"q":"O que acontece à casa que fica à frente de um peão atrasado?","options":["Fica sempre livre","Fica proibida","O adversário pode instalar lá uma peça que já não poderá ser desalojada","Fica protegida para sempre"],"answer":2,"why":"O texto diz que a casa fica controlada pelo adversário, e uma peça aí instalada não poderá ser desalojada."},
+{"q":"Quando são mais fortes dois ou mais peões, em abstracto?","options":["Quando estão na mesma fila, lado a lado","Quando estão dispersos","Quando estão na primeira fila","Quando estão isolados"],"answer":0,"why":"Dois ou mais peões são mais fortes quando estão na mesma fila, lado a lado."},
+{"q":"Como varia a força de um peão passado?","options":["Diminui sempre","É sempre a mesma","Só depende da cor","Aumenta à medida que avança e à medida que diminui o número de peças no tabuleiro"],"answer":3,"why":"A força do peão passado aumenta ao avançar e à medida que diminui o número de peças no tabuleiro."},
+{"q":"Na frase 'tais formações levam invariavelmente ao desastre', 'invariavelmente' quer dizer:","options":["Às vezes","Sem excepção, sempre","Raramente","Só de manhã"],"answer":1,"why":"Invariavelmente significa sem excepção, sempre."}
+],
+"summary":"A estrutura dos peões decide muita coisa: peões atrasados e casas fracas são alvos, peões lado a lado são fortes, e um peão passado cresce em força à medida que o tabuleiro se esvazia."
+},
+{
+"id":"016",
+"title":"A influência de um buraco",
+"text":[
+"Um buraco é uma casa fraca do campo de um jogador, que o adversário pode ocupar com uma peça, sem que ela possa ser expulsa por um peão. Num dos jogos estudados, as Pretas deixam criar um buraco na quinta fila, na coluna do Rei, para o Cavalo das Brancas.",
+"O autor diz que esse lance equivale praticamente a um suicídio, porque cria um buraco onde o Cavalo adversário ficará colocado de modo a ser praticamente impossível desalojá-lo. Se as Pretas queriam fazer esse lance, deviam tê-lo feito antes, quando ao menos haveria um objectivo em impedir que o Cavalo branco lá chegasse.",
+"Outro erro é pôr um Bispo a actuar atrás dos próprios peões: fica bloqueado e torna-se pouco mais do que um peão durante algum tempo. O autor nota também que, em tais posições defensivas, quanto menos peças houver no tabuleiro, melhores são as hipóteses de escapar.",
+"A lição é que um sistema de desenvolvimento que obriga a fazer lances defensivos e fecha as próprias peças deve ser condenado por isso mesmo."
+],
+"glossary":[
+{"t":"Buraco","d":"casa fraca no campo de um jogador, que os seus peões já não podem proteger."},
+{"t":"Instalar","d":"colocar de modo estável numa casa."},
+{"t":"Desalojar","d":"expulsar de uma posição."},
+{"t":"Condenar","d":"considerar errado, rejeitar."},
+{"t":"Defensivo","d":"que serve para defender, não para atacar."}
+],
+"questions":[
+{"q":"O que é um buraco, em xadrez?","options":["Uma casa vazia no meio do tabuleiro","Uma casa fraca onde o adversário pode instalar uma peça que os peões já não conseguem expulsar","Uma casa em que não se pode jogar","Uma casa só para o Rei"],"answer":1,"why":"Um buraco é uma casa fraca que o adversário pode ocupar com uma peça sem que esta possa ser expulsa por um peão."},
+{"q":"Porque diz Capablanca que o lance das Pretas equivale a um suicídio?","options":["Porque perde a Dama","Porque dá xeque","Porque cria um buraco onde o Cavalo adversário ficará praticamente impossível de desalojar","Porque troca os Bispos"],"answer":2,"why":"Esse lance cria um buraco para o Cavalo das Brancas, de onde será praticamente impossível desalojá-lo."},
+{"q":"Quando é que as Pretas deviam ter feito esse lance, se o quisessem fazer?","options":["Antes, quando ao menos haveria um objectivo em impedir o Cavalo branco de lá chegar","Nunca","Depois, no final","No primeiro lance"],"answer":0,"why":"O texto diz que deviam tê-lo feito antes, quando haveria um objectivo em impedir a chegada do Cavalo branco."},
+{"q":"O que acontece a um Bispo que fica a actuar atrás dos próprios peões?","options":["Fica mais forte","Fica bloqueado e torna-se pouco mais do que um peão durante algum tempo","Passa a valer o dobro","Pode dar mate sozinho"],"answer":1,"why":"O Bispo bloqueado pelos seus peões torna-se pouco mais do que um peão durante algum tempo."},
+{"q":"Em posições defensivas como estas, o que melhora as hipóteses de escapar?","options":["Ter mais peças no tabuleiro","Ter menos peças no tabuleiro","Fazer o roque","Trocar só peões"],"answer":1,"why":"O autor nota que, nestes casos, quanto menos peças houver no tabuleiro, melhores as hipóteses de escapar."}
+],
+"summary":"Um buraco na própria posição entrega ao adversário uma casa de onde as suas peças não podem ser expulsas; evita-se desenvolvendo as peças com acção e não as fechando atrás dos peões."
+}
+]
+}
