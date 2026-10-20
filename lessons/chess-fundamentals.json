@@ -35,6 +35,30 @@
 "Com Dama e Rei contra Rei, como a Dama reúne o poder da Torre e do Bispo, o mate é o mais fácil de todos e deve fazer-se sempre em menos de dez lances. Em todos estes finais o princípio é o mesmo: a cooperação do Rei é indispensável. Para forçar o mate sem a ajuda do Rei são precisas, no mínimo, duas Torres.",
 "Nestes finais deve ter-se o cuidado de não cair num afogamento. Pode parecer monótono, mas vale a pena o principiante praticar estas coisas, porque lhe ensinam a manejar bem as peças."
 ],
+"diagrams":[
+{"after":1,"title":"Mate com Torre e Rei","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, Exemplo 1 (posição e linha principal do livro)","description":"Rei e Torre contra Rei. Observa como o Rei branco se aproxima para ajudar a Torre.","orientation":"w","start":"7k/8/8/8/8/8/8/R6K w - - 0 1",
+"steps":[
+{"san":"Ra7","from":"a1","to":"a7","fen":"7k/R7/8/8/8/8/8/7K b - - 1 1","note":"A Torre fecha a sétima fila e prende o Rei preto na última fila."},
+{"san":"Kg8","from":"h8","to":"g8","fen":"6k1/R7/8/8/8/8/8/7K w - - 2 2"},
+{"san":"Kg2","from":"h1","to":"g2","fen":"6k1/R7/8/8/8/8/6K1/8 b - - 3 2","note":"O Rei branco começa a aproximar-se: a Torre sozinha não dá mate."},
+{"san":"Kf8","from":"g8","to":"f8","fen":"5k2/R7/8/8/8/8/6K1/8 w - - 4 3"},
+{"san":"Kf3","from":"g2","to":"f3","fen":"5k2/R7/8/8/8/5K2/8/8 b - - 5 3"},
+{"san":"Ke8","from":"f8","to":"e8","fen":"4k3/R7/8/8/8/5K2/8/8 w - - 6 4"},
+{"san":"Ke4","from":"f3","to":"e4","fen":"4k3/R7/8/8/4K3/8/8/8 b - - 7 4","note":"O Rei branco avança pelo centro, aproximando-se do Rei preto."},
+{"san":"Kd8","from":"e8","to":"d8","fen":"3k4/R7/8/8/4K3/8/8/8 w - - 8 5"},
+{"san":"Kd5","from":"e4","to":"d5","fen":"3k4/R7/8/3K4/8/8/8/8 b - - 9 5"},
+{"san":"Kc8","from":"d8","to":"c8","fen":"2k5/R7/8/3K4/8/8/8/8 w - - 10 6"},
+{"san":"Kd6","from":"d5","to":"d6","fen":"2k5/R7/3K4/8/8/8/8/8 b - - 11 6","note":"Rei para d6 e não para c6: com Rei em c6, o Rei preto voltaria a d8 e o mate demoraria mais. Agora, se o Rei preto voltar a d8, Ta8 dá mate de imediato."},
+{"san":"Kb8","from":"c8","to":"b8","fen":"1k6/R7/3K4/8/8/8/8/8 w - - 12 7"},
+{"san":"Rc7","from":"a7","to":"c7","fen":"1k6/2R5/3K4/8/8/8/8/8 b - - 13 7","note":"A Torre muda de coluna e deixa o Rei preto com uma só casa."},
+{"san":"Ka8","from":"b8","to":"a8","fen":"k7/2R5/3K4/8/8/8/8/8 w - - 14 8"},
+{"san":"Kc6","from":"d6","to":"c6","fen":"k7/2R5/2K5/8/8/8/8/8 b - - 15 8"},
+{"san":"Kb8","from":"a8","to":"b8","fen":"1k6/2R5/2K5/8/8/8/8/8 w - - 16 9"},
+{"san":"Kb6","from":"c6","to":"b6","fen":"1k6/2R5/1K6/8/8/8/8/8 b - - 17 9","note":"O Rei branco chega à sexta fila e controla as casas a7 e b7; só falta a Torre dar o mate."},
+{"san":"Ka8","from":"b8","to":"a8","fen":"k7/2R5/1K6/8/8/8/8/8 w - - 18 10"},
+{"san":"Rc8#","from":"c7","to":"c8","fen":"k1R5/8/1K6/8/8/8/8/8 b - - 19 10","note":"Mate em dez lances. O Rei e a Torre trabalharam juntos."}
+]}
+],
 "glossary":[
 {"t":"Mate","d":"ataque ao Rei sem qualquer defesa possível; termina a partida."},
 {"t":"Afogamento","d":"quando o jogador não tem nenhum lance legal e o seu Rei não está em xeque; a partida é empate."},
