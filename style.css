@@ -19,3 +19,27 @@ button.sec{background:var(--cd);color:var(--fg);border:1px solid var(--bd)}
 h2{font-size:1.2em}
 h3{font-size:1.05em;color:var(--ac)}
 summary{cursor:pointer;color:var(--ac);font:16px sans-serif}
+
+/* Tabuleiros de xadrez */
+.dg{margin:16px 0;padding:0}
+.dt{margin:0 0 4px;font:16px/1.4 sans-serif}
+.kd{font:12px sans-serif;color:var(--mu);border:1px solid var(--bd);border-radius:10px;padding:1px 8px;margin-left:6px;white-space:nowrap}
+.bd{display:grid;grid-template-columns:repeat(8,1fr);width:min(100%,440px);aspect-ratio:1/1;margin:8px 0;border:2px solid #4a5a3a;border-radius:3px;overflow:hidden;user-select:none}
+.sq{position:relative;display:flex;align-items:center;justify-content:center;min-width:0;min-height:0}
+.sq.lt{background:#F0E4CC;color:#769656}
+.sq.dk{background:#769656;color:#F0E4CC}
+.sq.hf{box-shadow:inset 0 0 0 100px rgba(255,235,70,.28)}
+.sq.ht{box-shadow:inset 0 0 0 100px rgba(255,225,40,.6)}
+.pc{font:normal calc((min(100vw,472px) - 32px) / 8 * .78)/1 "Segoe UI Symbol","Noto Sans Symbols 2","Apple Symbols","DejaVu Sans",sans-serif}
+.pc.pw{color:#fff;text-shadow:0 0 1px #000,0 0 1px #000,0 0 2px #000,0 0 2px #000}
+.pc.pb{color:#1a1a1a;text-shadow:0 0 1px #fff,0 0 1px #fff}
+.rk,.fl{position:absolute;font:normal 700 10px/1 sans-serif;opacity:.85;pointer-events:none}
+.rk{top:2px;left:3px}
+.fl{bottom:2px;right:3px}
+.ct{display:flex;flex-wrap:wrap}
+button.off{opacity:.4;cursor:default}
+.dn{font:15px/1.5 sans-serif;margin:6px 0;min-height:3em}
+.mv{font:15px/1.9 sans-serif;margin:4px 0 8px}
+.mn{color:var(--mu);margin:0 4px 0 8px}
+button.mb{background:transparent;color:var(--fg);border:1px solid transparent;padding:2px 7px;margin:0;font:15px sans-serif}
+button.mb.on{background:var(--ac);color:var(--bg)}
