@@ -1,0 +1,191 @@
+{
+"title":"A República",
+"author":"Platão",
+"lessons":[
+{
+"id":"001",
+"title":"Livro I: a ida ao Pireu",
+"text":[
+"Lê no teu PDF, Livro I, páginas 2 e 3 (desde 'Fui ontem ao Pireu com Glauco' até 'Nos sentamos todos em cadeiras junto dele'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Pireu","d":"o porto de Atenas."},
+{"t":"Procissão","d":"desfile religioso, em honra de uma divindade."},
+{"t":"Archotes","d":"tochas acesas."},
+{"t":"Contendores","d":"competidores, os que disputam uma prova."},
+{"t":"Trácios","d":"povo da Trácia, região a norte da Grécia."},
+{"t":"Festividade","d":"festa, celebração."}
+],
+"questions":[
+{"q":"Porque foi Sócrates ao Pireu?","options":["Para comprar mercadorias","Para orar à deusa e ver a festividade, celebrada pela primeira vez","Para visitar o seu mestre","Para fugir de Atenas"],"answer":1,"why":"Sócrates diz que foi orar à deusa e ver como seria a festividade, que se promovia pela primeira vez."},
+{"q":"Quem acompanhava Sócrates?","options":["Polemarco","Adimanto","Glauco, filho de Aríston","Trasímaco"],"answer":2,"why":"Sócrates diz que foi ao Pireu com Glauco, filho de Aríston."},
+{"q":"Que argumento usa Polemarco para os convencer a ficar?","options":["Que, se não forem mais fortes do que eles, terão de permanecer ali","Que a cidade está perigosa","Que há comida de graça","Que Céfalo está doente"],"answer":0,"why":"Polemarco diz, a brincar, que se não forem mais fortes do que eles terão de ficar."},
+{"q":"Que novidade anuncia Adimanto para essa noite?","options":["Um julgamento","Uma batalha naval","Um banquete só para velhos","Uma corrida a cavalo com archotes, em honra da deusa"],"answer":3,"why":"Adimanto pergunta se desconhecem que haverá uma corrida a cavalo com archotes em honra da deusa."},
+{"q":"Segundo esta cena, como nasce a conversa que vai ocupar o livro?","options":["De uma aula marcada com antecedência","De um encontro casual no caminho, seguido de um convite insistente para ficar","De um julgamento público","De uma discussão na assembleia"],"answer":1,"why":"Sócrates regressava à cidade quando foi visto por Polemarco, e o convite insistente para ficar dá origem à conversa na casa dele."}
+],
+"summary":"Sócrates e Glauco, depois de assistirem à festa no Pireu, são retidos por Polemarco e pelos amigos, que os convidam a ficar para a festa da noite, e a conversa começa na casa de Polemarco."
+},
+{
+"id":"002",
+"title":"Livro I: Céfalo e a velhice",
+"text":[
+"Lê no teu PDF, Livro I, páginas 4 e 5 (desde 'Céfalo — Tu vens raramente ao Pireu' até 'Com efeito, o dinheiro traz muitas compensações'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Limiar da velhice","d":"a porta de entrada da velhice, o fim da vida."},
+{"t":"Deleite","d":"prazer, encanto."},
+{"t":"Colérico","d":"irritado, zangado."},
+{"t":"Truculento","d":"violento, brutal."},
+{"t":"Asserção","d":"afirmação."},
+{"t":"Equilibrado","d":"calmo, sem excessos."}
+],
+"questions":[
+{"q":"O que acontece, segundo Céfalo, aos prazeres do corpo à medida que envelhece?","options":["Tornam-se mais fortes","Ficam iguais","Dão lugar ao desejo e ao deleite da conversação","Desaparecem sem deixar nada"],"answer":2,"why":"Céfalo diz que os prazeres do corpo cedem lugar ao desejo e ao deleite da conversação."},
+{"q":"Porque diz Sócrates que gosta de conversar com os velhos?","options":["Porque falam pouco","Porque nos antecederam num caminho que também iremos trilhar e podem dizer se é áspero ou tranquilo","Porque são mais ricos","Porque sabem poesia"],"answer":1,"why":"Sócrates diz que os velhos nos antecederam num caminho que também iremos trilhar, e quer saber como é: áspero e árduo, ou tranquilo e cómodo."},
+{"q":"Que resposta deu Sófocles quando lhe perguntaram sobre o amor?","options":["Que ainda amava como na juventude","Que nunca amou","Que o amor é o maior bem","Que se libertou do amor como quem se liberta de um senhor colérico e truculento"],"answer":3,"why":"Sófocles respondeu que se libertou do amor com o prazer de quem se liberta de um senhor colérico e truculento."},
+{"q":"Segundo Céfalo, qual é a verdadeira causa dos sofrimentos que os velhos atribuem à velhice?","options":["O carácter dos homens","A pobreza","A doença","Os filhos"],"answer":0,"why":"Céfalo diz que a causa não é a velhice, mas o carácter dos homens."},
+{"q":"Dois idosos têm a mesma idade, mas um queixa-se de tudo e o outro vive em paz. Segundo Céfalo, o que explica a diferença?","options":["A riqueza de cada um","A sorte","O carácter e o equilíbrio do espírito de cada um","A saúde"],"answer":2,"why":"Para Céfalo, quem tem bom carácter e espírito equilibrado suporta bem a velhice; quem não o tem sofre tanto na velhice como na juventude."}
+],
+"summary":"Céfalo, já velho, diz que gosta mais da conversa do que dos prazeres do corpo e que as queixas da velhice vêm não da idade, mas do carácter de cada pessoa."
+},
+{
+"id":"003",
+"title":"Livro I: a riqueza e o carácter",
+"text":[
+"Lê no teu PDF, Livro I, páginas 5 e 6 (desde 'Céfalo — É verdade que não me apóiam' até 'Céfalo — Tens razão'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Herança","d":"bens que se recebem de familiares."},
+{"t":"Célebre","d":"famoso."},
+{"t":"Mérito","d":"valor de quem merece algo pelo que fez."},
+{"t":"Comerciante","d":"quem negoceia, compra e vende."},
+{"t":"Diminuída","d":"reduzida, mais pequena."},
+{"t":"Convivência","d":"o viver ou estar com os outros."}
+],
+"questions":[
+{"q":"O que diz Céfalo que nenhuma riqueza poderá proporcionar a um homem mau?","options":["A paz","Fama","Amigos","Saúde"],"answer":0,"why":"Céfalo diz que riqueza alguma poderá proporcionar a paz a um homem mau."},
+{"q":"Como se descreve Céfalo quanto à fortuna da família?","options":["Herdou tudo do pai e perdeu","Ficou entre o avô, que a aumentou, e o pai, que a deixou menor","Fez toda a fortuna sozinho","Não tem fortuna"],"answer":1,"why":"Céfalo diz que o avô a aumentou e que o pai a deixou menor do que é hoje."},
+{"q":"O que espera Céfalo deixar aos filhos?","options":["Menos do que recebeu","Nada","A fortuna não diminuída, e se possível um pouco superior","Só dívidas"],"answer":2,"why":"Céfalo diz que ficará satisfeito se não a deixar diminuída aos jovens, e sim um pouco superior."},
+{"q":"Segundo Sócrates, porque preza mais a riqueza quem a ganhou com o próprio trabalho?","options":["Porque a herdou","Porque não tem filhos","Porque a gasta toda","Porque é obra sua e também pela sua utilidade"],"answer":3,"why":"Sócrates compara o comerciante a um poeta com os seus versos: preza a riqueza por ser obra sua e também por causa da sua utilidade."},
+{"q":"A herdou uma fortuna e B construiu o seu negócio. Segundo Sócrates, quem tende a estimar mais a riqueza?","options":["B, que a conquistou com o seu trabalho","A, que a herdou","Ambos por igual","Nenhum dos dois"],"answer":0,"why":"Sócrates diz que quem adquire a riqueza com o próprio trabalho a preza muito mais."}
+],
+"summary":"Céfalo diz que a riqueza não dá paz a um homem mau, conta como herdou e administrou a fortuna, e Sócrates observa que quem a conquista com o trabalho a preza mais."
+},
+{
+"id":"004",
+"title":"Livro I: a maior vantagem da riqueza",
+"text":[
+"Lê no teu PDF, Livro I, páginas 6 a 8 (desde 'Sócrates — Diz-me mais uma coisa' até 'a riqueza utilíssima para o homem judicioso'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Hades","d":"o mundo dos mortos, na mitologia grega."},
+{"t":"Expiar","d":"pagar um erro com um castigo."},
+{"t":"Pregressa","d":"passada, anterior."},
+{"t":"Benévola","d":"bondosa, favorável."},
+{"t":"Judicioso","d":"sensato, prudente."},
+{"t":"Inadvertidamente","d":"sem querer, sem dar por isso."}
+],
+"questions":[
+{"q":"O que acontece, segundo Céfalo, a quem toma consciência de que logo morrerá?","options":["Deixa de se preocupar","Surgem-lhe temor e preocupação a respeito de assuntos em que antes não pensava","Fica mais rico","Passa a gostar de viajar"],"answer":1,"why":"Céfalo diz que, ao tomar consciência de que logo morrerá, surgem-lhe o temor e a preocupação a respeito de assuntos nos quais antes não pensava."},
+{"q":"Na frase 'serão expiados os atos maus', a palavra 'expiados' quer dizer:","options":["Esquecidos","Escondidos","Pagos através de castigo","Elogiados"],"answer":2,"why":"Expiar é pagar o mal feito com um castigo, como nas fábulas do Hades."},
+{"q":"Quem alimenta, segundo Céfalo, uma doce esperança na velhice?","options":["Quem sabe não ter cometido injustiças","Quem tem muito dinheiro","Quem não pensa na morte","Quem é muito velho"],"answer":0,"why":"Céfalo diz que quem sabe não ter cometido injustiças alimenta sempre uma doce esperança."},
+{"q":"Que poeta cita Céfalo para falar da esperança que acompanha o justo?","options":["Homero","Sófocles","Simónides","Píndaro"],"answer":3,"why":"Céfalo cita Píndaro, que fala da esperança como amada da velhice."},
+{"q":"Para que, mais do que tudo, Céfalo considera útil a riqueza?","options":["Para viver com luxo","Para não enganar ninguém nem ficar a dever aos deuses ou aos homens, e poder partir sem receio","Para ganhar poder","Para impressionar os amigos"],"answer":1,"why":"Céfalo diz que a riqueza serve para jamais enganar ou mentir, nem ser devedor a deuses ou homens, e falecer sem nada recear."}
+],
+"summary":"Perto da morte, os medos do Hades levam cada um a olhar para a sua vida; Céfalo considera a riqueza útil sobretudo a quem é moderado, porque o ajuda a não ficar a dever nada e a partir em paz."
+},
+{
+"id":"005",
+"title":"Livro I: o exemplo das armas e a definição de Simónides",
+"text":[
+"Lê no teu PDF, Livro I, páginas 8 e 9 (desde 'Sócrates — As tuas são palavras maravilhosas, ó Céfalo' até 'Polemarco — Perfeitamente'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Restituir","d":"devolver aquilo que se recebeu."},
+{"t":"Insano","d":"louco, sem juízo."},
+{"t":"Asserção","d":"afirmação."},
+{"t":"Simónides","d":"poeta grego, citado por Polemarco."},
+{"t":"Enigma","d":"coisa difícil de decifrar, dita de forma indirecta."},
+{"t":"Lícito","d":"permitido, aceitável."}
+],
+"questions":[
+{"q":"Que exemplo dá Sócrates para mostrar que a justiça não é apenas dizer a verdade e devolver o que se tomou?","options":["O de um comerciante que cobra uma dívida","O de entregar armas a um amigo que, entretanto, enlouqueceu e as exige de volta","O de um juiz que condena um inocente","O de um filho que herda a fortuna do pai"],"answer":1,"why":"Sócrates pergunta se se deve devolver as armas a um amigo que enlouqueceu, e todos julgariam que não."},
+{"q":"Quem toma o lugar de Céfalo na conversa, e porquê?","options":["Glauco, porque é o mais novo","Adimanto, porque é o mais calado","Trasímaco, porque discorda","Polemarco, porque é o herdeiro da discussão, e Céfalo vai terminar o sacrifício"],"answer":3,"why":"Céfalo sai para terminar o sacrifício, e Polemarco diz que é o herdeiro; Sócrates chama-lhe herdeiro da discussão."},
+{"q":"Que definição de justiça atribui Polemarco a Simónides?","options":["Que é justo devolver aquilo que devemos","Que é justo ser rico","Que é justo obedecer aos deuses","Que é justo ganhar sempre"],"answer":0,"why":"Polemarco diz que é justo devolver aquilo que devemos."},
+{"q":"Segundo Polemarco, o que Simónides quer dizer, no fundo, em relação aos amigos?","options":["Que se deve devolver-lhes sempre tudo","Que se deve evitá-los","Que se deve fazer sempre o bem aos amigos, nunca o mal","Que se deve esquecê-los"],"answer":2,"why":"Polemarco explica que, na opinião de Simónides, deve-se fazer sempre o bem aos amigos e nunca o mal."},
+{"q":"Quando Sócrates diz que Simónides 'se expressou por enigmas, como fazem os poetas', o que quer dizer?","options":["Que Simónides era mentiroso","Que Simónides falava demasiado depressa","Que Simónides não tinha opinião","Que Simónides falou de forma indirecta, e é preciso interpretar o que entendia por justiça"],"answer":3,"why":"Um enigma é algo dito de forma obscura; Sócrates conclui que, para Simónides, justo é restituir a cada um o que lhe convém."}
+],
+"summary":"Sócrates mostra, com o exemplo das armas, que justiça não é só devolver o que se tomou; Polemarco retoma a definição de Simónides: fazer bem aos amigos e, aos inimigos, o que lhes convém."
+},
+{
+"id":"006",
+"title":"Livro I: a justiça comparada às artes",
+"text":[
+"Lê no teu PDF, Livro I, página 10 (desde 'Sócrates — Por Zeus! Portanto, se alguém lhe perguntasse' até 'o médico é inútil para as pessoas sadias'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Medicinal","d":"relativa à medicina."},
+{"t":"Culinária","d":"a arte de cozinhar."},
+{"t":"Prejuízo","d":"dano, mal causado a alguém."},
+{"t":"Navegantes","d":"pessoas que viajam pelo mar."},
+{"t":"Piloto","d":"quem governa o navio."},
+{"t":"Sadias","d":"saudáveis, sem doença."}
+],
+"questions":[
+{"q":"Segundo Polemarco, o que dá a arte da medicina aos doentes?","options":["Dinheiro e roupas","Temperos e sal","Remédios, alimentos e bebidas","Conselhos e orações"],"answer":2,"why":"Polemarco responde que a medicina dá remédios, alimentos e bebidas aos doentes."},
+{"q":"E o que dá a arte da culinária?","options":["Temperos aos alimentos","Remédios aos doentes","Armas aos soldados","Sapatos aos viajantes"],"answer":0,"why":"Polemarco diz que a culinária dá temperos aos alimentos."},
+{"q":"O que dá a arte a que chamamos justiça, segundo o que Polemarco afirmou antes?","options":["Remédios e alimentos","Dinheiro e poder","Honras e prémios","Benefícios aos amigos e prejuízo aos inimigos"],"answer":3,"why":"Polemarco diz que a justiça dá benefícios aos amigos e prejuízo aos inimigos."},
+{"q":"Em que circunstância pode o homem justo, segundo Polemarco, ajudar os amigos e prejudicar os inimigos?","options":["Na assembleia","Na guerra, lutando contra uns e aliando-se aos outros","No comércio","Na escola"],"answer":1,"why":"Polemarco pensa que é na guerra, lutando contra uns e aliando-se aos outros."},
+{"q":"Sócrates observa que o médico é inútil para as pessoas sadias. Que ideia prepara com isto?","options":["Que uma arte só é útil na situação para a qual existe, por isso, se a justiça serve só na guerra, seria inútil fora dela","Que os médicos devem ganhar menos","Que os sadios nunca ficam doentes","Que a medicina é a arte mais importante"],"answer":0,"why":"Tal como o médico só serve a quem está doente, o justo, nesta definição, só serviria na guerra, e Sócrates vai perguntar se não é útil em tempo de paz."}
+],
+"summary":"Sócrates compara a justiça às artes (medicina, culinária, pilotagem): cada arte dá algo a alguém, e Polemarco diz que a justiça dá bem aos amigos e mal aos inimigos, sobretudo na guerra."
+},
+{
+"id":"007",
+"title":"Livro I: a justiça em tempo de paz",
+"text":[
+"Lê no teu PDF, Livro I, páginas 11 e 12 (desde 'Polemarco — Concordo' até 'Polemarco — Parece que sim', a seguir à podadeira), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Associações","d":"sociedades ou parcerias de negócios."},
+{"t":"Citarista","d":"tocador de cítara, instrumento musical de cordas."},
+{"t":"Depósito","d":"o que se entrega a alguém para guardar."},
+{"t":"Imobilizado","d":"parado, sem ser usado."},
+{"t":"Podadeira","d":"ferramenta para cortar ramos e cuidar da vinha."},
+{"t":"Vinha","d":"plantação de videiras, onde crescem as uvas."}
+],
+"questions":[
+{"q":"Em tempo de paz, em que diz Polemarco que a justiça é útil?","options":["Na agricultura","Na arte do sapateiro","Nos jogos","Nos contratos comerciais, nas associações"],"answer":3,"why":"Polemarco diz que é útil para os contratos comerciais, e esclarece que se refere às associações."},
+{"q":"Quem é mais útil do que o justo para assentar tijolos e pedras?","options":["O pedreiro","O músico","O médico","O piloto"],"answer":0,"why":"Polemarco reconhece que, para assentar tijolos e pedras, o pedreiro é mais útil do que o justo."},
+{"q":"Em que circunstância, nos assuntos de dinheiro, é o justo mais útil do que os outros, segundo Polemarco?","options":["Ao comprar um cavalo","Ao construir um navio","Ao fazer um depósito em segurança","Ao vender produtos"],"answer":2,"why":"Polemarco diz que o justo é mais útil na circunstância de querermos fazer um depósito em segurança."},
+{"q":"Que conclusão tira Sócrates dessa resposta?","options":["Que a justiça é útil quando se usa o dinheiro","Que a justiça só é útil quando o dinheiro é inútil, isto é, quando não o usamos","Que a justiça é inútil sempre","Que o dinheiro é injusto"],"answer":1,"why":"Se a justiça serve para guardar o dinheiro parado, só é útil quando o dinheiro é inútil, concluem Sócrates e Polemarco."},
+{"q":"Que dificuldade revela este raciocínio de Sócrates para a definição de justiça?","options":["Que ninguém sabe o que é a justiça","Que, em cada actividade em que se usam as coisas, é melhor o especialista (pedreiro, músico, tratador, vinhateiro), e a justiça parece útil só para guardar","Que o dinheiro é mais importante do que a justiça","Que a justiça só é útil aos ricos"],"answer":1,"why":"Para usar as coisas, os especialistas são mais úteis; a justiça aparece só como útil para guardar, o que a torna pouco importante."}
+],
+"summary":"Polemarco diz que a justiça é útil nos contratos e associações, mas Sócrates mostra que, em cada ofício, quem usa as coisas é o especialista, e a justiça só parece útil para guardar dinheiro e objectos, quando não se usam."
+},
+{
+"id":"008",
+"title":"Livro I: o guardião e o ladrão",
+"text":[
+"Lê no teu PDF, Livro I, páginas 13 e 14 (desde 'Sócrates — Tu concluis, portanto, que, se quisermos guardar um escudo e uma lira' até 'Polemarco — De forma alguma, Sócrates, pois o teu ra...'), e depois responde às perguntas."
+],
+"glossary":[
+{"t":"Perjúrio","d":"jurar em falso, mentir sob juramento."},
+{"t":"Reputam","d":"consideram, têm por."},
+{"t":"Enaltecer","d":"elogiar muito, exaltar."},
+{"t":"Furtar","d":"roubar."},
+{"t":"Hábil","d":"competente, com muita capacidade."},
+{"t":"Guardião","d":"quem guarda e protege algo."},
+{"t":"Desferir","d":"dar, lançar golpes."}
+],
+"questions":[
+{"q":"A que conclusão leva o exemplo do bom guarda do exército, que furta os planos aos inimigos?","options":["Que o ladrão é sempre injusto","Que o guarda não precisa de saber lutar","O hábil guardião de uma coisa é também o hábil ladrão dessa mesma coisa","Que os exércitos não precisam de guardas"],"answer":2,"why":"Sócrates conclui que quem sabe guardar uma coisa sabe também furtá-la, e o justo, hábil em guardar dinheiro, seria hábil em furtá-lo."},
+{"q":"Que personagem de Homero é lembrado por exceder todos os homens no furto e no perjúrio?","options":["Aquiles","Autólico, avô materno de Ulisses","Heitor","Agamémnon"],"answer":1,"why":"Sócrates lembra que Homero enaltece Autólico, avô materno de Ulisses, por exceder todos no furto e no perjúrio."},
+{"q":"Apesar de confuso ('Não sei mais o que eu dizia'), o que continua a afirmar Polemarco?","options":["Que a justiça é ser útil aos amigos e prejudicial aos inimigos","Que a justiça é devolver sempre o que se deve","Que a justiça é impossível","Que a justiça é fazer o que se quer"],"answer":0,"why":"Polemarco diz que continua a afirmar que a justiça consiste em ser útil aos amigos e prejudicial aos inimigos."},
+{"q":"Que problema levanta Sócrates sobre amigos e inimigos?","options":["Que nunca se sabe onde estão","Que são sempre iguais","Que há poucos amigos","Que os homens podem enganar-se, julgando honestos os que não o são, e o contrário"],"answer":3,"why":"Sócrates mostra que os homens podem enganar-se ao julgar quem é honesto, e então, para os enganados, os honestos seriam inimigos e os desonestos amigos."},
+{"q":"A que absurdo chega Sócrates, seguindo o raciocínio de Polemarco, e qual é a reacção deste?","options":["Que seria justo prejudicar os que não cometem injustiças; Polemarco recusa essa conclusão","Que seria justo roubar aos pobres; Polemarco concorda","Que seria justo não ter amigos; Polemarco aceita","Que seria injusto ajudar os amigos; Polemarco ri"],"answer":0,"why":"Como os honestos e bons são justos e não cometem injustiças, seguir o raciocínio levaria a ser justo prejudicar quem não comete injustiças, e Polemarco responde que de forma alguma."}
+],
+"summary":"Sócrates leva Polemarco a ver que, se o justo é bom a guardar, também é bom a furtar, e que, se os homens se enganam sobre quem é amigo, ajudar os amigos e prejudicar os inimigos pode levar a prejudicar inocentes."
+}
+]
+}
