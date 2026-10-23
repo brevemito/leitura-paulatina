@@ -288,6 +288,108 @@
 {"q":"Como diz Sócrates que 'paga' aos que o ensinam?","options":["Com dinheiro","Com elogios, porque não tem riquezas","Com presentes","Não paga"],"answer":1,"why":"Sócrates diz que não possui riquezas e paga com aplausos, na medida em que pode."}
 ],
 "summary":"Sócrates acalma Trasímaco com o exemplo do ouro e do número doze, aceita aprender se for refutado, e os amigos pressionam Trasímaco a dar a sua definição da justiça."
+},
+  {
+"id":"013",
+"title":"Livro I: a tese de Trasímaco",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Trasímaco, por fim, dá a sua resposta: a justiça, diz ele, é simplesmente o interesse do mais forte. E reclama logo aplausos por ter respondido.",
+"Sócrates pede que ele explique melhor, porque ainda não percebeu. Dá um exemplo para mostrar que a frase pode ser lida de modo estranho: se Polidamas, o atleta fortíssimo, precisa de carne de boi para manter a força, essa comida, que também convém aos mais fracos, seria então 'justa'? Trasímaco acusa Sócrates de pegar nas suas palavras da maneira que mais convém para as atacar. Sócrates responde apenas que gostaria que ele se exprimisse com mais clareza.",
+"Original no teu PDF: Livro I, p. 24."
+],
+"glossary":[
+{"t":"Interesse","d":"aquilo que traz vantagem ou proveito a alguém."},
+{"t":"Polidamas","d":"atleta famoso pela sua enorme força, citado como exemplo."},
+{"t":"Ambiguidade","d":"frase que pode ser entendida de mais de uma maneira."},
+{"t":"Cínico","d":"que desconfia dos outros e os ataca sem pudor."},
+{"t":"Exprimir","d":"dizer, tornar claro o que se pensa."}
+],
+"questions":[
+{"q":"Qual é a definição de justiça que Trasímaco apresenta?","options":["O que é útil aos amigos","O que a lei manda","O interesse do mais forte","O que agrada aos deuses"],"answer":2,"why":"Trasímaco diz que a justiça é simplesmente o interesse do mais forte."},
+{"q":"O que reclama Trasímaco logo a seguir à sua definição?","options":["Aplausos, por ter dado a resposta","Dinheiro","Silêncio","Comida"],"answer":0,"why":"Trasímaco pergunta a Sócrates o que espera para o aplaudir."},
+{"q":"Que exemplo usa Sócrates para pedir esclarecimento?","options":["O de um médico doente","O de um piloto sem barco","O de um poeta sem versos","O de Polidamas, o atleta forte, para quem a carne de boi é boa, e que também convém aos mais fracos"],"answer":3,"why":"Sócrates usa o exemplo de Polidamas para mostrar que a frase de Trasímaco pode ser entendida de modo estranho."},
+{"q":"Como reage Trasímaco ao exemplo de Sócrates?","options":["Agradece a Sócrates","Acusa Sócrates de pegar nas suas palavras do modo que melhor as ataca","Ri e concorda","Vai embora"],"answer":1,"why":"Trasímaco diz que Sócrates toma as suas palavras por onde pode atacá-las melhor."},
+{"q":"O que pede Sócrates em resposta?","options":["Que Trasímaco se cale","Que mude de tema","Que se exprima com mais clareza","Que Glauco responda"],"answer":2,"why":"Sócrates diz que não quer atacar e pede a Trasímaco que se exprima com mais clareza."}
+],
+"summary":"Trasímaco defende que a justiça é o interesse do mais forte; Sócrates não percebe bem e pede que ele se explique com mais clareza, em vez de o atacar."
+},
+{
+"id":"014",
+"title":"Livro I: as cidades, os governos e as leis",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Para ser claro, Trasímaco lembra que as cidades se governam de formas diferentes: umas são tirânicas, outras democráticas, outras aristocráticas. Em cada cidade, a parte mais forte é o governo. E cada governo faz as leis a favor de si próprio: a democracia faz leis democráticas, a tirania leis tirânicas, e assim por diante. Depois declara 'justo', para os governados, aquilo que lhe convém e castiga como violador da lei, culpado de injustiça, quem não obedece.",
+"Daqui Trasímaco conclui que, em todas as cidades, o justo é a mesma coisa: o que convém ao governo, que é o mais forte. Sócrates diz que agora percebe e vai examinar a ideia. Faz notar que Trasímaco, depois de lhe ter proibido responder que a justiça é o vantajoso, acrescentou 'do mais forte'. Trasímaco chama-lhe pequena adição; Sócrates diz que ainda não se sabe se é pequena, e que é preciso ver se é verdadeira.",
+"Original no teu PDF: Livro I, pp. 24 e 25."
+],
+"glossary":[
+{"t":"Tirânica","d":"governada por um tirano, que manda sem limites."},
+{"t":"Democrática","d":"governada pelo povo ou em nome dele."},
+{"t":"Aristocrática","d":"governada por poucos, os mais nobres ou os melhores."},
+{"t":"Proveito","d":"vantagem, benefício."},
+{"t":"Transgredir","d":"desobedecer à lei."},
+{"t":"Governados","d":"as pessoas que são governadas."}
+],
+"questions":[
+{"q":"Que formas de governo cita Trasímaco nas cidades?","options":["Só democracias","Tirânicas, democráticas e aristocráticas","Só monarquias","Só repúblicas"],"answer":1,"why":"Trasímaco diz que há cidades tirânicas, democráticas e aristocráticas."},
+{"q":"Quem é o mais forte em cada cidade, segundo Trasímaco?","options":["O povo","Os soldados","O governo","Os ricos"],"answer":2,"why":"Trasímaco diz que o setor mais forte, em cada cidade, é o governo."},
+{"q":"O que faz cada governo ao fazer as leis?","options":["Faz leis em seu próprio proveito","Faz leis a favor dos pobres","Faz leis ao acaso","Copia as leis de outras cidades"],"answer":0,"why":"Cada governo faz as leis para o seu próprio proveito, declarando justo o que lhe convém."},
+{"q":"O que fazem os governos a quem desobedece às leis?","options":["Perdoam sempre","Pedem a opinião do povo","Exilam todos os cidadãos","Castigam-no como violador da lei, culpando-o de injustiça"],"answer":3,"why":"Quem transgride as leis é castigado como violador, e acusado de injustiça."},
+{"q":"O que concorda Sócrates e o que quer examinar?","options":["Não concorda com nada","Concorda com tudo e encerra a conversa","Concorda que o justo é vantajoso, mas quer examinar se é verdade que é 'do mais forte'","Quer abandonar a conversa"],"answer":2,"why":"Sócrates reconhece que o justo é algo vantajoso, mas quer examinar a adição de que é o interesse do mais forte."}
+],
+"summary":"Trasímaco explica que cada governo faz leis a seu favor e chama justo ao que lhe convém, por isso em todas as cidades a justiça é o interesse do mais forte; Sócrates promete examinar se isto é verdade."
+},
+{
+"id":"015",
+"title":"Livro I: os governantes também se enganam",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates começa a examinar a tese. Trasímaco admite que é justo obedecer aos governantes, e também que eles podem enganar-se, fazendo leis boas e leis más: boas são as que lhes trazem vantagem, más as que lhes trazem prejuízo. Mas então, observa Sócrates, quando um governante manda por engano algo que o prejudica, o governado, ao obedecer, faz o que é desvantajoso para o mais forte. Pela própria tese, seria justo fazer também o contrário do que Trasímaco afirmou.",
+"Polemarco acha isto claríssimo. Clitofonte tenta defender Trasímaco: ele quis dizer que o interesse do mais forte é aquilo que o mais forte julga ser-lhe vantajoso. Sócrates aceita discutir assim, se for essa a ideia, mas pergunta ao próprio Trasímaco. Trasímaco recusa: não considera 'mais forte' quem se engana, no momento em que se engana.",
+"Original no teu PDF: Livro I, pp. 25 a 27."
+],
+"glossary":[
+{"t":"Infalível","d":"que nunca se engana."},
+{"t":"Passível","d":"sujeito a, capaz de sofrer ou de fazer algo."},
+{"t":"Desvantajoso","d":"que traz prejuízo, sem vantagem."},
+{"t":"Inadvertidamente","d":"sem querer, sem dar por isso."},
+{"t":"Reformulação","d":"dizer de outra maneira para corrigir ou melhorar."}
+],
+"questions":[
+{"q":"O que admite Trasímaco sobre os governantes?","options":["Que são infalíveis","Que podem enganar-se, fazendo leis boas e leis más","Que nunca fazem leis","Que são sempre injustos"],"answer":1,"why":"Trasímaco reconhece que os governantes podem enganar-se e fazer leis boas e más."},
+{"q":"Que leis considera Trasímaco boas, do ponto de vista do governante?","options":["As mais antigas","As mais severas","As que lhe são vantajosas","As que o povo escolhe"],"answer":2,"why":"As boas leis são as que instituem o que é vantajoso ao governante; as más, o que é desvantajoso."},
+{"q":"Que contradição aponta Sócrates na tese de Trasímaco?","options":["Que ninguém obedece às leis","Que os governantes são fracos","Que as leis são sempre justas","Que, ao obedecer a uma lei que prejudica o governante, o governado faz o desvantajoso para o mais forte, o que contraria a tese"],"answer":3,"why":"Se é justo obedecer, e a lei por engano prejudica o governante, então seria justo fazer também o que é desvantajoso ao mais forte."},
+{"q":"Que reformulação propõe Clitofonte para defender Trasímaco?","options":["Que o justo é o que o mais forte julga ser vantajoso para ele","Que o justo é o que o povo decide","Que o justo é obedecer aos deuses","Que o justo é o que é igual para todos"],"answer":0,"why":"Clitofonte diz que Trasímaco entende por vantagem do mais forte o que o mais forte crê ser vantajoso para ele."},
+{"q":"Como reage Trasímaco a essa reformulação?","options":["Aceita-a de imediato","Fica calado","Rejeita-a: não chama 'mais forte' a quem se engana, no momento em que se engana","Muda de assunto"],"answer":2,"why":"Trasímaco responde que não considera mais forte quem se engana, no momento em que se engana."}
+],
+"summary":"Sócrates mostra que, se os governantes se enganam e os governados lhes obedecem, ser justo seria às vezes fazer o que prejudica o mais forte; Trasímaco recusa a saída de Clitofonte e diz que quem se engana já não é verdadeiro governante."
+},
+{
+"id":"016",
+"title":"Livro I: o governante em sentido exacto",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Trasímaco rejeita a ideia de que o governante se engana. Compara com os ofícios: dizemos que o médico errou, ou que o calculador se enganou, mas, falando com rigor, quem erra deixou, nesse momento, de ser verdadeiro médico ou calculador, porque o saber o abandonou. Por isso, o governante, enquanto governante, não se engana: faz a lei do seu maior interesse e o governado deve cumpri-la. Trasímaco mantém, então, que a justiça é fazer o que convém ao mais forte.",
+"Sócrates pergunta se Trasímaco o acusa de má-fé. Ele responde que sim, que Sócrates o interroga de propósito para o prejudicar na discussão, mas que não terá êxito. Sócrates pede-lhe, então, que diga se fala do governante no sentido comum ou no sentido exacto. Trasímaco responde que fala no sentido exacto.",
+"Original no teu PDF: Livro I, pp. 27 a 29."
+],
+"glossary":[
+{"t":"Difamador","d":"quem prejudica a reputação de outro com acusações falsas."},
+{"t":"Calculador","d":"quem faz contas, aqui, um profissional do cálculo."},
+{"t":"Escriba","d":"quem escreve, copista."},
+{"t":"Artesão","d":"quem exerce um ofício com a sua arte."},
+{"t":"Premeditação","d":"intenção planeada antes de agir."},
+{"t":"Sentido exacto","d":"o significado rigoroso de uma palavra."}
+],
+"questions":[
+{"q":"O que diz Trasímaco de quem erra no seu ofício, como o médico ou o calculador?","options":["Que continua a ser um grande profissional","Que, quando erra, o saber já o abandonou e já não age como verdadeiro profissional","Que nunca erra","Que deve ser castigado"],"answer":1,"why":"Trasímaco diz que quem se engana o faz quando o saber o abandona, no instante em que já não é verdadeiro artesão."},
+{"q":"O que conclui Trasímaco sobre o governante, 'enquanto governante'?","options":["Que não se engana ao fazer a lei do seu maior interesse","Que erra com frequência","Que é sempre bondoso","Que não precisa de leis"],"answer":0,"why":"Trasímaco conclui que o governante, enquanto governante, não se engana ao fazer a lei do seu maior interesse."},
+{"q":"Que dois exemplos de ofício usa Trasímaco?","options":["O padeiro e o pescador","O poeta e o músico","O médico e o calculador (ou escriba)","O soldado e o juiz"],"answer":2,"why":"Trasímaco fala do médico, do calculador e do escriba."},
+{"q":"Porque chama Trasímaco difamador a Sócrates?","options":["Porque Sócrates o insultou","Porque Sócrates mentiu em tribunal","Porque Sócrates roubou ideias","Porque julga que Sócrates o interroga de má-fé, para o prejudicar na discussão"],"answer":3,"why":"Trasímaco acha que Sócrates o interroga com premeditação, para o prejudicar."},
+{"q":"Que esclarecimento pede Sócrates a Trasímaco, e o que responde este?","options":["Se fala de leis; responde: de nenhuma","Se fala do governante no sentido comum ou no exacto; responde: no exacto","Se fala de deuses; responde: sim","Se fala de dinheiro; responde: não"],"answer":1,"why":"Sócrates pede que Trasímaco diga em que sentido usa 'governante' e 'mais forte', e ele responde que no sentido exacto."}
+],
+"summary":"Trasímaco defende que o governante em sentido exacto nunca se engana, como o médico ou o calculador verdadeiros, e mantém que a justiça é o que convém ao mais forte; Sócrates pergunta se fala em sentido comum ou exacto, e ele escolhe o exacto."
 }
 ]
 }
