@@ -186,6 +186,108 @@
 {"q":"A que absurdo chega Sócrates, seguindo o raciocínio de Polemarco, e qual é a reacção deste?","options":["Que seria justo prejudicar os que não cometem injustiças; Polemarco recusa essa conclusão","Que seria justo roubar aos pobres; Polemarco concorda","Que seria justo não ter amigos; Polemarco aceita","Que seria injusto ajudar os amigos; Polemarco ri"],"answer":0,"why":"Como os honestos e bons são justos e não cometem injustiças, seguir o raciocínio levaria a ser justo prejudicar quem não comete injustiças, e Polemarco responde que de forma alguma."}
 ],
 "summary":"Sócrates leva Polemarco a ver que, se o justo é bom a guardar, também é bom a furtar, e que, se os homens se enganam sobre quem é amigo, ajudar os amigos e prejudicar os inimigos pode levar a prejudicar inocentes."
+},
+  {
+"id":"009",
+"title":"Livro I: quem é amigo, quem é inimigo",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Polemarco aceita que a regra anterior levaria a prejudicar pessoas inocentes, mas não abandona a ideia de que a justiça consiste em fazer bem aos amigos e mal aos inimigos. Sócrates pergunta então como se decide quem é amigo: quem parece honesto, ou quem o é de facto?",
+"Polemarco corrige-se: amigo é quem parece honesto e o é de verdade; quem só aparenta não é amigo, é apenas aparência. O mesmo vale para o inimigo. Com esta correcção, a regra passa a ser: é justo ajudar os amigos bons e prejudicar os inimigos maus.",
+"Original no teu PDF: Livro I, p. 15."
+],
+"glossary":[
+{"t":"Aparência","d":"o que algo parece, mesmo que não seja."},
+{"t":"Honesto","d":"que age com verdade e justiça."},
+{"t":"Correcção","d":"emenda de um erro."},
+{"t":"Definição","d":"explicação do que uma coisa é."},
+{"t":"Precedente","d":"anterior, o que veio antes."}
+],
+"questions":[
+{"q":"Que problema vê Sócrates em chamar 'amigo' a quem apenas parece honesto?","options":["Que ninguém consegue distinguir amigos","Que, enganando-nos, trataríamos bem os maus e mal os bons","Que os amigos são sempre iguais","Que a amizade não existe"],"answer":1,"why":"As pessoas podem enganar-se: tratariam como amigo um mau e como inimigo um bom."},
+{"q":"Como corrige Polemarco a definição de amigo?","options":["Amigo é quem parece e realmente é honesto","Amigo é quem é rico","Amigo é quem nos ajuda sempre","Amigo é quem concorda connosco"],"answer":0,"why":"Polemarco diz que amigo é quem parece e realmente é honesto; quem só parece não é amigo."},
+{"q":"Que versão da justiça resulta desta correcção?","options":["Ajudar só os ricos","Não ajudar ninguém","Prejudicar todos os inimigos, sejam como forem","Ajudar os amigos bons e prejudicar os inimigos maus"],"answer":3,"why":"Com a definição corrigida, a regra passa a ser ajudar os amigos bons e prejudicar os inimigos maus."},
+{"q":"O que mostra este passo sobre o método de Sócrates?","options":["Que impõe a sua opinião","Que evita responder","Que testa uma definição, aponta a falha e leva o interlocutor a refiná-la","Que muda sempre de assunto"],"answer":2,"why":"Sócrates não dá a resposta: mostra o problema e o interlocutor corrige a sua própria definição."},
+{"q":"Alguém parece honesto, mas rouba às escondidas. Segundo a definição corrigida, é amigo?","options":["Sim, porque parece honesto","Não, porque só é amigo quem é realmente honesto","Sim, porque ninguém sabe","Depende da sorte"],"answer":1,"why":"Amigo é quem parece e é honesto; quem só aparenta não é amigo."}
+],
+"summary":"Polemarco corrige a definição: amigo é quem parece e é realmente bom, e a regra passa a ser ajudar os amigos bons e prejudicar os inimigos maus."
+},
+{
+"id":"010",
+"title":"Livro I: fazer mal torna pior",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates pergunta: se maltratarmos um cavalo, ele fica melhor ou pior? Pior, naquilo que faz de um cavalo um bom cavalo. O mesmo com os cães. E com as pessoas: quem sofre mal fica pior naquilo que torna boa uma pessoa, e a justiça faz parte dessa qualidade humana.",
+"Depois, outros exemplos: um músico não consegue, com a música, tornar alguém ignorante em música, nem um cavaleiro, com a equitação, tornar alguém incapaz de montar. Do mesmo modo, o justo não consegue, pela justiça, tornar alguém injusto. O calor não arrefece e a secura não molha, e o bom não torna ninguém mau.",
+"Conclusão de Sócrates: o justo é bom, por isso não lhe cabe prejudicar ninguém, nem amigos nem inimigos; isso é próprio do injusto. Quem diz que a justiça é dar a cada um o que lhe é devido, e entende com isso fazer mal aos inimigos, não fala como sábio: não é lícito fazer mal a ninguém, em nenhuma ocasião.",
+"Original no teu PDF: Livro I, pp. 16 e 17."
+],
+"glossary":[
+{"t":"Virtude","d":"qualidade que faz uma coisa ser boa naquilo que é, como um bom cavalo ou uma boa pessoa."},
+{"t":"Equestre","d":"relativo a cavalos e à equitação."},
+{"t":"Aridez","d":"secura."},
+{"t":"Lícito","d":"permitido, aceitável."},
+{"t":"Contrário","d":"o oposto de algo."}
+],
+"questions":[
+{"q":"Segundo Sócrates, o que acontece a um cavalo maltratado?","options":["Fica melhor como cavalo","Fica pior naquilo que faz de um cavalo um bom cavalo","Não muda","Fica mais veloz"],"answer":1,"why":"Fazer mal a um cavalo torna-o pior como cavalo."},
+{"q":"No caso das pessoas, que qualidade piora quando se lhes faz mal?","options":["A força física","A memória","A riqueza","A virtude humana, de que a justiça faz parte"],"answer":3,"why":"Quem sofre mal fica pior naquilo que torna boa uma pessoa, e a justiça faz parte disso."},
+{"q":"Porque não pode o justo, através da justiça, tornar alguém injusto?","options":["Porque a virtude não produz o seu contrário: o músico não torna ninguém ignorante em música","Porque a lei proíbe","Porque o justo é fraco","Porque ninguém o ouve"],"answer":0,"why":"Cada arte ou virtude produz o seu efeito, não o contrário: o músico não torna ninguém ignorante em música."},
+{"q":"Que ideia ilustram os exemplos do calor e da secura?","options":["O calor e o frio são iguais","A secura e a água são amigas","O calor não arrefece, nem a secura molha, tal como o bom não torna ninguém mau","O calor molha as coisas"],"answer":2,"why":"Cada coisa produz o seu efeito próprio: o calor aquece, a secura seca, e o bom não torna os outros maus."},
+{"q":"Que conclusão tira Sócrates sobre fazer mal aos outros?","options":["É justo prejudicar os inimigos","Não é lícito fazer mal a ninguém, em nenhuma ocasião","Só se pode fazer mal aos maus","Fazer mal é indiferente"],"answer":1,"why":"Sócrates conclui que não é lícito fazer mal a ninguém e em nenhuma ocasião."}
+],
+"summary":"Sócrates mostra que fazer mal torna as pessoas piores e que o justo, sendo bom, não pode tornar ninguém injusto; por isso a justiça nunca é fazer mal a ninguém."
+},
+{
+"id":"011",
+"title":"Livro I: Trasímaco irrompe",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates e Polemarco combinam lutar juntos contra quem atribua a um sábio, como Simónides, a ideia de que se deve ajudar os amigos e prejudicar os inimigos. Sócrates acha que a frase soa mais a homens ricos e poderosos, como Periandro, Perdicas, Xerxes ou Ismênio de Tebas, que se julgam muito fortes. Se a justiça não é isso, como a definir?",
+"Trasímaco já tinha tentado várias vezes entrar na conversa, mas os amigos tinham-no contido. Agora, sem se conter mais, atira-se para o meio como uma fera. Acusa Sócrates de tagarelice: só faz perguntas e refuta quem responde. Que seja ele a responder e a dizer o que é a justiça, com clareza, sem as banalidades de 'útil', 'proveitoso', 'lucrativo' ou 'vantajoso'. Sócrates conta que ficou assustado e quase sem voz.",
+"Original no teu PDF: Livro I, pp. 17 e 18."
+],
+"glossary":[
+{"t":"Refutar","d":"contrariar mostrando que está errado."},
+{"t":"Tagarelice","d":"conversa vã, que fala muito e diz pouco."},
+{"t":"Banalidades","d":"ideias comuns, sem interesse."},
+{"t":"Auditório","d":"o conjunto de pessoas que escutam."},
+{"t":"Periandro, Perdicas, Xerxes","d":"governantes poderosos e ricos, citados como exemplos."}
+],
+"questions":[
+{"q":"A quem atribui Sócrates a ideia de que é justo ajudar os amigos e prejudicar os inimigos?","options":["A Simónides e aos sábios","A homens ricos e poderosos, como Periandro, Perdicas e Xerxes","Aos filósofos","Aos poetas"],"answer":1,"why":"Sócrates diz que a ideia soa mais a homens ricos e poderosos que se julgam fortes."},
+{"q":"O que tinha tentado Trasímaco várias vezes antes de explodir?","options":["Entrar na conversa, mas os amigos tinham-no impedido","Ir embora","Dormir","Cantar"],"answer":0,"why":"Os amigos queriam ouvir a conversa até ao fim e não o deixavam intervir."},
+{"q":"Que crítica faz Trasímaco ao método de Sócrates?","options":["Que fala depressa de mais","Que responde sempre mal","Que só pergunta e refuta quem responde, sem dar resposta sua","Que não conhece os amigos"],"answer":2,"why":"Trasímaco acusa Sócrates de só perguntar e refutar quem responde, sem dar uma resposta própria."},
+{"q":"O que exige Trasímaco a Sócrates?","options":["Que se cale","Que pague uma multa","Que saia da sala","Que defina ele próprio a justiça, sem usar 'útil', 'proveitoso', 'lucrativo' ou 'vantajoso'"],"answer":3,"why":"Trasímaco quer uma definição clara, sem essas palavras que considera banais."},
+{"q":"Como se sente Sócrates perante a investida de Trasímaco?","options":["Zangado e agressivo","Assustado, quase sem voz, mas procura manter a calma","Indiferente","Muito alegre"],"answer":1,"why":"Sócrates conta que ficou assustado e que quase ficou mudo."}
+],
+"summary":"Sócrates atribui a ideia de ajudar os amigos e prejudicar os inimigos a homens poderosos; então Trasímaco irrompe, critica Sócrates por só fazer perguntas e exige que ele defina a justiça."
+},
+{
+"id":"012",
+"title":"Livro I: a ironia de Sócrates e o preço da resposta",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates, a tremer um pouco, pede a Trasímaco que não se zangue: se erraram, foi sem querer. Procurar a justiça é como procurar ouro, e ainda mais precioso: ninguém cede por cortesia quando procura algo assim. É mais natural que os hábeis tenham pena dos que não sabem do que se irritem com eles.",
+"Trasímaco ri e acusa-o da ironia de sempre: sabia que Sócrates fingiria ignorância e não responderia. Sócrates responde com o exemplo do número doze: se alguém proibir as respostas 'duas vezes seis', 'três vezes quatro' e outras parecidas, ninguém consegue responder bem. E quem responde diz o que lhe parece verdadeiro, haja ou não proibição.",
+"Trasímaco promete uma resposta melhor. Sócrates aceita, como pena, ser instruído por quem sabe. Trasímaco quer também dinheiro, e Glauco oferece-se para pagar por todos. Sócrates insiste que quem não sabe, e é impedido de dizer o que pensa, não pode ser o primeiro a falar: quem diz saber é Trasímaco. Os amigos insistem, e Trasímaco, que queria brilhar, acaba por ceder. Sócrates diz que paga aos que o ensinam com elogios, pois não tem riquezas, e que o fará com prazer quando ouvir uma boa resposta.",
+"Original no teu PDF: Livro I, pp. 18 a 21. As pp. 21 e 22 repetem um excerto: é um defeito do ficheiro, ignora a repetição."
+],
+"glossary":[
+{"t":"Ironia","d":"dizer o contrário do que se pensa, ou fingir ignorância."},
+{"t":"Sutil","d":"hábil, subtil."},
+{"t":"Lengalenga","d":"conversa repetitiva e sem interesse."},
+{"t":"Compaixão","d":"pena, vontade de ajudar quem sofre ou não sabe."},
+{"t":"Parcimónia","d":"poupança, contenção."}
+],
+"questions":[
+{"q":"Com que compara Sócrates a procura da justiça?","options":["Com um jogo de crianças","Com procurar ouro, e a justiça é ainda mais preciosa: ninguém cede por cortesia","Com uma viagem longa","Com um negócio lucrativo"],"answer":1,"why":"Sócrates compara a procura da justiça à procura de ouro, coisa em que ninguém cede por cortesia."},
+{"q":"O que quer mostrar Sócrates com o exemplo dos factores do número doze?","options":["Que a matemática é difícil","Que doze é um número sagrado","Que Trasímaco sabe contas","Que, se se proíbem as respostas verdadeiras, ninguém consegue responder bem"],"answer":3,"why":"Se proibirem as respostas certas, não há como responder bem; quem responde diz o que lhe parece verdadeiro."},
+{"q":"Que pena aceita Sócrates se Trasímaco mostrar uma resposta melhor?","options":["Ser instruído por quem sabe","Pagar uma multa","Calar-se para sempre","Ir embora"],"answer":0,"why":"Sócrates diz que a pena que convém a quem não sabe é ser instruído por quem sabe."},
+{"q":"Quem se oferece para pagar, em nome de todos, o que Trasímaco exigir?","options":["Polemarco","Adimanto","Glauco","Céfalo"],"answer":2,"why":"Glauco diz que todos pagarão por Sócrates."},
+{"q":"Como diz Sócrates que 'paga' aos que o ensinam?","options":["Com dinheiro","Com elogios, porque não tem riquezas","Com presentes","Não paga"],"answer":1,"why":"Sócrates diz que não possui riquezas e paga com aplausos, na medida em que pode."}
+],
+"summary":"Sócrates acalma Trasímaco com o exemplo do ouro e do número doze, aceita aprender se for refutado, e os amigos pressionam Trasímaco a dar a sua definição da justiça."
 }
 ]
 }
