@@ -78,6 +78,53 @@
 {
 "id":"003",
 "title":"A promoção do peão: o Rei vai à frente",
+"diagrams":[
+{"after":1,"title":"Rei e peão: a posição ganha","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 2, Exemplo 6 (posição e linha do livro)","description":"As Brancas ganham porque o Rei está à frente do peão, com uma casa de intervalo. Observa que o Rei avança primeiro e o peão só avança quando é preciso.","orientation":"w","start":"8/8/5k2/8/5K2/8/4P3/8 w - - 0 1",
+"steps":[
+{"san":"Ke4","from":"f4","to":"e4","fen":"8/8/5k2/8/4K3/8/4P3/8 b - - 1 1","note":"Avança-se o Rei o mais possível, sem pôr o peão em risco."},
+{"san":"Ke6","from":"f6","to":"e6","fen":"8/8/4k3/8/4K3/8/4P3/8 w - - 2 2"},
+{"san":"e3","from":"e2","to":"e3","fen":"8/8/4k3/8/4K3/4P3/8/8 b - - 0 2","note":"O Rei preto não deixa o Rei branco avançar; por isso o peão tem de avançar, para obrigar o Rei preto a afastar-se."},
+{"san":"Kf6","from":"e6","to":"f6","fen":"8/8/5k2/8/4K3/4P3/8/8 w - - 1 3"},
+{"san":"Kd5","from":"e4","to":"d5","fen":"8/8/5k2/3K4/8/4P3/8/8 b - - 2 3"},
+{"san":"Ke7","from":"f6","to":"e7","fen":"8/4k3/8/3K4/8/4P3/8/8 w - - 3 4"},
+{"san":"Ke5","from":"d5","to":"e5","fen":"8/4k3/8/4K3/8/4P3/8/8 b - - 4 4","note":"O peão ainda não avança: a sua segurança não o exige. Tenta-se levar o Rei ainda mais à frente."},
+{"san":"Kd7","from":"e7","to":"d7","fen":"8/3k4/8/4K3/8/4P3/8/8 w - - 5 5"},
+{"san":"Kf6","from":"e5","to":"f6","fen":"8/3k4/5K2/8/8/4P3/8/8 b - - 6 5"},
+{"san":"Ke8","from":"d7","to":"e8","fen":"4k3/8/5K2/8/8/4P3/8/8 w - - 7 6"},
+{"san":"e4","from":"e3","to":"e4","fen":"4k3/8/5K2/8/4P3/8/8/8 b - - 0 6","note":"Agora o peão está demasiado atrás e pode aproximar-se, protegido pelo Rei."},
+{"san":"Kd7","from":"e8","to":"d7","fen":"8/3k4/5K2/8/4P3/8/8/8 w - - 1 7"},
+{"san":"e5","from":"e4","to":"e5","fen":"8/3k4/5K2/4P3/8/8/8/8 b - - 0 7"},
+{"san":"Ke8","from":"d7","to":"e8","fen":"4k3/8/5K2/4P3/8/8/8/8 w - - 1 8"},
+{"san":"Ke6","from":"f6","to":"e6","fen":"4k3/8/4K3/4P3/8/8/8/8 b - - 2 8","note":"Com e6 seria empate. O Rei obriga o Rei preto a afastar-se, mantendo-se sempre à frente do peão."},
+{"san":"Kf8","from":"e8","to":"f8","fen":"5k2/8/4K3/4P3/8/8/8/8 w - - 3 9"},
+{"san":"Kd7","from":"e6","to":"d7","fen":"5k2/3K4/8/4P3/8/8/8/8 b - - 4 9","note":"O Rei preto move-se e o peão avança até e8, onde se torna Dama."}
+]},
+{"after":2,"title":"Rei e peão: a posição empatada","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 2, Exemplo 5 (posição e linha do livro)","description":"Aqui o Rei preto defende: mantém-se sempre à frente do peão e, quando não pode, à frente do Rei branco.","orientation":"w","start":"8/8/8/8/4k3/8/3KP3/8 w - - 0 1",
+"steps":[
+{"san":"e3","from":"e2","to":"e3","fen":"8/8/8/8/4k3/4P3/3K4/8 b - - 0 1"},
+{"san":"Ke5","from":"e4","to":"e5","fen":"8/8/8/4k3/8/4P3/3K4/8 w - - 1 2","note":"O Rei preto fica à frente do peão."},
+{"san":"Kd3","from":"d2","to":"d3","fen":"8/8/8/4k3/8/3KP3/8/8 b - - 2 2"},
+{"san":"Kd5","from":"e5","to":"d5","fen":"8/8/8/3k4/8/3KP3/8/8 w - - 3 3","note":"Lance muito importante: qualquer outro perde. Como o Rei preto não pode ficar junto do peão, põe-se o mais à frente possível e à frente do Rei branco."},
+{"san":"e4+","from":"e3","to":"e4","fen":"8/8/8/3k4/4P3/3K4/8/8 b - - 0 3"},
+{"san":"Ke5","from":"d5","to":"e5","fen":"8/8/8/4k3/4P3/3K4/8/8 w - - 1 4"},
+{"san":"Ke3","from":"d3","to":"e3","fen":"8/8/8/4k3/4P3/4K3/8/8 b - - 2 4"},
+{"san":"Ke6","from":"e5","to":"e6","fen":"8/8/4k3/8/4P3/4K3/8/8 w - - 3 5"},
+{"san":"Kf4","from":"e3","to":"f4","fen":"8/8/4k3/8/4PK2/8/8/8 b - - 4 5"},
+{"san":"Kf6","from":"e6","to":"f6","fen":"8/8/5k2/8/4PK2/8/8/8 w - - 5 6","note":"Mais uma vez o mesmo: quando o Rei branco se aproxima, o Rei preto mantém-se à frente dele."},
+{"san":"e5+","from":"e4","to":"e5","fen":"8/8/5k2/4P3/5K2/8/8/8 b - - 0 6"},
+{"san":"Ke6","from":"f6","to":"e6","fen":"8/8/4k3/4P3/5K2/8/8/8 w - - 1 7"},
+{"san":"Ke4","from":"f4","to":"e4","fen":"8/8/4k3/4P3/4K3/8/8/8 b - - 2 7"},
+{"san":"Ke7","from":"e6","to":"e7","fen":"8/4k3/8/4P3/4K3/8/8/8 w - - 3 8"},
+{"san":"Kd5","from":"e4","to":"d5","fen":"8/4k3/8/3KP3/8/8/8/8 b - - 4 8"},
+{"san":"Kd7","from":"e7","to":"d7","fen":"8/3k4/8/3KP3/8/8/8/8 w - - 5 9"},
+{"san":"e6+","from":"e5","to":"e6","fen":"8/3k4/4P3/3K4/8/8/8/8 b - - 0 9"},
+{"san":"Ke7","from":"d7","to":"e7","fen":"8/4k3/4P3/3K4/8/8/8/8 w - - 1 10"},
+{"san":"Ke5","from":"d5","to":"e5","fen":"8/4k3/4P3/4K3/8/8/8/8 b - - 2 10"},
+{"san":"Ke8","from":"e7","to":"e8","fen":"4k3/8/4P3/4K3/8/8/8/8 w - - 3 11"},
+{"san":"Kd6","from":"e5","to":"d6","fen":"4k3/8/3KP3/8/8/8/8/8 b - - 4 11"},
+{"san":"Kd8","from":"e8","to":"d8","fen":"3k4/8/3KP3/8/8/8/8/8 w - - 5 12","note":"Se agora as Brancas avançarem o peão, o Rei preto põe-se à frente dele e as Brancas perdem o peão ou jogam Re6, e dá afogamento. Empate."}
+]}
+],
 "text":[
 "O ganho de um peão é a menor vantagem material que se pode obter num jogo, e muitas vezes basta para ganhar, mesmo quando o peão é a única unidade que resta, além dos Reis. Em geral, é essencial que o Rei esteja à frente do seu peão, com pelo menos uma casa de intervalo. Se o Rei adversário estiver directamente à frente do peão, o jogo não pode ser ganho.",
 "O método a seguir é avançar o Rei o mais possível, desde que seja compatível com a segurança do peão, e nunca avançar o peão enquanto isso não for essencial à sua própria segurança.",
@@ -252,6 +299,26 @@
 {
 "id":"010",
 "title":"A oposição entre os Reis",
+"diagrams":[
+{"after":0,"title":"A oposição: os Reis frente a frente","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 13, Exemplo 26 (posição do livro)","description":"As Brancas jogam Rd4. As Pretas podem opor-se à passagem do Rei branco com Rd6, ou passar com o seu próprio Rei.","orientation":"w","start":"8/8/4k3/1p5p/1P2K2P/8/8/8 w - - 0 1",
+"steps":[
+{"san":"Kd4","from":"e4","to":"d4","fen":"8/8/4k3/1p5p/1P1K3P/8/8/8 b - - 1 1","note":"As Brancas avançam. As Pretas escolhem opor-se à passagem."},
+{"san":"Kd6","from":"e6","to":"d6","fen":"8/8/3k4/1p5p/1P1K3P/8/8/8 w - - 2 2","note":"Os Reis ficam frente a frente, com uma só casa entre eles. O jogador que moveu por último, neste caso as Pretas, tem a oposição."}
+]},
+{"after":3,"title":"O valor enorme da oposição","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 13, Exemplo 27 (posição e linha do livro)","description":"A posição parece igual, mas não é: ganha quem tiver a vez de jogar. O número de casas entre os Reis é par.","orientation":"w","start":"4k3/8/8/1p5p/1P5P/8/8/4K3 w - - 0 1",
+"steps":[
+{"san":"Ke2","from":"e1","to":"e2","fen":"4k3/8/8/1p5p/1P5P/8/4K3/8 b - - 1 1","note":"O processo certo é avançar o Rei em linha recta."},
+{"san":"Ke7","from":"e8","to":"e7","fen":"8/4k3/8/1p5p/1P5P/8/4K3/8 w - - 2 2"},
+{"san":"Ke3","from":"e2","to":"e3","fen":"8/4k3/8/1p5p/1P5P/4K3/8/8 b - - 3 2"},
+{"san":"Ke6","from":"e7","to":"e6","fen":"8/8/4k3/1p5p/1P5P/4K3/8/8 w - - 4 3"},
+{"san":"Ke4","from":"e3","to":"e4","fen":"8/8/4k3/1p5p/1P2K2P/8/8/8 b - - 5 3"},
+{"san":"Kf6","from":"e6","to":"f6","fen":"8/8/5k2/1p5p/1P2K2P/8/8/8 w - - 6 4","note":"As Brancas podem passar com Rd5, ou jogar Rf4 e impedir o Rei preto de passar, conservando a oposição. Contando as casas, vê-se que só a segunda via ganha."},
+{"san":"Kf4","from":"e4","to":"f4","fen":"8/8/5k2/1p5p/1P3K1P/8/8/8 b - - 7 4"},
+{"san":"Kg6","from":"f6","to":"g6","fen":"8/8/6k1/1p5p/1P3K1P/8/8/8 w - - 8 5","note":"Se as Pretas jogassem Re6, Rg5 ganharia."},
+{"san":"Ke5","from":"f4","to":"e5","fen":"8/8/6k1/1p2K2p/1P5P/8/8/8 b - - 9 5"},
+{"san":"Kg7","from":"g6","to":"g7","fen":"8/6k1/8/1p2K2p/1P5P/8/8/8 w - - 10 6","note":"Contando, vê-se que as Brancas ganham capturando o peão b5 das Pretas."}
+]}
+],
 "text":[
 "Quando os Reis têm de ser movidos, e um jogador consegue, à força, levar o seu Rei a uma posição em que o adversário é obrigado a mover-se e a dar-lhe passagem, diz-se que esse jogador tem a oposição. Os Reis estão directamente frente a frente e o número de casas entre eles é ímpar, uma casa por exemplo.",
 "A oposição pode ser frontal, diagonal ou lateral. Na prática, são todas a mesma coisa: os Reis estão sempre em casas da mesma cor, há apenas uma casa entre eles, e o jogador que moveu por último é quem tem a oposição.",
@@ -277,6 +344,20 @@
 {
 "id":"011",
 "title":"Cavalo ou Bispo?",
+"diagrams":[
+{"after":0,"title":"Dois Cavalos só dão mate se o adversário tiver um peão","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 14, Exemplo 29 (posição e linha do livro)","description":"Com Rei e dois Cavalos contra Rei, só se consegue afogar. Mas aqui as Pretas têm um peão que pode mover-se, e as Brancas ganham.","orientation":"w","start":"k7/8/1K1N4/7p/7N/8/8/8 w - - 0 1",
+"steps":[
+{"san":"Ng6","from":"h4","to":"g6","fen":"k7/8/1K1N2N1/7p/8/8/8/8 b - - 1 1","note":"As Brancas não podem tomar o peão: o jogo ficaria empatado."},
+{"san":"h4","from":"h5","to":"h4","fen":"k7/8/1K1N2N1/8/7p/8/8/8 w - - 0 2"},
+{"san":"Ne5","from":"g6","to":"e5","fen":"k7/8/1K1N4/4N3/7p/8/8/8 b - - 1 2"},
+{"san":"h3","from":"h4","to":"h3","fen":"k7/8/1K1N4/4N3/8/7p/8/8 w - - 0 3"},
+{"san":"Nc6","from":"e5","to":"c6","fen":"k7/8/1KNN4/8/8/7p/8/8 b - - 1 3"},
+{"san":"h2","from":"h3","to":"h2","fen":"k7/8/1KNN4/8/8/8/7p/8 w - - 0 4"},
+{"san":"Nb5","from":"d6","to":"b5","fen":"k7/8/1KN5/1N6/8/8/7p/8 b - - 1 4"},
+{"san":"h1=Q","from":"h2","to":"h1","fen":"k7/8/1KN5/1N6/8/8/8/7q w - - 0 5"},
+{"san":"Nc7#","from":"b5","to":"c7","fen":"k7/2N5/1KN5/8/8/8/8/7q b - - 1 5","note":"Mate. Com dois Cavalos só se afoga o Rei, a não ser que o adversário tenha um peão que se possa mover."}
+]}
+],
 "text":[
 "Dois Cavalos sozinhos não podem dar mate. A razão desta curiosidade é evidente: com dois Cavalos só se consegue afogar o Rei, a não ser que o adversário tenha um peão que possa mover-se.",
 "É geralmente pensado pelos amadores que o Cavalo é a peça mais valiosa, sobretudo porque, ao contrário do Bispo, pode actuar nas casas brancas e nas pretas. Esquece-se, porém, que em cada momento o Cavalo só tem a escolha de uma cor, e que demora muito mais a passar de um flanco para o outro.",
