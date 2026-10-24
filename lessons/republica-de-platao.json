@@ -694,6 +694,106 @@
 {"q":"Como termina Trasímaco esta parte da discussão?","options":["Recusa tudo e vai-se embora","Concorda, dizendo que não quer entrar em discussão com Sócrates","Chama Glauco em seu apoio","Ri-se de Sócrates"],"answer":1,"why":"Trasímaco responde 'Assim seja! Não quero entrar em discussão contigo' e deixa passar a conclusão."}
 ],
 "summary":"Sócrates mostra que mesmo um bando de ladrões ou uma cidade injusta precisa de um mínimo de justiça entre os seus membros para agir, e que a injustiça gera discórdia enquanto a justiça gera concórdia."
+},
+  {
+"id":"029",
+"title":"Livro I: a injustiça enfraquece, mesmo num só homem",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates pergunta o que acontece à injustiça quando aparece num único homem: perde o poder ou conserva-o? Concluem que a injustiça, em qualquer lugar onde surja, torna primeiro o grupo ou o homem incapaz de agir, por causa das discórdias que provoca, e depois faz dele inimigo de si mesmo, do seu contrário e do justo. Como os deuses são justos, o injusto é também inimigo dos deuses, e o justo, amigo. Trasímaco deixa passar o argumento para não irritar a assembleia.",
+"Sócrates explica que, quando se diz que bandos injustos às vezes realizaram algo em conjunto, não é inteiramente verdade: se fossem totalmente injustos, teriam-se prejudicado uns aos outros. Havia neles alguma justiça, que os impediu de se atacarem entre si, e só em parte estavam pervertidos; os totalmente maus são incapazes de fazer fosse o que fosse. Agora importa examinar se a vida do justo é melhor e mais feliz do que a do injusto. Não é um assunto trivial: trata-se do modo como cada um deve orientar a sua vida.",
+"Original no teu PDF: Livro I, pp. 47 e 48."
+],
+"glossary":[
+{"t":"Dissensões","d":"desacordos, discórdias."},
+{"t":"Pervertidos","d":"que se tornaram maus, corrompidos."},
+{"t":"Empreendimentos","d":"projectos, tarefas que se pretende realizar."},
+{"t":"Trivialidade","d":"coisa sem importância."},
+{"t":"Assembleia","d":"conjunto de pessoas reunidas, aqui os que escutam a discussão."}
+],
+"questions":[
+{"q":"Que efeito tem a injustiça num único homem, segundo Sócrates?","options":["Torna-o mais forte","Torna-o mais feliz","Torna-o incapaz de agir, causa-lhe discórdia interior e faz dele inimigo de si mesmo e dos justos","Não tem efeito algum"],"answer":2,"why":"Sócrates diz que a injustiça, num só homem, produz os mesmos efeitos: incapacidade de agir, rebeldia e discórdia nele, e inimizade consigo e com os justos."},
+{"q":"O que diz Sócrates sobre os deuses e o justo e o injusto?","options":["Os deuses são justos; por isso o injusto é inimigo deles e o justo, amigo","Os deuses são injustos","Os deuses não se interessam por justiça","Os deuses protegem os injustos"],"answer":0,"why":"Sócrates pergunta se os deuses são justos; sendo-o, o injusto será seu inimigo e o justo, amigo."},
+{"q":"Porque não contradiz Trasímaco este argumento?","options":["Porque concorda totalmente","Porque está cansado","Porque se esqueceu","Para não provocar o ressentimento da assembleia"],"answer":3,"why":"Trasímaco diz que não o contradirá para não provocar o ressentimento da assembleia."},
+{"q":"Como explica Sócrates os casos em que grupos injustos conseguiram realizar algo?","options":["Eram totalmente injustos e tiveram sorte","Havia neles alguma justiça, que os impediu de se prejudicarem entre si, porque os totalmente injustos nada conseguem","Eram muito numerosos","Tinham bons chefes"],"answer":1,"why":"Sócrates diz que só em parte estavam pervertidos: existia neles uma certa justiça, e os inteiramente injustos são incapazes de fazer fosse o que fosse."},
+{"q":"Que questão diz Sócrates que falta examinar, e porque a considera séria?","options":["Quem é o mais forte, porque decide a guerra","Se a vida do justo é melhor e mais feliz do que a do injusto, porque diz respeito ao modo como cada um deve orientar a sua vida","Quem tem mais riqueza, porque decide quem governa","Quem fala melhor, porque ganha as discussões"],"answer":1,"why":"Sócrates diz que não é uma discussão sobre uma trivialidade, mas sobre o modo como temos de regular a nossa vida."}
+],
+"summary":"Sócrates mostra que a injustiça torna incapaz de agir mesmo um só homem, que os empreendimentos injustos só funcionam graças a alguma justiça entre os seus membros, e anuncia que vai examinar se o justo vive melhor."
+},
+{
+"id":"030",
+"title":"Livro I: a função de cada coisa",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Para examinar se o justo vive melhor, Sócrates começa por uma pergunta simples: o cavalo tem uma função? Trasímaco responde que sim. Mas o que é a função de uma coisa? Sócrates explica: é aquilo que só essa coisa pode fazer, ou o que faz melhor do que as outras. Só se vê com os olhos e só se ouve com os ouvidos, por isso ver é a função dos olhos e ouvir a dos ouvidos.",
+"Dá outro exemplo: pode podar-se uma videira com uma faca, um trinchete e muitos outros instrumentos, mas nenhum o faz tão bem como a podadeira, feita para isso; essa é a sua função. Trasímaco compreende e concorda que a função de cada coisa é o que ela pode fazer ou o que faz melhor do que as outras. Sócrates acrescenta que, em cada coisa a que se atribui uma função, existe também uma virtude: os olhos têm a sua, as orelhas também, e o mesmo acontece com todas.",
+"Original no teu PDF: Livro I, pp. 48 e 49."
+],
+"glossary":[
+{"t":"Função","d":"aquilo que uma coisa faz e que só ela faz, ou que faz melhor do que as outras."},
+{"t":"Virtude","d":"aqui, a qualidade que permite a uma coisa cumprir bem a sua função."},
+{"t":"Trinchete","d":"faca curta, usada em trabalhos manuais."},
+{"t":"Podadeira","d":"ferramenta para podar, cortando ramos e cuidando de vinhas."},
+{"t":"Videira","d":"planta que dá as uvas."}
+],
+"questions":[
+{"q":"Que pergunta faz Sócrates logo no início sobre o cavalo?","options":["Se o cavalo tem uma função","Se o cavalo é rápido","Se o cavalo é útil à guerra","Se o cavalo é bom"],"answer":0,"why":"Sócrates pergunta a Trasímaco se lhe parece que o cavalo tem uma função, e ele responde que sim."},
+{"q":"Como explica Sócrates o que é a função de uma coisa?","options":["Aquilo que qualquer coisa faz","O que a coisa faz com mais ruído","O que dá mais lucro","O que só ela pode fazer, ou o que faz melhor do que as outras"],"answer":3,"why":"Sócrates define a função como o que uma coisa pode fazer ou o que faz melhor do que as outras."},
+{"q":"Que exemplo dos sentidos usa Sócrates?","options":["Só se pode ver com a boca","Só se pode ver com os olhos e só se pode ouvir com os ouvidos, por isso essas são as suas funções","Só se pode ouvir com os olhos","Qualquer órgão serve para ver"],"answer":1,"why":"Sócrates pergunta se se pode ver sem ser com os olhos e ouvir sem ser com os ouvidos, e Trasímaco diz que não."},
+{"q":"Que exemplo da vinha dá Sócrates?","options":["Qualquer instrumento poda igual","Pode podar-se com uma faca, mas melhor com a podadeira, que existe para isso, e essa é a sua função","Só se podam videiras à mão","As videiras não se podam"],"answer":1,"why":"Sócrates explica que a podadeira é a que melhor poda, por isso essa é a sua função."},
+{"q":"O que acrescenta Sócrates sobre as coisas que têm uma função?","options":["Que têm também uma virtude própria","Que são sempre úteis","Que não podem falhar","Que são iguais entre si"],"answer":0,"why":"Sócrates diz que cada coisa a que se atribui uma função tem também uma virtude: os olhos, as orelhas, e todas as outras."}
+],
+"summary":"Sócrates define função como o que uma coisa faz ou faz melhor do que as outras, dá exemplos dos olhos, dos ouvidos e da podadeira, e diz que cada coisa com função tem também uma virtude própria."
+},
+{
+"id":"031",
+"title":"Livro I: a função e a virtude da alma",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates pergunta se os olhos poderiam cumprir bem a sua função sem a virtude que lhes é própria, tendo em vez dela o vício contrário, a cegueira. Não poderiam, diz Trasímaco. O mesmo vale para os ouvidos e para todas as outras coisas. Então Sócrates passa à alma: ela tem funções que só ela cumpre, como vigiar, comandar e deliberar, e a vida é também função da alma. Portanto, a alma tem uma virtude própria, e sem ela não cumpre bem as suas funções.",
+"Daqui resulta que uma alma má comanda e vigia mal e uma boa o faz bem. Como já tinham concluído que a justiça é virtude da alma e a injustiça vício, a alma justa e o homem justo viverão bem, e o injusto mal. Quem vive bem é feliz, e quem vive mal é infeliz. Logo, o justo é feliz e o injusto, infeliz. Como ser infeliz não é vantajoso, a injustiça nunca é mais vantajosa do que a justiça. Trasímaco aceita, dizendo que seja esse o festim de Sócrates nas festas de Bêndis.",
+"Original no teu PDF: Livro I, pp. 49 a 51."
+],
+"glossary":[
+{"t":"Cegueira","d":"falta de visão, o contrário da vista."},
+{"t":"Deliberar","d":"pensar e decidir depois de reflectir."},
+{"t":"Alma","d":"aqui, a parte do ser humano que pensa, decide e dá vida."},
+{"t":"Peculiar","d":"próprio de, característico de."},
+{"t":"Afortunado","d":"feliz, com boa sorte."}
+],
+"questions":[
+{"q":"O que acontece a uma coisa que perde a sua virtude própria, segundo Sócrates?","options":["Passa a cumprir melhor a sua função","Cumpre mal a sua função","Continua igual","Muda de função"],"answer":1,"why":"Sócrates mostra que os olhos sem a sua virtude cumpririam mal a sua função, e o mesmo se aplica a todas as coisas."},
+{"q":"Que funções próprias atribui Sócrates à alma?","options":["Ver e ouvir","Correr e saltar","Vigiar, comandar, deliberar, e a própria vida","Podar e cortar"],"answer":2,"why":"Sócrates refere vigiar, comandar, deliberar e o resto, e diz que viver é função da alma."},
+{"q":"O que acontece a uma alma sem a sua virtude própria?","options":["Vive melhor","Vive mais tempo","Nada de especial","Comanda e vigia mal"],"answer":3,"why":"Sócrates diz que uma alma má comanda e vigia mal, e uma alma boa faz tudo isso bem."},
+{"q":"Que conclusão tira Sócrates sobre o justo e o injusto?","options":["O justo vive bem e é feliz, e o injusto vive mal e é infeliz","O justo é pobre e o injusto, rico","Ambos são felizes","Ambos são infelizes"],"answer":0,"why":"Se a justiça é virtude da alma, a alma justa vive bem e é feliz, e a injusta vive mal e é infeliz."},
+{"q":"Qual é a conclusão final deste argumento?","options":["A injustiça é sempre mais vantajosa","A justiça só compensa aos ricos","Jamais a injustiça é mais vantajosa do que a justiça","Não se pode concluir nada"],"answer":2,"why":"Como ser feliz é vantajoso e o justo é feliz, a injustiça nunca é mais vantajosa do que a justiça."}
+],
+"summary":"Sócrates argumenta que a alma tem uma função e uma virtude próprias, que a justiça é a virtude da alma, e que por isso o justo vive bem e é feliz, e a injustiça nunca é mais vantajosa do que a justiça."
+},
+{
+"id":"032",
+"title":"Livro I: o festim e a confissão de Sócrates",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Trasímaco responde com ironia que aquele seja o festim de Sócrates nas festas de Bêndis, a deusa em cuja honra se celebra a festa. Sócrates diz que o teve graças a ele, que recuperou a calma e deixou de ser rude. Mas não se regalou o suficiente, e a culpa é sua e não de Trasímaco.",
+"Compara-se aos glutões, que se lançam ao prato seguinte sem terem apreciado o anterior. Sem ter encontrado o que procurava a princípio, a natureza da justiça, passou a discutir se é vício e ignorância ou virtude e sabedoria; surgindo depois a questão de saber se a injustiça é mais vantajosa do que a justiça, passou de uma para outra. O resultado é que não sabe nada: sem saber o que é a justiça, saberá ainda menos se é virtude e se quem a possui é feliz ou infeliz.",
+"Original no teu PDF: Livro I, pp. 51 e 52."
+],
+"glossary":[
+{"t":"Bêndis","d":"deusa da Trácia, em cuja honra se celebrava a festa no Pireu."},
+{"t":"Regalar","d":"saborear com prazer, banquetear-se."},
+{"t":"Glutão","d":"quem come em excesso, por gula."},
+{"t":"Hipótese","d":"suposição que se examina, sem a dar como certa."},
+{"t":"Prelúdio","d":"início, introdução do que vem a seguir."}
+],
+"questions":[
+{"q":"O que diz Trasímaco, com ironia, no fim do argumento?","options":["Que Sócrates tem razão em tudo","Que vai embora","Que seja esse o festim de Sócrates nas festas de Bêndis","Que Sócrates o convenceu totalmente"],"answer":2,"why":"Trasímaco diz, com ironia, que seja esse o festim de Sócrates nas festas de Bêndis."},
+{"q":"Porque diz Sócrates que não se regalou o suficiente?","options":["Por culpa sua: passou de uma questão para outra sem concluir nenhuma","Por culpa de Trasímaco","Porque não havia comida","Porque estava cansado"],"answer":0,"why":"Sócrates diz que a culpa é sua e não de Trasímaco, porque passou de uma discussão para outra sem concluir."},
+{"q":"Com quem se compara Sócrates?","options":["Com um mestre","Com os glutões, que se lançam ao prato seguinte sem terem apreciado o anterior","Com um viajante","Com um juiz"],"answer":1,"why":"Sócrates compara-se aos glutões que se lançam sobre o prato seguinte antes de apreciar o anterior."},
+{"q":"Que confessa Sócrates no final do Livro I?","options":["Que sabe tudo sobre a justiça","Que a justiça é impossível","Que a injustiça é melhor","Que não sabe nada: sem saber o que é a justiça, menos ainda sabe se é virtude e se quem a tem é feliz"],"answer":3,"why":"Sócrates diz que o resultado da conversa é que não sabe nada sobre a justiça."},
+{"q":"Qual era a questão original que Sócrates diz não ter resolvido?","options":["A natureza da justiça, o que ela é","A riqueza dos governantes","O poder do mais forte","A idade dos deuses"],"answer":0,"why":"Sócrates diz que não encontrou o que procurava a princípio: a natureza da justiça."}
+],
+"summary":"Sócrates reconhece que, apesar de ter mostrado que a justiça compensa, saltou de questão em questão e não sabe ainda o que é a justiça, deixando o Livro I sem uma definição."
 }
 ]
 }
