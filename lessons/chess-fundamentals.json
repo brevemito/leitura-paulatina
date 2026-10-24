@@ -504,6 +504,193 @@
 {"q":"Em posições defensivas como estas, o que melhora as hipóteses de escapar?","options":["Ter mais peças no tabuleiro","Ter menos peças no tabuleiro","Fazer o roque","Trocar só peões"],"answer":1,"why":"O autor nota que, nestes casos, quanto menos peças houver no tabuleiro, melhores as hipóteses de escapar."}
 ],
 "summary":"Um buraco na própria posição entrega ao adversário uma casa de onde as suas peças não podem ser expulsas; evita-se desenvolvendo as peças com acção e não as fechando atrás dos peões."
+},
+{
+"id":"017",
+"title":"Qual peão promove primeiro?",
+"text":[
+"Quando dois peões estão livres, ou vão ficar livres, para avançar até à promoção, pode saber-se, contando, qual deles consegue promover primeiro.",
+"A primeira coisa é verificar, contando, se o Rei adversário chega a tempo de travar o peão passado. Quando não chega, como neste caso, é preciso contar qual dos peões chega primeiro. Se o tempo é o mesmo, o peão que chega primeiro à oitava fila e se torna Dama fica em posição de capturar a Dama do adversário quando este a fizer.",
+"No exemplo, as Brancas podiam capturar um peão, mas, se o fizessem, ao promover o seu peão já não dominariam a casa onde as Pretas também vão promover. Por isso não capturam e continuam a avançar. É um pequeno cálculo que faz toda a diferença.",
+"O aluno fará bem em familiarizar-se com vários finais simples deste género, para adquirir o hábito de contar e saber, com facilidade, quando consegue ou não chegar primeiro. Capablanca lembra, uma vez mais, que um livro não ensina sozinho a jogar: serve de guia, e o resto aprende-se com a experiência e, se possível, com a ajuda de um professor."
+],
+"diagrams":[
+{"after":1,"title":"Qual peão promove primeiro?","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 12, Exemplo 25 (posição e linha do livro)","description":"Os dois lados têm um peão livre e o Rei branco não consegue travar o peão preto, nem o contrário. Conta os lances: quem chega primeiro à oitava fila e faz Dama fica em posição de capturar a Dama do adversário.","orientation":"w","start":"8/p5kp/8/1P6/8/1K6/P7/8 w - - 0 1",
+"steps":[
+{"san":"a4","from":"a2","to":"a4","fen":"8/p5kp/8/1P6/P7/1K6/8/8 b - - 0 1","note":"Quem joga primeiro ganha. As Brancas começam a avançar o peão da torre."},
+{"san":"h5","from":"h7","to":"h5","fen":"8/p5k1/8/1P5p/P7/1K6/8/8 w - - 0 2"},
+{"san":"a5","from":"a4","to":"a5","fen":"8/p5k1/8/PP5p/8/1K6/8/8 b - - 0 2"},
+{"san":"h4","from":"h5","to":"h4","fen":"8/p5k1/8/PP6/7p/1K6/8/8 w - - 0 3"},
+{"san":"b6","from":"b5","to":"b6","fen":"8/p5k1/1P6/P7/7p/1K6/8/8 b - - 0 3"},
+{"san":"axb6","from":"a7","to":"b6","fen":"8/6k1/1p6/P7/7p/1K6/8/8 w - - 0 4"},
+{"san":"a6","from":"a5","to":"a6","fen":"8/6k1/Pp6/8/7p/1K6/8/8 b - - 0 4","note":"As Brancas não capturam o peão: se o fizessem, ao promover já não dominariam a casa onde as Pretas também vão promover."},
+{"san":"h3","from":"h4","to":"h3","fen":"8/6k1/Pp6/8/8/1K5p/8/8 w - - 0 5"},
+{"san":"a7","from":"a6","to":"a7","fen":"8/P5k1/1p6/8/8/1K5p/8/8 b - - 0 5"},
+{"san":"h2","from":"h3","to":"h2","fen":"8/P5k1/1p6/8/8/1K6/7p/8 w - - 0 6"},
+{"san":"a8=Q","from":"a7","to":"a8","fen":"Q7/6k1/1p6/8/8/1K6/7p/8 b - - 0 6","note":"As Brancas promovem primeiro. A Dama nova domina a casa h1, onde as Pretas vão promover: se as Pretas fizerem Dama, a Dama branca captura-a."}
+]}
+],
+"glossary":[
+{"t":"Peão livre","d":"peão que pode avançar até à promoção sem peões adversários no caminho."},
+{"t":"Promover","d":"chegar à última fila e transformar-se noutra peça, em geral numa Dama."},
+{"t":"Contar","d":"calcular, lance a lance, quem chega primeiro."},
+{"t":"Dominar uma casa","d":"controlar uma casa, de modo a poder capturar o que lá chegar."},
+{"t":"Oitava fila","d":"a última fila do lado das Pretas, onde as Brancas promovem."}
+],
+"questions":[
+{"q":"Como se descobre qual peão promove primeiro?","options":["Por sorte","Contando os lances de cada um","Trocando as Damas","Avançando sempre o peão mais perto do Rei"],"answer":1,"why":"O texto diz que se pode saber, contando, qual dos peões consegue promover primeiro."},
+{"q":"Qual é a primeira coisa a verificar?","options":["Se há uma Torre no tabuleiro","Se o Rei adversário chega a tempo de travar o peão passado","Quantas peças restam","Quem tem mais tempo no relógio"],"answer":1,"why":"É preciso ver, contando, se o Rei adversário consegue chegar a tempo de travar o peão."},
+{"q":"Se os dois peões levam o mesmo número de lances, que vantagem tem o que promove primeiro?","options":["Nenhuma","Fica em posição de capturar a Dama do adversário quando este a fizer","Ganha logo uma Torre","Pode fazer o roque"],"answer":1,"why":"O peão que chega primeiro à oitava fila fica em posição de capturar a Dama adversária quando esta aparecer."},
+{"q":"Porque não captura o peão, no exemplo, o jogador das Brancas?","options":["Porque é ilegal","Porque, ao promover, já não dominaria a casa onde as Pretas também vão promover","Porque perderia a Torre","Porque o Rei estaria em xeque"],"answer":1,"why":"Se capturasse, ao promover o seu peão não dominaria a casa onde as Pretas fazem Dama."},
+{"q":"Que conselho dá Capablanca ao aluno sobre estes finais simples?","options":["Que os decore","Que se habitue a contar, estudando vários finais deste género","Que os evite","Que só jogue com Brancas"],"answer":1,"why":"O autor aconselha o aluno a familiarizar-se com finais simples e a adquirir o hábito de contar."}
+],
+"summary":"Antes de lançar um peão, conta os lances: se os dois promovem ao mesmo tempo, ganha quem chegar primeiro à última fila, porque a sua Dama fica a dominar a casa onde o adversário vai promover."
+},
+{
+"id":"018",
+"title":"Ganhar um peão: o ataque indirecto",
+"text":[
+"Até agora vimos posições em que os ataques eram violentos e dirigidos contra a posição do Rei. Muitas vezes, porém, no meio-jogo, os ataques dirigem-se contra uma posição, contra peças ou até contra peões.",
+"Entre bons jogadores de força igual, ganhar um peão significa muitas vezes ganhar a partida. Por isso, o estudo destas posições é de grande importância.",
+"Num dos exemplos, as Pretas estão um peão atrás e não há ataque directo contra o Rei branco. As suas peças, porém, estão muito bem colocadas e livres para actuar. Coordenando a acção de todas, não só recuperam o peão como conseguem melhor jogo. É um bom exemplo de coordenação correcta na condução das forças.",
+"O aluno deve notar que, quando surge a oportunidade, todas as peças são lançadas em massa para a acção, e que todas coordenam o seu trabalho com precisão de máquina. Esse é, pelo menos, o ideal do meio-jogo. Estas posições servem também para desenvolver a imaginação, uma qualidade muito necessária a um bom jogador."
+],
+"glossary":[
+{"t":"Ataque indirecto","d":"ataque dirigido contra peças ou peões, e não contra o Rei."},
+{"t":"Meio-jogo","d":"fase da partida entre a abertura e o final."},
+{"t":"Coordenar","d":"fazer com que as peças trabalhem em conjunto."},
+{"t":"Em massa","d":"com todas as forças disponíveis ao mesmo tempo."},
+{"t":"Imaginação","d":"capacidade de ver possibilidades que ainda não estão no tabuleiro."}
+],
+"questions":[
+{"q":"Contra o que podem dirigir-se, no meio-jogo, os ataques que não visam o Rei?","options":["Só contra a Dama","Contra uma posição, contra peças ou até contra peões","Só contra os Bispos","Contra as casas brancas"],"answer":1,"why":"O texto diz que se ataca uma posição, peças ou até peões."},
+{"q":"O que significa muitas vezes ganhar um peão, entre bons jogadores de força igual?","options":["Nada de especial","Ganhar a partida","Perdê-la","Empatar"],"answer":1,"why":"Segundo o autor, ganhar um peão entre bons jogadores iguais muitas vezes significa ganhar o jogo."},
+{"q":"No exemplo, como recuperam as Pretas o peão que perderam?","options":["Pedindo empate","Coordenando a acção de todas as peças, que estavam bem colocadas","Trocando a Dama","Avançando todos os peões"],"answer":1,"why":"As peças pretas, bem colocadas e livres, coordenam-se e recuperam o peão, ficando com melhor jogo."},
+{"q":"O que se faz com as peças quando surge a oportunidade, segundo o texto?","options":["Guardam-se para o final","São lançadas em massa para a acção, com coordenação","Trocam-se todas","Movem-se uma de cada vez, sem plano"],"answer":1,"why":"Quando surge a oportunidade, todas as peças são lançadas em massa para a acção e coordenam-se com precisão de máquina."},
+{"q":"Que qualidade ajudam a desenvolver estas posições?","options":["A pressa","A imaginação","A sorte","A timidez"],"answer":1,"why":"O autor diz que estas posições ajudam a desenvolver a imaginação, muito necessária a um bom jogador."}
+],
+"summary":"Nem todo o ataque é contra o Rei: ganhar um peão com peças bem coordenadas pode decidir a partida entre jogadores equilibrados."
+},
+{
+"id":"019",
+"title":"Ataques directos em massa",
+"text":[
+"O ataque directo contra o Rei deve ser conduzido com força suficiente para garantir o êxito. Em caso algum se deve levar até ao fim um ataque directo contra o Rei, sem olhar a consequências, a não ser que se tenha a certeza absoluta de que vai resultar, porque o fracasso, nestes casos, significa desastre.",
+"Num dos exemplos, as Brancas podiam simplesmente jogar um lance tranquilo e ficar com melhor posição, mas preferem um ataque imediato ao flanco do Rei, com a certeza de que o ataque leva à vitória.",
+"Noutro exemplo, bastaria capturar um peão para ganhar, mas as Brancas procuram complicações e a sua beleza. Capablanca avisa que um caminho assim é muito arriscado, até que uma larga experiência de jogo de mestres tenha dado visão suficiente de todas as possibilidades de uma posição.",
+"O aluno deve notar que, nos exemplos dados, o ataque é levado a cabo com todas as peças disponíveis, e que muitas vezes é a entrada em acção da última peça que derruba o inimigo. Os ataques directos e violentos contra o Rei têm de ser conduzidos em massa, com toda a força, para garantir o êxito. A resistência tem de ser vencida a todo o custo: o ataque não pode ser interrompido, porque em todos estes casos isso significa derrota."
+],
+"glossary":[
+{"t":"Ataque directo","d":"ataque dirigido contra o Rei adversário."},
+{"t":"Em massa","d":"com todas as peças disponíveis."},
+{"t":"Êxito","d":"bom resultado, sucesso."},
+{"t":"Complicações","d":"situações difíceis de calcular, com muitas variantes."},
+{"t":"Resistência","d":"a defesa do adversário."}
+],
+"questions":[
+{"q":"Quando se deve levar até ao fim um ataque directo contra o Rei?","options":["Sempre que possível","Só quando se tem a certeza absoluta de que vai resultar","Quando o adversário está distraído","Nunca"],"answer":1,"why":"O texto diz que só se deve levar o ataque até ao fim se houver certeza absoluta de êxito, porque o fracasso é desastroso."},
+{"q":"Porque é tão perigoso um ataque directo que falha?","options":["Porque perde tempo","Porque o fracasso, nestes casos, significa desastre","Porque cansa o jogador","Porque troca as Damas"],"answer":1,"why":"O autor afirma que o fracasso de um ataque directo contra o Rei significa desastre."},
+{"q":"O que faz o autor notar nos exemplos de ataque bem sucedido?","options":["Que se usa só a Dama","Que o ataque é levado a cabo com todas as peças disponíveis","Que o adversário nunca se defende","Que se evita o roque"],"answer":1,"why":"O ataque é feito com todas as peças disponíveis, e muitas vezes é a última a entrar que derruba o inimigo."},
+{"q":"Porque avisa Capablanca contra procurar complicações, mesmo quando uma captura simples bastaria?","options":["Porque é ilegal","Porque é muito arriscado sem uma larga experiência de jogo de mestres","Porque as complicações são aborrecidas","Porque o relógio corre"],"answer":1,"why":"Segundo o autor, tal caminho é muito arriscado até que a experiência dê visão suficiente de todas as possibilidades."},
+{"q":"Qual é o princípio enunciado no fim da lição?","options":["Atacar com uma só peça","Os ataques directos e violentos contra o Rei têm de ser conduzidos em massa, com toda a força","Evitar sempre os ataques","Atacar sem plano"],"answer":1,"why":"Os ataques directos e violentos devem ser conduzidos em massa, com toda a força, sem interrupção."}
+],
+"summary":"Um ataque directo ao Rei só se lança com certeza de êxito e com todas as peças: se se interrompe a meio, o ataque transforma-se em derrota."
+},
+{
+"id":"020",
+"title":"Renunciar à iniciativa: aguentar a tempestade",
+"text":[
+"Há casos em que, depois de se obter a vantagem material, não resta nada a fazer senão submeter-se por algum tempo ao ataque do adversário e, uma vez repelido, agir depressa com todas as forças e ganhar pelo material.",
+"Num jogo de Havana, em 1913, entre Capablanca e Janowski, as Pretas oferecem a qualidade para ganhar tempo e obter um ataque. Sem discutir se tal caminho se justificava da parte das Pretas, é evidente que, para as Brancas, só há uma coisa a fazer: ganhar a qualidade e preparar-se para aguentar a tempestade. Depois de ela passar, agir depressa com todas as forças, para tirar proveito da superioridade numérica.",
+"Capablanca elogia, nesse jogo, um lance das Pretas destinado a obrigar as Brancas a jogar c4 e a criar assim um buraco em d5 para o Cavalo preto. Tais grandes tácticas, diz, mostram a mão de um mestre."
+],
+"glossary":[
+{"t":"Qualidade","d":"a diferença entre uma Torre e uma peça menor: ganhar a qualidade é ganhar uma Torre por um Bispo ou um Cavalo."},
+{"t":"Repelir","d":"afastar um ataque, defender-se com êxito."},
+{"t":"Superioridade numérica","d":"ter mais material do que o adversário."},
+{"t":"Buraco","d":"casa fraca que os peões já não conseguem proteger."},
+{"t":"Aguentar a tempestade","d":"resistir a um ataque forte, à espera de que passe."}
+],
+"questions":[
+{"q":"O que fazer depois de ganhar vantagem material, mas com o adversário a atacar?","options":["Trocar todas as peças","Submeter-se por algum tempo ao ataque e, depois de o repelir, agir depressa com todas as forças","Atacar logo o Rei","Pedir empate"],"answer":1,"why":"O texto diz que se deve resistir ao ataque e, uma vez repelido, agir depressa com todas as forças para ganhar pelo material."},
+{"q":"O que fazem as Pretas, no jogo de Havana referido?","options":["Oferecem a qualidade para ganhar tempo e obter um ataque","Abandonam a partida","Trocam as Damas","Fazem o roque curto"],"answer":0,"why":"As Pretas oferecem a qualidade para ganhar tempo e obter um ataque."},
+{"q":"Que deve fazer o jogador das Brancas nesse caso, segundo Capablanca?","options":["Recusar a qualidade","Ganhar a qualidade e preparar-se para aguentar a tempestade","Atacar de imediato","Devolver o material"],"answer":1,"why":"Para as Brancas só há uma coisa a fazer: ganhar a qualidade e preparar-se para resistir."},
+{"q":"Quando se deve agir com todas as forças?","options":["Antes de o ataque começar","Depois de a tempestade passar","Nunca","Só no primeiro lance"],"answer":1,"why":"Depois de a tempestade passar, agir depressa com todas as forças para tirar proveito da superioridade numérica."},
+{"q":"O que quer dizer 'ganhar a qualidade'?","options":["Ganhar a Dama","Ganhar uma Torre por uma peça menor, Bispo ou Cavalo","Ganhar um peão","Ganhar o centro"],"answer":1,"why":"Ganhar a qualidade é obter uma Torre em troca de uma peça menor."}
+],
+"summary":"Quando se ganha material ao preço de ceder a iniciativa, o plano é resistir à tempestade e, passado o perigo, usar toda a força para converter a vantagem."
+},
+{
+"id":"021",
+"title":"Cortar uma peça do cenário de acção",
+"text":[
+"Muitas vezes, numa partida, um mestre joga apenas para afastar, por assim dizer, uma das peças do cenário do combate. Frequentemente um Bispo ou um Cavalo fica completamente fora de jogo. Nesses casos pode dizer-se que, a partir desse momento, a partida está ganha, porque, para todos os efeitos práticos, há mais uma peça de um lado do que do outro.",
+"Um bom exemplo é um jogo do torneio de Hastings, em 1919, entre Winter e Capablanca. As Brancas caíram numa armadilha. Capablanca diz que só a falta de experiência explica o lance, porque um jogador da sua experiência e força nunca permitiria tal lance se ele fosse bom.",
+"Depois desse lance, as Brancas ficam, para todos os efeitos práticos, sem um Bispo: só o conseguem libertar sacrificando um peão, e possivelmente nem assim, perdendo pelo menos tempo, além do peão. As Pretas dedicam então toda a energia ao flanco da Dama e, tendo na prática uma peça a mais, o resultado não oferece dúvidas. O resto da partida é dado para que o aluno veja como é simples ganhar um jogo assim."
+],
+"glossary":[
+{"t":"Cenário de acção","d":"a zona do tabuleiro onde se decide a luta."},
+{"t":"Fora de jogo","d":"sem poder actuar, aprisionada."},
+{"t":"Para todos os efeitos práticos","d":"na realidade, mesmo que a peça continue no tabuleiro."},
+{"t":"Libertar","d":"tirar uma peça de uma situação em que está presa."},
+{"t":"Armadilha","d":"lance que parece bom mas leva a uma posição má."}
+],
+"questions":[
+{"q":"O que faz muitas vezes um mestre, numa partida?","options":["Joga só para trocar damas","Joga para afastar uma peça do cenário do combate","Joga sempre no centro","Evita as peças menores"],"answer":1,"why":"Muitas vezes o mestre só joga para afastar uma das peças do cenário de acção."},
+{"q":"O que significa, para todos os efeitos práticos, ter uma peça fora de jogo?","options":["Que ela vale o dobro","Que há mais uma peça de um lado do que do outro","Que a partida está empatada","Que a peça foi capturada"],"answer":1,"why":"Uma peça posta fora de jogo equivale, na prática, a ter mais uma peça de um dos lados."},
+{"q":"Segundo Capablanca, o que explica o lance das Brancas em Hastings?","options":["Falta de experiência","Um erro de cálculo do relógio","Falta de tempo","Um erro de notação"],"answer":0,"why":"Capablanca diz que só a falta de experiência explica esse lance."},
+{"q":"Como podem as Brancas libertar o Bispo preso?","options":["Sacrificando um peão, e possivelmente nem assim","Trocando a Dama","Sem custo nenhum","Fazendo o roque"],"answer":0,"why":"Só o conseguem libertar sacrificando um peão, e talvez nem assim."},
+{"q":"Para onde levam as Pretas a sua energia, depois de prenderem o Bispo?","options":["Para o flanco do Rei","Para o flanco da Dama","Para a defesa do centro","Para os cantos"],"answer":1,"why":"As Pretas dedicam toda a energia ao flanco da Dama."}
+],
+"summary":"Prender uma peça do adversário vale quase tanto como ganhá-la: para todos os efeitos práticos, jogas com mais uma peça e a partida torna-se simples."
+},
+{
+"id":"022",
+"title":"O ataque súbito de outro lado, nos finais",
+"text":[
+"Já foi dito que, por vezes, o modo de ganhar consiste em atacar primeiro de um lado e depois, graças à maior mobilidade das peças, transferir o ataque depressa para o outro, rompendo antes de o adversário ter conseguido reunir forças suficientes para resistir. Este princípio do meio-jogo pode por vezes aplicar-se, de modo semelhante, nos finais.",
+"No exemplo, Capablanca joga com as Pretas. A ideia é avançar um peão para fixar os peões do flanco do Rei das Brancas, a pensar no futuro. É evidente para as Pretas que as Brancas querem levar o Rei até à casa b3 para apoiar os seus dois peões isolados e fracos, e assim libertar as Torres.",
+"As Pretas fazem, por isso, um plano: passar o ataque para o flanco do Rei no momento próprio, para tirar partido da maior mobilidade das suas Torres. Entretanto jogam de modo a manter as duas Torres brancas presas à defesa."
+],
+"glossary":[
+{"t":"Mobilidade","d":"capacidade de se mover com facilidade."},
+{"t":"Romper","d":"abrir caminho à força."},
+{"t":"Peões isolados","d":"peões sem peões amigos nas colunas vizinhas."},
+{"t":"Fixar","d":"impedir que se movam ou que se mexam livremente."},
+{"t":"Flanco","d":"cada um dos lados do tabuleiro, o do Rei e o da Dama."}
+],
+"questions":[
+{"q":"Em que consiste o princípio descrito no início?","options":["Atacar sempre do mesmo lado","Atacar de um lado e depois, com maior mobilidade, passar depressa o ataque para o outro e romper","Trocar peças logo","Defender só com o Rei"],"answer":1,"why":"O texto fala em atacar primeiro de um lado e depois transferir o ataque depressa para o outro, rompendo antes de o adversário reunir forças."},
+{"q":"Onde pode aplicar-se este princípio, além do meio-jogo?","options":["Só na abertura","Também nos finais, de modo semelhante","Em nenhum sítio","Só em jogos rápidos"],"answer":1,"why":"Capablanca diz que o princípio pode aplicar-se também nos finais."},
+{"q":"O que querem fazer as Brancas, no exemplo?","options":["Levar o Rei até b3 para apoiar os dois peões isolados e fracos, e libertar as Torres","Trocar as Torres","Atacar o Rei preto","Fazer o roque"],"answer":0,"why":"É evidente que as Brancas querem levar o Rei até b3 para apoiar os peões isolados e libertar as Torres."},
+{"q":"O que planeiam as Pretas?","options":["Defender-se sem plano","Passar o ataque para o flanco do Rei no momento próprio, tirando partido da mobilidade das Torres","Trocar todas as peças","Avançar o Rei"],"answer":1,"why":"As Pretas planeiam transferir o ataque para o flanco do Rei no momento certo, aproveitando a mobilidade das Torres."},
+{"q":"O que quer dizer 'peões isolados'?","options":["Peões sem peões amigos nas colunas vizinhas","Peões na primeira fila","Peões que já promoveram","Peões protegidos pela Dama"],"answer":0,"why":"Peão isolado é aquele que não tem peões amigos nas colunas vizinhas."}
+],
+"summary":"Também nos finais se pode atacar primeiro de um lado e passar depressa ao outro: as peças móveis e bem coordenadas rompem antes de o adversário chegar a tempo."
+},
+{
+"id":"023",
+"title":"Finais de Torre e peões: simples só na aparência",
+"text":[
+"Os finais de duas Torres e peões são muito difíceis, e o mesmo se passa com os de uma Torre e peões. Os de duas Torres e peões não são muito comuns na prática, mas os de uma Torre e peões são dos finais mais comuns que surgem no tabuleiro. Apesar de surgirem tantas vezes, poucos jogadores os dominam a fundo.",
+"São muitas vezes de natureza difícil e, por vezes, aparentemente muito simples, mas na realidade extremamente complicados. Capablanca dá um exemplo de um jogo entre Marshall e Rosenthal, no campeonato do Manhattan Chess Club de 1909-1910.",
+"Nessa posição, Marshall tinha uma vitória simples com um xeque de Torre, mas jogou outro lance e deu às Pretas a possibilidade de empatar. Felizmente para ele, as Pretas não viram o lance que empatava, jogaram mal e perderam. Se as Pretas tivessem estado à altura da situação, teriam empatado."
+],
+"glossary":[
+{"t":"Final de Torre","d":"final em que cada lado tem uma Torre e alguns peões."},
+{"t":"Aparentemente","d":"na aparência, ao que parece."},
+{"t":"Intrincado","d":"complicado, cheio de dificuldades escondidas."},
+{"t":"Dominar","d":"conhecer a fundo, ter completo domínio."},
+{"t":"Campeonato","d":"competição para apurar o melhor jogador."}
+],
+"questions":[
+{"q":"Que tipo de final é dos mais comuns no tabuleiro?","options":["Dois Bispos contra Cavalo","Uma Torre e peões","Rei e peão contra Rei","Dama contra Torre"],"answer":1,"why":"O texto diz que os finais de uma Torre e peões são dos mais comuns."},
+{"q":"Quantos jogadores dominam bem estes finais?","options":["Quase todos","Poucos","Todos os mestres","Ninguém"],"answer":1,"why":"Apesar de surgirem tantas vezes, poucos os dominam a fundo."},
+{"q":"Como podem ser estes finais, apesar de parecerem simples?","options":["Fáceis","Extremamente complicados","Sempre empates","Sempre ganhos"],"answer":1,"why":"Aparentemente muito simples, são por vezes extremamente complicados."},
+{"q":"O que fez Marshall no exemplo?","options":["Jogou o lance da vitória simples","Jogou outro lance e deu às Pretas hipótese de empatar","Abandonou","Ofereceu empate"],"answer":1,"why":"Marshall tinha uma vitória simples, mas jogou outro lance e deu às Pretas a possibilidade de empatar."},
+{"q":"Porque venceu Marshall, afinal?","options":["Porque as Pretas jogaram mal e não viram o lance que empatava","Porque o tempo acabou","Porque ofereceu empate","Porque trocou as Torres"],"answer":0,"why":"As Pretas não viram o lance que empatava, jogaram mal e perderam."}
+],
+"summary":"Os finais de Torre e peões são os mais frequentes e dos mais traiçoeiros: mesmo com uma vitória simples à vista, escolher o lance errado pode dar ao adversário a hipótese de empatar."
 }
 ]
 }
