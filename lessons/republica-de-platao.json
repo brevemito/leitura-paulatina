@@ -492,6 +492,107 @@
 {"q":"Qual é a posição de Sócrates perante o discurso de Trasímaco?","options":["Concorda totalmente","Não está convencido de que a injustiça seja mais vantajosa do que a justiça, mesmo quando se tem o poder de a praticar","Não tem opinião","Vai embora"],"answer":1,"why":"Sócrates diz que não crê que a injustiça traga mais proveito do que a justiça e pede a Trasímaco que o convença."}
 ],
 "summary":"Trasímaco defende que a tirania é a injustiça mais vantajosa e que ninguém teme cometer injustiças, só sofrê-las; quando faz menção de sair, Sócrates pede-lhe que fique e que o convença, porque não crê que a injustiça compense."
+},
+  {
+"id":"021",
+"title":"Livro I: o verdadeiro pastor e o governo",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates exige a Trasímaco que mantenha as suas posições ou as mude com clareza. Lembra que Trasímaco definiu bem o verdadeiro médico, mas não o verdadeiro pastor: o pastor, enquanto pastor, não engorda as ovelhas para fazer um banquete nem para as vender, mas para o bem delas, porque a sua arte só visa o maior bem daquilo de que cuida. Do mesmo modo, todo o governo, enquanto governo, só visa o maior bem dos que governa.",
+"Depois pergunta se Trasímaco acredita que os governantes das cidades governam de bom grado. Trasímaco tem a certeza. Sócrates contrapõe que ninguém aceita os outros cargos e ofícios sem exigir uma retribuição, e que isso acontece porque o proveito do exercício não é de quem o exerce, mas dos governados.",
+"Original no teu PDF: Livro I, pp. 35 e 36."
+],
+"glossary":[
+{"t":"Glutão","d":"quem come em excesso, por gula."},
+{"t":"Festim","d":"banquete, grande refeição."},
+{"t":"Retribuição","d":"pagamento ou recompensa por um trabalho."},
+{"t":"Governados","d":"as pessoas que são governadas."},
+{"t":"Excelência","d":"qualidade de quem é muito bom naquilo que faz."}
+],
+"questions":[
+{"q":"Que lição tira Sócrates sobre a arte do pastor?","options":["Que visa só o maior bem dos animais de que cuida","Que visa a carne para vender","Que visa o dinheiro do patrão","Que não é uma verdadeira arte"],"answer":0,"why":"Sócrates diz que a arte do pastor visa unicamente o maior bem daquilo a que se aplica."},
+{"q":"Que aplicação faz Sócrates ao governo?","options":["Que visa o proveito do governante","Que visa a glória da cidade","Que, enquanto governo, visa unicamente o maior bem dos que governa","Que não visa coisa alguma"],"answer":2,"why":"Todo o governo, enquanto governo, visa o maior bem dos indivíduos que governa."},
+{"q":"O que pergunta Sócrates a Trasímaco sobre os governantes das cidades?","options":["Se governam sem serem pagos","Se governam com prazer","Se são justos","Se são ricos"],"answer":1,"why":"Sócrates pergunta se Trasímaco crê que os governantes governam com prazer, e este responde que tem certeza."},
+{"q":"Que facto invoca Sócrates para contrariar essa certeza?","options":["Que os governantes são felizes","Que as leis são claras","Que o povo escolhe os governantes","Que ninguém aceita os cargos por si mesmos: exige-se uma retribuição, porque o proveito é dos governados"],"answer":3,"why":"Sócrates lembra que se exige uma retribuição, porque o exercício não aproveita ao próprio, mas aos governados."},
+{"q":"Um canalizador recusa-se a trabalhar de graça, mesmo sabendo que o cliente fica a ganhar. Que ideia do texto isto ilustra?","options":["Que quem exerce uma arte pede pagamento porque o benefício da arte vai para o outro e não para ele","Que os canalizadores são avarentos","Que o dinheiro é mais importante do que o trabalho","Que o cliente nunca ganha"],"answer":0,"why":"Segundo Sócrates, exige-se pagamento porque o proveito da arte é de quem a recebe e não de quem a exerce."}
+],
+"summary":"Sócrates mostra que o verdadeiro pastor e o verdadeiro governante visam o bem dos que cuidam, e lembra que quem exerce uma arte exige pagamento, porque o benefício dela vai para outros."
+},
+{
+"id":"022",
+"title":"Livro I: a arte e o salário",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates lembra que cada arte se distingue das outras pelo seu poder próprio, isto é, por proporcionar um benefício particular: a medicina dá a saúde, a pilotagem dá a segurança na navegação. A arte de receber salário é outra coisa. Se um médico recupera a saúde ao navegar, porque o mar lhe faz bem, não chamamos medicina à sua arte; e, se um médico recebe dinheiro ao curar, também não chamamos medicina à arte do salário.",
+"Todos os artesãos ganham salário porque, à sua arte própria, juntam a arte do mercenário. Assim, a medicina cria a saúde e a arte do mercenário dá o salário; a construção edifica a casa e a arte do mercenário dá o pagamento. Se o artesão não recebesse salário, tiraria proveito da sua arte? Trasímaco acredita que não. Sócrates conclui que nenhuma arte e nenhum comando cuida do seu próprio benefício: cuida do benefício do governado, isto é, do interesse do mais fraco e não do mais forte.",
+"Original no teu PDF: Livro I, pp. 36 e 37."
+],
+"glossary":[
+{"t":"Mercenário","d":"quem trabalha apenas por dinheiro."},
+{"t":"Salário","d":"pagamento regular por um trabalho."},
+{"t":"Pilotagem","d":"a arte de conduzir um navio."},
+{"t":"Auferir","d":"receber, obter como ganho."},
+{"t":"Artesão","d":"quem exerce um ofício com saber próprio."}
+],
+"questions":[
+{"q":"Como se distingue uma arte de outra, segundo Sócrates?","options":["Pelo preço que cobra","Por ter um poder, ou benefício, próprio e diferente","Pela idade de quem a exerce","Pelo local onde se pratica"],"answer":1,"why":"Sócrates diz que uma arte se diferencia das outras por ter um poder diferente, isto é, um benefício particular."},
+{"q":"Que benefício próprio proporcionam a medicina e a pilotagem?","options":["A riqueza e a fama","O prazer e o descanso","O poder e a honra","A saúde e a segurança na navegação"],"answer":3,"why":"A medicina proporciona a saúde, e a pilotagem a segurança na navegação."},
+{"q":"Porque não se confunde a arte do salário com a medicina?","options":["Porque o salário é dado por outra arte, a do mercenário, que acompanha a arte do artesão","Porque o médico não recebe nada","Porque o salário é um castigo","Porque a medicina é gratuita"],"answer":0,"why":"Sócrates diz que a medicina cria a saúde e a arte do mercenário proporciona o salário; são duas artes diferentes."},
+{"q":"Se o artesão não recebesse salário, tiraria proveito da sua arte, segundo Trasímaco?","options":["Sim, sempre","Sim, mas pouco","Não, a seu ver, não tiraria proveito","Só se fosse rico"],"answer":2,"why":"Trasímaco acredita que o artesão não tiraria proveito se trabalhasse sem salário."},
+{"q":"Que conclusão tira Sócrates sobre as artes e os comandos?","options":["Que procuram o benefício do mais forte","Que nenhuma arte nem comando cuida do seu benefício, mas do do governado, o mais fraco","Que todas procuram o salário","Que só servem os governantes"],"answer":1,"why":"Sócrates conclui que nenhuma arte e nenhum comando provê ao seu próprio benefício, mas ao do governado."}
+],
+"summary":"Sócrates separa cada arte da arte do salário e conclui que as artes e os comandos servem o benefício de quem governam, ou seja, do mais fraco, e não do mais forte."
+},
+{
+"id":"023",
+"title":"Livro I: porque é preciso pagar a quem governa",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Por isso, diz Sócrates, quem aceita governar exige um pagamento, que pode ser dinheiro, honra ou, se recusar, um castigo. Glauco conhece os dois primeiros, mas não percebe o que seja o castigo como pagamento. Sócrates explica: os melhores homens não querem governar por riqueza, para não serem tidos por mercenários nem por ladrões que tiram lucros às escondidas, e também não o querem por honra, porque não são ambiciosos. Por isso é preciso obrigá-los, com um castigo: o maior é serem governados por alguém pior do que eles, se não governarem.",
+"As pessoas honradas assumem o poder, quando o fazem, como uma tarefa necessária e não como um bem para desfrutar, porque não a podem confiar a quem seja melhor ou igual. Se existisse uma cidade de homens bons, lutar-se-ia para fugir do poder, como agora se luta para o obter, e ver-se-ia que o verdadeiro governante procura o interesse do governado. Qualquer pessoa sensata preferiria receber o auxílio de outro a ter o trabalho de ajudar os outros.",
+"Original no teu PDF: Livro I, pp. 37 a 39."
+],
+"glossary":[
+{"t":"Resignar","d":"aceitar algo sem gosto, por necessidade."},
+{"t":"Mercenário","d":"quem trabalha apenas por dinheiro."},
+{"t":"Ambicioso","d":"quem deseja muito poder, fama ou riqueza."},
+{"t":"Usufruir","d":"desfrutar, gozar de algo."},
+{"t":"Sensato","d":"de bom senso, prudente."}
+],
+"questions":[
+{"q":"Que tipos de pagamento refere Sócrates para quem aceita governar?","options":["Só dinheiro","Só honra","Dinheiro, honra ou castigo","Só terras"],"answer":2,"why":"Sócrates diz que é preciso pagar um salário aos que aceitam governar, seja em dinheiro, honra ou castigo, se se recusarem."},
+{"q":"Porque não querem os homens de bem governar por riqueza nem por honra?","options":["Porque não querem ser tidos por mercenários ou ladrões, nem são ambiciosos","Porque são pobres","Porque são preguiçosos","Porque não gostam de ninguém"],"answer":0,"why":"Não querem ser considerados mercenários nem ladrões, e não trabalham pela honra porque não são ambiciosos."},
+{"q":"Qual é o maior castigo para um homem bom que não quer governar?","options":["Pagar uma multa","Ser exilado","Ir para a prisão","Ser governado por alguém pior do que ele"],"answer":3,"why":"Sócrates diz que o maior castigo é ser governado por alguém pior, se não quisermos governar."},
+{"q":"Como assumem o poder as pessoas honradas, segundo Sócrates?","options":["Como um bem para usufruir","Como uma tarefa necessária, que não podem confiar a quem seja melhor ou igual","Como uma honra a que aspiram","Como um jogo"],"answer":1,"why":"As pessoas honradas assumem o poder como uma tarefa necessária e não como um bem a ser usufruído."},
+{"q":"O que aconteceria numa cidade de homens bons, segundo Sócrates?","options":["Todos quereriam governar","Ninguém governaria","Lutar-se-ia para fugir do poder, como agora se luta para o obter","Haveria guerra civil"],"answer":2,"why":"Sócrates diz que, numa cidade de homens bons, se lutaria para fugir do poder, tal como agora se luta para o obter."}
+],
+"summary":"Sócrates explica que os homens bons só governam por necessidade, e que, numa cidade ideal, todos fugiriam do poder, o que mostra que o verdadeiro governante busca o interesse do governado."
+},
+{
+"id":"024",
+"title":"Livro I: a vida do injusto e a escolha do método",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates diz que não concorda de modo algum com Trasímaco sobre a justiça ser o interesse do mais forte, mas deixa esse ponto para mais tarde, porque dá muito mais importância à nova afirmação: que a vida do injusto é melhor do que a do justo. Pergunta a Glauco de que lado está. Glauco acha a vida do justo mais proveitosa, embora não se tenha convencido do discurso de Trasímaco.",
+"Sócrates propõe dois métodos: opor argumentos a argumentos, contando as vantagens de cada lado, o que exigiria juízes, ou discutir até chegar a acordo, sendo ao mesmo tempo juízes e advogados. Glauco escolhe o segundo. Trasímaco repete que a injustiça total compensa mais do que a justiça total, chama à justiça nobre simplicidade de carácter e à injustiça prudência. Para ele, os injustos são sábios e bons, mas só os que sabem cometer a injustiça com perfeição e submeter cidades e povos, e não os simples gatunos. Sócrates diz que a coisa é grave, mas que vai continuar a examiná-la, porque acredita que Trasímaco fala a sério.",
+"Original no teu PDF: Livro I, pp. 39 a 41."
+],
+"glossary":[
+{"t":"Asserção","d":"afirmação."},
+{"t":"Replicar","d":"responder, contrapor."},
+{"t":"Juízes","d":"quem decide quem tem razão."},
+{"t":"Perversidade","d":"maldade, tendência para o mal."},
+{"t":"Prudência","d":"cuidado e sensatez em saber o que convém."},
+{"t":"Gatunos","d":"ladrões de pequenos furtos."}
+],
+"questions":[
+{"q":"O que diz Sócrates sobre a ideia de que a justiça é o interesse do mais forte?","options":["Que não concorda, mas deixa esse ponto para mais tarde e dá mais importância a outra tese","Que concorda totalmente","Que nunca a discutirá","Que a justiça não existe"],"answer":0,"why":"Sócrates diz que não concorda, mas que voltarão a esse ponto e que dá mais importância à ideia de que a vida do injusto é melhor do que a do justo."},
+{"q":"Qual é a posição de Glauco sobre a vida do justo e a do injusto?","options":["Acha melhor a do injusto","Não tem opinião","Acha mais proveitosa a do justo, mas não se convenceu de que Trasímaco esteja errado","Acha as duas iguais"],"answer":2,"why":"Glauco diz que a vida do justo lhe parece mais proveitosa, mas que não ficou convencido do discurso de Trasímaco."},
+{"q":"Que método escolhe Glauco para a discussão?","options":["Pedir juízes para avaliar os argumentos","Discutir só com Trasímaco","Votar","Discutir até chegar a acordo, sendo ao mesmo tempo juízes e advogados"],"answer":3,"why":"Glauco escolhe o segundo método: debater até chegar a um mútuo acordo, como juízes e advogados ao mesmo tempo."},
+{"q":"Como Trasímaco chama à justiça e à injustiça?","options":["Virtude e vício","À justiça nobre simplicidade de carácter, e à injustiça prudência","Sabedoria e ignorância","Força e fraqueza"],"answer":1,"why":"Trasímaco diz que a justiça é uma nobre simplicidade de carácter e a injustiça é prudência."},
+{"q":"Quem considera Trasímaco sábios e bons entre os injustos?","options":["Os ladrões de pequenos furtos","Os que sabem cometer a injustiça com perfeição e submeter cidades e povos","Os que nunca são descobertos","Os que são pobres"],"answer":1,"why":"Trasímaco refere os capazes de cometer a injustiça com perfeição e de submeter cidades e povos, e não os simples gatunos."}
+],
+"summary":"Sócrates deixa de lado a tese anterior para discutir se a vida do injusto é melhor; com Glauco, escolhe discutir até chegar a acordo, e Trasímaco defende que a injustiça é prudência e a justiça nobre simplicidade."
 }
 ]
 }
