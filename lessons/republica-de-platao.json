@@ -593,6 +593,107 @@
 {"q":"Quem considera Trasímaco sábios e bons entre os injustos?","options":["Os ladrões de pequenos furtos","Os que sabem cometer a injustiça com perfeição e submeter cidades e povos","Os que nunca são descobertos","Os que são pobres"],"answer":1,"why":"Trasímaco refere os capazes de cometer a injustiça com perfeição e de submeter cidades e povos, e não os simples gatunos."}
 ],
 "summary":"Sócrates deixa de lado a tese anterior para discutir se a vida do injusto é melhor; com Glauco, escolhe discutir até chegar a acordo, e Trasímaco defende que a injustiça é prudência e a justiça nobre simplicidade."
+},
+  {
+"id":"025",
+"title":"Livro I: o justo e o injusto querem vencer quem?",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates pergunta a Trasímaco se o justo procura levar vantagem sobre outro justo. Trasímaco responde que nunca, porque o justo é educado e simples. Nem numa acção justa? Nem assim. Quer então levar vantagem sobre o injusto? Sim, quereria, mas não poderia. Sócrates precisa o que perguntou: o justo não pretende vencer o seu semelhante, só o injusto, o seu contrário.",
+"Já o injusto pretende vencer todos: o justo, o injusto e as acções de ambos. Resumindo: o justo prevalece sobre o seu contrário, e o injusto, sobre o semelhante e sobre o contrário. Trasímaco aceita ainda que o injusto é sábio e bom, e que o justo não é nenhuma das duas coisas. Sócrates tira daí uma ideia: cada um é tal como aqueles a quem se assemelha.",
+"Original no teu PDF: Livro I, pp. 41 e 42."
+],
+"glossary":[
+{"t":"Prevalecer","d":"levar vantagem, vencer, impor-se."},
+{"t":"Semelhante","d":"parecido, do mesmo tipo."},
+{"t":"Contrário","d":"o oposto, quem é diferente."},
+{"t":"Educado","d":"que tem boas maneiras e respeita os outros."},
+{"t":"Pretensão","d":"desejo ou intenção de conseguir algo."}
+],
+"questions":[
+{"q":"Segundo Trasímaco, o que pretende o homem justo em relação aos outros?","options":["Vencer o semelhante e o contrário","Prevalecer só sobre o injusto, o seu contrário, e não sobre o seu semelhante","Nunca quer vencer ninguém","Quer vencer todos"],"answer":1,"why":"O justo não pretende prevalecer sobre outro justo, mas apenas sobre o seu contrário, o injusto."},
+{"q":"E o homem injusto?","options":["Só sobre o justo","Só sobre o injusto","Quer prevalecer sobre o semelhante e sobre o contrário, sobre todos","Sobre ninguém"],"answer":2,"why":"Trasímaco diz que o injusto pretende prevalecer sobre todos."},
+{"q":"Que qualidades atribui Trasímaco ao injusto e ao justo?","options":["O injusto é mau e ignorante, o justo é sábio","Ambos são sábios","Ambos são ignorantes","O injusto é sábio e bom, e o justo não é nem uma coisa nem outra"],"answer":3,"why":"Trasímaco diz que o injusto é sábio e bom, e que o justo não o é."},
+{"q":"Que princípio geral aceitam Sócrates e Trasímaco sobre a semelhança?","options":["Cada um é tal como aqueles a quem se assemelha","Cada um é diferente de todos","Ninguém se assemelha a ninguém","Os iguais evitam-se"],"answer":0,"why":"Sócrates pergunta se cada um é tal como aqueles a que se assemelha, e Trasímaco concorda."},
+{"q":"Porque nega Trasímaco que o justo procure prevalecer sobre outro justo?","options":["Porque é fraco","Porque é educado e simples, como é","Porque é pobre","Porque tem medo"],"answer":1,"why":"Trasímaco responde que o justo jamais o faria, pois não seria educado e simples como é."}
+],
+"summary":"O justo só quer vencer o seu contrário, o injusto quer vencer todos, e Trasímaco aceita que o injusto é sábio e bom; Sócrates prepara com isto um raciocínio sobre quem se assemelha a quem."
+},
+{
+"id":"026",
+"title":"Livro I: o músico, o médico e o sábio",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates passa para as artes. Um homem é músico, outro não: o músico é conhecedor e bom nas coisas que conhece, o outro não. O mesmo se diga da medicina. Um músico que afina a lira não pretende vencer outro músico, mas só quem ignora música. Um médico, ao prescrever alimento e bebida, não quer sobrepor-se a outro médico nem à prática médica, mas apenas a quem ignora a medicina.",
+"Em geral, o conhecedor não procura ter vantagem sobre outro conhecedor: age como o seu semelhante. Já o ignorante quer levar vantagem sobre o conhecedor e sobre o ignorante. O conhecedor é sábio, e o sábio é bom; logo, o sábio e bom não pretende vencer o seu semelhante, mas o seu oposto. O mau e ignorante pretende vencer o seu semelhante e o seu oposto.",
+"Original no teu PDF: Livro I, pp. 42 e 43."
+],
+"glossary":[
+{"t":"Lira","d":"antigo instrumento musical de cordas."},
+{"t":"Afinar","d":"ajustar as cordas de um instrumento para dar a nota certa."},
+{"t":"Conhecedor","d":"quem sabe, quem tem ciência de algo."},
+{"t":"Ignorante","d":"quem não sabe, quem desconhece."},
+{"t":"Oposto","d":"o contrário."}
+],
+"questions":[
+{"q":"Quando afina a lira, a quem quer o músico levar vantagem?","options":["A outro músico","A quem ignora música, e não a outro músico","A todos","A ninguém"],"answer":1,"why":"Trasímaco concorda que o músico, ao afinar, não pretende prevalecer sobre outro músico, mas sobre o ignorante em música."},
+{"q":"E o médico, ao prescrever alimentos e bebidas?","options":["Quer vencer outros médicos","Quer vencer a prática médica","Não quer prevalecer sobre outro médico nem sobre a prática médica, mas sobre quem ignora a medicina","Quer vencer o doente"],"answer":2,"why":"O médico não quer vencer outro médico nem a prática médica, mas apenas quem ignora medicina."},
+{"q":"Que consequência tira Sócrates sobre o homem sábio e bom?","options":["Não quererá prevalecer sobre o seu semelhante, mas sim sobre o seu oposto","Quererá vencer todos","Quererá vencer só os iguais","Não quererá vencer ninguém"],"answer":0,"why":"Sócrates conclui que o sábio e bom não quererá prevalecer sobre o seu semelhante, mas sobre o seu oposto."},
+{"q":"E o homem mau e ignorante?","options":["Nunca quer vencer ninguém","Só quer vencer os sábios","Só quer vencer os ignorantes","Quererá prevalecer sobre o seu semelhante e sobre o seu oposto"],"answer":3,"why":"Trasímaco aceita que o mau e ignorante quererá prevalecer sobre o semelhante e sobre o oposto."},
+{"q":"Que qualidades associa o raciocínio ao conhecedor?","options":["É rico e poderoso","É forte e rápido","É sábio e bom","É astuto e mentiroso"],"answer":2,"why":"Sócrates pergunta se o conhecedor é sábio e se o sábio é bom, e Trasímaco concorda nas duas."}
+],
+"summary":"Com os exemplos do músico e do médico, Sócrates mostra que quem sabe não quer vencer outro que sabe, só o ignorante, e que o sábio e bom procura vencer o oposto, enquanto o mau e ignorante quer vencer todos."
+},
+{
+"id":"027",
+"title":"Livro I: o justo é sábio e bom",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates junta as peças. O injusto, tinha dito Trasímaco, quer vencer o semelhante e o oposto; o justo só vence o oposto. Logo, o justo assemelha-se ao sábio e ao bom, e o injusto, ao mau e ignorante. E, como cada um é tal como aqueles a quem se assemelha, o justo é bom e sábio e o injusto, ignorante e mau.",
+"Trasímaco concordou com tudo isto, não tão facilmente como Sócrates o conta, mas contra a vontade e a muito custo. Suava abundantemente, porque fazia muito calor, e foi então que, pela primeira vez, Sócrates o viu enrubescer. Concordaram que a justiça é virtude e sabedoria, e a injustiça, vício e ignorância.",
+"Sócrates lembra que também tinham afirmado que a injustiça tem força. Trasímaco admite que se lembra, mas não gosta do que Sócrates acabou de afirmar e sabe como o refutar. Pede para falar à vontade, ou então que Sócrates o interrogue e ele responderá com a cabeça, como se faz às velhas que contam histórias. Sócrates só lhe pede que não responda contra a sua própria opinião, e decide interrogá-lo.",
+"Original no teu PDF: Livro I, pp. 44 e 45."
+],
+"glossary":[
+{"t":"Enrubescer","d":"ficar corado, com o rosto vermelho, de vergonha ou calor."},
+{"t":"Vício","d":"defeito moral, hábito mau."},
+{"t":"Virtude","d":"qualidade que faz uma pessoa ser boa."},
+{"t":"Refutar","d":"contrariar mostrando que está errado."},
+{"t":"Abundantemente","d":"em grande quantidade."}
+],
+"questions":[
+{"q":"A que conclusão chega Sócrates sobre o justo e o injusto?","options":["O justo é bom e sábio, e o injusto, ignorante e mau","O justo é forte e o injusto, fraco","O justo é rico e o injusto, pobre","O justo é solitário e o injusto, sociável"],"answer":0,"why":"Como cada um é tal como aqueles a quem se assemelha, o justo é bom e sábio e o injusto, ignorante e mau."},
+{"q":"Como concordou Trasímaco com estas conclusões?","options":["Com muita alegria","Rapidamente e sem esforço","Contra a vontade e a muito custo, a suar","Em silêncio absoluto"],"answer":2,"why":"O texto diz que concordou não tão facilmente como o relato, mas contra a sua vontade e a muito custo."},
+{"q":"O que viu Sócrates pela primeira vez em Trasímaco?","options":["Medo","Trasímaco a enrubescer","Alegria","Cansaço"],"answer":1,"why":"Sócrates conta que foi então que, pela primeira vez, viu Trasímaco enrubescer."},
+{"q":"Que lembra Sócrates a seguir?","options":["Que a justiça é fraca","Que a injustiça é sábia","Que a justiça é inútil","Que tinham afirmado que a injustiça também tem força"],"answer":3,"why":"Sócrates lembra que afirmaram que a injustiça tem também a força, e Trasímaco diz que não gosta do que acaba de ouvir."},
+{"q":"Que condição põe Sócrates às respostas de Trasímaco?","options":["Que responda depressa","Que não responda contra a sua própria opinião","Que só diga sim","Que responda por escrito"],"answer":1,"why":"Sócrates pede-lhe que, pelo menos, não responda contra a sua opinião."}
+],
+"summary":"Sócrates conclui que o justo é sábio e bom e o injusto ignorante e mau, Trasímaco cede a muito custo e enrubesce, e prepara-se para responder à questão sobre a força da injustiça."
+},
+{
+"id":"028",
+"title":"Livro I: a injustiça produz discórdia",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates retoma a questão da força. Se a justiça é sabedoria e virtude e a injustiça ignorância, a justiça deverá ser mais poderosa. Examina o caso de uma cidade injusta que tenta sujeitar outras. Trasímaco diz que é o que fará a melhor cidade, a mais perfeitamente injusta. Sócrates pergunta se uma cidade pode dominar outra sem recorrer à justiça. Trasímaco responde que, se a justiça for sabedoria, recorrerá a ela; se for como ele diz, usará a injustiça.",
+"Em seguida, pergunta se uma cidade, um exército, um bando de salteadores ou qualquer outra associação com um objectivo injusto poderia levar a cabo alguma empresa se os seus membros violassem entre si as normas da justiça. Trasímaco diz que não. E, se as respeitassem, seria melhor. Sócrates conclui que a injustiça faz nascer dissensões, ódios e brigas, e que a justiça alimenta a concórdia e a amizade. Trasímaco aceita, dizendo que não quer entrar em discussão com Sócrates.",
+"Original no teu PDF: Livro I, pp. 45 e 46."
+],
+"glossary":[
+{"t":"Sujeitar","d":"dominar, pôr sob o seu poder."},
+{"t":"Salteadores","d":"bandidos que assaltam nas estradas."},
+{"t":"Dissensões","d":"desacordos, discórdias."},
+{"t":"Concórdia","d":"harmonia, acordo entre as pessoas."},
+{"t":"Empresa","d":"aqui, um projecto ou tarefa que se pretende realizar."}
+],
+"questions":[
+{"q":"Que pergunta faz Sócrates sobre uma cidade que domina outras?","options":["Se pode ser rica sem trabalhar","Se pode fazê-lo sem recorrer à justiça ou se é obrigada a usá-la","Se tem muitos soldados","Se tem bons governantes"],"answer":1,"why":"Sócrates pergunta se uma cidade que se torna senhora de outra poderá fazê-lo sem intermédio da justiça ou se será obrigada a recorrer a ela."},
+{"q":"Como responde Trasímaco?","options":["Que a justiça nunca é necessária","Que a justiça é sempre necessária","Se a justiça for sabedoria, recorrerá a ela; se for como ele diz, usará a injustiça","Que não sabe responder"],"answer":2,"why":"Trasímaco responde que, se a justiça for sabedoria, a cidade recorrerá a ela; se for como ele dizia, utilizará a injustiça."},
+{"q":"Poderia um bando de ladrões levar a cabo uma empresa se os seus membros violassem entre si as normas da justiça?","options":["Sim, melhor ainda","Sim, se forem muitos","Só de dia","Não, certamente que não"],"answer":3,"why":"Trasímaco concorda que não: precisam de respeitar a justiça entre si para conseguirem levar algo a cabo."},
+{"q":"Que efeitos produzem a injustiça e a justiça entre os homens, segundo Sócrates?","options":["A injustiça faz nascer dissensões, ódios e brigas, e a justiça alimenta a concórdia e a amizade","A injustiça traz riqueza e a justiça pobreza","Ambas produzem os mesmos efeitos","A injustiça traz amizade e a justiça ódio"],"answer":0,"why":"Sócrates conclui que a injustiça faz nascer dissensões, ódios e brigas, enquanto a justiça alimenta a concórdia e a amizade."},
+{"q":"Como termina Trasímaco esta parte da discussão?","options":["Recusa tudo e vai-se embora","Concorda, dizendo que não quer entrar em discussão com Sócrates","Chama Glauco em seu apoio","Ri-se de Sócrates"],"answer":1,"why":"Trasímaco responde 'Assim seja! Não quero entrar em discussão contigo' e deixa passar a conclusão."}
+],
+"summary":"Sócrates mostra que mesmo um bando de ladrões ou uma cidade injusta precisa de um mínimo de justiça entre os seus membros para agir, e que a injustiça gera discórdia enquanto a justiça gera concórdia."
 }
 ]
 }
