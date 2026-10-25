@@ -1001,6 +1001,109 @@
 {"q":"O que prometem os livros atribuídos a Museu e Orfeu?","options":["Que se pode ser absolvido e purificado dos crimes, em vida ou depois da morte, por sacrifícios e festas a que chamam mistérios","Que todos serão castigados","Que os deuses desaparecerão","Que ninguém morre"],"answer":0,"why":"Adimanto diz que esses livros convencem pessoas e cidades de que se pode ser absolvido e purificado dos crimes através dos mistérios."}
 ],
 "summary":"Adimanto mostra que sacerdotes, adivinhos e poetas ensinam que os deuses se deixam comprar com sacrifícios e festas, e que assim se pode ser absolvido dos crimes, o que torna a injustiça menos arriscada."
+},
+  {
+"id":"041",
+"title":"Livro II: o que pensa um jovem ao ouvir estes discursos",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Adimanto pergunta que efeito têm todos estes discursos sobre a virtude e o vício na alma de um jovem de bom carácter, que quer saber que caminho seguir para viver o melhor possível. Imagina-o a perguntar-se, como no poeta Píndaro, se deve subir a muralha mais alta pela justiça ou por ardis tortuosos. Se for justo sem o parecer, só terá aborrecimentos e prejuízos evidentes; se for injusto mas tiver fama de justo, dirão que leva uma vida divina. Como a aparência, dizem os sábios, vence a verdade e decide a felicidade, é para ela que deve tender, construindo à sua volta uma fachada de virtude e imitando a raposa astuta do poeta Arquíloco.",
+"Esconder-se sempre é difícil, mas nenhuma grande empresa é fácil. Para não serem descobertos, formarão associações e sociedades secretas, e há mestres de persuasão que ensinam a eloquência pública e judiciária, para vencer convencendo ou usando a força. E os deuses? Se não existem, ou não se ocupam dos homens, não é preciso escapar-lhes. Se existem, só os conhecemos por ouvir dizer e pelos poetas, que dizem que se deixam dobrar com sacrifícios e preces. Há que acreditar nas duas coisas ou em nenhuma; se acreditamos, serão injustos e oferecerão sacrifícios com os frutos da injustiça.",
+"Original no teu PDF: Livro II, pp. 64 e 65."
+],
+"glossary":[
+{"t":"Píndaro","d":"poeta grego, famoso pelos seus hinos."},
+{"t":"Arquíloco","d":"poeta grego, autor da fábula da raposa."},
+{"t":"Fachada","d":"aparência exterior, que pode esconder outra coisa."},
+{"t":"Ardil","d":"truque, esperteza para enganar."},
+{"t":"Eloquência","d":"talento para falar bem e persuadir."},
+{"t":"Genealogias","d":"histórias de família, aqui a origem e linhagem dos deuses."}
+],
+"questions":[
+{"q":"Que pergunta faz Adimanto sobre o jovem que ouve estes discursos?","options":["Se ele os repete aos amigos","Que efeito produzem na sua alma, e que caminho escolherá para viver o melhor possível","Se os esquecerá logo","Se os escreverá"],"answer":1,"why":"Adimanto pergunta que efeito têm esses discursos no jovem dotado de bom carácter e que resposta dará à pergunta de como atravessar a vida da melhor maneira."},
+{"q":"Que dilema evoca a citação de Píndaro?","options":["Subir a muralha pela justiça ou por ardis tortuosos","Ficar ou partir","Falar ou calar","Casar ou não casar"],"answer":0,"why":"O jovem pergunta-se se escalará uma muralha mais alta pela justiça ou por ardis tortuosos."},
+{"q":"O que conclui o jovem sobre ser justo sem parecê-lo?","options":["Que lhe trará glória","Que lhe trará aborrecimentos e prejuízos evidentes, sem proveito","Que lhe trará riqueza","Que lhe trará amigos"],"answer":1,"why":"O jovem diz que, se for justo sem o parecer, não tirará proveito, mas aborrecimentos e prejuízos evidentes."},
+{"q":"Com que animal se compara o jovem, imitando o poeta Arquíloco?","options":["Com o leão","Com o lobo","Com a raposa, astuta e rica em artimanhas","Com a águia"],"answer":2,"why":"Para criar a fachada de virtude, o jovem diz que deve imitar a raposa do sábio Arquíloco."},
+{"q":"Que meios imagina o jovem para escapar sem castigo?","options":["Fugir da cidade","Obedecer à lei","Pedir perdão aos deuses","Associações e sociedades secretas, e mestres de persuasão que ensinam eloquência pública e judiciária"],"answer":3,"why":"O jovem refere sociedades secretas e mestres de persuasão que ensinam a eloquência pública e judiciária."}
+],
+"summary":"Adimanto mostra que, ouvindo os discursos comuns, um jovem de bom carácter podia concluir que mais vale parecer justo e ser injusto, esconder-se com associações e retórica e comprar a bondade dos deuses com sacrifícios."
+},
+{
+"id":"042",
+"title":"Livro II: porque ninguém é justo por vontade própria",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Adimanto continua o raciocínio do jovem: por que preferir a justiça à extrema injustiça, que, praticada com fingida honestidade, permite triunfar junto dos deuses e dos homens, durante a vida e depois da morte, como afirmam a maior parte das autoridades? Quem tem alguma superioridade, de alma ou de corpo, de riquezas ou de nascimento, ainda consentirá em honrar a justiça, sem rir ao ouvi-la louvar? Quem provar que a justiça é o melhor dos bens deverá ser indulgente com os injustos: exceto os de natureza divina, que sentem aversão pela injustiça, e os que se abstêm porque receberam as luzes da ciência, ninguém é justo por vontade própria.",
+"Se censuram a injustiça, é por covardia, idade ou outra fraqueza que os torna incapazes de a cometer. Prova disto: o primeiro que receber o poder de ser injusto usá-lo-á logo, na medida das suas possibilidades. Adimanto e Glauco apresentam isto a Sócrates com uma queixa: entre todos os que dizem defender a justiça, desde os heróis antigos, ninguém a louvou ou censurou a injustiça senão pela reputação, honras e recompensas. Ninguém mostrou, em verso ou em prosa, que a injustiça é o maior dos males da alma e a justiça o maior bem, mesmo escondidas dos deuses e dos homens. Se fossem convencidos disso desde a infância, cada um seria o melhor guarda de si mesmo, por medo de viver com o maior dos males.",
+"Original no teu PDF: Livro II, pp. 65 e 66."
+],
+"glossary":[
+{"t":"Indulgente","d":"que perdoa ou compreende os erros dos outros."},
+{"t":"Aversão","d":"repulsa, sentimento forte de recusa."},
+{"t":"Fingida","d":"falsa, que só aparenta."},
+{"t":"Covardia","d":"falta de coragem."},
+{"t":"Heróis","d":"figuras lendárias, de feitos extraordinários."},
+{"t":"Coabitar","d":"viver junto com algo ou alguém."}
+],
+"questions":[
+{"q":"Quando, segundo o jovem, deixa de fazer sentido honrar a justiça?","options":["Quando se dispõe de alguma superioridade, de alma ou de corpo, de riquezas ou de nascimento","Quando se é pobre","Quando se é velho","Quando se tem muitos filhos"],"answer":0,"why":"Adimanto pergunta se, tendo alguma superioridade, ainda se consentiria em honrar a justiça sem rir ao ouvi-la louvar."},
+{"q":"Quem não é injusto por vontade própria, segundo este raciocínio?","options":["Todos os homens","Quase ninguém: só os de natureza divina, que sentem aversão pela injustiça, e os que receberam as luzes da ciência","Só os ricos","Só os jovens"],"answer":1,"why":"Adimanto diz que, exceto os de natureza divina e os que receberam as luzes da ciência, ninguém é justo por vontade própria."},
+{"q":"O que leva os outros a censurar a injustiça, segundo este raciocínio?","options":["O amor à justiça","A sabedoria","A covardia, a idade ou outra fraqueza que os torna incapazes de a cometer","O medo dos deuses"],"answer":2,"why":"Adimanto diz que é a covardia, a idade ou outra fraqueza que leva a censurar a injustiça quando se é incapaz de a cometer."},
+{"q":"O que dizem os irmãos que ninguém conseguiu demonstrar até então?","options":["Que a justiça traz riqueza","Que a injustiça é fraca","Que as leis são injustas","Que a injustiça é o maior mal da alma e a justiça o seu maior bem, por si mesmas, mesmo ocultas aos deuses e aos homens"],"answer":3,"why":"Adimanto diz que ninguém demonstrou suficientemente que uma é o maior mal do espírito e a outra o seu maior bem, por seu próprio poder."},
+{"q":"O que aconteceria se desde a infância todos fossem convencidos desta verdade?","options":["Cada um seria o melhor guarda de si mesmo, por medo de viver com o maior dos males","Ninguém precisaria de leis","Todos seriam ricos","Todos seriam iguais"],"answer":0,"why":"Adimanto diz que cada um seria o melhor guarda de si, por temor de coabitar com o maior dos males."}
+],
+"summary":"Adimanto defende que ninguém é justo por vontade própria, só por fraqueza ou medo, e queixa-se de que nenhum defensor da justiça a louvou por si mesma, mas só pelas recompensas, quando seria isso que convenceria cada um a vigiar-se a si próprio."
+},
+{
+"id":"043",
+"title":"Livro II: o pedido de Adimanto",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Adimanto diz que isto, e mais, Trasímaco ou outro poderia dizer, invertendo de forma deplorável os poderes da justiça e da injustiça. Ele próprio quis ouvir Sócrates defender a tese contrária, e por isso empregou todas as suas forças na exposição. Pede a Sócrates que não se limite a provar que a justiça é mais forte do que a injustiça: que mostre os efeitos que cada uma produz, por si mesma, na alma onde se encontra, e que fazem de uma um bem e de outra um mal.",
+"Deve pôr de lado as reputações, verdadeiras e falsas, como Glauco aconselhou. Se as juntar, dirão que Sócrates não aprecia a justiça mas a aparência, que não censura a injustiça mas a aparência, que aconselha o injusto a esconder-se e que aceita, como Trasímaco, que a justiça é um bem alheio, vantajoso para o mais forte. Como Sócrates reconheceu que a justiça pertence à classe dos maiores bens, aqueles que se procuram pelas consequências e ainda mais por si mesmos, como a visão, a audição, a razão e a saúde, deve louvar na justiça o que ela tem de vantajoso para quem a possui, e condenar na injustiça o que tem de prejudicial. As recompensas e a reputação, que outros as louvem. Pede-lhe isto porque Sócrates passou a vida a analisar esta única questão.",
+"Original no teu PDF: Livro II, pp. 66 a 68."
+],
+"glossary":[
+{"t":"Deplorável","d":"lamentável, que causa pena."},
+{"t":"Reputações","d":"as boas ou más fama que os outros têm de alguém."},
+{"t":"Nocivo","d":"que faz mal, prejudicial."},
+{"t":"Vantajoso","d":"que traz proveito."},
+{"t":"Natureza","d":"o que algo é em si mesmo, a sua essência."}
+],
+"questions":[
+{"q":"O que pede Adimanto a Sócrates, além de provar que a justiça é mais forte do que a injustiça?","options":["Que mostre os efeitos que cada uma produz, por si, na alma onde se encontra, e que fazem de uma um bem e da outra um mal","Que elogie a riqueza","Que acabe a conversa","Que fale dos deuses"],"answer":0,"why":"Adimanto pede que Sócrates mostre os efeitos que a justiça e a injustiça produzem por si na alma que as possui."},
+{"q":"Que deve Sócrates pôr de lado, segundo o pedido?","options":["A razão","As reputações, verdadeiras e falsas","Os deuses","A cidade"],"answer":1,"why":"Adimanto diz que Sócrates deve pôr de lado as reputações, como lhe aconselhou Glauco."},
+{"q":"O que diriam de Sócrates se juntasse as reputações falsas?","options":["Que é um grande filósofo","Que é um mau retórico","Que não aprecia a justiça mas a aparência, e que aceita, como Trasímaco, que a justiça é um bem alheio, vantajoso para o mais forte","Que é um deus"],"answer":2,"why":"Adimanto diz que diriam que Sócrates louva a aparência e não a justiça, aceitando o que defendia Trasímaco."},
+{"q":"A que classe de bens reconheceu Sócrates que pertence a justiça?","options":["Aos prazeres inofensivos","Aos bens penosos","Aos bens só úteis pelas recompensas","Aos maiores bens, que se procuram pelas consequências e muito mais por si mesmos, como a visão, a audição, a razão e a saúde"],"answer":3,"why":"Adimanto lembra que Sócrates pôs a justiça na classe dos maiores bens, como a visão, a audição, a razão e a saúde."},
+{"q":"Porque diz Adimanto que só Sócrates deve fazer este louvor da justiça?","options":["Porque passou toda a vida a analisar esta única questão","Porque é o mais velho","Porque é o mais rico","Porque é o mais forte"],"answer":0,"why":"Adimanto diz que aceitaria que outros louvassem a justiça pelas recompensas, mas não Sócrates, que passou toda a vida a analisar esta questão."}
+],
+"summary":"Adimanto pede a Sócrates que mostre os efeitos da justiça e da injustiça na própria alma, pondo de lado as reputações e recompensas, e lembra que, se não o fizer, parecerá concordar com Trasímaco."
+},
+{
+"id":"044",
+"title":"Livro II: o método das letras grandes e pequenas",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates, arrebatado pelos discursos de Glauco e Adimanto, cujas qualidades sempre admirou, elogia-os: filhos de tal pai, como dizia a elegia que o apaixonado de Glauco lhe dedicou depois da batalha de Mégara. Acha divino que, falando assim, não estejam convencidos de que a injustiça vale mais do que a justiça, e julga, pelo resto do carácter deles, que não estão. Mas fica confuso quanto ao partido a tomar: por um lado, não sabe defender a justiça, pois quando pensava ter vencido Trasímaco, eles não aceitaram os seus argumentos; por outro, seria impiedade abandonar a justiça atacada na sua presença, enquanto lhe restar alento. Por isso, decide defendê-la o melhor que puder. Glauco e os outros pedem-lhe que investigue a natureza da justiça e da injustiça e a verdade das suas vantagens.",
+"Sócrates diz que a busca exige grande acuidade de espírito, que lhes falta, e propõe um método. Se mandassem pessoas de vista fraca ler letras miúdas, e alguém descobrisse as mesmas letras escritas noutro lugar em caracteres grandes, seria mais fácil ler primeiro as grandes e comparar depois com as pequenas. A justiça existe no indivíduo e também na cidade, e a cidade é maior; por isso, numa cidade a justiça é mais visível. Começarão por procurar a justiça na cidade e depois no indivíduo, para ver a semelhança entre a grande e a pequena. Adimanto concorda.",
+"Original no teu PDF: Livro II, pp. 68 e 69."
+],
+"glossary":[
+{"t":"Elegia","d":"poema de tom triste ou de homenagem."},
+{"t":"Mégara","d":"cidade grega, perto de Atenas, onde houve uma batalha."},
+{"t":"Impiedade","d":"falta de respeito pelo que é sagrado."},
+{"t":"Alento","d":"ânimo, força para continuar."},
+{"t":"Acuidade","d":"agudeza, capacidade de ver bem as coisas."},
+{"t":"Caracteres","d":"letras, sinais da escrita."}
+],
+"questions":[
+{"q":"Como reage Sócrates ao discurso dos dois irmãos?","options":["Com irritação","Arrebatado, admira-os e acha divino que, falando assim, não estejam convencidos de que a injustiça vale mais","Com indiferença","Ri-se deles"],"answer":1,"why":"Sócrates diz que existe algo de divino nos sentimentos deles se não estão convencidos do que dizem."},
+{"q":"Porque se sente confuso quanto ao partido a tomar?","options":["Porque não os conhece","Porque não gosta da justiça","Não sabe como defender a justiça, mas seria impiedade abandoná-la, enquanto lhe resta alento","Porque está cansado"],"answer":2,"why":"Sócrates diz que não se sente com forças para a defender, mas que seria impiedade abandoná-la quando atacada em sua presença."},
+{"q":"O que decide Sócrates fazer?","options":["Ir-se embora","Pedir ajuda a Trasímaco","Mudar de assunto","Defender a justiça o melhor que puder"],"answer":3,"why":"Sócrates diz que o melhor é defendê-la o melhor que puder, e Glauco e os outros pedem-lhe que o faça."},
+{"q":"Que comparação usa Sócrates para explicar o método?","options":["Ler primeiro as letras grandes e só depois comparar com as pequenas, quando se tem vista fraca","Contar até cem","Subir uma montanha","Medir um terreno"],"answer":0,"why":"Sócrates diz que é mais fácil ler primeiro as letras grandes e depois examinar as pequenas para ver se são iguais."},
+{"q":"Como aplica Sócrates essa comparação à justiça?","options":["Procurar a justiça primeiro no indivíduo, depois na cidade","Procurar a justiça primeiro na cidade, que é maior, e depois no indivíduo, para ver a semelhança entre a grande e a pequena","Procurar a justiça só nos deuses","Procurar a justiça só nas leis"],"answer":1,"why":"Como a cidade é maior do que o indivíduo, a justiça é mais visível nela, e por isso começarão por aí."}
+],
+"summary":"Sócrates, comovido, aceita defender a justiça e propõe um método: procurar primeiro a justiça na cidade, que é maior e mais visível, e só depois no indivíduo, para comparar a grande com a pequena."
 }
 ]
 }
