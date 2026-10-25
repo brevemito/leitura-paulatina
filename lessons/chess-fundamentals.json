@@ -691,6 +691,195 @@
 {"q":"Porque venceu Marshall, afinal?","options":["Porque as Pretas jogaram mal e não viram o lance que empatava","Porque o tempo acabou","Porque ofereceu empate","Porque trocou as Torres"],"answer":0,"why":"As Pretas não viram o lance que empatava, jogaram mal e perderam."}
 ],
 "summary":"Os finais de Torre e peões são os mais frequentes e dos mais traiçoeiros: mesmo com uma vitória simples à vista, escolher o lance errado pode dar ao adversário a hipótese de empatar."
+},
+{
+"id":"024",
+"title":"Mate com Bispo e Cavalo",
+"text":[
+"Antes de voltar ao meio-jogo e às aberturas, vejamos como se dá mate com Cavalo e Bispo e, depois, como se ganha com a Dama contra a Torre.",
+"Com um Cavalo e um Bispo, o mate só pode dar-se nos cantos da mesma cor do Bispo.",
+"O final divide-se em duas partes. A primeira consiste em empurrar o Rei preto para a última fila: começa-se, como se faz geralmente em todos estes casos, por avançar o Rei para o centro do tabuleiro. A segunda e última parte consiste em levar o Rei preto do canto onde está para um canto da cor do Bispo, onde se lhe dá mate.",
+"O final é bastante trabalhoso. Há duas características principais: o Rei segue de perto o Rei adversário, e o Cavalo e o Rei controlam, em conjunto, as casas de cor oposta à do Bispo. O aluno fará bem em exercitar-se metodicamente neste final, porque dá uma boa ideia do poder real das peças e exige previsão para dar o mate dentro dos cinquenta lances que as regras concedem."
+],
+"diagrams":[
+{"after":2,"title":"Mate com Bispo e Cavalo","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 15, Exemplo 39 (posição e linha do livro)","description":"O mate só pode dar-se num canto da cor do Bispo. Aqui o Bispo vai pelas casas escuras, por isso o mate é em a1 ou h8. Segue o Rei branco, que acompanha de perto.","orientation":"w","start":"4k3/8/8/8/8/8/8/2B1K1N1 w - - 0 1",
+"steps":[
+{"san":"Ke2","from":"e1","to":"e2","fen":"4k3/8/8/8/8/8/4K3/2B3N1 b - - 1 1","note":"Como em todos estes finais, começa-se por avançar o Rei para o centro do tabuleiro."},
+{"san":"Kd7","from":"e8","to":"d7","fen":"8/3k4/8/8/8/8/4K3/2B3N1 w - - 2 2"},
+{"san":"Kd3","from":"e2","to":"d3","fen":"8/3k4/8/8/8/3K4/8/2B3N1 b - - 3 2"},
+{"san":"Kc6","from":"d7","to":"c6","fen":"8/8/2k5/8/8/3K4/8/2B3N1 w - - 4 3","note":"As Pretas dirigem-se para o canto de casas brancas, para tornar o mate mais difícil. O mate só se pode dar num canto da cor do Bispo."},
+{"san":"Bf4","from":"c1","to":"f4","fen":"8/8/2k5/8/5B2/3K4/8/6N1 b - - 5 3"},
+{"san":"Kd5","from":"c6","to":"d5","fen":"8/8/8/3k4/5B2/3K4/8/6N1 w - - 6 4"},
+{"san":"Ne2","from":"g1","to":"e2","fen":"8/8/8/3k4/5B2/3K4/4N3/8 b - - 7 4"},
+{"san":"Kc5","from":"d5","to":"c5","fen":"8/8/8/2k5/5B2/3K4/4N3/8 w - - 8 5"},
+{"san":"Nc3","from":"e2","to":"c3","fen":"8/8/8/2k5/5B2/2NK4/8/8 b - - 9 5"},
+{"san":"Kb4","from":"c5","to":"b4","fen":"8/8/8/8/1k3B2/2NK4/8/8 w - - 10 6"},
+{"san":"Kd4","from":"d3","to":"d4","fen":"8/8/8/8/1k1K1B2/2N5/8/8 b - - 11 6"},
+{"san":"Ka5","from":"b4","to":"a5","fen":"8/8/8/k7/3K1B2/2N5/8/8 w - - 12 7"},
+{"san":"Kc5","from":"d4","to":"c5","fen":"8/8/8/k1K5/5B2/2N5/8/8 b - - 13 7"},
+{"san":"Ka6","from":"a5","to":"a6","fen":"8/8/k7/2K5/5B2/2N5/8/8 w - - 14 8"},
+{"san":"Kc6","from":"c5","to":"c6","fen":"8/8/k1K5/8/5B2/2N5/8/8 b - - 15 8"},
+{"san":"Ka7","from":"a6","to":"a7","fen":"8/k7/2K5/8/5B2/2N5/8/8 w - - 16 9"},
+{"san":"Nd5","from":"c3","to":"d5","fen":"8/k7/2K5/3N4/5B2/8/8/8 b - - 17 9"},
+{"san":"Ka8","from":"a7","to":"a8","fen":"k7/8/2K5/3N4/5B2/8/8/8 w - - 18 10","note":"Primeira parte concluída: o Rei preto está no canto de casas brancas."},
+{"san":"Nb6+","from":"d5","to":"b6","fen":"k7/8/1NK5/8/5B2/8/8/8 b - - 19 10","note":"Segunda parte: levar o Rei preto de a8 para a1, para dar mate nesse canto."},
+{"san":"Ka7","from":"a8","to":"a7","fen":"8/k7/1NK5/8/5B2/8/8/8 w - - 20 11"},
+{"san":"Bc7","from":"f4","to":"c7","fen":"8/k1B5/1NK5/8/8/8/8/8 b - - 21 11"},
+{"san":"Ka6","from":"a7","to":"a6","fen":"8/2B5/kNK5/8/8/8/8/8 w - - 22 12"},
+{"san":"Bb8","from":"c7","to":"b8","fen":"1B6/8/kNK5/8/8/8/8/8 b - - 23 12"},
+{"san":"Ka5","from":"a6","to":"a5","fen":"1B6/8/1NK5/k7/8/8/8/8 w - - 24 13"},
+{"san":"Nd5","from":"b6","to":"d5","fen":"1B6/8/2K5/k2N4/8/8/8/8 b - - 25 13"},
+{"san":"Ka4","from":"a5","to":"a4","fen":"1B6/8/2K5/3N4/k7/8/8/8 w - - 26 14"},
+{"san":"Kc5","from":"c6","to":"c5","fen":"1B6/8/8/2KN4/k7/8/8/8 b - - 27 14","note":"O Rei preto tenta ir para h1. Capablanca prefere este lance, o mais metódico, porque usa o Rei o mais possível."},
+{"san":"Kb3","from":"a4","to":"b3","fen":"1B6/8/8/2KN4/8/1k6/8/8 w - - 28 15"},
+{"san":"Nb4","from":"d5","to":"b4","fen":"1B6/8/8/2K5/1N6/1k6/8/8 b - - 29 15"},
+{"san":"Kc3","from":"b3","to":"c3","fen":"1B6/8/8/2K5/1N6/2k5/8/8 w - - 30 16"},
+{"san":"Bf4","from":"b8","to":"f4","fen":"8/8/8/2K5/1N3B2/2k5/8/8 b - - 31 16"},
+{"san":"Kb3","from":"c3","to":"b3","fen":"8/8/8/2K5/1N3B2/1k6/8/8 w - - 32 17"},
+{"san":"Be5","from":"f4","to":"e5","fen":"8/8/8/2K1B3/1N6/1k6/8/8 b - - 33 17"},
+{"san":"Ka4","from":"b3","to":"a4","fen":"8/8/8/2K1B3/kN6/8/8/8 w - - 34 18"},
+{"san":"Kc4","from":"c5","to":"c4","fen":"8/8/8/4B3/kNK5/8/8/8 b - - 35 18","note":"Dois traços principais: o Rei segue de perto, e o Cavalo e o Rei controlam em conjunto as casas de cor oposta à do Bispo."},
+{"san":"Ka5","from":"a4","to":"a5","fen":"8/8/8/k3B3/1NK5/8/8/8 w - - 36 19"},
+{"san":"Bc7+","from":"e5","to":"c7","fen":"8/2B5/8/k7/1NK5/8/8/8 b - - 37 19"},
+{"san":"Ka4","from":"a5","to":"a4","fen":"8/2B5/8/8/kNK5/8/8/8 w - - 38 20"},
+{"san":"Nd3","from":"b4","to":"d3","fen":"8/2B5/8/8/k1K5/3N4/8/8 b - - 39 20"},
+{"san":"Ka3","from":"a4","to":"a3","fen":"8/2B5/8/8/2K5/k2N4/8/8 w - - 40 21"},
+{"san":"Bb6","from":"c7","to":"b6","fen":"8/8/1B6/8/2K5/k2N4/8/8 b - - 41 21"},
+{"san":"Ka4","from":"a3","to":"a4","fen":"8/8/1B6/8/k1K5/3N4/8/8 w - - 42 22"},
+{"san":"Nb2+","from":"d3","to":"b2","fen":"8/8/1B6/8/k1K5/8/1N6/8 b - - 43 22"},
+{"san":"Ka3","from":"a4","to":"a3","fen":"8/8/1B6/8/2K5/k7/1N6/8 w - - 44 23"},
+{"san":"Kc3","from":"c4","to":"c3","fen":"8/8/1B6/8/8/k1K5/1N6/8 b - - 45 23"},
+{"san":"Ka2","from":"a3","to":"a2","fen":"8/8/1B6/8/8/2K5/kN6/8 w - - 46 24"},
+{"san":"Kc2","from":"c3","to":"c2","fen":"8/8/1B6/8/8/8/kNK5/8 b - - 47 24"},
+{"san":"Ka3","from":"a2","to":"a3","fen":"8/8/1B6/8/8/k7/1NK5/8 w - - 48 25"},
+{"san":"Bc5+","from":"b6","to":"c5","fen":"8/8/8/2B5/8/k7/1NK5/8 b - - 49 25"},
+{"san":"Ka2","from":"a3","to":"a2","fen":"8/8/8/2B5/8/8/kNK5/8 w - - 50 26"},
+{"san":"Nd3","from":"b2","to":"d3","fen":"8/8/8/2B5/8/3N4/k1K5/8 b - - 51 26"},
+{"san":"Ka1","from":"a2","to":"a1","fen":"8/8/8/2B5/8/3N4/2K5/k7 w - - 52 27"},
+{"san":"Bb4","from":"c5","to":"b4","fen":"8/8/8/8/1B6/3N4/2K5/k7 b - - 53 27"},
+{"san":"Ka2","from":"a1","to":"a2","fen":"8/8/8/8/1B6/3N4/k1K5/8 w - - 54 28"},
+{"san":"Nc1+","from":"d3","to":"c1","fen":"8/8/8/8/1B6/8/k1K5/2N5 b - - 55 28"},
+{"san":"Ka1","from":"a2","to":"a1","fen":"8/8/8/8/1B6/8/2K5/k1N5 w - - 56 29"},
+{"san":"Bc3#","from":"b4","to":"c3","fen":"8/8/8/8/8/2B5/2K5/k1N5 b - - 57 29","note":"Mate na jogada 29. Dá-se mate num canto da cor do Bispo, com o Rei, o Bispo e o Cavalo a trabalhar juntos."}
+]}
+],
+"glossary":[
+{"t":"Canto","d":"cada uma das quatro casas dos extremos do tabuleiro."},
+{"t":"Metódico","d":"feito com método, passo a passo."},
+{"t":"Previsão","d":"capacidade de ver os lances com antecedência."},
+{"t":"Regra dos cinquenta lances","d":"regra que permite exigir que o adversário dê mate em cinquenta lances; a contagem recomeça sempre que há troca de peça ou avanço de peão."},
+{"t":"Casas de cor oposta","d":"casas da cor contrária à do Bispo, que o Bispo não controla."}
+],
+"questions":[
+{"q":"Em que cantos se pode dar mate com Bispo e Cavalo?","options":["Em qualquer canto","Nos cantos da cor oposta à do Bispo","Nos cantos da mesma cor do Bispo","Só na última fila"],"answer":2,"why":"O texto diz que o mate só pode dar-se nos cantos da mesma cor do Bispo."},
+{"q":"Em quantas partes se divide o final?","options":["Em duas: levar o Rei preto à última fila e depois levá-lo ao canto certo","Em quatro","Numa só","Em três, sempre iguais"],"answer":0,"why":"O final tem duas partes: empurrar o Rei para a última fila e depois levá-lo ao canto da cor do Bispo."},
+{"q":"Como se começa, em geral, a primeira parte?","options":["Sacrificando o Bispo","Avançando o Rei para o centro do tabuleiro","Fazendo o roque","Trocando o Cavalo"],"answer":1,"why":"Começa-se, como em todos estes finais, por avançar o Rei para o centro."},
+{"q":"Quais são as duas características principais deste final?","options":["O Rei não se move e a Torre ataca","O Rei segue de perto o adversário, e Cavalo e Rei controlam as casas de cor oposta à do Bispo","O Bispo e o Cavalo trocam-se","Os peões fazem o mate"],"answer":1,"why":"O texto indica o Rei a seguir de perto e o controlo, pelo Cavalo e pelo Rei, das casas de cor oposta à do Bispo."},
+{"q":"Porque aconselha Capablanca exercitar-se neste final?","options":["Porque é curto","Porque dá uma boa ideia do poder real das peças e exige previsão para dar mate dentro dos cinquenta lances","Porque nunca aparece","Porque dispensa o Rei"],"answer":1,"why":"O autor diz que o final dá uma boa ideia do poder real das peças e exige previsão."}
+],
+"summary":"O mate com Bispo e Cavalo só se dá num canto da cor do Bispo, e exige método: o Rei acompanha de perto e, com o Cavalo, controla as casas que o Bispo não alcança."
+},
+{
+"id":"025",
+"title":"Dama contra Torre",
+"text":[
+"Este é um dos finais mais difíceis sem peões. Os recursos da defesa são muitos e, quando usados com habilidade, só um jogador muito bom ganhará dentro do limite de cinquenta lances que as regras permitem. (A regra é que, em qualquer momento, se pode exigir que o adversário dê mate em cinquenta lances; mas, de cada vez que se troca uma peça ou se avança um peão, a contagem recomeça.)",
+"No exemplo, a posição é das que as Pretas conseguem muitas vezes. É a vez das Brancas. Se fosse a vez das Pretas, seria simples, porque teriam de afastar a Torre do Rei, e a Torre seria então relativamente fácil de ganhar. Daqui se tira a conclusão de que o objectivo principal é obrigar a Torre preta a afastar-se do Rei que a defende; e, para a obrigar, é preciso chegar à posição do diagrama com a vez das Pretas.",
+"O lance que o principiante joga sempre, Dama para a6, parece forte mas leva a afogamento: o Rei preto fica sem lances depois de capturar a Torre que se sacrifica. É a armadilha em que o principiante cai invariavelmente.",
+"Concluída a primeira parte, vem a segunda. A Torre só pode ir para uma casa branca, isto é, clara, porque, de outro modo, o primeiro xeque da Dama a ganha."
+],
+"diagrams":[
+{"after":1,"title":"Dama contra Torre: afastar a Torre do Rei","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 16, Exemplo 40 (posição e linha do livro)","description":"É a vez das Brancas. O objectivo é chegar a esta mesma posição, mas com a vez das Pretas, para as obrigar a afastar a Torre do Rei.","orientation":"w","start":"1k6/1r6/2K5/Q7/8/8/8/8 w - - 0 1",
+"steps":[
+{"san":"Qe5+","from":"a5","to":"e5","fen":"1k6/1r6/2K5/4Q3/8/8/8/8 b - - 1 1","note":"Xeque que obriga o Rei preto a mover-se. Não se joga Da6: ver o diagrama seguinte."},
+{"san":"Ka8","from":"b8","to":"a8","fen":"k7/1r6/2K5/4Q3/8/8/8/8 w - - 2 2"},
+{"san":"Qa1+","from":"e5","to":"a1","fen":"k7/1r6/2K5/8/8/8/8/Q7 b - - 3 2"},
+{"san":"Kb8","from":"a8","to":"b8","fen":"1k6/1r6/2K5/8/8/8/8/Q7 w - - 4 3"},
+{"san":"Qa5","from":"a1","to":"a5","fen":"1k6/1r6/2K5/Q7/8/8/8/8 b - - 5 3","note":"Chegou-se à posição inicial, mas agora com a vez das Pretas: a Torre vai ter de se afastar do Rei. Primeira parte concluída."},
+{"san":"Rb3","from":"b7","to":"b3","fen":"1k6/8/2K5/Q7/8/1r6/8/8 w - - 6 4","note":"A Torre só pode ir para uma casa branca (clara); se fosse para outra, o primeiro xeque da Dama ganhava-a."},
+{"san":"Qe5+","from":"a5","to":"e5","fen":"1k6/8/2K5/4Q3/8/1r6/8/8 b - - 7 4"},
+{"san":"Ka8","from":"b8","to":"a8","fen":"k7/8/2K5/4Q3/8/1r6/8/8 w - - 8 5","note":"Melhor defesa."},
+{"san":"Qh8+","from":"e5","to":"h8","fen":"k6Q/8/2K5/8/8/1r6/8/8 b - - 9 5"},
+{"san":"Ka7","from":"a8","to":"a7","fen":"7Q/k7/2K5/8/8/1r6/8/8 w - - 10 6"},
+{"san":"Qg7+","from":"h8","to":"g7","fen":"8/k5Q1/2K5/8/8/1r6/8/8 b - - 11 6"},
+{"san":"Ka8","from":"a7","to":"a8","fen":"k7/6Q1/2K5/8/8/1r6/8/8 w - - 12 7"},
+{"san":"Qg8+","from":"g7","to":"g8","fen":"k5Q1/8/2K5/8/8/1r6/8/8 b - - 13 7"},
+{"san":"Rb8","from":"b3","to":"b8","fen":"kr4Q1/8/2K5/8/8/8/8/8 w - - 14 8"},
+{"san":"Qa2#","from":"g8","to":"a2","fen":"kr6/8/2K5/8/8/8/Q7/8 b - - 15 8","note":"Mate: a Torre ficou longe do seu Rei e a Dama, com o Rei branco, fecha todas as casas."}
+]},
+{"after":2,"title":"A armadilha em que o principiante cai sempre","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 16, Exemplo 40 (variante do livro)","description":"Na mesma posição, o lance natural Da6 leva a afogamento e a um empate imediato.","orientation":"w","start":"1k6/1r6/2K5/Q7/8/8/8/8 w - - 0 1",
+"steps":[
+{"san":"Qa6","from":"a5","to":"a6","fen":"1k6/1r6/Q1K5/8/8/8/8/8 b - - 1 1","note":"O lance que o principiante joga sempre: parece forte, mas é uma armadilha."},
+{"san":"Rc7+","from":"b7","to":"c7","fen":"1k6/2r5/Q1K5/8/8/8/8/8 w - - 2 2"},
+{"san":"Kb6","from":"c6","to":"b6","fen":"1k6/2r5/QK6/8/8/8/8/8 b - - 3 2"},
+{"san":"Rc6+","from":"c7","to":"c6","fen":"1k6/8/QKr5/8/8/8/8/8 w - - 4 3"},
+{"san":"Kxc6","from":"b6","to":"c6","fen":"1k6/8/Q1K5/8/8/8/8/8 b - - 0 3","note":"Afogamento: o Rei preto não tem nenhum lance e não está em xeque. A partida acaba empatada."}
+]}
+],
+"glossary":[
+{"t":"Recursos","d":"meios de defesa de que o lado mais fraco dispõe."},
+{"t":"Defesa","d":"o lado que tenta evitar a derrota."},
+{"t":"Afogamento","d":"situação em que o jogador não tem lance legal e o Rei não está em xeque; é empate."},
+{"t":"Invariavelmente","d":"sem excepção, sempre."},
+{"t":"Casa branca","d":"casa clara do tabuleiro."}
+],
+"questions":[
+{"q":"Como descreve o autor este final?","options":["Muito fácil","Um dos finais mais difíceis sem peões; os recursos da defesa são muitos","Impossível de ganhar","Um final só para mestres"],"answer":1,"why":"O texto diz que é um dos finais mais difíceis sem peões, com muitos recursos de defesa."},
+{"q":"O que diz a regra dos cinquenta lances?","options":["Que a partida acaba em cinquenta lances","Que se pode exigir que o adversário dê mate em cinquenta lances, e que a contagem recomeça com uma troca de peça ou o avanço de um peão","Que cada jogador tem cinquenta lances","Que só se pode capturar uma vez"],"answer":1,"why":"O autor explica a regra e que a contagem recomeça sempre que se troca uma peça ou se avança um peão."},
+{"q":"Qual é o objectivo principal de quem joga com a Dama?","options":["Capturar o Rei","Obrigar a Torre preta a afastar-se do Rei que a defende","Trocar a Dama pela Torre","Avançar o Rei branco o mais possível"],"answer":1,"why":"O objectivo é obrigar a Torre a afastar-se do Rei que a defende."},
+{"q":"Em que armadilha cai sempre o principiante?","options":["Dama para a6, que leva a afogamento","Dar xeque com a Dama","Trocar as Damas","Jogar o Rei para o centro"],"answer":0,"why":"O lance da Dama para a6 parece forte mas termina em afogamento, e o principiante cai sempre nele."},
+{"q":"Na segunda parte, para que casas só pode ir a Torre?","options":["Para casas pretas","Para casas brancas, senão o primeiro xeque da Dama ganha-a","Para qualquer casa","Para a primeira fila"],"answer":1,"why":"A Torre só pode ir para uma casa branca, porque de outro modo o primeiro xeque da Dama ganha-a."}
+],
+"summary":"Com Dama contra Torre, o segredo é chegar à posição certa com a vez das Pretas, para as obrigar a afastar a Torre do Rei; e evitar a armadilha do afogamento."
+},
+{
+"id":"026",
+"title":"Defender com a iniciativa",
+"text":[
+"Num final de duas Torres e peões, jogado por Capablanca contra Kreymborg no torneio do campeonato do Estado de Nova Iorque, em 1910, as Pretas, sem dúvida a pensar que empatar seria fácil, adoptaram uma política de espera. Era tudo o que pretendiam: empatar.",
+"Tal conduta deve ser sempre criticada, porque muitas vezes leva ao desastre. A melhor maneira de defender tais posições é tomar a iniciativa e manter o adversário na defensiva.",
+"O primeiro lance das Pretas já é errado: não há nada a ganhar com ele. Deviam jogar o peão da torre da Dama duas casas e depois avançá-lo outra vez, a não ser que as Brancas jogassem o peão do Cavalo da Dama, o que fixaria esse flanco. Depois, poderiam decidir que demonstração fazer com as Torres, para manter as Torres adversárias à distância."
+],
+"glossary":[
+{"t":"Política de espera","d":"jogar sem plano, à espera de que o adversário erre."},
+{"t":"Iniciativa","d":"a vantagem de quem ataca e obriga o adversário a responder."},
+{"t":"Na defensiva","d":"a defender-se, sem atacar."},
+{"t":"Fixar","d":"impedir que se mova ou que avance."},
+{"t":"Demonstração","d":"movimento feito para atrair as forças do adversário."}
+],
+"questions":[
+{"q":"O que fizeram as Pretas, no jogo Capablanca contra Kreymborg?","options":["Atacaram com todas as peças","Adoptaram uma política de espera, a pensar que empatar seria fácil","Ofereceram empate logo","Trocaram as Torres"],"answer":1,"why":"As Pretas jogaram a pensar que empatar seria fácil e contentaram-se com uma política de espera."},
+{"q":"O que diz Capablanca de tal conduta?","options":["Que é correcta","Que deve ser sempre criticada, porque muitas vezes leva ao desastre","Que é a mais segura","Que só serve nos finais"],"answer":1,"why":"O autor afirma que tal conduta deve ser sempre criticada, porque muitas vezes leva ao desastre."},
+{"q":"Qual é, segundo o autor, a melhor maneira de defender tais posições?","options":["Esperar sem fazer nada","Tomar a iniciativa e manter o adversário na defensiva","Trocar todas as peças","Avançar o Rei"],"answer":1,"why":"A melhor defesa é tomar a iniciativa e manter o adversário na defensiva."},
+{"q":"O que diz o autor sobre o primeiro lance das Pretas?","options":["Que foi o melhor","Que já é errado: não há nada a ganhar com ele","Que foi um sacrifício","Que ganhou um peão"],"answer":1,"why":"O primeiro lance já é errado: não se ganha nada com ele."},
+{"q":"Para que serviria a demonstração com as Torres?","options":["Para trocar as Torres","Para manter as Torres adversárias à distância","Para dar mate","Para fazer o roque"],"answer":1,"why":"A demonstração serviria para manter as Torres adversárias à distância."}
+],
+"summary":"Mesmo para defender um final aparentemente empatado, o melhor é tomar a iniciativa: a política de espera dá ao adversário tempo para encontrar o plano vencedor."
+},
+{
+"id":"027",
+"title":"Torre e Bispo contra Torre e Cavalo",
+"text":[
+"Vejamos um final de Torre, Bispo e peões contra Torre, Cavalo e peões, do primeiro jogo do match de campeonato Lasker–Marshall, em 1907, em que se vê que a Torre é usada, por vezes, do mesmo modo que nos finais anteriores.",
+"Na posição, a vez é das Pretas. A um principiante pode parecer empatada, mas o jogador avançado percebe logo que as Pretas têm grandes possibilidades de ganhar, não só porque têm a iniciativa, mas porque o flanco da Dama das Brancas está por desenvolver e porque, numa posição assim, um Bispo é melhor do que um Cavalo.",
+"Vai demorar algum tempo até as Brancas levarem a Torre e o Cavalo para a luta, e as Pretas podem aproveitar esse tempo. Há dois caminhos. O mais evidente, que a maioria dos jogadores seguiria, é avançar já o peão da coluna do Bispo da Dama, em conjunto com o xeque do Bispo. O outro, mais subtil, foi o escolhido: usar a Torre como nos finais anteriores, obrigando as Brancas a defender sempre alguma coisa, restringindo a acção do Cavalo e da Torre brancos e mantendo a liberdade de acção da Torre e do Bispo.",
+"Um dos lances obriga as Brancas a jogar o peão do Cavalo da Dama uma casa, o que bloqueia essa casa ao Cavalo branco. Noutro, a Torre preta ataca os peões do flanco do Rei das Brancas, para forçar o Rei a ir defendê-los e, assim, tornar indirectamente mais segura a posição dos peões pretos do flanco da Dama."
+],
+"glossary":[
+{"t":"Match","d":"disputa entre dois jogadores, em vários jogos."},
+{"t":"Subtil","d":"fino, inteligente, pouco evidente."},
+{"t":"Restringir","d":"limitar, reduzir o espaço de acção."},
+{"t":"Liberdade de acção","d":"espaço e meios para as peças se moverem sem estorvo."},
+{"t":"Flanco da Dama","d":"o lado do tabuleiro onde estão a Dama e as colunas a, b e c."}
+],
+"questions":[
+{"q":"Porque têm as Pretas grandes possibilidades de ganhar, na posição analisada?","options":["Porque têm mais peões","Porque têm a iniciativa, o flanco da Dama das Brancas está por desenvolver e um Bispo é melhor do que um Cavalo","Porque as Brancas estão em xeque","Porque têm duas Torres"],"answer":1,"why":"O texto dá três razões: a iniciativa, o flanco da Dama por desenvolver e a superioridade do Bispo sobre o Cavalo."},
+{"q":"Como pode a posição parecer a um principiante?","options":["Ganha","Empatada","Perdida para as Pretas","Impossível"],"answer":1,"why":"A um principiante a posição pode parecer empatada."},
+{"q":"Qual é o caminho mais evidente, que a maioria dos jogadores seguiria?","options":["Avançar já o peão da coluna do Bispo da Dama, em conjunto com o xeque do Bispo","Trocar as Torres","Avançar o Rei","Fazer o roque"],"answer":0,"why":"O caminho mais evidente é avançar o peão em conjunto com o xeque do Bispo."},
+{"q":"Em que consiste o caminho mais subtil, escolhido pelas Pretas?","options":["Em usar a Torre para obrigar as Brancas a defender sempre algo, restringindo a acção da Torre e do Cavalo brancos e mantendo a liberdade da Torre e do Bispo","Em sacrificar o Bispo","Em trocar a Dama","Em esperar sem fazer nada"],"answer":0,"why":"A Torre preta obriga as Brancas a defender sempre alguma coisa, restringindo a acção das peças brancas e mantendo livres a Torre e o Bispo."},
+{"q":"O que consegue a Torre preta ao atacar os peões do flanco do Rei das Brancas?","options":["Força o Rei branco a ir defendê-los, o que torna mais segura a posição dos peões pretos do flanco da Dama","Dá mate","Troca a Torre","Liberta o Cavalo branco"],"answer":0,"why":"O Rei branco tem de ir defender esses peões, e assim, indirectamente, a posição dos peões pretos do flanco da Dama fica mais segura."}
+],
+"summary":"Mesmo em finais de aparência equilibrada, a Torre activa e o Bispo bem usado dão vantagem a quem tem a iniciativa: obriga-se o adversário a defender-se o tempo todo."
 }
 ]
 }
