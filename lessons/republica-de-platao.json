@@ -897,6 +897,110 @@
 {"q":"E o justo perfeito, na comparação de Glauco?","options":["É rico e famoso","Quer ser bom e não parecer, e é despojado de toda a aparência de justiça, com fama de injusto","É um tirano","Esconde as suas acções"],"answer":1,"why":"Glauco quer o justo simples, que quer ser e não parecer bom, sem as honrarias, para provar que a sua virtude não depende da reputação."}
 ],
 "summary":"Com dois anéis iguais, Glauco sugere que ninguém seria justo se pudesse agir impunemente, e propõe comparar o injusto perfeito, que parece justo, com o justo perfeito, que tem fama de injusto, para ver qual é mais feliz."
+},
+  {
+"id":"037",
+"title":"Livro II: o destino do justo e do injusto",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Glauco descreve, em nome dos que preferem a injustiça, o que espera os dois homens. O justo, que tem fama de injusto, será açoitado, torturado, acorrentado, terá os olhos queimados e, por fim, será crucificado. Aprenderá, assim, que não se deve querer ser justo, mas parecê-lo. As palavras do poeta sobre colher os frutos dos bons projectos aplicam-se melhor ao injusto, que vive de acordo com a verdade e não pelas aparências.",
+"O injusto governa a cidade graças à fama de justo, casa onde quer, associa-se com quem lhe agrada e tira proveito de tudo, porque não tem escrúpulos. Nos conflitos, vence o adversário e enriquece, ajuda os amigos e prejudica os inimigos. Oferece sacrifícios e presentes aos deuses com fartura e, por isso, agrada-lhes mais do que o justo. Conclusão desta doutrina: deuses e homens proporcionam ao injusto uma vida melhor do que ao justo.",
+"Original no teu PDF: Livro II, pp. 59 e 60."
+],
+"glossary":[
+{"t":"Açoitar","d":"bater com chicote."},
+{"t":"Crucificar","d":"pregar numa cruz, castigo antigo."},
+{"t":"Escrúpulos","d":"dúvidas morais, receio de fazer mal."},
+{"t":"Prodigalidade","d":"generosidade em excesso, fartura."},
+{"t":"Magnificência","d":"grande riqueza, esplendor."},
+{"t":"Seara","d":"campo de cereais pronto para a colheita."}
+],
+"questions":[
+{"q":"Que destino descreve Glauco para o justo que tem fama de injusto?","options":["Será premiado pela cidade","Será açoitado, torturado, acorrentado, terá os olhos queimados e, por fim, será crucificado","Será exilado em paz","Será ignorado por todos"],"answer":1,"why":"Glauco descreve uma série de castigos que o justo com fama de injusto sofrerá, até ser crucificado."},
+{"q":"Que lição tiram, desse destino, os partidários da injustiça?","options":["Que não se deve querer ser justo, mas parecê-lo","Que é preciso ser sempre justo","Que a fama não importa","Que os deuses protegem o justo"],"answer":0,"why":"Segundo eles, o justo aprenderá que não se deve querer ser justo, mas parecê-lo."},
+{"q":"Como vive o injusto que tem fama de justo?","options":["Pobre e escondido","Em prisão","Governa a cidade, casa onde quer, associa-se com quem lhe agrada e enriquece","Só e sem amigos"],"answer":2,"why":"Glauco diz que ele governa, arranja mulher onde lhe apraz, faz associações e prevalece sobre os adversários."},
+{"q":"O que oferece o injusto aos deuses, segundo esta doutrina?","options":["Nada","Orações simples","Promessas vazias","Sacrifícios e presentes com fartura, e por isso lhes agrada mais do que o justo"],"answer":3,"why":"Glauco diz que o injusto oferece sacrifícios e presentes com prodigalidade e magnificência e concilia os deuses melhor do que o justo."},
+{"q":"Que conclusão tiram os que defendem esta doutrina?","options":["Que deuses e homens dão ao injusto uma vida melhor do que ao justo","Que os deuses castigam o injusto","Que a justiça compensa sempre","Que os homens são todos iguais"],"answer":0,"why":"Glauco conclui, em nome deles, que os deuses e os homens proporcionam ao injusto uma vida melhor do que ao justo."}
+],
+"summary":"Glauco descreve os castigos do justo com fama de injusto e a vida próspera do injusto com fama de justo, para mostrar o que dizem os que acham que a injustiça compensa."
+},
+{
+"id":"038",
+"title":"Livro II: Adimanto e o elogio da justiça pelas recompensas",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Quando Glauco acaba, Sócrates ia responder, mas Adimanto, seu irmão, intervém: o ponto essencial foi omitido. Sócrates diz que, segundo o provérbio, o irmão deve socorrer o irmão, e que Glauco já disse o suficiente para o deixar sem defesa. Adimanto responde que é uma desculpa inútil e que vai expor a tese contrária, a dos que elogiam a justiça e censuram a injustiça.",
+"Segundo Adimanto, os pais recomendam aos filhos que sejam justos, e assim fazem todos os que têm a seu cargo a educação das almas, mas não elogiam a justiça em si: elogiam a reputação que ela traz, porque quem parece justo obtém cargos, alianças e outras vantagens. Vão ainda mais longe com os benefícios da aparência. Hesíodo diz que, para os justos, os carvalhos se carregam de bolotas e as ovelhas pesam com o velo; e Homero fala de um rei irrepreensível, que teme os deuses e cuja terra dá trigo e cevada, o rebanho cresce e o mar oferece peixes.",
+"Original no teu PDF: Livro II, pp. 60 e 61."
+],
+"glossary":[
+{"t":"Provérbio","d":"frase popular que resume um conselho."},
+{"t":"Omitido","d":"deixado de fora, esquecido."},
+{"t":"Reputação","d":"fama, a imagem que os outros têm de alguém."},
+{"t":"Hesíodo","d":"poeta grego que escreveu sobre o trabalho e os deuses."},
+{"t":"Homero","d":"poeta grego, autor da Ilíada e da Odisseia."},
+{"t":"Irrepreensível","d":"que não merece qualquer censura."}
+],
+"questions":[
+{"q":"Quem interrompe Sócrates, e que diz?","options":["Trasímaco, que Sócrates está errado","Céfalo, que quer sair","Adimanto, irmão de Glauco, que o ponto essencial foi omitido","Polemarco, que a conversa já acabou"],"answer":2,"why":"Adimanto pergunta se Sócrates acha que a questão foi suficientemente desenvolvida e diz que o ponto essencial foi omitido."},
+{"q":"Que tese quer expor Adimanto?","options":["A mesma de Glauco","A de Trasímaco","Nenhuma tese","A contrária: a dos que elogiam a justiça e censuram a injustiça"],"answer":3,"why":"Adimanto diz que é preciso expor a tese contrária à que Glauco defendeu, a dos que elogiam a justiça e censuram a injustiça."},
+{"q":"O que elogiam os pais, quando recomendam aos filhos que sejam justos?","options":["A reputação que a justiça acarreta, e não a justiça em si","A justiça em si mesma","A riqueza dos deuses","A força da cidade"],"answer":0,"why":"Adimanto diz que os pais elogiam a reputação que a justiça traz, para que quem parece justo obtenha cargos, alianças e outras vantagens."},
+{"q":"Que prémios para os justos cita Hesíodo?","options":["Ouro e prata","Carvalhos carregados de bolotas e abelhas no tronco, e ovelhas pesadas de velo","Palácios e escravos","Fama e glória"],"answer":1,"why":"Hesíodo diz que os deuses fazem os carvalhos carregar bolotas, as abelhas encher o tronco e as ovelhas dobrar-se ao peso do velo."},
+{"q":"Que bens traz, segundo Homero, ao rei irrepreensível, que teme os deuses?","options":["A terra produz trigo e cevada, as árvores vergam com frutos, o rebanho cresce e o mar dá peixes","Um exército invencível","A amizade de todos os reis","Uma vida sem trabalho"],"answer":0,"why":"Homero fala de um rei justo para quem a terra dá trigo e cevada, as árvores frutos, o rebanho cresce e o mar oferece os seus peixes."}
+],
+"summary":"Adimanto retoma a defesa tradicional da justiça e mostra que, até nos pais e nos poetas, ela é elogiada sobretudo pelas recompensas e pela reputação que traz, e não por si mesma."
+},
+{
+"id":"039",
+"title":"Livro II: recompensas no Hades e injustiça fácil",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Adimanto continua: Museu e o filho prometem aos justos recompensas ainda maiores, vindas dos deuses. Levam-nos aos Campos Elísios, ao banquete dos virtuosos, onde, coroados de flores, passam o tempo embriagados, como se a mais bela recompensa da virtude fosse uma embriaguez eterna. Outros prolongam as recompensas: o homem piedoso e fiel aos juramentos revive nos filhos dos seus filhos. Aos ímpios e injustos, mergulham-nos na lama do Hades e condenam-nos a transportar água num crivo; em vida, condenam-nos à infâmia, e os castigos são os mesmos que Glauco enumerou para o justo que parece injusto.",
+"Adimanto traz ainda outra concepção, a do povo e dos poetas. Todos celebram a temperança e a justiça como boas, mas dizem que são difíceis e penosas; e acham a intemperança e a injustiça agradáveis e fáceis, vergonhosas apenas pela opinião pública e pela lei. As acções injustas, dizem, são mais proveitosas do que as justas. Proclamam felizes e honram os maus quando são ricos ou poderosos, e desprezam os bons que são fracos e pobres, mesmo reconhecendo que são melhores. O mais estranho é o que dizem dos deuses: que reservaram muitas vezes aos homens virtuosos o infortúnio e uma vida miserável, e aos maus a sorte contrária.",
+"Original no teu PDF: Livro II, pp. 61 e 62."
+],
+"glossary":[
+{"t":"Campos Elísios","d":"na mitologia grega, lugar de descanso dos virtuosos depois da morte."},
+{"t":"Piedoso","d":"que respeita os deuses e cumpre os seus deveres religiosos."},
+{"t":"Crivo","d":"peneira, objecto cheio de buracos."},
+{"t":"Infâmia","d":"grande desonra, má fama."},
+{"t":"Temperança","d":"moderação, domínio sobre os desejos."},
+{"t":"Intemperança","d":"falta de moderação, excesso."}
+],
+"questions":[
+{"q":"Que recompensa dão Museu e o filho aos justos, segundo Adimanto?","options":["Riquezas na terra","Uma vida longa","Levam-nos aos Campos Elísios, onde, coroados de flores, passam o tempo num banquete e embriaguez eterna","Uma cidade só deles"],"answer":2,"why":"Adimanto diz que os conduzem ao banquete dos virtuosos, onde passam o tempo coroados de flores e embriagados."},
+{"q":"Que outra recompensa prometem ao homem piedoso e fiel aos juramentos?","options":["Revive nos filhos dos seus filhos e na sua posteridade","Torna-se rei","Nunca morre","Ganha muita riqueza"],"answer":0,"why":"Dizem que o homem piedoso e fiel aos juramentos revive nos filhos dos seus filhos."},
+{"q":"Que castigo reservam aos ímpios e injustos?","options":["Exílio","Perderem a memória","Serem esquecidos","Mergulham-nos na lama do Hades e condenam-nos a transportar água num crivo, e à infâmia em vida"],"answer":3,"why":"O texto fala da lama do Hades, do crivo com água e da infâmia durante a vida."},
+{"q":"Como descrevem o povo e os poetas a temperança e a justiça, e a injustiça?","options":["Ambas difíceis e penosas","A justiça boa mas difícil e penosa, e a injustiça agradável e fácil, vergonhosa só pela opinião e pela lei","Ambas fáceis e agradáveis","A injustiça difícil e a justiça fácil"],"answer":1,"why":"Adimanto diz que celebram a justiça e a temperança como boas, mas penosas, e a injustiça como agradável, de fácil domínio e vergonhosa só pela opinião pública e pela lei."},
+{"q":"O que acham estranho nos discursos sobre os deuses e a virtude?","options":["Que os deuses não existam","Que os deuses reservem muitas vezes aos virtuosos o infortúnio e uma vida miserável, e aos maus a sorte contrária","Que os deuses castiguem sempre os maus","Que os deuses falem aos homens"],"answer":1,"why":"Adimanto diz que dizem que os próprios deuses reservaram aos homens virtuosos o infortúnio e uma vida miserável, e aos maus a sorte contrária."}
+],
+"summary":"Adimanto mostra que os poetas prometem prémios no Hades aos justos e castigos aos injustos, mas que o povo acha a justiça penosa e a injustiça fácil e proveitosa, e que até os deuses parecem favorecer os maus."
+},
+{
+"id":"040",
+"title":"Livro II: sacerdotes, poetas e a compra da absolvição",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Adimanto fala dos sacerdotes mendigos e dos adivinhos que vão às portas dos ricos e os convencem de que têm dos deuses o poder de reparar, com sacrifícios e encantamentos acompanhados de prazeres e festas, as faltas deles ou dos seus antepassados. Por uma quantia pequena, dizem poder prejudicar um inimigo, justo ou injusto, através de evocações e fórmulas mágicas, porque convencem os deuses a pô-los ao seu serviço.",
+"Para apoiar estas ideias, invocam os poetas. Uns falam da facilidade do vício: o caminho do mal é suave e fica perto, mas diante da virtude os deuses puseram suor e trabalho. Outros, para provar que os homens podem influenciar os deuses, citam versos de Homero: os deuses deixam-se dobrar, e o homem aplaca-lhes a ira com sacrifícios, preces, libações e a fumaça das vítimas. Apresentam também livros atribuídos a Museu e a Orfeu, segundo os quais se pode ser absolvido e purificado dos crimes, em vida ou depois da morte, através de sacrifícios e festas a que chamam mistérios. Estas práticas livram dos males do outro mundo; quem as desprezar espera-o terríveis suplícios.",
+"Original no teu PDF: Livro II, pp. 62 e 63."
+],
+"glossary":[
+{"t":"Adivinho","d":"quem diz adivinhar o futuro ou a vontade dos deuses."},
+{"t":"Evocações","d":"chamadas de espíritos ou de deuses, por palavras rituais."},
+{"t":"Aplacar","d":"acalmar, tornar mais brando."},
+{"t":"Libações","d":"oferendas de líquidos, como vinho, aos deuses."},
+{"t":"Absolvido","d":"perdoado, livre de culpa."},
+{"t":"Mistérios","d":"cerimónias religiosas secretas, a que só alguns tinham acesso."}
+],
+"questions":[
+{"q":"O que prometem os sacerdotes mendigos e adivinhos aos ricos, segundo Adimanto?","options":["Poder reparar faltas, deles ou dos antepassados, por meio de sacrifícios e encantamentos","Longa vida","Muitos filhos","Conselhos de governo"],"answer":0,"why":"Adimanto diz que convencem os ricos de que têm dos deuses o poder de reparar as faltas, por meio de sacrifícios e encantamentos."},
+{"q":"O que dizem poder fazer a um inimigo, por pouco dinheiro?","options":["Dar-lhe riqueza","Causar-lhe dano, seja ele justo ou injusto, por evocações e fórmulas mágicas","Perdoar-lhe","Curá-lo"],"answer":1,"why":"Adimanto diz que, por pouco dinheiro, dizem poder prejudicar quem quer que seja, justo ou injusto, com evocações e fórmulas."},
+{"q":"O que dizem os versos sobre o caminho do mal e o da virtude?","options":["Ambos são fáceis","O da virtude é fácil, o do mal difícil","O caminho do mal é suave e fácil, e diante da virtude os deuses puseram suor e trabalho","Ambos são impossíveis"],"answer":2,"why":"Os versos dizem que se vai facilmente para o mal e que diante da virtude os deuses colocaram suor e trabalho."},
+{"q":"O que dizem os versos de Homero sobre os deuses?","options":["Que são inflexíveis","Que não existem","Que castigam sempre","Que se deixam dobrar, aplacados por sacrifícios, preces, libações e a fumaça das vítimas"],"answer":3,"why":"Os versos dizem que os deuses se deixam dobrar e que o homem lhes aplaca a ira com sacrifícios, preces e libações."},
+{"q":"O que prometem os livros atribuídos a Museu e Orfeu?","options":["Que se pode ser absolvido e purificado dos crimes, em vida ou depois da morte, por sacrifícios e festas a que chamam mistérios","Que todos serão castigados","Que os deuses desaparecerão","Que ninguém morre"],"answer":0,"why":"Adimanto diz que esses livros convencem pessoas e cidades de que se pode ser absolvido e purificado dos crimes através dos mistérios."}
+],
+"summary":"Adimanto mostra que sacerdotes, adivinhos e poetas ensinam que os deuses se deixam comprar com sacrifícios e festas, e que assim se pode ser absolvido dos crimes, o que torna a injustiça menos arriscada."
 }
 ]
 }
