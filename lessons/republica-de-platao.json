@@ -794,6 +794,109 @@
 {"q":"Qual era a questão original que Sócrates diz não ter resolvido?","options":["A natureza da justiça, o que ela é","A riqueza dos governantes","O poder do mais forte","A idade dos deuses"],"answer":0,"why":"Sócrates diz que não encontrou o que procurava a princípio: a natureza da justiça."}
 ],
 "summary":"Sócrates reconhece que, apesar de ter mostrado que a justiça compensa, saltou de questão em questão e não sabe ainda o que é a justiça, deixando o Livro I sem uma definição."
+},
+  {
+"id":"033",
+"title":"Livro II: Glauco desafia Sócrates",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates pensava ter terminado a discussão, mas era só um prelúdio: Glauco não aceita a retirada de Trasímaco e pergunta se Sócrates quer só fingir que os convenceu ou convencê-los de verdade de que é melhor ser justo. Para esclarecer, Glauco distingue três espécies de bens: os que amamos só por si mesmos, como a alegria e os prazeres inofensivos; os que amamos por si e pelas consequências, como o bom senso, a visão e a saúde; e os que só procuramos pelas recompensas, como a ginástica, o tratamento de uma doença ou um trabalho lucrativo.",
+"Sócrates coloca a justiça na mais bela espécie, a dos bens que se amam por si e pelo que trazem. Glauco diz que a maioria a põe na terceira, entre os bens penosos, cultivados só pelas recompensas. E acha que Trasímaco cedeu depressa de mais, fascinado por Sócrates como uma serpente. Quer conhecer a natureza da justiça e da injustiça em si mesmas, na alma, sem recompensas nem consequências. Para isso, propõe retomar o argumento de Trasímaco: dizer o que geralmente se entende por justiça e qual é a sua origem; que quem a pratica o faz por necessidade e não por vontade; e que a vida do injusto é, de facto, melhor do que a do justo. Não pensa assim, mas gostaria de ouvir um elogio verdadeiro da justiça, e é de Sócrates que o espera.",
+"Original no teu PDF: Livro II, pp. 53 a 55."
+],
+"glossary":[
+{"t":"Prelúdio","d":"início, introdução do que vem a seguir."},
+{"t":"Inofensivo","d":"que não faz mal a ninguém."},
+{"t":"Consequências","d":"o que resulta de uma acção."},
+{"t":"Penoso","d":"difícil, que custa e cansa."},
+{"t":"Recompensa","d":"prémio por uma acção."},
+{"t":"Elogio","d":"louvor, palavras de apreço."}
+],
+"questions":[
+{"q":"Que três espécies de bens distingue Glauco?","options":["Os que se amam por si mesmos; os que se amam por si e pelas consequências; e os que só se procuram pelas recompensas","Os bens da cidade, da casa e do corpo","Os bens de ouro, de prata e de bronze","Os bens dos ricos, dos pobres e dos sábios"],"answer":0,"why":"Glauco fala de bens amados por si, bens amados por si e pelas consequências, e bens procurados só pelas recompensas."},
+{"q":"Em que espécie de bens põe Sócrates a justiça?","options":["Só nos amados pelas recompensas","Nos amados por si mesmos e também pelas suas consequências","Nos que só se amam por si","Em nenhuma"],"answer":1,"why":"Sócrates coloca a justiça na mais bela espécie, a dos bens que se amam por si e pelas suas consequências."},
+{"q":"Onde põe a maioria dos homens a justiça, segundo Glauco?","options":["Entre os bens que se amam por si","Entre os prazeres","Entre os bens penosos, cultivados só pelas recompensas e evitados por si mesmos","Entre os bens inúteis"],"answer":2,"why":"Glauco diz que a maioria a põe entre os bens penosos, que se cultivam pelas recompensas e se evitam por serem difíceis."},
+{"q":"Porque não ficou Glauco satisfeito com a conversa com Trasímaco?","options":["Porque achou que Sócrates tinha razão em tudo","Porque Trasímaco falou demais","Porque queria dinheiro","Porque achou que Trasímaco cedeu depressa de mais, e quer conhecer a natureza da justiça em si, sem recompensas"],"answer":3,"why":"Glauco diz que Trasímaco cedeu mais depressa do que devia e que quer conhecer a justiça e a injustiça em si mesmas."},
+{"q":"Que pede Glauco a Sócrates, apesar de não pensar como Trasímaco?","options":["Um elogio verdadeiro da justiça, ela mesma por si","Um elogio da injustiça","Dinheiro","Que se cale"],"answer":0,"why":"Glauco diz que ainda não ouviu ninguém elogiar a justiça em si e por si, e espera esse elogio sobretudo de Sócrates."}
+],
+"summary":"Glauco distingue três espécies de bens, diz que a maioria trata a justiça como um bem penoso, e desafia Sócrates a defender a justiça em si mesma, sem recompensas, depois de expor o melhor argumento a favor da injustiça."
+},
+{
+"id":"034",
+"title":"Livro II: a origem da justiça",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Glauco começa pela natureza e pela origem da justiça, segundo a opinião comum. Os homens dizem que cometer injustiça é bom e sofrê-la é mau, mas que o mal de a sofrer é maior do que o bem de a cometer. Depois de experimentarem uma e outra coisa, os que não conseguem evitar a segunda nem escolher só a primeira acham útil entender-se para não voltarem a cometer nem a sofrer injustiças. Daí nasceram as leis e as convenções, e passou a chamar-se legítimo e justo ao que a lei prescreve.",
+"Assim, a justiça fica entre o maior bem, cometer injustiça impunemente, e o maior mal, sofrê-la sem poder vingar-se. É apreciada não como um bem em si, mas porque a incapacidade de cometer injustiça lhe dá valor. Quem pode praticar a injustiça sem castigo jamais faria um acordo para não a cometer nem sofrer, porque seria louco. Esta é, diz Glauco, a natureza e a origem da justiça, segundo a opinião comum.",
+"Original no teu PDF: Livro II, pp. 55 e 56."
+],
+"glossary":[
+{"t":"Convenção","d":"acordo entre pessoas sobre como agir."},
+{"t":"Legítimo","d":"permitido pela lei, aceite como válido."},
+{"t":"Impunemente","d":"sem sofrer castigo."},
+{"t":"Impotência","d":"falta de capacidade ou de poder para fazer algo."},
+{"t":"Opinião comum","d":"o que a maioria das pessoas pensa."}
+],
+"questions":[
+{"q":"Segundo a opinião comum, o que é bom e o que é mau em relação à injustiça?","options":["Cometê-la é mau e sofrê-la é bom","Cometê-la é bom e sofrê-la é mau, mas há mais mal em sofrê-la do que bem em cometê-la","Ambas são boas","Ambas são más em igual medida"],"answer":1,"why":"Os homens dizem que é bom cometer a injustiça e mau sofrê-la, mas que há mais mal em sofrê-la do que bem em cometê-la."},
+{"q":"Como surgiram as leis e as convenções, segundo Glauco?","options":["Por decisão dos deuses","Por ordem do mais forte","Por vontade dos que não conseguem evitar nem escolher só o lado vantajoso, e acham útil entender-se para não cometer nem sofrer injustiças","Por acaso"],"answer":2,"why":"Os que experimentaram as duas situações e não puderam evitar uma nem escolher a outra acharam útil entender-se, e daí nasceram as leis."},
+{"q":"Entre que dois extremos se situa a justiça?","options":["Entre a riqueza e a pobreza","Entre a guerra e a paz","Entre a ignorância e a sabedoria","Entre o maior bem, cometer injustiça impunemente, e o maior mal, sofrê-la sem poder vingar-se"],"answer":3,"why":"Glauco situa a justiça entre cometer impunemente a injustiça e sofrê-la sem se poder vingar."},
+{"q":"Porque é apreciada a justiça, segundo esta opinião?","options":["Porque a impotência para cometer a injustiça lhe dá valor, e não por ser um bem em si","Porque é a virtude suprema","Porque agrada aos deuses","Porque traz riqueza"],"answer":0,"why":"Glauco diz que a justiça é apreciada porque a impotência para cometer injustiça lhe dá valor, e não como bem em si."},
+{"q":"Porque não faria um acordo de justiça quem tem poder para cometer injustiça sem castigo?","options":["Porque seria demasiado generoso","Porque seria louco, segundo esta opinião","Porque a lei o proíbe","Porque tem medo dos deuses"],"answer":1,"why":"Glauco diz que quem pode praticar a injustiça jamais se entenderia com ninguém para a evitar, porque seria louco."}
+],
+"summary":"Segundo a opinião comum, a justiça nasce de um acordo entre os que não podem cometer injustiças impunemente, nem querem sofrê-las, e vale apenas pela impotência de cometer injustiça."
+},
+{
+"id":"035",
+"title":"Livro II: o anel de Giges",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Para mostrar que quem pratica a justiça o faz por não poder cometer injustiça, Glauco propõe uma experiência de pensamento: dar ao justo e ao injusto a liberdade de fazerem o que quiserem e ver aonde os leva o desejo. Apanhar-se-á o justo a procurar o mesmo que o injusto, impelido pela vontade de prevalecer sobre os outros, que a natureza procura como um bem e a lei obriga a respeitar a igualdade.",
+"Ilustra com a lenda do antepassado de Giges, o Lídio, pastor do rei da Lídia. Numa tempestade com terremoto, o solo abriu-se perto do rebanho. Giges desceu ao precipício e, entre maravilhas, viu um cavalo de bronze oco, e dentro dele um cadáver enorme com um anel de ouro na mão, de que se apoderou.",
+"Com o anel no dedo, foi à assembleia mensal dos pastores. Ao virar sem querer o engaste do anel para dentro da mão, ficou invisível; ao virá-lo para fora, voltou a ser visto. Repetiu a experiência até ter certeza e, assim que a teve, juntou-se aos mensageiros que iam ver o rei. No palácio, seduziu a rainha, conspirou com ela a morte do rei, matou-o e tomou o poder.",
+"Original no teu PDF: Livro II, pp. 56 e 57."
+],
+"glossary":[
+{"t":"Giges","d":"personagem da lenda, pastor que se torna rei da Lídia."},
+{"t":"Lídia","d":"antigo reino da Ásia Menor."},
+{"t":"Engaste","d":"parte do anel onde assenta a pedra ou o enfeite."},
+{"t":"Terremoto","d":"tremor de terra."},
+{"t":"Experiência de pensamento","d":"situação imaginada para testar uma ideia."}
+],
+"questions":[
+{"q":"Que experiência de pensamento propõe Glauco?","options":["Dar ao justo e ao injusto a liberdade de fazerem o que quiserem, e ver aonde os leva o desejo","Dar ao justo mais dinheiro","Matar o injusto","Mudar as leis da cidade"],"answer":0,"why":"Glauco propõe conceder ao justo e ao injusto a permissão de fazerem o que querem e observar até onde o desejo os leva."},
+{"q":"Quem era Giges, o antepassado da lenda?","options":["Um rei da Lídia","Um pastor ao serviço do rei da Lídia","Um soldado persa","Um filósofo grego"],"answer":1,"why":"O texto fala de um pastor a serviço do rei que governava a Lídia."},
+{"q":"O que encontrou o pastor no fundo do precipício?","options":["Um tesouro de moedas","Uma espada de ferro","Um cavalo de bronze oco, com um cadáver que tinha na mão um anel de ouro","Uma fonte de água"],"answer":2,"why":"Giges viu um cavalo de bronze oco e dentro um cadáver maior do que o de um homem, com um anel de ouro."},
+{"q":"Que poder tinha o anel?","options":["Dava riqueza infinita","Dava força de gigante","Permitia voar","Virando o engaste para dentro da mão, tornava invisível quem o usava"],"answer":3,"why":"Quando virava o engaste para o interior da mão, Giges tornava-se invisível; para fora, voltava a ser visto."},
+{"q":"O que fez Giges depois de ter a certeza do poder do anel?","options":["Seduziu a rainha, conspirou com ela, matou o rei e tomou o poder","Devolveu o anel","Foi viver para o campo","Contou a todos os pastores"],"answer":0,"why":"No palácio, Giges seduziu a rainha, conspirou com ela a morte do rei, matou-o e obteve assim o poder."}
+],
+"summary":"Glauco conta a lenda de Giges: um pastor encontra um anel que o torna invisível e usa-o para seduzir a rainha, matar o rei e tomar o poder, para ilustrar o que o homem faria se pudesse agir sem ser visto."
+},
+{
+"id":"036",
+"title":"Livro II: dois anéis e o confronto do justo com o injusto",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Glauco imagina dois anéis iguais: um para o justo e outro para o injusto. Provavelmente nenhum teria carácter tão firme para continuar a ser justo e não tocar nos bens alheios, podendo tirar o que quisesse da praça, entrar nas casas, matar uns, soltar os presos de outros e fazer o que lhe aprouvesse, igual a um deus entre os homens. Nada distinguiria o justo do mau, e citar-se-ia isso como grande prova de que ninguém é justo por vontade própria, mas por obrigação, e que a injustiça é mais proveitosa. Quem, tendo o poder, não quisesse cometer injustiça nem tocar no bem alheio, pareceria o mais infeliz e o mais insensato dos homens, e só seria elogiado em público por medo de se tornar vítima.",
+"Para julgar a vida de cada um, é preciso confrontar o mais justo com o mais injusto, sem tirar nada à injustiça de um nem à justiça do outro. O injusto perfeito age como o artesão hábil: sabe o que é possível, corrige os erros, dissimula as suas más acções e parece justo sem o ser; fala bem para se justificar, usa a força quando preciso, com coragem, amigos e dinheiro. O justo perfeito é simples e generoso e quer, como diz o poeta Ésquilo, não parecer mas ser bom. Deve ser despojado de toda a aparência de justiça e ter fama de injusto, para provar que não é virtuoso pelas honrarias.",
+"Original no teu PDF: Livro II, pp. 57 a 59."
+],
+"glossary":[
+{"t":"Perseverar","d":"continuar firme, sem desistir."},
+{"t":"Ágora","d":"praça pública da cidade grega."},
+{"t":"Grilhões","d":"correntes que prendem os presos."},
+{"t":"Dissimular","d":"esconder o que se faz ou se sente."},
+{"t":"Ésquilo","d":"poeta trágico grego."},
+{"t":"Despojar","d":"tirar tudo o que alguém tem."}
+],
+"questions":[
+{"q":"O que aconteceria, segundo Glauco, se o justo e o injusto recebessem um anel cada um?","options":["O justo manter-se-ia justo e o injusto continuaria injusto","Nenhum teria carácter tão firme para continuar justo, e ambos tenderiam para o mesmo fim","Ambos devolveriam o anel","O injusto tornar-se-ia justo"],"answer":1,"why":"Glauco diz que nenhum seria de carácter tão firme para perseverar na justiça, e que nada diferenciaria o justo do mau."},
+{"q":"O que se citaria como grande prova, nesta doutrina?","options":["Que a justiça é um bem em si","Que os deuses são justos","Que ninguém é justo por vontade própria, mas por obrigação, e que a injustiça é individualmente mais proveitosa","Que a lei é inútil"],"answer":2,"why":"Os partidários da doutrina citariam isso como prova de que ninguém é justo por vontade própria, e de que a injustiça é mais proveitosa."},
+{"q":"Como pareceria, aos olhos dos outros, quem tendo o poder jamais cometesse injustiça?","options":["O mais sábio dos homens","O mais poderoso","O mais feliz","O mais infeliz e insensato"],"answer":3,"why":"Quem, podendo, não quisesse cometer injustiça pareceria o mais infeliz e o mais insensato, e só seria elogiado em público por medo."},
+{"q":"Como imagina Glauco o injusto perfeito?","options":["Parece justo sem o ser: dissimula, corrige erros, fala bem e usa a força quando preciso","É um ladrão apanhado e castigado","É um tirano que não se esconde","É pobre e sozinho"],"answer":0,"why":"O injusto perfeito é como o artesão hábil: parece justo, dissimula a injustiça e tem recursos para a sustentar."},
+{"q":"E o justo perfeito, na comparação de Glauco?","options":["É rico e famoso","Quer ser bom e não parecer, e é despojado de toda a aparência de justiça, com fama de injusto","É um tirano","Esconde as suas acções"],"answer":1,"why":"Glauco quer o justo simples, que quer ser e não parecer bom, sem as honrarias, para provar que a sua virtude não depende da reputação."}
+],
+"summary":"Com dois anéis iguais, Glauco sugere que ninguém seria justo se pudesse agir impunemente, e propõe comparar o injusto perfeito, que parece justo, com o justo perfeito, que tem fama de injusto, para ver qual é mais feliz."
 }
 ]
 }
