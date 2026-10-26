@@ -1104,6 +1104,111 @@
 {"q":"Como aplica Sócrates essa comparação à justiça?","options":["Procurar a justiça primeiro no indivíduo, depois na cidade","Procurar a justiça primeiro na cidade, que é maior, e depois no indivíduo, para ver a semelhança entre a grande e a pequena","Procurar a justiça só nos deuses","Procurar a justiça só nas leis"],"answer":1,"why":"Como a cidade é maior do que o indivíduo, a justiça é mais visível nela, e por isso começarão por aí."}
 ],
 "summary":"Sócrates, comovido, aceita defender a justiça e propõe um método: procurar primeiro a justiça na cidade, que é maior e mais visível, e só depois no indivíduo, para comparar a grande com a pequena."
+},
+  {
+"id":"045",
+"title":"Livro II: o nascimento da cidade",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates lembra que, ao estudar o nascimento de uma cidade, se poderá ver a justiça e a injustiça a aparecer nela, e que assim será mais fácil encontrar o que procuram. Avisa que não é tarefa fácil e pede a Adimanto que a pondere. Adimanto aceita prosseguir.",
+"Sócrates explica porque nasce uma cidade: nenhum indivíduo se basta a si mesmo e todos precisam de muitas coisas. Um homem junta-se a outro para uma tarefa, outro ainda para outra, e as muitas necessidades reúnem no mesmo lugar muitos associados e auxiliares. A essa organização chamam cidade. Quem dá e recebe está convencido de que a troca se faz em seu proveito.",
+"Propõe construir, em pensamento, uma cidade cujos alicerces sejam as necessidades. A primeira e mais importante é a alimentação, de que depende a vida; a segunda é a moradia; a terceira é o vestuário e o que lhe diz respeito.",
+"Original no teu PDF: Livro II, pp. 69 e 70."
+],
+"glossary":[
+{"t":"Alicerces","d":"as bases sobre as quais se constrói algo."},
+{"t":"Bastar-se a si mesmo","d":"ter tudo o que se precisa, sem ajuda de outros."},
+{"t":"Auxiliares","d":"ajudantes, pessoas que colaboram."},
+{"t":"Proveito","d":"vantagem, benefício."},
+{"t":"Ponderar","d":"pensar com cuidado, pesar os prós e os contras."},
+{"t":"Vestuário","d":"roupa, tudo o que se veste."}
+],
+"questions":[
+{"q":"Porque nasce uma cidade, segundo Sócrates?","options":["Por vontade dos deuses","Porque nenhum indivíduo se basta a si mesmo e todos têm necessidade de muitas coisas","Por ordem de um rei","Por acaso"],"answer":1,"why":"Sócrates diz que o que dá origem a uma cidade é a impossibilidade de cada indivíduo se bastar a si mesmo e a necessidade de muitas coisas."},
+{"q":"Que nome se dá à reunião de muitos associados e auxiliares no mesmo lugar?","options":["Família","Exército","Cidade","Mercado"],"answer":2,"why":"Sócrates diz que a essa organização, que reúne no mesmo local muitos associados e auxiliares, se dá o nome de cidade."},
+{"q":"De que está convencido quem dá e recebe numa troca?","options":["De que será enganado","De que perde sempre","De que a troca é obrigatória","De que a troca se faz em seu proveito"],"answer":3,"why":"Sócrates lembra que quem dá e recebe está convencido de que a troca se faz em seu proveito."},
+{"q":"Qual é a primeira e mais importante necessidade da cidade?","options":["A alimentação, de que depende a conservação da vida","A moradia","O vestuário","A defesa"],"answer":0,"why":"Sócrates diz que a primeira e a mais importante é a alimentação, de que depende a conservação do nosso ser e da nossa vida."},
+{"q":"Qual é a ordem das três primeiras necessidades?","options":["Vestuário, moradia, alimentação","Moradia, alimentação, vestuário","Alimentação, moradia, vestuário","Alimentação, vestuário, moradia"],"answer":2,"why":"Primeiro a alimentação, depois a moradia, e em terceiro lugar o vestuário e o que lhe diz respeito."}
+],
+"summary":"Sócrates propõe estudar a justiça no nascimento de uma cidade, que nasce das necessidades: ninguém se basta a si mesmo, por isso unem-se para a alimentação, a moradia e o vestuário."
+},
+{
+"id":"046",
+"title":"Livro II: a divisão do trabalho",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates pergunta como a cidade poderá prover a tantas necessidades: será preciso um agricultor, um pedreiro, um tecelão, talvez um sapateiro ou outro que cuide do corpo. A cidade mínima terá, pelo menos, quatro ou cinco homens. Cada um deverá fazer o seu trabalho para toda a comunidade. O lavrador, por exemplo, produzirá alimento para quatro, gastando quatro vezes mais tempo e trabalho no trigo que vai repartir.",
+"Sócrates contrapõe a hipótese de o lavrador produzir só a quarta parte da comida, na quarta parte do tempo, e gastar o resto a procurar casa, roupa e calçado por si, sem se importar com a comunidade. Adimanto acha que talvez seja mais fácil a primeira maneira. Sócrates responde que a natureza não fez todos os homens iguais, mas diferentes nas aptidões, aptos para esta ou aquela função. E pergunta em que caso se trabalha melhor: exercendo um só ofício ou vários ao mesmo tempo? Adimanto responde que um só.",
+"Original no teu PDF: Livro II, pp. 71 e 72."
+],
+"glossary":[
+{"t":"Prover","d":"fornecer, dar o que é necessário."},
+{"t":"Lavrador","d":"agricultor, quem trabalha a terra."},
+{"t":"Tecelão","d":"quem tece panos e tecidos."},
+{"t":"Aptidões","d":"capacidades naturais para fazer algo."},
+{"t":"Ofício","d":"profissão, trabalho que se sabe fazer."},
+{"t":"Comunidade","d":"o conjunto das pessoas que vivem juntas."}
+],
+"questions":[
+{"q":"Quantos homens, no mínimo, terá a cidade imaginada, segundo Sócrates?","options":["Dois","Dez","Quatro ou cinco","Cem"],"answer":2,"why":"Sócrates diz que a cidade será composta, essencialmente, de ao menos quatro ou cinco homens."},
+{"q":"O que fará o lavrador, numa cidade em que cada um faz a sua função para todos?","options":["Produz só para si","Fará sozinho a alimentação de quatro, gastando quatro vezes mais tempo e trabalho","Deixará de trabalhar","Fará também as casas"],"answer":1,"why":"Sócrates diz que o lavrador garantirá sozinho a alimentação de quatro, gastando quatro vezes mais tempo e trabalho."},
+{"q":"Que alternativa discute Sócrates para o lavrador?","options":["Que viva sem comer","Que ensine os outros","Que produza só a quarta parte da comida, na quarta parte do tempo, e gaste o resto a tratar das suas coisas","Que mude de cidade"],"answer":2,"why":"Sócrates propõe que o lavrador, em vez de trabalhar para todos, trabalhe só para si e use as outras três partes do tempo para as suas outras necessidades."},
+{"q":"Que ideia sobre os homens Sócrates retira dessa discussão?","options":["Que todos são iguais","Que a natureza não os fez todos iguais, mas diferentes nas aptidões","Que todos são fortes","Que todos são sábios"],"answer":1,"why":"Sócrates diz que a natureza não fez todos os homens iguais, mas diferentes em aptidões e aptos para esta ou aquela função."},
+{"q":"Em que circunstância se trabalha melhor, segundo Adimanto?","options":["Quando se exercem vários ofícios","Quando se exerce um só ofício","Quando se trabalha ao acaso","Quando se trabalha sem plano"],"answer":1,"why":"Adimanto concorda que se trabalha melhor quando se exerce um só ofício."}
+],
+"summary":"Sócrates mostra que a cidade mínima precisa de lavrador, pedreiro, tecelão e sapateiro, e que, como os homens têm aptidões diferentes, o trabalho corre melhor quando cada um se dedica a um só ofício."
+},
+{
+"id":"047",
+"title":"Livro II: especialização e ferramentas",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates acrescenta que, quando se deixa passar a oportunidade de fazer uma coisa, ela perde-se: o trabalho não se acomoda às conveniências do operário, mas este à natureza do trabalho, sem perder tempo. Conclui que se produz mais, melhor e mais facilmente quando cada um, segundo as suas aptidões e no tempo adequado, se entrega a um único trabalho, dispensado de todos os outros.",
+"Por isso, são precisos mais de quatro cidadãos: o lavrador não deve fazer o seu arado, a enxada ou outras ferramentas, se as quiser boas; o pedreiro, o tecelão e o sapateiro, igualmente. Surgem então carpinteiros, ferreiros e muitos outros operários, que aumentam a população da pequena cidade. Seria ainda maior com boiadeiros, pastores e criadores de gado, para que o lavrador tenha bois para lavrar, o pedreiro animais de carga, e o tecelão e o sapateiro peles e lãs. Adimanto repara que, com todas estas pessoas, a cidade já não seria tão pequena.",
+"Original no teu PDF: Livro II, pp. 72 e 73."
+],
+"glossary":[
+{"t":"Oportunidade","d":"momento certo para fazer algo."},
+{"t":"Conveniência","d":"aquilo que dá jeito ou é mais cómodo."},
+{"t":"Arado","d":"ferramenta agrícola para lavrar a terra."},
+{"t":"Enxada","d":"ferramenta agrícola para cavar."},
+{"t":"Ferreiro","d":"quem trabalha o ferro."},
+{"t":"Boiadeiro","d":"quem guia ou cria bois."}
+],
+"questions":[
+{"q":"O que se perde, segundo Sócrates, quando se deixa passar a oportunidade de fazer uma coisa?","options":["Essa coisa perde-se","Nada se perde","O dinheiro","A amizade"],"answer":0,"why":"Sócrates diz que, quando se deixa passar a oportunidade de fazer uma coisa, ela perde-se."},
+{"q":"A quem se deve adaptar o trabalho, segundo Sócrates?","options":["O trabalho adapta-se às conveniências do operário","O operário tem de se adaptar à natureza do trabalho, sem perder tempo","Ambos se adaptam ao patrão","Nenhum se adapta"],"answer":1,"why":"Sócrates diz que o trabalho não se acomoda às conveniências do operário, mas este à natureza do trabalho."},
+{"q":"Quando se produz mais, melhor e mais facilmente?","options":["Quando cada um faz de tudo","Quando todos trabalham juntos no mesmo trabalho","Quando cada um se entrega a um único trabalho, segundo as suas aptidões e no tempo adequado","Quando ninguém trabalha"],"answer":2,"why":"Sócrates conclui que tudo se produz melhor quando cada um faz uma só coisa, segundo as suas aptidões e no tempo adequado."},
+{"q":"Porque não deve o lavrador fazer o seu próprio arado?","options":["Porque é proibido","Porque é caro","Porque é perigoso","Para que o arado seja de boa qualidade, feito por quem é especialista"],"answer":3,"why":"Sócrates diz que o lavrador não deve fazer o arado se quiser que seja de boa qualidade, nem as outras ferramentas."},
+{"q":"Que novos trabalhadores acrescenta Sócrates à cidade?","options":["Carpinteiros, ferreiros, boiadeiros, pastores e outros criadores de gado","Soldados e juízes","Poetas e filósofos","Médicos e professores"],"answer":0,"why":"Sócrates fala de carpinteiros, ferreiros e muitos operários, e depois de boiadeiros, pastores e criadores de gado."}
+],
+"summary":"Sócrates mostra que a especialização torna o trabalho melhor e mais fácil, e por isso a cidade aumenta com novos ofícios, como carpinteiros, ferreiros, boiadeiros e pastores."
+},
+{
+"id":"048",
+"title":"Livro II: comércio, mercado e moeda",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates observa que seria impossível fundar uma cidade num local onde não fosse preciso importar nada. Será preciso, por isso, haver pessoas que tragam de outras cidades o que falta. Mas, se forem de mãos vazias, sem levar nada do que os fornecedores pedem, também partirão de mãos vazias. Assim, a cidade deverá produzir não apenas o que precisa, mas também o que os outros lhe exigem. Isto pede mais agricultores e artesãos, e ainda quem trate da importação e da exportação: os comerciantes. Se o comércio for por mar, também gente versada na arte da navegação.",
+"Dentro da cidade, os produtos serão permutados por compra e venda, o que exige um mercado e uma moeda, símbolo do valor das mercadorias. Mas o lavrador ou outro operário que leve os produtos ao mercado e não encontre quem queira trocar não vai interromper o trabalho para ficar à espera. Adimanto explica que há pessoas que se encarregam disso: nas cidades bem organizadas, são geralmente as de saúde mais fraca, incapazes de outro trabalho, que ficam no mercado a comprar a dinheiro e a vender a dinheiro. Dá-se o nome de mercadores a quem se dedica à compra e venda no mercado, e de negociantes a quem viaja de cidade em cidade. Há ainda outras pessoas, que prestam serviços pesados pelo vigor do corpo.",
+"Original no teu PDF: Livro II, pp. 73 e 74."
+],
+"glossary":[
+{"t":"Importar","d":"trazer mercadorias de outro lugar."},
+{"t":"Exportar","d":"levar mercadorias para vender noutro lugar."},
+{"t":"Permutar","d":"trocar uma coisa por outra."},
+{"t":"Moeda","d":"dinheiro, símbolo do valor das mercadorias."},
+{"t":"Mercador","d":"quem compra e vende num mercado fixo."},
+{"t":"Negociante","d":"quem viaja de cidade em cidade a negociar."}
+],
+"questions":[
+{"q":"Porque diz Sócrates que a cidade não pode ficar sem importar nada?","options":["Porque seria impossível fundar uma cidade num local onde nada fosse preciso importar","Porque as leis o exigem","Porque os deuses o mandam","Porque os cidadãos gostam de viajar"],"answer":0,"why":"Sócrates diz que seria impossível fundar uma cidade num local onde não fosse necessário importar nada."},
+{"q":"O que deve a cidade produzir, além do que ela própria precisa?","options":["Nada mais","O que lhe é exigido pelos fornecedores de outras cidades, em troca do que importa","Armas","Moeda"],"answer":1,"why":"Sócrates diz que a cidade deve produzir não só o de que precisa, mas também aquilo que lhe é exigido pelos fornecedores."},
+{"q":"Que novos trabalhadores surgem com a importação e a exportação?","options":["Os juízes","Os poetas","Os comerciantes, e gente versada na arte da navegação, se o comércio for por mar","Os médicos"],"answer":2,"why":"Sócrates diz que são precisos os comerciantes e, se o comércio se fizer por mar, gente versada na arte da navegação."},
+{"q":"Para que servem o mercado e a moeda dentro da cidade?","options":["Para guardar riquezas","Para pagar impostos","Para enfeitar a cidade","Para permutar os produtos do trabalho por venda e compra, com a moeda como símbolo do valor"],"answer":3,"why":"Sócrates diz que, para permutar os produtos dentro da cidade, são precisos um mercado e uma moeda, símbolo do valor das mercadorias."},
+{"q":"Quem fica no mercado a comprar e a vender, segundo Adimanto, nas cidades bem organizadas?","options":["Geralmente as pessoas mais fracas de saúde, incapazes de outro trabalho","Os mais fortes","Os soldados","Os filósofos"],"answer":0,"why":"Adimanto diz que, nas cidades bem organizadas, são geralmente as pessoas mais fracas de saúde, incapazes de outro trabalho."}
+],
+"summary":"Para trocar produtos com outras cidades e dentro da própria, a cidade imaginada precisa de comerciantes, marinheiros, mercado, moeda e mercadores, e ainda de quem preste serviços pesados."
 }
 ]
 }
