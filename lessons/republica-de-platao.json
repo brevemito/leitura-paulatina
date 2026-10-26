@@ -1209,6 +1209,110 @@
 {"q":"Quem fica no mercado a comprar e a vender, segundo Adimanto, nas cidades bem organizadas?","options":["Geralmente as pessoas mais fracas de saúde, incapazes de outro trabalho","Os mais fortes","Os soldados","Os filósofos"],"answer":0,"why":"Adimanto diz que, nas cidades bem organizadas, são geralmente as pessoas mais fracas de saúde, incapazes de outro trabalho."}
 ],
 "summary":"Para trocar produtos com outras cidades e dentro da própria, a cidade imaginada precisa de comerciantes, marinheiros, mercado, moeda e mercadores, e ainda de quem preste serviços pesados."
+},
+  {
+"id":"049",
+"title":"Livro II: os assalariados e a vida simples da cidade",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Faltam ainda os que vendem a sua força física: os assalariados, que o salário, preço do trabalho, define. São o complemento da cidade. Sócrates pergunta se a cidade já cresceu o suficiente para ser perfeita, e onde se encontrarão nela a justiça e a injustiça. Adimanto não sabe, salvo se vierem das relações mútuas entre os cidadãos. Sócrates acha que talvez tenha razão e propõe analisar sem desanimar, começando por ver como viverão estas pessoas.",
+"Produzirão trigo, vinho, roupa e calçado, e construirão casas. No verão trabalharão quase nuas e descalças, e no inverno vestidas e calçadas. Farão pão e bolos de cevada e de trigo e comê-los-ão sobre folhas, deitados em camas de folhagem, com os filhos, bebendo vinho, coroados de flores e cantando louvores aos deuses. Passarão a vida juntos agradavelmente e regularão o número de filhos pelos seus recursos, para evitar os incómodos da pobreza e os temores da guerra.",
+"Original no teu PDF: Livro II, pp. 74 e 75."
+],
+"glossary":[
+{"t":"Assalariado","d":"quem trabalha por um salário."},
+{"t":"Complemento","d":"o que completa algo."},
+{"t":"Frumento","d":"trigo."},
+{"t":"Cevada","d":"cereal parecido com o trigo."},
+{"t":"Teixo e murta","d":"plantas usadas para fazer camas de folhagem."},
+{"t":"Regalar-se","d":"saborear com prazer, banquetear-se."}
+],
+"questions":[
+{"q":"Quem são os assalariados, na cidade imaginada?","options":["Os que vendem a sua força física pelo preço de um salário","Os governantes","Os soldados","Os poetas"],"answer":0,"why":"Sócrates diz que vendem o emprego da sua força física e, como se chama salário ao preço do trabalho, damos-lhes o nome de assalariados."},
+{"q":"Onde acha Adimanto que se poderiam originar a justiça e a injustiça, se não souber dizer?","options":["Nos deuses","Nas relações mútuas dos cidadãos","Na natureza","Nos livros"],"answer":1,"why":"Adimanto responde que não sabe, salvo se for das relações mútuas dos cidadãos."},
+{"q":"Como vestirão os cidadãos desta cidade, segundo Sócrates?","options":["Sempre vestidos","Sempre nus","No verão quase nus e descalços, e no inverno vestidos e calçados","Sempre de linho"],"answer":2,"why":"Sócrates diz que, durante o verão, trabalharão quase nus e descalços e, no inverno, vestidos e calçados."},
+{"q":"Como regularão o número de filhos?","options":["Terão tantos quantos puderem","Não terão filhos","Terão só um","Pelos seus recursos, para evitar os incómodos da pobreza e os temores da guerra"],"answer":3,"why":"Sócrates diz que regularão o número de filhos pelos seus recursos, para evitar os incómodos da pobreza e os temores da guerra."},
+{"q":"Como descreve Sócrates a vida desta gente, em casa?","options":["Agradável: comem em folhas, deitados em camas de folhagem, com os filhos, bebendo vinho, coroados de flores e cantando louvores aos deuses","Triste e solitária","Cheia de luxos","Cheia de guerras"],"answer":0,"why":"Sócrates descreve uma vida simples e agradável, junto dos filhos, com vinho, flores e louvores aos deuses."}
+],
+"summary":"Os assalariados completam a cidade; Sócrates descreve a vida simples e pacífica dos seus habitantes, que trabalham, comem frugalmente, louvam os deuses e regulam os filhos pelos recursos."
+},
+{
+"id":"050",
+"title":"Livro II: a cidade de porcos e a cidade luxuosa",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Glauco interrompe: Sócrates não dá a esses homens senão pão seco. Sócrates reconhece que se esqueceu: terão também sal, azeitonas, queijo, cebolas e legumes cozidos, e de sobremesa figos, ervilhas e favas, com bagas de murta e bolotas assadas, e beberão moderadamente. Viverão em paz e com saúde, morrerão velhos e deixarão aos filhos uma vida semelhante. Glauco diz que, se fundasse uma cidade de porcos, Sócrates não os engordaria de outro modo.",
+"Pergunta então como devem viver, e Glauco responde: como geralmente se vive, deitados em camas, comendo à mesa, com pratos e sobremesas como os de hoje. Sócrates aceita, e diz que não se trata só de uma cidade em formação, mas de uma cidade cheia de luxo. Talvez isso mostre melhor de onde nascem a justiça e a injustiça. Mas, para ele, a verdadeira cidade é a que descreveu, a sã; examinará agora uma cidade tomada de excitação. Muitos não se contentarão com a vida simples: querem leitos, mesas, móveis de toda a espécie, pratos requintados, perfumes, cortesãs e doçarias, tudo em grande quantidade.",
+"Original no teu PDF: Livro II, pp. 76 e 77."
+],
+"glossary":[
+{"t":"Suíno","d":"porco."},
+{"t":"Luxo","d":"riqueza e conforto além do necessário."},
+{"t":"Sã","d":"saudável, bem equilibrada."},
+{"t":"Excitação","d":"agitação, desejo de ter mais."},
+{"t":"Requintado","d":"muito fino, de grande qualidade."},
+{"t":"Cortesã","d":"mulher que, na Antiguidade, acompanhava homens ricos, por dinheiro."}
+],
+"questions":[
+{"q":"O que critica Glauco na cidade descrita por Sócrates?","options":["Que dá aos homens só pão seco, como se fosse uma cidade de porcos","Que é demasiado rica","Que é demasiado pequena","Que tem demasiados deuses"],"answer":0,"why":"Glauco diz que parece que Sócrates só dá pão seco a esses homens e compara-os a porcos engordados."},
+{"q":"O que acrescenta Sócrates à alimentação?","options":["Carne e peixe","Sal, azeitonas, queijo, cebolas, legumes cozidos, figos, ervilhas, favas, bagas de murta e bolotas","Apenas água","Doces e vinho em excesso"],"answer":1,"why":"Sócrates lembra que terão também sal, azeitonas, queijo, cebolas, legumes cozidos e, de sobremesa, figos, ervilhas, favas e bagas de murta."},
+{"q":"Como acha Glauco que devem viver os homens?","options":["Como animais","Com muito pouco","Como geralmente se vive: deitados em camas, comendo à mesa, com pratos e sobremesas de hoje","Sempre ao ar livre"],"answer":2,"why":"Glauco responde que devem viver como geralmente se vive, com camas, mesas, pratos e sobremesas."},
+{"q":"Qual é, para Sócrates, a verdadeira cidade?","options":["A cidade luxuosa","A cidade cheia de poetas","A cidade em guerra","A cidade sã, simples, que descreveu"],"answer":3,"why":"Sócrates diz que, para ele, a verdadeira cidade é a que descreveu como sã, mas aceita examinar a cidade tomada de excitação."},
+{"q":"Porque aceita Sócrates examinar a cidade luxuosa?","options":["Porque talvez mostre como nascem a justiça e a injustiça nas cidades","Porque os deuses o mandam","Porque é mais bonita","Porque é mais pequena"],"answer":0,"why":"Sócrates diz que talvez o exame de uma cidade cheia de luxo mostre como a justiça e a injustiça se originam nas cidades."}
+],
+"summary":"Glauco critica a cidade simples de Sócrates, a que chama cidade de porcos, e Sócrates aceita examinar também uma cidade luxuosa, embora considere a primeira a verdadeira, a cidade sã."
+},
+{
+"id":"051",
+"title":"Livro II: a cidade luxuosa e as suas profissões",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Na cidade luxuosa já não bastam as coisas necessárias do início, moradia, roupa e calçado: será preciso pensar em pintura, bordados, ouro, marfim e materiais preciosos de toda a espécie. A cidade, antes sã, já não é suficiente e terá de crescer, enchendo-se de pessoas que lá estão sem necessidade: caçadores de toda a espécie, imitadores de formas e cores, músicos, poetas com o seu cortejo de cantores ambulantes, actores, dançarinos, empresários de teatro, fabricantes de adornos, sobretudo femininos.",
+"Também aumentarão os servidores: pedagogos, amas, governantas, criadas, cabeleireiros, cozinheiros e mestres cozinheiros, e até porqueiros. Nada disto existia na primeira cidade, porque não era necessário. Haverá gado de toda a espécie para quem queira comer carne. E, com este modo de vida, será preciso muito mais médicos.",
+"Original no teu PDF: Livro II, pp. 77."
+],
+"glossary":[
+{"t":"Marfim","d":"material branco das presas do elefante."},
+{"t":"Imitadores","d":"aqui, os que reproduzem formas e cores, como os artistas."},
+{"t":"Pedagogo","d":"na Grécia antiga, escravo que acompanhava as crianças à escola."},
+{"t":"Governanta","d":"mulher que dirige o serviço de uma casa."},
+{"t":"Porqueiro","d":"quem cria porcos."},
+{"t":"Adornos","d":"enfeites, artigos de decoração."}
+],
+"questions":[
+{"q":"O que passa a ser preciso na cidade luxuosa, além de moradia, roupa e calçado?","options":["Mais soldados","Mais juízes","Mais escolas","Pintura, bordados, ouro, marfim e materiais preciosos de toda a espécie"],"answer":3,"why":"Sócrates diz que será preciso pensar na pintura, na arte de bordar, em ouro, marfim e materiais preciosos."},
+{"q":"Que tipos de pessoas enchem a cidade sem necessidade?","options":["Agricultores e pedreiros","Caçadores, imitadores, poetas, cantores, actores, dançarinos e fabricantes de adornos","Apenas sacerdotes","Apenas escravos"],"answer":1,"why":"Sócrates refere caçadores de toda a espécie, imitadores de formas e cores, músicos, poetas, cantores, actores, dançarinos e fabricantes de adornos."},
+{"q":"Que servidores aumentam na cidade luxuosa?","options":["Só os cozinheiros","Só os médicos","Pedagogos, amas, governantas, criadas, cabeleireiros, cozinheiros, mestres cozinheiros e porqueiros","Só os porqueiros"],"answer":2,"why":"Sócrates enumera pedagogos, amas, governantas, criadas, cabeleireiros, cozinheiros, mestres cozinheiros e até porqueiros."},
+{"q":"Porque será preciso mais gado na cidade luxuosa?","options":["Para quem queira comer carne","Para o trabalho agrícola","Para enfeitar a cidade","Para os sacrifícios"],"answer":0,"why":"Sócrates diz que é preciso gado de toda a espécie para aqueles que desejarem comer carne."},
+{"q":"O que acontece aos médicos, com este modo de vida?","options":["Serão menos necessários","Serão necessários muitos mais do que antes","Desaparecerão","Ficarão iguais"],"answer":1,"why":"Sócrates diz que, levando este tipo de vida, haverá necessidade de muito mais médicos do que antes."}
+],
+"summary":"Na cidade luxuosa multiplicam-se as profissões supérfluas, como artistas, poetas, servidores e cozinheiros, e até os médicos, porque o modo de vida mais luxuoso traz também mais doenças."
+},
+{
+"id":"052",
+"title":"Livro II: a guerra e a necessidade de guardiões",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"A pátria, que bastava para alimentar os habitantes, torna-se demasiado pequena. Serão obrigados a tomar as pastagens e lavouras dos vizinhos, e estes farão o mesmo com eles se, ultrapassando os limites do necessário, se entregarem à cupidez, o desejo insaciável de ter mais. Irão, então, à guerra. Sócrates ainda não diz se a guerra traz bons ou maus resultados: nota apenas que se descobriu a sua origem, essa paixão que, no mais alto grau, gera o flagelo da guerra, tão funesto para o indivíduo e para a sociedade.",
+"Por isso, a cidade precisa de crescer ainda mais, com um exército para defender os bens e enfrentar os invasores. Glauco pergunta se os cidadãos não o podem fazer, e Sócrates lembra o princípio que aceitaram ao fundar a cidade: um homem não pode exercer satisfatoriamente vários ofícios. O ofício de guerreiro exige uma técnica, tão digna de atenção como a do sapateiro. Ora, a cada artesão se deu um único ofício, aquele para o qual tem aptidão; e a função de guardião da cidade, sendo a mais importante, exige mais tempo livre, mais arte e aplicação, e habilidades naturais. A tarefa será escolher, se for possível, os que têm a natureza adequada para guardar a cidade.",
+"Original no teu PDF: Livro II, pp. 77 a 79."
+],
+"glossary":[
+{"t":"Cupidez","d":"desejo excessivo de ter riquezas."},
+{"t":"Insaciável","d":"que nunca se satisfaz."},
+{"t":"Flagelo","d":"grande desgraça, calamidade."},
+{"t":"Funesto","d":"que traz desgraça, mortal."},
+{"t":"Guardião","d":"quem guarda e defende."},
+{"t":"Aptidão","d":"capacidade natural para uma actividade."}
+],
+"questions":[
+{"q":"Porque se torna a pátria demasiado pequena, na cidade luxuosa?","options":["Porque o número de habitantes e as necessidades aumentaram e já não bastam os recursos da terra","Porque há inundações","Porque os vizinhos a invadiram","Porque as colheitas falharam"],"answer":0,"why":"Sócrates diz que a pátria, que alimentava os habitantes, torna-se demasiado pequena e insuficiente com o luxo."},
+{"q":"Qual é a origem da guerra, segundo Sócrates?","options":["O desejo de glória","A ordem dos deuses","A paixão do desejo insaciável de ter mais, que leva a ultrapassar os limites do necessário","A inveja dos vizinhos"],"answer":2,"why":"Sócrates diz que a origem da guerra é essa paixão que leva a ultrapassar os limites do necessário, a cupidez."},
+{"q":"Que novo grupo precisa a cidade, por causa da guerra?","options":["Um exército, que defenda os bens e enfrente os invasores","Mais comerciantes","Mais poetas","Mais médicos"],"answer":0,"why":"Sócrates diz que a cidade precisa de um exército que entre em campanha para defender os bens e enfrentar os invasores."},
+{"q":"Porque não podem os cidadãos comuns fazer o serviço de guerreiros?","options":["Porque são fracos","Porque o princípio da cidade é que um só homem não pode exercer bem vários ofícios, e a guerra é uma técnica","Porque a guerra é proibida","Porque são poucos"],"answer":1,"why":"Sócrates lembra que é impossível a um só homem exercer bem vários ofícios, e que o ofício de guerreiro depende de uma técnica."},
+{"q":"O que exige a função de guardião da cidade, segundo Sócrates?","options":["Só coragem","Mais tempo livre, mais arte e aplicação, e habilidades naturais","Muita riqueza","Muito poder"],"answer":1,"why":"Sócrates diz que, quanto mais importante é a função de guardião, mais tempo livre exige, mais arte e aplicação, e também habilidades naturais."}
+],
+"summary":"A cidade luxuosa precisa de mais terra, o que leva à guerra e a um exército; como cada um deve fazer um só ofício, Sócrates conclui que será preciso escolher guardiões com a natureza adequada para defender a cidade."
 }
 ]
 }
