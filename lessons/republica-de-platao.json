@@ -1313,6 +1313,109 @@
 {"q":"O que exige a função de guardião da cidade, segundo Sócrates?","options":["Só coragem","Mais tempo livre, mais arte e aplicação, e habilidades naturais","Muita riqueza","Muito poder"],"answer":1,"why":"Sócrates diz que, quanto mais importante é a função de guardião, mais tempo livre exige, mais arte e aplicação, e também habilidades naturais."}
 ],
 "summary":"A cidade luxuosa precisa de mais terra, o que leva à guerra e a um exército; como cada um deve fazer um só ofício, Sócrates conclui que será preciso escolher guardiões com a natureza adequada para defender a cidade."
+},
+  {
+"id":"053",
+"title":"Livro II: o guardião e o cão de boa raça",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates conclui que a tarefa será escolher, se forem capazes, quem tem a natureza adequada para defender a cidade. Reconhece que é uma tarefa difícil, mas diz que não devem perder a coragem enquanto tiverem forças. Pergunta então se o carácter de um cão de boa raça, no que toca à guarda, difere do de um jovem guerreiro corajoso. Ambos precisam de um sentido apurado para descobrir o inimigo, velocidade para o perseguir e força para o combater quando o alcançam.",
+"Precisam também de coragem para lutar bem. Mas será corajoso quem não estiver enraivecido, seja cavalo, cão ou outro animal? A cólera é indomável e invencível: o espírito que a possui não teme nem cede. Estas são as qualidades do corpo do guardião. Quanto ao espírito, deve ter um temperamento irascível, isto é, pronto a irritar-se e a lutar.",
+"Original no teu PDF: Livro II, pp. 79 e 80."
+],
+"glossary":[
+{"t":"Guardião","d":"quem guarda e defende."},
+{"t":"Valoroso","d":"corajoso, cheio de valor."},
+{"t":"Irascível","d":"que se irrita com facilidade, de génio vivo."},
+{"t":"Cólera","d":"raiva forte."},
+{"t":"Indomável","d":"que não se consegue dominar."},
+{"t":"Sentido apurado","d":"sentidos muito afinados, atentos."}
+],
+"questions":[
+{"q":"Qual será a tarefa, segundo Sócrates?","options":["Treinar todos os cidadãos","Escolher, se for possível, os que têm a natureza adequada para defender a cidade","Eleger o mais rico","Construir muralhas"],"answer":1,"why":"Sócrates diz que a tarefa será escolher, se forem capazes, os que são habilitados por natureza a defender a cidade."},
+{"q":"Com que animal compara Sócrates o guardião?","options":["Com o leão","Com a águia","Com o cavalo","Com o cão de boa raça"],"answer":3,"why":"Sócrates compara o carácter do guerreiro valoroso ao de um cão de boa raça, no que respeita à guarda."},
+{"q":"Que qualidades precisam ambos para guardar bem?","options":["Sentido apurado para descobrir o inimigo, velocidade para o perseguir e força para o combater","Voz forte","Beleza","Paciência"],"answer":0,"why":"Sócrates diz que ambos precisam de um sentido apurado, de velocidade e de força."},
+{"q":"O que diz Sócrates sobre a cólera?","options":["Que é inútil","Que é indomável e invencível, e o espírito que a possui não teme nem cede","Que é fraqueza","Que se deve evitar sempre"],"answer":1,"why":"Sócrates diz que a cólera é indomável e invencível e que o espírito que a possui não pode temer nem ceder."},
+{"q":"Que temperamento deve ter o guardião no espírito?","options":["Calmo e tímido","Distraído","Irascível","Sonhador"],"answer":2,"why":"Sócrates diz que, quanto ao espírito, o guardião deve ser de temperamento irascível."}
+],
+"summary":"Sócrates compara o guardião a um cão de boa raça: precisa de bons sentidos, rapidez e força, e de um espírito corajoso e irascível, porque sem cólera não há coragem."
+},
+{
+"id":"054",
+"title":"Livro II: o guardião manso e bravo",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates pergunta se os guardiões, assim irascíveis, não serão ferozes uns com os outros e com os restantes cidadãos. Glauco acha que sim. Mas é preciso que sejam mansos com os seus e duros com os inimigos; senão, não esperarão que outros destruam a cidade: destruí-la-ão eles mesmos. Onde encontrar um temperamento ao mesmo tempo manso e irascível, se um é o oposto do outro? Sem as duas qualidades, não há bom guardião, e parece impossível tê-las juntas; logo, o bom guerreiro não se encontra em parte alguma.",
+"Sócrates, depois de reflectir, diz que merecem o embaraço por terem abandonado a comparação que haviam proposto: há naturezas que se julgavam impossíveis, e que reúnem estas qualidades contrárias, sobretudo no animal que comparavam ao guardião. Os cães de boa raça são, por natureza, tão mansos quanto possível com os de casa e com os que conhecem, e o contrário com os que não conhecem. Logo, é perfeitamente possível, e não se vai contra a natureza ao procurar um guardião com este temperamento.",
+"Original no teu PDF: Livro II, pp. 80 a 82."
+],
+"glossary":[
+{"t":"Feroz","d":"agressivo, selvagem."},
+{"t":"Manso","d":"calmo, dócil."},
+{"t":"Rude","d":"duro, sem delicadeza."},
+{"t":"Embaraço","d":"dificuldade, situação em que não se sabe o que fazer."},
+{"t":"Comparação","d":"aproximação entre duas coisas para esclarecer uma."},
+{"t":"Ao arrepio da natureza","d":"contra o que é natural."}
+],
+"questions":[
+{"q":"Que receio exprime Sócrates, se os guardiões forem apenas irascíveis?","options":["Que sejam feroses uns com os outros e com os restantes cidadãos, e destruam a cidade","Que sejam demasiado lentos","Que sejam preguiçosos","Que sejam poucos"],"answer":0,"why":"Sócrates teme que, sendo irascíveis, sejam ferozes uns com os outros e com os outros cidadãos, e acabem por destruir a cidade."},
+{"q":"Como devem ser os guardiões, para com os seus e para com os inimigos?","options":["Duros com todos","Mansos com os seus e duros com os inimigos","Mansos com todos","Duros com os seus e mansos com os inimigos"],"answer":1,"why":"Sócrates diz que é preciso que sejam mansos com os seus e rudes com os inimigos."},
+{"q":"Que dificuldade surge, na primeira conclusão?","options":["Que ninguém quer ser guardião","Que a cidade não tem recursos","Que um temperamento manso é o oposto de um irascível, e sem as duas qualidades não há bom guardião","Que os guardiões são velhos"],"answer":2,"why":"Sócrates diz que um temperamento manso é oposto ao irascível, e que, sem ambos, não teremos um bom guardião."},
+{"q":"Que exemplo da natureza mostra que as duas qualidades podem coexistir?","options":["O cavalo","O leão","A águia","Os cães de boa raça, mansos com quem conhecem e hostis com quem não conhecem"],"answer":3,"why":"Sócrates lembra que os cães de boa raça são mansos com os de casa e com os que conhecem, e o contrário com os que não conhecem."},
+{"q":"Que conclusão tira Sócrates sobre a procura de um guardião assim?","options":["Que é perfeitamente possível, e não vai contra a natureza","Que é impossível","Que é perigosa","Que é inútil"],"answer":0,"why":"Sócrates conclui que a coisa é perfeitamente possível e que não se vai ao arrepio da natureza em procurar um guardião com este temperamento."}
+],
+"summary":"Sócrates resolve a aparente contradição entre ser manso e bravo com o exemplo do cão de boa raça, que é meigo com quem conhece e hostil com quem não conhece, o que mostra que um guardião assim é possível."
+},
+{
+"id":"055",
+"title":"Livro II: a natureza filosófica do guardião",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates diz que ainda falta uma qualidade ao futuro guardião: além do temperamento irascível, deve ter uma natureza filosófica. Explica com o cão: ladra a um desconhecido, mesmo sem ter sofrido mal algum, e agrada-se de quem conhece, mesmo sem ter recebido bem algum. Isto, diz Sócrates, é uma maneira bonita e filosófica de sentir: pelo simples facto de conhecer um e não conhecer o outro, sabe distinguir um rosto amigo de um rosto inimigo.",
+"Quem não desejaria saber distinguir, pelo conhecimento e pela ignorância, o amigo do estranho? Ora, uma natureza ávida de aprender é o mesmo que uma natureza filosófica. Logo, para ser manso com os amigos e conhecidos, o guardião deve ser, por natureza, filósofo e ávido de aprender. Será, pois, filósofo, irascível, ágil e forte aquele que se destina a ser um bom guardião da cidade.",
+"Original no teu PDF: Livro II, pp. 82 e 83."
+],
+"glossary":[
+{"t":"Filósofo","d":"aqui, quem ama o saber e tem sede de conhecer."},
+{"t":"Ávido","d":"desejoso, que quer muito."},
+{"t":"Desconhecido","d":"quem não se conhece."},
+{"t":"Distinguir","d":"reconhecer a diferença entre duas coisas."},
+{"t":"Ágil","d":"rápido e leve nos movimentos."}
+],
+"questions":[
+{"q":"Que qualidade falta ainda ao futuro guardião, além do temperamento irascível?","options":["Riqueza","Uma natureza filosófica","Muita idade","Muita paciência"],"answer":1,"why":"Sócrates diz que, além do temperamento irascível, o guardião deve ter uma natureza filosófica."},
+{"q":"O que faz o cão que Sócrates considera digno de admiração?","options":["Corre depressa","Ladra a um desconhecido, mesmo sem ter sofrido mal, e acolhe quem conhece, mesmo sem ter recebido bem","Dorme muito","Obedece a todos"],"answer":1,"why":"Sócrates diz que o cão ladra a um desconhecido e agrada-se de quem conhece, sem ter recebido bem nem mal."},
+{"q":"Porque diz Sócrates que essa maneira de sentir é filosófica?","options":["Porque o cão é inteligente","Porque o cão só se guia pelo medo","Porque o cão distingue o rosto amigo do inimigo apenas pelo conhecimento e pela ignorância","Porque o cão fala"],"answer":2,"why":"Pelo simples facto de conhecer um e não conhecer o outro, o cão distingue o amigo do estranho."},
+{"q":"O que é uma natureza filosófica, segundo este raciocínio?","options":["Uma natureza silenciosa","Uma natureza triste","Uma natureza forte","Uma natureza ávida de aprender"],"answer":3,"why":"Sócrates e Glauco concordam que a natureza ávida de aprender é o mesmo que a natureza filosófica."},
+{"q":"Como será, então, o guardião da cidade?","options":["Filósofo, irascível, ágil e forte","Só forte","Só rápido","Só sábio"],"answer":0,"why":"Sócrates conclui que o guardião será filósofo, irascível, ágil e forte."}
+],
+"summary":"Sócrates acrescenta ao guardião a natureza filosófica, que descobre no cão que distingue amigos de estranhos pelo conhecimento, e conclui que o guardião deve ser filósofo, irascível, ágil e forte."
+},
+{
+"id":"056",
+"title":"Livro II: a educação pela música e pela ginástica",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates passa à questão de como educar e instruir o guardião. Explica que o exame pode ajudar a descobrir como surgem a justiça e a injustiça na cidade, e que não querem omitir um ponto importante nem perder-se em divagações inúteis. Adimanto concorda que o exame será útil. Propõem, como quem conta uma fábula para se entreter, fazer em palavras a educação desses homens.",
+"Qual educação lhes dar? Não se encontrará melhor do que a descoberta ao longo dos tempos: para o corpo, a ginástica; para a alma, a música. Deve-se começar a educação pela música e não pela ginástica. Os discursos fazem parte da música, e são de dois tipos: verdadeiros e falsos. Contam-se fábulas às crianças, em geral falsas, embora tenham algumas verdades, antes de as levar ao ginásio. Por isso, a música deve vir antes da ginástica. O começo, em todas as coisas, é o mais importante, sobretudo para os jovens, que é quando se modelam e recebem a marca que se quer imprimir-lhes. Por isso, não se deve permitir que as crianças ouçam quaisquer fábulas, inventadas por qualquer pessoa: será preciso começar por vigiar os criadores de fábulas.",
+"Original no teu PDF: Livro II, pp. 83 e 84."
+],
+"glossary":[
+{"t":"Divagações","d":"conversas que se afastam do assunto principal."},
+{"t":"Fábula","d":"história inventada, muitas vezes com uma lição."},
+{"t":"Ginástica","d":"na Grécia, a educação do corpo."},
+{"t":"Música","d":"na Grécia, tudo o que se refere às musas: poesia, canto e histórias, ou seja, a educação da alma."},
+{"t":"Ginásio","d":"local onde os jovens gregos treinavam o corpo."},
+{"t":"Modelar","d":"dar forma, moldar."}
+],
+"questions":[
+{"q":"Que educação propõe Sócrates para os guardiões?","options":["Só a ginástica","Para o corpo a ginástica e para a alma a música","Só a música","Só o treino militar"],"answer":1,"why":"Sócrates diz que a educação descoberta ao longo dos tempos é a ginástica para o corpo e a música para a alma."},
+{"q":"Por qual das duas se deve começar?","options":["Pela ginástica","Pela música, antes da ginástica","Por ambas ao mesmo tempo","Por nenhuma"],"answer":1,"why":"Sócrates diz que não convém começar a educação pela ginástica, mas pela música."},
+{"q":"Que dois tipos de discursos existem, segundo Sócrates?","options":["Longos e curtos","Orais e escritos","Verdadeiros e falsos","Antigos e modernos"],"answer":2,"why":"Sócrates pergunta, e Adimanto confirma, que existem discursos verdadeiros e falsos."},
+{"q":"Que exemplo dá Sócrates de discursos que se usam na educação das crianças?","options":["Leis escritas","As fábulas, que geralmente são falsas mas encerram algumas verdades","Discursos de guerra","Canções de ninar"],"answer":1,"why":"Sócrates lembra que se começa por contar fábulas às crianças, geralmente falsas, embora com algumas verdades."},
+{"q":"Porque é tão importante o começo da educação, segundo Sócrates?","options":["Porque é quando as crianças são modeladas e recebem a marca que se quer imprimir-lhes","Porque é mais curto","Porque é mais barato","Porque é mais fácil"],"answer":0,"why":"Sócrates diz que o começo é o mais importante, sobretudo para os jovens, porque é quando recebem a marca que se pretende imprimir-lhes."}
+],
+"summary":"Sócrates propõe educar os guardiões com a música (que inclui as fábulas) para a alma e a ginástica para o corpo, começando pela música, e diz que é preciso vigiar os criadores de fábulas, pois o começo molda a criança."
 }
 ]
 }
