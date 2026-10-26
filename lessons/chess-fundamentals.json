@@ -880,6 +880,152 @@
 {"q":"O que consegue a Torre preta ao atacar os peões do flanco do Rei das Brancas?","options":["Força o Rei branco a ir defendê-los, o que torna mais segura a posição dos peões pretos do flanco da Dama","Dá mate","Troca a Torre","Liberta o Cavalo branco"],"answer":0,"why":"O Rei branco tem de ir defender esses peões, e assim, indirectamente, a posição dos peões pretos do flanco da Dama fica mais segura."}
 ],
 "summary":"Mesmo em finais de aparência equilibrada, a Torre activa e o Bispo bem usado dão vantagem a quem tem a iniciativa: obriga-se o adversário a defender-se o tempo todo."
+},
+{
+"id":"028",
+"title":"Armadilhas de abertura",
+"text":[
+"Vejamos algumas posições, ou armadilhas, a evitar nas aberturas, e nas quais, como a prática mostrou, os principiantes são muitas vezes apanhados.",
+"No primeiro exemplo, as Brancas começam por capturar um peão e as Pretas recapturam com o Cavalo. Deviam ter recapturado com o peão. Segue-se a troca de Cavalos e as Pretas ganham a Dama, mas as Brancas respondem com um xeque de Bispo e dão mate com o Cavalo.",
+"No segundo exemplo, as Pretas, que têm a vez, deviam jogar o peão do Rei uma casa. Se jogam o Cavalo para f6, o Bispo branco captura em f7 com xeque e as Brancas ganham de imediato uma vantagem material. Capablanca sublinha que o principiante, pelo menos, nunca deve deixar escapar uma oportunidade destas em troca de uma vantagem de posição especulativa.",
+"Há muitas outras armadilhas; há mesmo um livro escrito só sobre armadilhas no tabuleiro. Mas o tipo aqui mostrado é o mais comum de todos."
+],
+"diagrams":[
+{"after":1,"title":"Armadilha 1: recapturar com o peão","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 8, Exemplo 20 (posição e linha do livro)","description":"É a vez das Brancas. Se as Pretas recapturarem com o Cavalo em vez de com o peão, perdem em poucos lances.","orientation":"w","start":"r2qkbnr/ppp2pp1/2np3p/4p3/2BPP1b1/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 1",
+"steps":[
+{"san":"dxe5","from":"d4","to":"e5","fen":"r2qkbnr/ppp2pp1/2np3p/4P3/2B1P1b1/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 1","note":"As Brancas capturam o peão."},
+{"san":"Nxe5","from":"c6","to":"e5","fen":"r2qkbnr/ppp2pp1/3p3p/4n3/2B1P1b1/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 2","note":"As Pretas capturam com o Cavalo. Deviam ter recapturado com o peão."},
+{"san":"Nxe5","from":"f3","to":"e5","fen":"r2qkbnr/ppp2pp1/3p3p/4N3/2B1P1b1/2N5/PPP2PPP/R1BQK2R b KQkq - 0 2","note":"O Cavalo branco captura o Cavalo e deixa a Dama branca à mercê do Bispo preto."},
+{"san":"Bxd1","from":"g4","to":"d1","fen":"r2qkbnr/ppp2pp1/3p3p/4N3/2B1P3/2N5/PPP2PPP/R1BbK2R w KQkq - 0 3","note":"As Pretas ganham a Dama..."},
+{"san":"Bxf7+","from":"c4","to":"f7","fen":"r2qkbnr/ppp2Bp1/3p3p/4N3/4P3/2N5/PPP2PPP/R1BbK2R b KQkq - 0 3","note":"...mas as Brancas dão xeque com o Bispo."},
+{"san":"Ke7","from":"e8","to":"e7","fen":"r2q1bnr/ppp1kBp1/3p3p/4N3/4P3/2N5/PPP2PPP/R1BbK2R w KQ - 1 4"},
+{"san":"Nd5#","from":"c3","to":"d5","fen":"r2q1bnr/ppp1kBp1/3p3p/3NN3/4P3/8/PPP2PPP/R1BbK2R b KQ - 2 4","note":"Mate com o Cavalo: as Brancas ganham o jogo, mesmo sem Dama."}
+]},
+{"after":2,"title":"Armadilha 2: o lance de Cavalo que perde um peão","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 8, Exemplo 21 (posição e linha do livro; as Pretas deviam jogar e6)","description":"É a vez das Pretas. O lance Cf6 parece natural, mas permite às Brancas ganhar material de imediato. A captura final em g4 é a consequência indicada pelo livro.","orientation":"w","start":"rn1qkbnr/ppp1pppp/8/8/2B3b1/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 1",
+"steps":[
+{"san":"Nf6","from":"g8","to":"f6","fen":"rn1qkb1r/ppp1pppp/5n2/8/2B3b1/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 1 2","note":"As Pretas deviam jogar e6. Este lance parece natural, mas perde material."},
+{"san":"Bxf7+","from":"c4","to":"f7","fen":"rn1qkb1r/ppp1pBpp/5n2/8/6b1/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 2","note":"O Bispo captura com xeque: dá uma vantagem material imediata."},
+{"san":"Kxf7","from":"e8","to":"f7","fen":"rn1q1b1r/ppp1pkpp/5n2/8/6b1/2N2N2/PPPP1PPP/R1BQK2R w KQ - 0 3"},
+{"san":"Ne5+","from":"f3","to":"e5","fen":"rn1q1b1r/ppp1pkpp/5n2/4N3/6b1/2N5/PPPP1PPP/R1BQK2R b KQ - 1 3","note":"O Cavalo dá xeque e descobre o ataque da Dama branca ao Bispo preto em g4."},
+{"san":"Ke8","from":"f7","to":"e8","fen":"rn1qkb1r/ppp1p1pp/5n2/4N3/6b1/2N5/PPPP1PPP/R1BQK2R w KQ - 2 4"},
+{"san":"Nxg4","from":"e5","to":"g4","fen":"rn1qkb1r/ppp1p1pp/5n2/8/6N1/2N5/PPPP1PPP/R1BQK2R b KQ - 0 4"},
+{"san":"Nxg4","from":"f6","to":"g4","fen":"rn1qkb1r/ppp1p1pp/8/8/6n1/2N5/PPPP1PPP/R1BQK2R w KQ - 0 5"},
+{"san":"Qxg4","from":"d1","to":"g4","fen":"rn1qkb1r/ppp1p1pp/8/8/6Q1/2N5/PPPP1PPP/R1B1K2R b KQ - 0 5","note":"As Brancas ganharam um peão e ficam com melhor posição. Nunca se deve perder uma vantagem material imediata por uma vantagem de posição especulativa."}
+]}
+],
+"glossary":[
+{"t":"Armadilha","d":"lance que parece bom, mas que leva a uma posição perdida ou a uma perda de material."},
+{"t":"Recapturar","d":"capturar a peça que acabou de capturar uma das nossas."},
+{"t":"Vantagem material","d":"ter mais material do que o adversário."},
+{"t":"Especulativa","d":"incerta, que depende de o adversário não reagir bem."},
+{"t":"Xeque","d":"ataque directo ao Rei."}
+],
+"questions":[
+{"q":"O que fizeram mal as Pretas no primeiro exemplo?","options":["Trocaram a Dama","Recapturaram com o Cavalo, em vez de recapturarem com o peão","Fizeram o roque","Avançaram o Rei"],"answer":1,"why":"O texto diz que deviam ter recapturado com o peão, e não com o Cavalo."},
+{"q":"Como termina a armadilha do primeiro exemplo?","options":["Com empate","Com mate dado pelo Cavalo branco, depois de as Pretas ganharem a Dama","Com a perda da Torre","Com uma troca de Bispos"],"answer":1,"why":"As Pretas ganham a Dama, mas as Brancas dão xeque com o Bispo e mate com o Cavalo."},
+{"q":"O que deviam jogar as Pretas no segundo exemplo?","options":["O Cavalo para f6","O peão do Rei uma casa","O Bispo para g4","O roque"],"answer":1,"why":"O texto diz que as Pretas deviam jogar o peão do Rei uma casa, e não o Cavalo para f6."},
+{"q":"Que conselho dá Capablanca ao principiante?","options":["Nunca capturar","Nunca deixar escapar uma vantagem material imediata em troca de uma vantagem de posição especulativa","Evitar sempre os xeques","Jogar sempre com o peão do Rei"],"answer":1,"why":"O principiante nunca deve perder uma oportunidade de ganhar material de imediato por uma vantagem de posição especulativa."},
+{"q":"O que diz o autor sobre o número de armadilhas?","options":["Que só existem estas duas","Que há muitas outras, até um livro inteiro sobre elas, mas este tipo é o mais comum","Que quase não existem","Que só servem aos mestres"],"answer":1,"why":"Há muitas outras armadilhas, mas o tipo mostrado é o mais comum de todos."}
+],
+"summary":"Nas aberturas, os principiantes caem muitas vezes nas mesmas armadilhas: recapturar com a peça errada e perder material de imediato. Uma vantagem material segura vale mais do que uma vantagem de posição incerta."
+},
+{
+"id":"029",
+"title":"Quem está atrás no material tem de atacar",
+"text":[
+"Em muitas partidas, um dos lados está em desvantagem material e só pode ganhar atacando depressa. É o que mostram vários exemplos do livro.",
+"No exemplo 43, as Pretas estão um Cavalo e um peão atrás e, por isso, têm de ganhar rapidamente, se é que podem ganhar. Atacam, e o texto mostra que, se as Damas se trocarem, uma Torre preta captura um peão com xeque e, a seguir, o Bispo entra em acção: o mate segue-se em poucos lances.",
+"No exemplo 46, as Brancas estão dois peões atrás e têm, por isso, de intensificar o ataque. Capablanca nota que as Pretas cometeram um erro que facilitou a vitória às Brancas: estas limitaram-se a capturar a Torre com o Cavalo e a manter o ataque. Mesmo com o melhor lance, as Pretas deviam perder.",
+"No exemplo 44, as Pretas jogaram um peão para travar o que julgavam ser a ameaça das Brancas, a pensar em empatar por xeque perpétuo. As Brancas, porém, tinham um lance mais forte e davam mate em três lances."
+],
+"glossary":[
+{"t":"Desvantagem material","d":"ter menos material do que o adversário."},
+{"t":"Intensificar","d":"tornar mais forte, aumentar."},
+{"t":"Xeque perpétuo","d":"série de xeques que o adversário não consegue evitar, e que dá empate."},
+{"t":"Ameaça","d":"intenção de fazer um lance forte."},
+{"t":"Mate","d":"ataque ao Rei sem defesa possível; termina a partida."}
+],
+"questions":[
+{"q":"No exemplo 43, porque têm as Pretas de ganhar rapidamente?","options":["Porque estão um Cavalo e um peão atrás","Porque têm menos tempo","Porque estão em xeque","Porque têm uma Torre a menos"],"answer":0,"why":"O texto diz que as Pretas estão um Cavalo e um peão atrás, por isso têm de ganhar depressa, se é que podem."},
+{"q":"O que deve fazer, nestes exemplos, o lado que está em desvantagem material?","options":["Trocar tudo","Atacar com urgência","Esperar um erro","Oferecer empate"],"answer":1,"why":"Quem está atrás no material e quer ganhar tem de atacar depressa."},
+{"q":"Porque têm as Brancas de intensificar o ataque no exemplo 46?","options":["Porque estão dois peões atrás","Porque têm a Dama em perigo","Porque têm mais tempo","Porque estão em xeque"],"answer":0,"why":"As Brancas estão dois peões atrás e têm, por isso, de pressionar o ataque."},
+{"q":"Que erro cometeram as Pretas no exemplo 46?","options":["Fizeram uma captura que facilitou a vitória às Brancas, que se limitaram a capturar a Torre com o Cavalo e a manter o ataque","Esqueceram-se do roque","Perderam a Dama","Avançaram o Rei"],"answer":0,"why":"O erro facilitou a vitória: as Brancas simplesmente tomaram a Torre com o Cavalo e mantiveram o ataque."},
+{"q":"O que aconteceu às Pretas no exemplo 44?","options":["Ganharam por xeque perpétuo","Jogaram um peão para travar uma ameaça e as Brancas tinham um lance mais forte, que dava mate em três lances","Trocaram as Damas","Abandonaram"],"answer":1,"why":"As Brancas, em vez da ameaça que as Pretas temiam, tinham um lance mais forte e davam mate em três lances."}
+],
+"summary":"Quem está atrás no material só ganha atacando depressa; e quem joga só para travar uma ameaça pode deixar de ver um lance mais forte do adversário."
+},
+{
+"id":"030",
+"title":"O sacrifício típico do Bispo",
+"text":[
+"Em certos ataques, os Cavalos são a força principal, e o aluno deve examinar com cuidado a posição do exemplo 47, porque o sacrifício do Bispo em situações semelhantes é típico, e a ocasião de o fazer surge com frequência nas partidas reais.",
+"Capablanca indica a melhor defesa das Pretas e mostra que as outras respostas perdem ainda mais depressa. Se o Rei fosse para h6, o Cavalo branco capturava um peão com xeque e ganhava a Dama. Se o Rei fosse para g8, a Dama branca ia para h5 com um ataque irresistível.",
+"Mesmo com a melhor defesa, as Brancas acabaram por ganhar. A lição é que um sacrifício, quando abre o caminho ao ataque contra o Rei, pode valer mais do que a peça entregue."
+],
+"glossary":[
+{"t":"Sacrifício","d":"entregar material de propósito para conseguir uma vantagem maior."},
+{"t":"Típico","d":"que aparece muitas vezes, que é característico."},
+{"t":"Irresistível","d":"a que não é possível resistir."},
+{"t":"Posições semelhantes","d":"posições com a mesma estrutura de peças e de peões."},
+{"t":"Força principal","d":"a peça ou o conjunto de peças que decide o ataque."}
+],
+"questions":[
+{"q":"Porque deve o aluno examinar com cuidado a posição do exemplo 47?","options":["Porque é uma posição rara","Porque o sacrifício do Bispo em situações semelhantes é típico e surge com frequência","Porque não há Dama","Porque o Rei está no centro"],"answer":1,"why":"O texto diz que o sacrifício do Bispo é típico e que a ocasião de o fazer surge muitas vezes."},
+{"q":"O que diz o texto das outras respostas do Rei preto, além da melhor defesa?","options":["Que perdem ainda mais depressa","Que dão empate","Que ganham a partida","Que são ilegais"],"answer":0,"why":"Com o Rei para h6 perde-se a Dama e com o Rei para g8 há um ataque irresistível: as outras respostas perdem ainda mais depressa."},
+{"q":"O que acontece se o Rei preto vai para h6?","options":["O Cavalo branco captura um peão com xeque e ganha a Dama","A Dama branca é capturada","Dá-se mate imediato","As Pretas ganham"],"answer":0,"why":"Com o Rei para h6, o Cavalo captura um peão com xeque e ganha a Dama."},
+{"q":"O que acontece se o Rei preto vai para g8?","options":["A Dama branca vai para h5 com um ataque irresistível","As Brancas perdem o Bispo","Há afogamento","As Brancas trocam as Damas"],"answer":0,"why":"Com o Rei para g8, a Dama branca vai para h5 e o ataque é irresistível."},
+{"q":"Qual é a lição geral?","options":["Nunca sacrificar","Um sacrifício que abre caminho ao ataque ao Rei pode valer mais do que a peça entregue","Sacrificar sempre o Bispo","Atacar sem plano"],"answer":1,"why":"A ideia central é que o sacrifício, ao abrir o ataque contra o Rei, compensa a peça entregue."}
+],
+"summary":"O sacrifício do Bispo para abrir o ataque ao Rei é um recurso típico: quando o Rei adversário não tem boa resposta, a peça entregue é bem paga."
+},
+{
+"id":"031",
+"title":"O tempo na abertura",
+"text":[
+"Capablanca oferece, para estudo atento, um jogo muito bom de Sir George Thomas, um dos principais jogadores ingleses, contra F. F. L. Alexander, no campeonato do City of London Chess Club, no inverno de 1919-1920. Tem a particularidade interessante de as notas terem sido escritas por Sir George Thomas, a pedido de Capablanca, que acrescentou os comentários que julgou apropriados.",
+"É um Gambito da Dama recusado. Entre as razões do método de defesa escolhido está o facto de não ser tão jogado como outros e, por isso, ser menos conhecido; e de deixar as Pretas com dois Bispos contra Bispo e Cavalo, o que, em termos gerais, constitui uma vantagem.",
+"Capablanca comenta um lance de colocação de um Bispo: este não é o lugar lógico para a peça, que devia ter sido posta na terceira casa da coluna da Dama. Na abertura, o tempo é de grande importância; por isso, o jogador deve ser extremamente cuidadoso no desenvolvimento e ter a certeza de que coloca as peças nos lugares certos."
+],
+"glossary":[
+{"t":"Gambito da Dama","d":"abertura que começa com o peão da Dama e a oferta de um peão no flanco da Dama."},
+{"t":"Recusado","d":"não aceite: o adversário não captura o peão oferecido."},
+{"t":"Notas","d":"comentários escritos sobre os lances de uma partida."},
+{"t":"Desenvolvimento","d":"pôr as peças em jogo, em boas casas."},
+{"t":"Tempo","d":"um lance; ganhar ou perder tempo é ganhar ou perder lances de desenvolvimento."}
+],
+"questions":[
+{"q":"Quem escreveu as notas ao jogo apresentado?","options":["Capablanca","Sir George Thomas, a pedido de Capablanca","Alexander","Janowski"],"answer":1,"why":"Sir George Thomas escreveu as notas, a pedido de Capablanca, que acrescentou os seus comentários."},
+{"q":"Que abertura se joga nesse exemplo?","options":["Ruy Lopez","Gambito da Dama recusado","Defesa Siciliana","Abertura Inglesa"],"answer":1,"why":"O exemplo é um Gambito da Dama recusado."},
+{"q":"Que vantagem tem, em termos gerais, o método de defesa escolhido?","options":["Deixa as Pretas com dois Bispos contra Bispo e Cavalo","Troca as Damas","Ganha um peão","Evita o roque"],"answer":0,"why":"O texto diz que deixa as Pretas com dois Bispos contra Bispo e Cavalo, o que em termos gerais é uma vantagem."},
+{"q":"O que critica Capablanca num dos lances?","options":["O Bispo foi posto em casa errada, pois não era o lugar lógico para essa peça","O Rei saiu cedo","A Dama foi trocada","Um peão foi sacrificado"],"answer":0,"why":"Capablanca diz que a casa escolhida para o Bispo não era a lógica, e que a peça devia estar noutra casa."},
+{"q":"Porque é o tempo tão importante na abertura?","options":["Porque o relógio corre","Porque o jogador deve desenvolver com cuidado e pôr as peças nos lugares certos, sem perder lances","Porque se jogam poucos lances","Porque a Dama é importante"],"answer":1,"why":"Na abertura o tempo é de grande importância, por isso é preciso desenvolver com cuidado e pôr as peças nos lugares certos."}
+],
+"summary":"Na abertura, cada lance conta: desenvolver bem, e pôr cada peça na casa certa à primeira, vale mais do que mexer as peças às pressas."
+},
+{
+"id":"032",
+"title":"Peão atrasado e peças fixadas",
+"text":[
+"Algumas variantes das aberturas e algumas manobras do meio-jogo assentam muitas vezes nos princípios elementares já expostos. Capablanca mostra-o a partir de uma Ruy Lopez, a bem conhecida variante do jogo Janowski–Lasker, jogado em Paris, em 1912.",
+"Suponha-se que as Brancas, jogando um Cavalo para a casa d4 no momento certo, forçam a troca dos dois Cavalos e, depois, a dos dois Bispos. Chega-se então a uma posição em que as Pretas têm o peão do Bispo da Dama atrasado, que não poderá avançar para c5. Tal posição pode dizer-se teoricamente perdida para as Pretas, e na prática um mestre de primeira classe ganha-a invariavelmente.",
+"Passados alguns lances, as peças pretas ficam fixadas. Se as Brancas jogam a Dama para c3, as Pretas têm de responder com a Dama para d7, senão perdem um peão; e se as Brancas regressam com a Dama para a3, as Pretas têm de voltar com a Dama para b7, ou perdem um peão.",
+"Assim, as Pretas só se movem conforme as Brancas determinam. Nestas condições, as Brancas podem avançar facilmente os peões do flanco do Rei, até que as Pretas sejam forçadas a travar o avanço jogando o peão do Bispo do Rei."
+],
+"glossary":[
+{"t":"Peão atrasado","d":"peão que ficou para trás e já não pode ser defendido por peões."},
+{"t":"Fixadas","d":"presas a uma tarefa, sem poderem actuar livremente."},
+{"t":"Teoricamente perdida","d":"posição que, com jogo correcto, o adversário ganha sempre."},
+{"t":"Invariavelmente","d":"sem excepção, sempre."},
+{"t":"Variante","d":"sequência alternativa de lances numa abertura."}
+],
+"questions":[
+{"q":"Em que se baseiam, muitas vezes, as variantes das aberturas e as manobras do meio-jogo?","options":["No acaso","Nos princípios elementares já expostos","Em lances decorados","Na sorte"],"answer":1,"why":"O texto diz que se baseiam muitas vezes em princípios elementares."},
+{"q":"Que fraqueza fica nas Pretas depois das trocas de Cavalos e de Bispos?","options":["Um peão do Bispo da Dama atrasado, que não poderá avançar para c5","O Rei exposto","Uma Torre presa","Uma Dama trocada"],"answer":0,"why":"As Pretas ficam com o peão do Bispo da Dama atrasado, que não poderá avançar para c5."},
+{"q":"Como se pode considerar essa posição para as Pretas?","options":["Ganha","Teoricamente perdida, e na prática ganha por um mestre","Equilibrada","Empatada"],"answer":1,"why":"O autor diz que a posição é teoricamente perdida e que um mestre de primeira classe a ganha invariavelmente."},
+{"q":"O que acontece se as Brancas jogam a Dama para c3?","options":["As Pretas têm de responder com a Dama para d7, senão perdem um peão","As Pretas ganham um peão","Trocam-se as Damas","As Pretas atacam o Rei"],"answer":0,"why":"As Pretas têm de jogar a Dama para d7, senão perdem um peão."},
+{"q":"O que significa dizer que as peças pretas estão fixadas?","options":["Que estão presas à defesa e só se movem conforme as Brancas determinam","Que estão no centro","Que ganham um peão","Que podem avançar livremente"],"answer":0,"why":"As Pretas só se movem conforme as Brancas determinam, porque senão perdem um peão."}
+],
+"summary":"Um peão atrasado que não pode avançar fixa as peças do adversário: quem tem a iniciativa leva-o a fazer lances obrigatórios e ganha com os peões do outro flanco."
 }
 ]
 }
