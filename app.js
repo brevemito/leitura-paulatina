@@ -107,7 +107,7 @@ function open(b,i){
   DGS=L.diagrams||[];DGI=DGS.map(function(){return -1});
   var ln=L.text.length;
   h+="<div class=\"tx\">"+L.text.map(function(p,j){
-    var x="<p>"+esc(p)+"</p>";
+    var x="<p dir=\"auto\">"+esc(p)+"</p>";
     DGS.forEach(function(d,k){var a=d.after==null?ln-1:Math.max(0,Math.min(ln-1,+d.after));if(a===j)x+=dgHTML(k)});
     return x;
   }).join("")+"</div>";
