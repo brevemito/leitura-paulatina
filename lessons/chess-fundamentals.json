@@ -1026,6 +1026,78 @@
 {"q":"O que significa dizer que as peças pretas estão fixadas?","options":["Que estão presas à defesa e só se movem conforme as Brancas determinam","Que estão no centro","Que ganham um peão","Que podem avançar livremente"],"answer":0,"why":"As Pretas só se movem conforme as Brancas determinam, porque senão perdem um peão."}
 ],
 "summary":"Um peão atrasado que não pode avançar fixa as peças do adversário: quem tem a iniciativa leva-o a fazer lances obrigatórios e ganha com os peões do outro flanco."
+},
+{
+"id":"033",
+"title":"Obter um peão passado: a vez decide",
+"text":[
+"Quando três ou mais peões estão frente a frente numa posição como a do exemplo, há sempre a possibilidade, para um lado ou para o outro, de obter um peão passado.",
+"No exemplo, a maneira de obter um peão passado é avançar o peão do centro. Como o peão branco fica mais perto da Dama do que qualquer dos peões pretos, as Brancas ganham.",
+"Se fosse a vez das Pretas, não lhes convinha tentar obter um peão passado, porque os peões brancos ficariam mais perto da Dama do que o único peão preto. Bem jogada, a partida acabaria empatada. O aluno deve trabalhar esta posição por si."
+],
+"diagrams":[
+{"after":0,"title":"Obter um peão passado: a vez decide","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 11, Exemplo 24 (posição e linha do livro)","description":"Com três peões contra três há sempre a hipótese de obter um peão passado. As Brancas têm a vez: avançam o peão do centro e ganham.","orientation":"w","start":"8/ppp4k/8/PPP5/8/8/8/7K w - - 0 1",
+"steps":[
+{"san":"b6","from":"b5","to":"b6","fen":"8/ppp4k/1P6/P1P5/8/8/8/7K b - - 0 1","note":"Avança-se o peão do centro, para obter um peão passado."},
+{"san":"axb6","from":"a7","to":"b6","fen":"8/1pp4k/1p6/P1P5/8/8/8/7K w - - 0 2","note":"Se as Pretas capturassem com o peão c, a6 ganhava."},
+{"san":"c6","from":"c5","to":"c6","fen":"8/1pp4k/1pP5/P7/8/8/8/7K b - - 0 2"},
+{"san":"bxc6","from":"b7","to":"c6","fen":"8/2p4k/1pp5/P7/8/8/8/7K w - - 0 3"},
+{"san":"a6","from":"a5","to":"a6","fen":"8/2p4k/Ppp5/8/8/8/8/7K b - - 0 3","note":"O peão branco está mais perto da Dama do que qualquer peão preto: as Brancas ganham."}
+]},
+{"after":2,"title":"Se fosse a vez das Pretas","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 11, Exemplo 24 (variante do livro)","description":"Na mesma posição, mas com a vez das Pretas, o resultado muda.","orientation":"w","start":"8/ppp4k/8/PPP5/8/8/8/7K b - - 0 1",
+"steps":[
+{"san":"b6","from":"b7","to":"b6","fen":"8/p1p4k/1p6/PPP5/8/8/8/7K w - - 0 2","note":"Se fosse a vez das Pretas, podiam jogar b6."},
+{"san":"cxb6","from":"c5","to":"b6","fen":"8/p1p4k/1P6/PP6/8/8/8/7K b - - 0 2"},
+{"san":"cxb6","from":"c7","to":"b6","fen":"8/p6k/1p6/PP6/8/8/8/7K w - - 0 3"},
+{"san":"axb6","from":"a5","to":"b6","fen":"8/p6k/1P6/1P6/8/8/8/7K b - - 0 3"},
+{"san":"axb6","from":"a7","to":"b6","fen":"8/7k/1p6/1P6/8/8/8/7K w - - 0 4","note":"Não convém às Pretas tentar obter um peão passado: os peões brancos estariam mais perto da Dama do que o único peão preto. Jogando bem, o resultado seria empate."}
+]}
+],
+"glossary":[
+{"t":"Peão passado","d":"peão que já não tem peões adversários à frente nem nas colunas vizinhas."},
+{"t":"Peão do centro","d":"o peão da coluna do meio, entre os outros dois."},
+{"t":"Frente a frente","d":"peões de lados contrários na mesma coluna, a bloquearem-se."},
+{"t":"Mais perto da Dama","d":"mais perto da última fila, onde o peão se transforma em Dama."},
+{"t":"Contar","d":"calcular, lance a lance, quem chega primeiro."}
+],
+"questions":[
+{"q":"Quando há sempre a possibilidade de obter um peão passado?","options":["Quando só há dois peões","Quando três ou mais peões estão frente a frente, numa posição deste tipo","Quando há Damas no tabuleiro","Nunca"],"answer":1,"why":"O texto diz que, com três ou mais peões frente a frente, há sempre uma hipótese de obter um peão passado."},
+{"q":"Como se obtém um peão passado, no exemplo?","options":["Avançando o peão do centro","Avançando o peão da torre","Avançando o Rei","Trocando as Torres"],"answer":0,"why":"A maneira de obter um peão passado é avançar o peão do centro."},
+{"q":"Porque ganham as Brancas, no exemplo, quando têm a vez?","options":["Porque têm um Rei mais forte","Porque o peão branco fica mais perto da Dama do que qualquer peão preto","Porque as Pretas estão em xeque","Porque têm mais peões"],"answer":1,"why":"O peão passado branco fica mais perto da Dama do que qualquer dos peões pretos."},
+{"q":"E se fosse a vez das Pretas?","options":["Ganhavam com facilidade","Não lhes convinha tentar obter um peão passado; bem jogado, seria empate","Perdiam logo","Obtinham dois peões passados"],"answer":1,"why":"Os peões brancos ficariam mais perto da Dama do que o único peão preto, e o jogo acabaria empatado."},
+{"q":"Que conselho dá o autor ao aluno?","options":["Decorar a posição","Trabalhar a posição por si, calculando","Evitar sempre os peões","Pedir empate"],"answer":1,"why":"O autor diz que o aluno deve trabalhar esta posição por si."}
+],
+"summary":"Com peões frente a frente, avançar o peão do centro pode criar um peão passado; mas só convém a quem o deixa mais perto da Dama do que os peões do adversário: por isso a vez de jogar decide."
+},
+{
+"id":"034",
+"title":"Bispo ou Cavalo: o que decide é a posição dos peões",
+"text":[
+"Os amadores pensam em geral que o Cavalo é a peça mais valiosa, sobretudo porque, ao contrário do Bispo, comanda casas brancas e pretas. Esquecem-se de que, num dado momento, o Cavalo só tem a escolha de uma cor, e de que demora muito mais a passar de um lado do tabuleiro para o outro. Como se vê no exemplo, o Bispo pode deixar o Cavalo sem lances seguros, uma cortesia que o Cavalo não consegue retribuir.",
+"O único caso em que o Cavalo vale mais do que o Bispo é a chamada posição bloqueada, com todos os peões do mesmo lado do tabuleiro. Se houvesse peões nos dois lados, não haveria vantagem em ter o Cavalo. Nesta posição, Capablanca vê boas hipóteses para as Pretas, com uma fraqueza extra para as Brancas: os seus peões estão em casas da mesma cor do seu Bispo, um erro muito frequente.",
+"Há duas regras. Quando o adversário tem um Bispo, mantêm-se os peões em casas da cor do Bispo adversário. Quando se tem um Bispo, tenha ou não o adversário também um, mantêm-se os peões em casas de cor oposta à do próprio Bispo. Estes princípios têm por vezes de ser modificados, conforme as exigências da posição.",
+"Com todos os peões de um só lado, não há vantagem em ter nem o Bispo nem o Cavalo, e o jogo deve acabar empatado. Se se juntarem três peões de cada lado, de modo que haja peões nos dois flancos, passa a ser preferível ter o Bispo, embora a posição, bem jogada, deva acabar em empate. A vantagem do Bispo está tanto em poder comandar, de longe e do centro, os dois lados do tabuleiro, como em poder passar depressa de um lado para o outro."
+],
+"diagrams":[
+{"after":0,"title":"O Bispo deixa o Cavalo sem lances seguros","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 14, Exemplo 32 (posição do livro)","description":"O Cavalo está em a5 e o Bispo em d5. Cada casa para onde o Cavalo pode saltar (b7, c6, c4 e b3) está atacada pelo Bispo.","orientation":"w","start":"8/8/8/N2b4/8/8/8/8 w - - 0 1"},
+{"after":1,"title":"Posição bloqueada: o único caso em que o Cavalo vale mais","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 14, Exemplo 33 (posição do livro)","description":"Todos os peões estão do mesmo lado do tabuleiro. Capablanca vê aqui boas hipóteses para as Pretas, também porque os peões brancos estão em casas da cor do Bispo. Nota: um motor moderno avalia esta posição como equilibrada; o que o exemplo ensina é o princípio.","orientation":"w","start":"4k3/3n4/2p5/1pPp4/pP1P4/P7/8/2B1K3 w - - 0 1"},
+{"after":3,"title":"Peões nos dois lados: é preferível o Bispo","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 14, Exemplo 35 (posição do livro)","description":"Com três peões de cada lado em ambos os flancos, é preferível ter o Bispo, embora o jogo, bem jogado, deva acabar em empate.","orientation":"w","start":"4k3/pppn1ppp/8/8/8/8/PPP2PPP/2B1K3 w - - 0 1"}
+],
+"glossary":[
+{"t":"Posição bloqueada","d":"posição em que os peões estão travados uns contra os outros e as peças têm pouco espaço."},
+{"t":"Flanco","d":"cada um dos lados do tabuleiro, o do Rei e o da Dama."},
+{"t":"Casas da mesma cor","d":"casas claras ou escuras, conforme a cor da casa onde está o Bispo."},
+{"t":"Comandar","d":"controlar, ter sob o seu alcance."},
+{"t":"Exigências da posição","d":"o que a situação concreta pede, que pode mudar a regra geral."}
+],
+"questions":[
+{"q":"O que se esquece quando se diz que o Cavalo vale mais por comandar casas das duas cores?","options":["Que o Cavalo é lento a ir de um lado ao outro, e num momento só pode escolher uma cor","Que o Cavalo não captura","Que o Cavalo vale três peões","Que o Cavalo salta"],"answer":0,"why":"O texto lembra que o Cavalo só tem a escolha de uma cor de cada vez e demora muito a passar de um lado para o outro."},
+{"q":"No exemplo 32, o que acontece ao Cavalo?","options":["É capturado","Fica sem lances seguros, porque o Bispo ataca todas as casas para onde poderia saltar","Dá mate","Promove"],"answer":1,"why":"O Bispo ataca todas as casas para onde o Cavalo pode saltar, deixando-o sem lances seguros."},
+{"q":"Em que caso é o Cavalo mais valioso do que o Bispo, segundo o autor?","options":["Em qualquer final","Numa posição bloqueada, com todos os peões do mesmo lado","Quando há muitos peões passados","Nunca"],"answer":1,"why":"O único caso apontado é o da posição bloqueada, com todos os peões do mesmo lado do tabuleiro."},
+{"q":"Onde se devem pôr os peões quando se tem um Bispo?","options":["Em casas da mesma cor do Bispo","Em casas de cor oposta à do Bispo","Todos na mesma fila","Longe do Rei"],"answer":1,"why":"Quando se tem um Bispo, os peões devem ficar em casas de cor oposta à do próprio Bispo."},
+{"q":"Com peões nos dois flancos, o que é preferível?","options":["Ter o Cavalo","Ter o Bispo, embora a posição, bem jogada, deva acabar em empate","Ter duas Torres","É igual"],"answer":1,"why":"O Bispo comanda os dois lados do tabuleiro de longe e passa depressa de um lado para o outro."}
+],
+"summary":"O Bispo ganha valor quando há peões nos dois lados do tabuleiro; o Cavalo só se impõe em posições bloqueadas. E quem tem Bispo deve pôr os seus peões em casas de cor oposta à dele."
 }
 ]
 }
