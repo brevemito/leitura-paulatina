@@ -1520,6 +1520,216 @@
 {"q":"Que erro de Homero rejeita Sócrates?","options":["Dizer que os deuses são bons","Dizer que Zeus distribui bens e males aos homens a partir de dois tonéis","Descrever batalhas","Falar de heróis"],"answer":1,"why":"Sócrates rejeita a ideia dos dois tonéis no palácio de Zeus, de onde se distribuiriam aos homens os bens e os males."}
 ],
 "summary":"Sócrates raciocina que o que é bom não pode causar mal, por isso Deus, sendo bom, só pode ser causa do bem; os males têm outra causa, e os poetas que dizem o contrário erram."
+},
+  {
+"id":"061",
+"title":"Livro II: o poeta não pode culpar Deus pelo mal",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates dá exemplos do que não deve ser permitido. Se um poeta disser que Pândaro violou juramentos e tratados por instigação de Atena e de Zeus, ou que Zeus e Ártemis foram causa de uma querela entre deusas, ou se citar versos de Ésquilo em que Deus faz nascer o crime entre os mortais quando quer arruinar uma casa, não será aprovado. Quem compuser um poema sobre as desgraças de Níobe, dos Pelópidas ou dos troianos não deve dizer que foram obra de Deus; se o disser, deve justificá-lo, mostrando que Deus só fez o que era justo e bom e que os castigados tiraram proveito.",
+"Não se deve dar ao poeta a liberdade de dizer que os homens punidos foram infelizes e que Deus foi o autor dos seus males. Mas, se disser que os maus precisavam de castigo, sendo infelizes, e que Deus lhes fez bem ao castigá-los, pode ficar livre. Se alguém disser que Deus, que é bom, é causa das desgraças de alguém, combater-se-á tal afirmação com todas as forças: não deve ser dita nem ouvida, por jovens ou velhos, em verso ou em prosa, numa cidade de boas leis, porque seria pecaminoso, abusivo e absurdo. Primeira regra e primeiro modelo para os discursos e poemas: Deus não é causa de tudo, mas só do bem.",
+"Original no teu PDF: Livro II, pp. 89 e 90."
+],
+"glossary":[
+{"t":"Instigação","d":"empurrão, incitamento para fazer algo."},
+{"t":"Querela","d":"disputa, discussão violenta."},
+{"t":"Justificar","d":"explicar e mostrar que algo é justo ou razoável."},
+{"t":"Pecaminoso","d":"que ofende o que é sagrado, impuro."},
+{"t":"Abusivo","d":"que vai além do que é admissível."},
+{"t":"Modelo","d":"regra a seguir, exemplo a imitar."}
+],
+"questions":[
+{"q":"Que tipo de versos de poetas não deve ser aprovado, segundo Sócrates?","options":["Os que louvam os deuses","Os que atribuem a Deus a violação de juramentos, ou fazem dele autor do crime e da ruína das casas","Os que falam do mar","Os que falam de guerras"],"answer":1,"why":"Sócrates dá como exemplo Pândaro, os deuses numa querela e os versos de Ésquilo sobre Deus fazer nascer o crime."},
+{"q":"Em que condição se pode deixar o poeta falar das desgraças dos castigados?","options":["Se disser que os maus precisavam de castigo, sendo infelizes, e que Deus lhes fez bem ao castigá-los","Se disser que Deus é cruel","Se disser que ninguém merece castigo","Se não falar de Deus"],"answer":0,"why":"Sócrates diz que se pode deixar livre o poeta que afirme que os maus precisavam de castigo e que Deus lhes fez bem ao castigá-los."},
+{"q":"O que não deve o poeta afirmar sobre os homens punidos?","options":["Que foram castigados","Que foram corajosos","Que foram infelizes e que Deus foi o autor dos seus males","Que foram pobres"],"answer":2,"why":"Sócrates diz que não se deve dar ao poeta a liberdade de afirmar que os homens punidos foram infelizes e que Deus foi o autor dos seus males."},
+{"q":"Como deve ser tratado quem diz que Deus, sendo bom, é causa das desgraças de alguém?","options":["Deve ser ouvido","Deve ser premiado","Deve ser ignorado","Deve ser combatido com todas as forças, e as suas palavras não devem ser ditas nem ouvidas"],"answer":3,"why":"Sócrates diz que tais palavras serão combatidas com todas as forças e que não devem ser proferidas nem ouvidas, porque seriam pecaminosas, abusivas e absurdas."},
+{"q":"Qual é a primeira regra sobre os deuses, nos discursos e nos poemas?","options":["Deus não é causa de tudo, mas somente do bem","Deus é causa de tudo","Deus é causa do mal","Deus não existe"],"answer":0,"why":"Sócrates diz que a primeira regra é que Deus não é a causa de tudo, mas só do bem."}
+],
+"summary":"Sócrates rejeita os poemas que fazem Deus autor do crime e da infelicidade, aceita que os maus sejam castigados para seu bem, e fixa a primeira regra: Deus não é causa de tudo, mas somente do bem."
+},
+{
+"id":"062",
+"title":"Livro II: a segunda regra, Deus não muda de forma",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates passa à segunda regra. Pergunta se Deus é um mágico capaz de assumir formas variadas, ora presente e transformado numa infinidade de figuras, ora a enganar-nos com simulacros sem realidade, ou se é antes um ser simples, incapaz de deixar a forma que lhe é própria. Adimanto não sabe responder. Sócrates pede-lhe que concorde ao menos que, se um ser deixa a sua forma própria, a transformação tem de vir dele mesmo ou de outro.",
+"As coisas melhor constituídas são as menos sujeitas a ser alteradas por influências exteriores. O corpo mais são e vigoroso é o menos afectado pelo alimento, pela bebida e pela fadiga; a planta, pelo sol e pelo vento; a alma mais corajosa e sábia é a menos perturbada pelos acidentes de fora; e os edifícios e vestuário bem feitos sofrem menos com o que os destrói. Em geral, todo o ser perfeito está menos sujeito a transformações vindas de fora. Se Deus é perfeito, é o menos sujeito a receber formas diferentes.",
+"Se mudasse, seria por si mesmo, e então tomaria uma forma pior, porque não seria apropriado dizer que falta a Deus algum grau de beleza ou de virtude. Mas nenhum ser, deus ou homem, se torna voluntariamente pior. Logo, é impossível que um deus aceite transformar-se: sendo cada um o mais belo e melhor possível, permanece sempre na forma que lhe é própria.",
+"Original no teu PDF: Livro II, pp. 90 a 92."
+],
+"glossary":[
+{"t":"Mágico","d":"quem faz truques ou encantamentos para enganar."},
+{"t":"Simulacro","d":"imagem aparente, sem realidade."},
+{"t":"Constituído","d":"formado, organizado."},
+{"t":"Perfeito","d":"sem faltas, completo."},
+{"t":"Influência estranha","d":"o que vem de fora e altera algo."},
+{"t":"Voluntariamente","d":"por vontade própria."}
+],
+"questions":[
+{"q":"Que pergunta faz Sócrates na segunda regra?","options":["Se Deus é mágico que muda de forma e engana, ou um ser simples, incapaz de deixar a sua forma própria","Se Deus é rico","Se Deus é velho","Se Deus é justo"],"answer":0,"why":"Sócrates pergunta se Deus é um mágico que assume formas variadas, ou um ser simples incapaz de deixar a forma que lhe é própria."},
+{"q":"De onde pode vir a transformação de um ser, segundo Sócrates?","options":["Do acaso","Dele mesmo ou de outro ser","Dos deuses","Do tempo"],"answer":1,"why":"Sócrates diz que, se um ser deixa a forma que lhe é própria, a transformação vem forçosamente dele ou de outro ser."},
+{"q":"Quais são as coisas menos sujeitas a ser alteradas por influências de fora?","options":["As mais fracas","As mais novas","As melhor constituídas: o corpo mais são, a alma mais corajosa e sábia, os edifícios bem feitos","As mais pequenas"],"answer":2,"why":"Sócrates diz que as coisas melhor constituídas são as menos sujeitas a ser alteradas por uma influência estranha."},
+{"q":"Se Deus se transformasse por si mesmo, em que sentido o faria?","options":["Para uma forma melhor","Para uma forma igual","Para uma forma mais bela","Para uma forma pior, porque não seria apropriado dizer que lhe falta beleza ou virtude"],"answer":3,"why":"Adimanto diz que, forçosamente, seria para uma forma pior, porque não se pode dizer que falta a Deus beleza ou virtude."},
+{"q":"Que conclusão tira Sócrates?","options":["Que um deus aceita mudar quando quer","Que é impossível que um deus aceite transformar-se: sendo o mais belo e o melhor, permanece sempre na sua forma própria","Que os deuses mudam de forma à noite","Que os deuses se disfarçam de homens"],"answer":1,"why":"Sócrates conclui que, sendo cada deus o mais belo e o melhor possível, permanece sempre na forma que lhe é própria."}
+],
+"summary":"Sócrates mostra que um ser perfeito é o menos sujeito a mudanças vindas de fora e que ninguém muda voluntariamente para pior, por isso Deus não se transforma e permanece sempre na sua forma própria."
+},
+{
+"id":"063",
+"title":"Livro II: deuses disfarçados e a verdadeira mentira",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Por isso, nenhum poeta deve dizer que os deuses, sob o aspecto de estrangeiros longínquos, assumem todas as formas e percorrem as cidades, nem inventar mentiras semelhantes. As mães, convencidas pelos poetas, também não devem assustar os filhos, contando que certos deuses vagueiam de noite disfarçados, porque isso é blasfemar contra os deuses e torna as crianças mais medrosas e covardes. Adimanto concorda.",
+"Sócrates pergunta se os deuses, incapazes de mudar por si mesmos, poderiam fazer-nos crer que assumem formas diversas, por impostura e encantamento. Adimanto não sabe. Sócrates lembra, então, que a verdadeira mentira é abominada tanto pelos deuses como pelos homens: ninguém aceita de bom grado ser enganado na parte soberana do seu ser, nas coisas mais importantes, e é aí que a mentira é mais temida. Ser enganado na alma sobre a natureza das coisas, continuar a sê-lo e ignorá-lo, é o que se suporta menos. A isso chama verdadeira mentira: a ignorância em que está a alma da pessoa enganada. A mentira nos discursos é apenas uma imitação desse estado, uma imagem que vem depois, e não uma mentira inteiramente pura.",
+"Original no teu PDF: Livro II, pp. 92 e 93."
+],
+"glossary":[
+{"t":"Blasfemar","d":"falar mal do que é sagrado."},
+{"t":"Impostura","d":"engano, fingimento para parecer o que não se é."},
+{"t":"Encantamento","d":"feitiço, magia."},
+{"t":"Soberana","d":"que está acima das outras, principal."},
+{"t":"Abominar","d":"detestar, ter horror."},
+{"t":"Oráculo","d":"resposta de um deus, dada por um sacerdote."}
+],
+"questions":[
+{"q":"O que não devem dizer os poetas sobre os deuses, segundo Sócrates?","options":["Que são bons","Que sob o aspecto de estrangeiros, assumindo todas as formas, percorrem as cidades","Que são justos","Que são sábios"],"answer":1,"why":"Sócrates diz que nenhum poeta deve dizer que os deuses, disfarçados de estrangeiros, assumem todas as formas e percorrem as cidades."},
+{"q":"Que mal fazem as mães ao contar às crianças que os deuses vagueiam à noite disfarçados?","options":["Fazem-nas rir","Fazem-nas esquecer","Blasfemam contra os deuses e tornam as crianças mais medrosas e covardes","Fazem-nas dormir"],"answer":2,"why":"Sócrates diz que é blasfemar contra os deuses e tornar as crianças mais medrosas e covardes."},
+{"q":"Que hipótese levanta Sócrates a seguir?","options":["Que os deuses não podem enganar","Que os deuses mudam sempre","Que os deuses se escondem","Se os deuses, incapazes de mudar por si, poderiam fazer-nos crer que assumem formas diversas, por impostura e encantamento"],"answer":3,"why":"Sócrates pergunta se os deuses, imutáveis, poderiam fazer-nos crer que assumem formas diversas, por impostura e encantamento."},
+{"q":"O que é a 'verdadeira mentira', segundo Sócrates?","options":["A ignorância em que está a alma da pessoa enganada, sobre a natureza das coisas, sem o saber","Uma frase falsa","Uma brincadeira","Um erro de contas"],"answer":0,"why":"Sócrates chama verdadeira mentira à ignorância em que, na alma, se encontra a pessoa enganada."},
+{"q":"Quem detesta a verdadeira mentira, segundo Sócrates?","options":["Só os deuses","Só os homens","Só os sábios","Os deuses e os homens por igual"],"answer":3,"why":"Sócrates diz que a verdadeira mentira é igualmente abominada pelos deuses e pelos homens."}
+],
+"summary":"Os poetas e as mães não devem dizer que os deuses vagueiam disfarçados, e Sócrates explica que a pior mentira é a ignorância na própria alma, que ninguém aceita ter sobre as coisas mais importantes."
+},
+{
+"id":"064",
+"title":"Livro II: Deus não mente, e fim do Livro II",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates admite que a mentira nos discursos é, por vezes, útil: como remédio, para desviar de uma má acção amigos movidos pelo ódio ou pelo desatino; e nas histórias do passado, quando não se sabe a verdade, dá-se à mentira a maior verosimilhança possível. Mas seria útil a Deus? Seria ridículo supor que Deus mente por ignorar o passado, ou por temor dos inimigos, ou para acalmar amigos odiosos e insensatos. Logo, não há razão para Deus mentir: a natureza divina é completamente estranha à mentira.",
+"Deus é essencialmente simples e verdadeiro, em actos e palavras: não muda de forma nem engana os outros, por simulacros, discursos ou sinais, quer acordados quer em sonhos. Assim se fixa a segunda regra: os deuses não são mágicos que mudam de forma, nem nos enganam com palavras ou actos. Por isso, embora louvando muito em Homero, não louvarão a passagem em que Zeus envia um sonho enganador a Agamémnon, nem os versos de Ésquilo em que Tétis recorda que Apolo, que cantava nas suas bodas, lhe prometeu filhos felizes e de longa vida, e depois foi ele mesmo o assassino do filho dela. Quem assim falar dos deuses desagradará, e as suas fábulas não serão usadas na educação, se se quiser que os guardiões sejam piedosos e tão semelhantes aos deuses quanto um homem pode ser. Adimanto aprova e diz que destas regras se devem extrair outras leis.",
+"Original no teu PDF: Livro II, pp. 93 a 96."
+],
+"glossary":[
+{"t":"Desatino","d":"loucura, falta de juízo."},
+{"t":"Verosimilhança","d":"aparência de verdade."},
+{"t":"Odiento","d":"cheio de ódio."},
+{"t":"Vigília","d":"estado de estar acordado."},
+{"t":"Piedoso","d":"que respeita os deuses."},
+{"t":"Bodas","d":"casamento."}
+],
+"questions":[
+{"q":"Quando é útil a mentira nos discursos, segundo Sócrates?","options":["Nunca","Sempre","Como remédio, para desviar amigos de uma má acção, e nas histórias do passado, quando não se sabe a verdade","Só em tribunal"],"answer":2,"why":"Sócrates admite que a mentira é útil como remédio contra acções más movidas por ódio ou desatino, e para dar verosimilhança ao passado que se ignora."},
+{"q":"Porque não é a mentira útil a Deus?","options":["Porque Deus é fraco","Porque Deus não ignora o passado, não teme os inimigos e não tem amigos odiosos nem insensatos","Porque Deus é cruel","Porque Deus nunca fala"],"answer":1,"why":"Adimanto concorda que Deus não tem razão alguma para mentir: não ignora o passado, não teme inimigos e não tem amigos insensatos."},
+{"q":"Qual é a segunda regra para os discursos e poemas sobre os deuses?","options":["Os deuses mudam de forma quando querem","Os deuses enganam por sonhos","Os deuses falam só aos poetas","Os deuses não são mágicos que mudam de forma nem nos enganam com palavras ou actos"],"answer":3,"why":"Sócrates fixa a segunda regra: os deuses não são mágicos que mudam de forma, nem nos enganam com mentiras, palavras ou actos."},
+{"q":"Que passagens não louvarão de Homero e de Ésquilo?","options":["O sonho enganador que Zeus envia a Agamémnon, e os versos em que Apolo promete a Tétis filhos felizes e depois é ele que mata o filho dela","As descrições de batalhas","Os versos sobre o mar","Os hinos aos deuses"],"answer":0,"why":"Sócrates diz que não louvarão a passagem em que Zeus envia um sonho a Agamémnon, nem a de Ésquilo em que Apolo promete e depois mata o filho de Tétis."},
+{"q":"Para que servem estas regras, segundo Sócrates?","options":["Para agradar aos poetas","Para que os guardiões sejam piedosos e tão semelhantes aos deuses quanto um homem pode ser","Para proibir as festas","Para castigar os poetas"],"answer":1,"why":"Sócrates diz que não se permitirá o uso dessas fábulas na educação, se se quer que os guardiões sejam piedosos e semelhantes aos deuses, no maior grau possível."}
+],
+"summary":"Sócrates mostra que Deus não tem motivo algum para mentir nem para mudar de forma, fixa a segunda regra sobre os deuses e rejeita os versos que os mostram enganadores, para que os guardiões sejam piedosos."
+},
+  {
+"id":"061",
+"title":"Livro II: o poeta não pode culpar Deus pelo mal",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates dá exemplos do que não deve ser permitido. Se um poeta disser que Pândaro violou juramentos e tratados por instigação de Atena e de Zeus, ou que Zeus e Ártemis foram causa de uma querela entre deusas, ou se citar versos de Ésquilo em que Deus faz nascer o crime entre os mortais quando quer arruinar uma casa, não será aprovado. Quem compuser um poema sobre as desgraças de Níobe, dos Pelópidas ou dos troianos não deve dizer que foram obra de Deus; se o disser, deve justificá-lo, mostrando que Deus só fez o que era justo e bom e que os castigados tiraram proveito.",
+"Não se deve dar ao poeta a liberdade de dizer que os homens punidos foram infelizes e que Deus foi o autor dos seus males. Mas, se disser que os maus precisavam de castigo, sendo infelizes, e que Deus lhes fez bem ao castigá-los, pode ficar livre. Se alguém disser que Deus, que é bom, é causa das desgraças de alguém, combater-se-á tal afirmação com todas as forças: não deve ser dita nem ouvida, por jovens ou velhos, em verso ou em prosa, numa cidade de boas leis, porque seria pecaminoso, abusivo e absurdo. Primeira regra e primeiro modelo para os discursos e poemas: Deus não é causa de tudo, mas só do bem.",
+"Original no teu PDF: Livro II, pp. 89 e 90."
+],
+"glossary":[
+{"t":"Instigação","d":"empurrão, incitamento para fazer algo."},
+{"t":"Querela","d":"disputa, discussão violenta."},
+{"t":"Justificar","d":"explicar e mostrar que algo é justo ou razoável."},
+{"t":"Pecaminoso","d":"que ofende o que é sagrado, impuro."},
+{"t":"Abusivo","d":"que vai além do que é admissível."},
+{"t":"Modelo","d":"regra a seguir, exemplo a imitar."}
+],
+"questions":[
+{"q":"Que tipo de versos de poetas não deve ser aprovado, segundo Sócrates?","options":["Os que louvam os deuses","Os que atribuem a Deus a violação de juramentos, ou fazem dele autor do crime e da ruína das casas","Os que falam do mar","Os que falam de guerras"],"answer":1,"why":"Sócrates dá como exemplo Pândaro, os deuses numa querela e os versos de Ésquilo sobre Deus fazer nascer o crime."},
+{"q":"Em que condição se pode deixar o poeta falar das desgraças dos castigados?","options":["Se disser que os maus precisavam de castigo, sendo infelizes, e que Deus lhes fez bem ao castigá-los","Se disser que Deus é cruel","Se disser que ninguém merece castigo","Se não falar de Deus"],"answer":0,"why":"Sócrates diz que se pode deixar livre o poeta que afirme que os maus precisavam de castigo e que Deus lhes fez bem ao castigá-los."},
+{"q":"O que não deve o poeta afirmar sobre os homens punidos?","options":["Que foram castigados","Que foram corajosos","Que foram infelizes e que Deus foi o autor dos seus males","Que foram pobres"],"answer":2,"why":"Sócrates diz que não se deve dar ao poeta a liberdade de afirmar que os homens punidos foram infelizes e que Deus foi o autor dos seus males."},
+{"q":"Como deve ser tratado quem diz que Deus, sendo bom, é causa das desgraças de alguém?","options":["Deve ser ouvido","Deve ser premiado","Deve ser ignorado","Deve ser combatido com todas as forças, e as suas palavras não devem ser ditas nem ouvidas"],"answer":3,"why":"Sócrates diz que tais palavras serão combatidas com todas as forças e que não devem ser proferidas nem ouvidas, porque seriam pecaminosas, abusivas e absurdas."},
+{"q":"Qual é a primeira regra sobre os deuses, nos discursos e nos poemas?","options":["Deus não é causa de tudo, mas somente do bem","Deus é causa de tudo","Deus é causa do mal","Deus não existe"],"answer":0,"why":"Sócrates diz que a primeira regra é que Deus não é a causa de tudo, mas só do bem."}
+],
+"summary":"Sócrates rejeita os poemas que fazem Deus autor do crime e da infelicidade, aceita que os maus sejam castigados para seu bem, e fixa a primeira regra: Deus não é causa de tudo, mas somente do bem."
+},
+{
+"id":"062",
+"title":"Livro II: a segunda regra, Deus não muda de forma",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates passa à segunda regra. Pergunta se Deus é um mágico capaz de assumir formas variadas, ora presente e transformado numa infinidade de figuras, ora a enganar-nos com simulacros sem realidade, ou se é antes um ser simples, incapaz de deixar a forma que lhe é própria. Adimanto não sabe responder. Sócrates pede-lhe que concorde ao menos que, se um ser deixa a sua forma própria, a transformação tem de vir dele mesmo ou de outro.",
+"As coisas melhor constituídas são as menos sujeitas a ser alteradas por influências exteriores. O corpo mais são e vigoroso é o menos afectado pelo alimento, pela bebida e pela fadiga; a planta, pelo sol e pelo vento; a alma mais corajosa e sábia é a menos perturbada pelos acidentes de fora; e os edifícios e vestuário bem feitos sofrem menos com o que os destrói. Em geral, todo o ser perfeito está menos sujeito a transformações vindas de fora. Se Deus é perfeito, é o menos sujeito a receber formas diferentes.",
+"Se mudasse, seria por si mesmo, e então tomaria uma forma pior, porque não seria apropriado dizer que falta a Deus algum grau de beleza ou de virtude. Mas nenhum ser, deus ou homem, se torna voluntariamente pior. Logo, é impossível que um deus aceite transformar-se: sendo cada um o mais belo e melhor possível, permanece sempre na forma que lhe é própria.",
+"Original no teu PDF: Livro II, pp. 90 a 92."
+],
+"glossary":[
+{"t":"Mágico","d":"quem faz truques ou encantamentos para enganar."},
+{"t":"Simulacro","d":"imagem aparente, sem realidade."},
+{"t":"Constituído","d":"formado, organizado."},
+{"t":"Perfeito","d":"sem faltas, completo."},
+{"t":"Influência estranha","d":"o que vem de fora e altera algo."},
+{"t":"Voluntariamente","d":"por vontade própria."}
+],
+"questions":[
+{"q":"Que pergunta faz Sócrates na segunda regra?","options":["Se Deus é mágico que muda de forma e engana, ou um ser simples, incapaz de deixar a sua forma própria","Se Deus é rico","Se Deus é velho","Se Deus é justo"],"answer":0,"why":"Sócrates pergunta se Deus é um mágico que assume formas variadas, ou um ser simples incapaz de deixar a forma que lhe é própria."},
+{"q":"De onde pode vir a transformação de um ser, segundo Sócrates?","options":["Do acaso","Dele mesmo ou de outro ser","Dos deuses","Do tempo"],"answer":1,"why":"Sócrates diz que, se um ser deixa a forma que lhe é própria, a transformação vem forçosamente dele ou de outro ser."},
+{"q":"Quais são as coisas menos sujeitas a ser alteradas por influências de fora?","options":["As mais fracas","As mais novas","As melhor constituídas: o corpo mais são, a alma mais corajosa e sábia, os edifícios bem feitos","As mais pequenas"],"answer":2,"why":"Sócrates diz que as coisas melhor constituídas são as menos sujeitas a ser alteradas por uma influência estranha."},
+{"q":"Se Deus se transformasse por si mesmo, em que sentido o faria?","options":["Para uma forma melhor","Para uma forma igual","Para uma forma mais bela","Para uma forma pior, porque não seria apropriado dizer que lhe falta beleza ou virtude"],"answer":3,"why":"Adimanto diz que, forçosamente, seria para uma forma pior, porque não se pode dizer que falta a Deus beleza ou virtude."},
+{"q":"Que conclusão tira Sócrates?","options":["Que um deus aceita mudar quando quer","Que é impossível que um deus aceite transformar-se: sendo o mais belo e o melhor, permanece sempre na sua forma própria","Que os deuses mudam de forma à noite","Que os deuses se disfarçam de homens"],"answer":1,"why":"Sócrates conclui que, sendo cada deus o mais belo e o melhor possível, permanece sempre na forma que lhe é própria."}
+],
+"summary":"Sócrates mostra que um ser perfeito é o menos sujeito a mudanças vindas de fora e que ninguém muda voluntariamente para pior, por isso Deus não se transforma e permanece sempre na sua forma própria."
+},
+{
+"id":"063",
+"title":"Livro II: deuses disfarçados e a verdadeira mentira",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Por isso, nenhum poeta deve dizer que os deuses, sob o aspecto de estrangeiros longínquos, assumem todas as formas e percorrem as cidades, nem inventar mentiras semelhantes. As mães, convencidas pelos poetas, também não devem assustar os filhos, contando que certos deuses vagueiam de noite disfarçados, porque isso é blasfemar contra os deuses e torna as crianças mais medrosas e covardes. Adimanto concorda.",
+"Sócrates pergunta se os deuses, incapazes de mudar por si mesmos, poderiam fazer-nos crer que assumem formas diversas, por impostura e encantamento. Adimanto não sabe. Sócrates lembra, então, que a verdadeira mentira é abominada tanto pelos deuses como pelos homens: ninguém aceita de bom grado ser enganado na parte soberana do seu ser, nas coisas mais importantes, e é aí que a mentira é mais temida. Ser enganado na alma sobre a natureza das coisas, continuar a sê-lo e ignorá-lo, é o que se suporta menos. A isso chama verdadeira mentira: a ignorância em que está a alma da pessoa enganada. A mentira nos discursos é apenas uma imitação desse estado, uma imagem que vem depois, e não uma mentira inteiramente pura.",
+"Original no teu PDF: Livro II, pp. 92 e 93."
+],
+"glossary":[
+{"t":"Blasfemar","d":"falar mal do que é sagrado."},
+{"t":"Impostura","d":"engano, fingimento para parecer o que não se é."},
+{"t":"Encantamento","d":"feitiço, magia."},
+{"t":"Soberana","d":"que está acima das outras, principal."},
+{"t":"Abominar","d":"detestar, ter horror."},
+{"t":"Oráculo","d":"resposta de um deus, dada por um sacerdote."}
+],
+"questions":[
+{"q":"O que não devem dizer os poetas sobre os deuses, segundo Sócrates?","options":["Que são bons","Que sob o aspecto de estrangeiros, assumindo todas as formas, percorrem as cidades","Que são justos","Que são sábios"],"answer":1,"why":"Sócrates diz que nenhum poeta deve dizer que os deuses, disfarçados de estrangeiros, assumem todas as formas e percorrem as cidades."},
+{"q":"Que mal fazem as mães ao contar às crianças que os deuses vagueiam à noite disfarçados?","options":["Fazem-nas rir","Fazem-nas esquecer","Blasfemam contra os deuses e tornam as crianças mais medrosas e covardes","Fazem-nas dormir"],"answer":2,"why":"Sócrates diz que é blasfemar contra os deuses e tornar as crianças mais medrosas e covardes."},
+{"q":"Que hipótese levanta Sócrates a seguir?","options":["Que os deuses não podem enganar","Que os deuses mudam sempre","Que os deuses se escondem","Se os deuses, incapazes de mudar por si, poderiam fazer-nos crer que assumem formas diversas, por impostura e encantamento"],"answer":3,"why":"Sócrates pergunta se os deuses, imutáveis, poderiam fazer-nos crer que assumem formas diversas, por impostura e encantamento."},
+{"q":"O que é a 'verdadeira mentira', segundo Sócrates?","options":["A ignorância em que está a alma da pessoa enganada, sobre a natureza das coisas, sem o saber","Uma frase falsa","Uma brincadeira","Um erro de contas"],"answer":0,"why":"Sócrates chama verdadeira mentira à ignorância em que, na alma, se encontra a pessoa enganada."},
+{"q":"Quem detesta a verdadeira mentira, segundo Sócrates?","options":["Só os deuses","Só os homens","Só os sábios","Os deuses e os homens por igual"],"answer":3,"why":"Sócrates diz que a verdadeira mentira é igualmente abominada pelos deuses e pelos homens."}
+],
+"summary":"Os poetas e as mães não devem dizer que os deuses vagueiam disfarçados, e Sócrates explica que a pior mentira é a ignorância na própria alma, que ninguém aceita ter sobre as coisas mais importantes."
+},
+{
+"id":"064",
+"title":"Livro II: Deus não mente, e fim do Livro II",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates admite que a mentira nos discursos é, por vezes, útil: como remédio, para desviar de uma má acção amigos movidos pelo ódio ou pelo desatino; e nas histórias do passado, quando não se sabe a verdade, dá-se à mentira a maior verosimilhança possível. Mas seria útil a Deus? Seria ridículo supor que Deus mente por ignorar o passado, ou por temor dos inimigos, ou para acalmar amigos odiosos e insensatos. Logo, não há razão para Deus mentir: a natureza divina é completamente estranha à mentira.",
+"Deus é essencialmente simples e verdadeiro, em actos e palavras: não muda de forma nem engana os outros, por simulacros, discursos ou sinais, quer acordados quer em sonhos. Assim se fixa a segunda regra: os deuses não são mágicos que mudam de forma, nem nos enganam com palavras ou actos. Por isso, embora louvando muito em Homero, não louvarão a passagem em que Zeus envia um sonho enganador a Agamémnon, nem os versos de Ésquilo em que Tétis recorda que Apolo, que cantava nas suas bodas, lhe prometeu filhos felizes e de longa vida, e depois foi ele mesmo o assassino do filho dela. Quem assim falar dos deuses desagradará, e as suas fábulas não serão usadas na educação, se se quiser que os guardiões sejam piedosos e tão semelhantes aos deuses quanto um homem pode ser. Adimanto aprova e diz que destas regras se devem extrair outras leis.",
+"Original no teu PDF: Livro II, pp. 93 a 96."
+],
+"glossary":[
+{"t":"Desatino","d":"loucura, falta de juízo."},
+{"t":"Verosimilhança","d":"aparência de verdade."},
+{"t":"Odiento","d":"cheio de ódio."},
+{"t":"Vigília","d":"estado de estar acordado."},
+{"t":"Piedoso","d":"que respeita os deuses."},
+{"t":"Bodas","d":"casamento."}
+],
+"questions":[
+{"q":"Quando é útil a mentira nos discursos, segundo Sócrates?","options":["Nunca","Sempre","Como remédio, para desviar amigos de uma má acção, e nas histórias do passado, quando não se sabe a verdade","Só em tribunal"],"answer":2,"why":"Sócrates admite que a mentira é útil como remédio contra acções más movidas por ódio ou desatino, e para dar verosimilhança ao passado que se ignora."},
+{"q":"Porque não é a mentira útil a Deus?","options":["Porque Deus é fraco","Porque Deus não ignora o passado, não teme os inimigos e não tem amigos odiosos nem insensatos","Porque Deus é cruel","Porque Deus nunca fala"],"answer":1,"why":"Adimanto concorda que Deus não tem razão alguma para mentir: não ignora o passado, não teme inimigos e não tem amigos insensatos."},
+{"q":"Qual é a segunda regra para os discursos e poemas sobre os deuses?","options":["Os deuses mudam de forma quando querem","Os deuses enganam por sonhos","Os deuses falam só aos poetas","Os deuses não são mágicos que mudam de forma nem nos enganam com palavras ou actos"],"answer":3,"why":"Sócrates fixa a segunda regra: os deuses não são mágicos que mudam de forma, nem nos enganam com mentiras, palavras ou actos."},
+{"q":"Que passagens não louvarão de Homero e de Ésquilo?","options":["O sonho enganador que Zeus envia a Agamémnon, e os versos em que Apolo promete a Tétis filhos felizes e depois é ele que mata o filho dela","As descrições de batalhas","Os versos sobre o mar","Os hinos aos deuses"],"answer":0,"why":"Sócrates diz que não louvarão a passagem em que Zeus envia um sonho a Agamémnon, nem a de Ésquilo em que Apolo promete e depois mata o filho de Tétis."},
+{"q":"Para que servem estas regras, segundo Sócrates?","options":["Para agradar aos poetas","Para que os guardiões sejam piedosos e tão semelhantes aos deuses quanto um homem pode ser","Para proibir as festas","Para castigar os poetas"],"answer":1,"why":"Sócrates diz que não se permitirá o uso dessas fábulas na educação, se se quer que os guardiões sejam piedosos e semelhantes aos deuses, no maior grau possível."}
+],
+"summary":"Sócrates mostra que Deus não tem motivo algum para mentir nem para mudar de forma, fixa a segunda regra sobre os deuses e rejeita os versos que os mostram enganadores, para que os guardiões sejam piedosos."
 }
 ]
 }
