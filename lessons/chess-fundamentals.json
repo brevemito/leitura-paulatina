@@ -150,6 +150,24 @@
 {
 "id":"004",
 "title":"Finais de peões: onde e como agir",
+"diagrams":[
+{"after":1,"title":"Peões nos dois lados: agir onde se é mais forte","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 3, Exemplo 10 (posição e linha do livro)","description":"Há peões nos dois lados do tabuleiro. Regra geral: agir de imediato no lado onde se têm as forças superiores, e travar o avanço do adversário quando o Rei dele está longe.","orientation":"w","start":"8/p6p/4k3/8/4K3/8/P5PP/8 w - - 0 1",
+"steps":[
+{"san":"g4","from":"g2","to":"g4","fen":"8/p6p/4k3/8/4K1P1/8/P6P/8 b - - 0 1","note":"Avança-se o peão que está livre de oposição."},
+{"san":"a5","from":"a7","to":"a5","fen":"8/7p/4k3/p7/4K1P1/8/P6P/8 w - - 0 2","note":"As Pretas avançam do outro lado. As Brancas têm de decidir se travam ou não esse avanço."},
+{"san":"a4","from":"a2","to":"a4","fen":"8/7p/4k3/p7/P3K1P1/8/7P/8 b - - 0 2","note":"Trava-se o avanço, porque o Rei adversário está longe."},
+{"san":"Kf6","from":"e6","to":"f6","fen":"8/7p/5k2/p7/P3K1P1/8/7P/8 w - - 1 3"},
+{"san":"h4","from":"h2","to":"h4","fen":"8/7p/5k2/p7/P3K1PP/8/8/8 b - - 0 3"},
+{"san":"Ke6","from":"f6","to":"e6","fen":"8/7p/4k3/p7/P3K1PP/8/8/8 w - - 1 4","note":"Se o Rei preto fosse para g6, bastaria contar para ver que as Brancas ganham: levam o Rei para o outro lado, ganham o peão de a5 e promovem o seu único peão muito antes das Pretas."},
+{"san":"g5","from":"g4","to":"g5","fen":"8/7p/4k3/p5P1/P3K2P/8/8/8 b - - 0 4"},
+{"san":"Kf7","from":"e6","to":"f7","fen":"8/5k1p/8/p5P1/P3K2P/8/8/8 w - - 1 5"},
+{"san":"Kf5","from":"e4","to":"f5","fen":"8/5k1p/8/p4KP1/P6P/8/8/8 b - - 2 5"},
+{"san":"Kg7","from":"f7","to":"g7","fen":"8/6kp/8/p4KP1/P6P/8/8/8 w - - 3 6"},
+{"san":"h5","from":"h4","to":"h5","fen":"8/6kp/8/p4KPP/P7/8/8/8 b - - 0 6","note":"Se as Pretas jogassem h6, g6 deixaria os dois peões a defender-se um ao outro, e o Rei branco iria para o outro lado."},
+{"san":"Kf7","from":"g7","to":"f7","fen":"8/5k1p/8/p4KPP/P7/8/8/8 w - - 1 7"},
+{"san":"Ke5","from":"f5","to":"e5","fen":"8/5k1p/8/p3K1PP/P7/8/8/8 b - - 2 7","note":"Chegou a hora de levar o Rei para o outro lado, ganhar o peão preto e promover o peão que fica. É típico de todos estes finais."}
+]}
+],
 "text":[
 "Em finais com dois peões contra um, ou três contra dois, há duas regras gerais. A primeira: sempre que não haja boa razão em contrário, avançar o peão que não tem nenhum peão adversário à frente. A segunda: quando há peões nos dois lados do tabuleiro, agir imediatamente no lado onde se tem as forças superiores.",
 "Quando o adversário avança no outro lado, é preciso decidir se se deve ou não travar esse avanço. Em geral, deve travar-se quando o Rei adversário está longe.",
