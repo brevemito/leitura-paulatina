@@ -1000,6 +1000,34 @@
 {
 "id":"029",
 "title":"Quem está atrás no material tem de atacar",
+"diagrams":[
+{"after":1,"title":"As Pretas atacam em desvantagem: Tdg8!","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 17, Exemplo 43 (posição e linha do livro)","description":"As Pretas estão um Cavalo e um peão atrás e têm a vez. Em vez de defender, dobram as Torres na coluna g.","orientation":"w","start":"2kr4/ppp1qp2/4bQ2/8/3P2r1/N1P5/PP4P1/R1B2RK1 b - - 0 1",
+"steps":[
+{"san":"Rdg8","from":"d8","to":"g8","fen":"2k3r1/ppp1qp2/4bQ2/8/3P2r1/N1P5/PP4P1/R1B2RK1 w - - 1 2","note":"As Pretas estão um Cavalo e um peão atrás, por isso atacam: dobram as Torres na coluna g, contra o Rei. A Dama branca pode capturar a preta, mas o Rei fica sem defesa."},
+{"san":"Rf2","from":"f1","to":"f2","fen":"2k3r1/ppp1qp2/4bQ2/8/3P2r1/N1P5/PP3RP1/R1B3K1 b - - 2 2","note":"As Brancas defendem g2 com a Torre."},
+{"san":"Rxg2+","from":"g4","to":"g2","fen":"2k3r1/ppp1qp2/4bQ2/8/3P4/N1P5/PP3Rr1/R1B3K1 w - - 0 3","note":"Sacrifício. Se as Brancas capturarem, Txg2+ Rxg2 Dxf6 ganha a Dama às Brancas. O livro segue outro lance, o Rei para f1."},
+{"san":"Kf1","from":"g1","to":"f1","fen":"2k3r1/ppp1qp2/4bQ2/8/3P4/N1P5/PP3Rr1/R1B2K2 b - - 1 3"},
+{"san":"Bc4+","from":"e6","to":"c4","fen":"2k3r1/ppp1qp2/5Q2/8/2bP4/N1P5/PP3Rr1/R1B2K2 w - - 2 4","note":"O Bispo dá xeque e abre a coluna e: a Dama preta passa a cobrir as casas e2 e e1."},
+{"san":"Nxc4","from":"a3","to":"c4","fen":"2k3r1/ppp1qp2/5Q2/8/2NP4/2P5/PP3Rr1/R1B2K2 b - - 0 4"},
+{"san":"Rg1#","from":"g2","to":"g1","fen":"2k3r1/ppp1qp2/5Q2/8/2NP4/2P5/PP3R2/R1B2Kr1 w - - 1 5","note":"Mate: a Torre de g8 protege a de g1, e a Dama preta cobre as casas de fuga do Rei."}
+]},
+{"after":1,"title":"E se as Brancas capturarem a Dama?","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 17, Exemplo 43 (variante do livro)","description":"Na mesma posição, se as Brancas capturarem a Dama preta em vez de defender g2.","orientation":"w","start":"2kr4/ppp1qp2/4bQ2/8/3P2r1/N1P5/PP4P1/R1B2RK1 b - - 0 1",
+"steps":[
+{"san":"Rdg8","from":"d8","to":"g8","fen":"2k3r1/ppp1qp2/4bQ2/8/3P2r1/N1P5/PP4P1/R1B2RK1 w - - 1 2"},
+{"san":"Qxe7","from":"f6","to":"e7","fen":"2k3r1/ppp1Qp2/4b3/8/3P2r1/N1P5/PP4P1/R1B2RK1 b - - 0 2","note":"Se as Brancas capturam a Dama preta..."},
+{"san":"Rxg2+","from":"g4","to":"g2","fen":"2k3r1/ppp1Qp2/4b3/8/3P4/N1P5/PP4r1/R1B2RK1 w - - 0 3","note":"...o Rei branco fica exposto."},
+{"san":"Kh1","from":"g1","to":"h1","fen":"2k3r1/ppp1Qp2/4b3/8/3P4/N1P5/PP4r1/R1B2R1K b - - 1 3"},
+{"san":"Bd5","from":"e6","to":"d5","fen":"2k3r1/ppp1Qp2/8/3b4/3P4/N1P5/PP4r1/R1B2R1K w - - 2 4","note":"A Torre em g2 e o Bispo em d5 apontam ao Rei branco, sem peças a defendê-lo: o ataque das Pretas é decisivo."}
+]},
+{"after":3,"title":"Um lance que parece defender e perde","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 17, Exemplo 44 (posição e linha do livro)","description":"As Pretas jogaram e3 para travar a ameaça Ta5. As Brancas têm uma resposta mais forte, e dão mate em três lances.","orientation":"w","start":"kr2r3/pRp3pp/Q1P5/5R2/Pp1q4/3pp2P/6PK/8 w - - 0 1",
+"steps":[
+{"san":"Rxa7+","from":"b7","to":"a7","fen":"kr2r3/R1p3pp/Q1P5/5R2/Pp1q4/3pp2P/6PK/8 b - - 0 1","note":"As Pretas pensavam travar a ameaça Ta5 com e3, mas as Brancas têm um lance mais forte: sacrificam a Torre para atrair a Dama."},
+{"san":"Qxa7","from":"d4","to":"a7","fen":"kr2r3/q1p3pp/Q1P5/5R2/Pp6/3pp2P/6PK/8 w - - 0 2","note":"A Dama preta captura, mas fica cravada: está entre o seu Rei e a Dama branca."},
+{"san":"Ra5","from":"f5","to":"a5","fen":"kr2r3/q1p3pp/Q1P5/R7/Pp6/3pp2P/6PK/8 b - - 1 2","note":"A Torre defende a Dama e cria uma ameaça de mate sem defesa: qualquer lance das Pretas permite Dxa7#."},
+{"san":"e2","from":"e3","to":"e2","fen":"kr2r3/q1p3pp/Q1P5/R7/Pp6/3p3P/4p1PK/8 w - - 0 3"},
+{"san":"Qxa7#","from":"a6","to":"a7","fen":"kr2r3/Q1p3pp/2P5/R7/Pp6/3p3P/4p1PK/8 b - - 0 3","note":"Mate. Se as Pretas capturassem a Dama (Dxa6), seguia-se Txa6#."}
+]}
+],
 "text":[
 "Em muitas partidas, um dos lados está em desvantagem material e só pode ganhar atacando depressa. É o que mostram vários exemplos do livro.",
 "No exemplo 43, as Pretas estão um Cavalo e um peão atrás e, por isso, têm de ganhar rapidamente, se é que podem ganhar. Atacam, e o texto mostra que, se as Damas se trocarem, uma Torre preta captura um peão com xeque e, a seguir, o Bispo entra em acção: o mate segue-se em poucos lances.",
@@ -1025,6 +1053,54 @@
 {
 "id":"030",
 "title":"O sacrifício típico do Bispo",
+"diagrams":[
+{"after":1,"title":"O sacrifício do Bispo: a partida completa","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secções 18 e 21, Exemplos 47 e 50 (posição e linha do livro)","description":"As Brancas sacrificam o Bispo em h7. Observa onde as Pretas erram e como as Brancas levam todas as peças para o ataque.","orientation":"w","start":"r1bq1rk1/pp2nppp/4p3/2n5/8/2NBPN2/PP3PPP/R2Q1RK1 w - - 0 1",
+"steps":[
+{"san":"Bxh7+","from":"d3","to":"h7","fen":"r1bq1rk1/pp2nppB/4p3/2n5/8/2N1PN2/PP3PPP/R2Q1RK1 b - - 0 1","note":"Sacrifício típico do Bispo: abre o Rei preto e afasta o peão h, para que a Dama e o Cavalo possam atacar."},
+{"san":"Kxh7","from":"g8","to":"h7","fen":"r1bq1r2/pp2nppk/4p3/2n5/8/2N1PN2/PP3PPP/R2Q1RK1 w - - 0 2"},
+{"san":"Ng5+","from":"f3","to":"g5","fen":"r1bq1r2/pp2nppk/4p3/2n3N1/8/2N1P3/PP3PPP/R2Q1RK1 b - - 1 2","note":"O Cavalo dá xeque. As Pretas podem responder com Rg6 (a melhor), Rh6 ou Rg8."},
+{"san":"Kg6","from":"h7","to":"g6","fen":"r1bq1r2/pp2npp1/4p1k1/2n3N1/8/2N1P3/PP3PPP/R2Q1RK1 w - - 2 3","note":"Rg6 é a melhor defesa: Rh6 perde a Dama (Cxf7+) e Rg8 perde para Dh5."},
+{"san":"Qg4","from":"d1","to":"g4","fen":"r1bq1r2/pp2npp1/4p1k1/2n3N1/6Q1/2N1P3/PP3PPP/R4RK1 b - - 3 3","note":"A Dama junta-se ao ataque pela diagonal d1-g4, apoiada pelo Cavalo em g5."},
+{"san":"f5","from":"f7","to":"f5","fen":"r1bq1r2/pp2n1p1/4p1k1/2n2pN1/6Q1/2N1P3/PP3PPP/R4RK1 w - - 0 4","note":"O lance certo: ataca a Dama e fecha a diagonal. O livro mostra que e5 perderia logo."},
+{"san":"Qg3","from":"g4","to":"g3","fen":"r1bq1r2/pp2n1p1/4p1k1/2n2pN1/8/2N1P1Q1/PP3PPP/R4RK1 b - - 1 4","note":"A Dama sai do ataque do peão e mantém a pressão sobre a coluna g."},
+{"san":"Kh6","from":"g6","to":"h6","fen":"r1bq1r2/pp2n1p1/4p2k/2n2pN1/8/2N1P1Q1/PP3PPP/R4RK1 w - - 2 5","note":"Erro das Pretas. O lance certo era f4, que ataca a Dama, liberta a Torre de f8 e mantém a posição equilibrada. Com Rh6 o Rei fica exposto: a Dama vai obrigá-lo a andar até ao centro."},
+{"san":"Qh4+","from":"g3","to":"h4","fen":"r1bq1r2/pp2n1p1/4p2k/2n2pN1/7Q/2N1P3/PP3PPP/R4RK1 b - - 3 5"},
+{"san":"Kg6","from":"h6","to":"g6","fen":"r1bq1r2/pp2n1p1/4p1k1/2n2pN1/7Q/2N1P3/PP3PPP/R4RK1 w - - 4 6"},
+{"san":"Qh7+","from":"h4","to":"h7","fen":"r1bq1r2/pp2n1pQ/4p1k1/2n2pN1/8/2N1P3/PP3PPP/R4RK1 b - - 5 6"},
+{"san":"Kf6","from":"g6","to":"f6","fen":"r1bq1r2/pp2n1pQ/4pk2/2n2pN1/8/2N1P3/PP3PPP/R4RK1 w - - 6 7","note":"O Rei preto foi empurrado para f6, no meio do tabuleiro, sem peões nem peças à frente a protegê-lo."},
+{"san":"e4","from":"e3","to":"e4","fen":"r1bq1r2/pp2n1pQ/4pk2/2n2pN1/4P3/2N5/PP3PPP/R4RK1 b - - 0 7","note":"Abre-se a posição: o peão e4 ataca f5 e as peças brancas ficam com linhas livres. A defesa preta já não aguenta."},
+{"san":"Ng6","from":"e7","to":"g6","fen":"r1bq1r2/pp4pQ/4pkn1/2n2pN1/4P3/2N5/PP3PPP/R4RK1 w - - 1 8"},
+{"san":"exf5","from":"e4","to":"f5","fen":"r1bq1r2/pp4pQ/4pkn1/2n2PN1/8/2N5/PP3PPP/R4RK1 b - - 0 8"},
+{"san":"exf5","from":"e6","to":"f5","fen":"r1bq1r2/pp4pQ/5kn1/2n2pN1/8/2N5/PP3PPP/R4RK1 w - - 0 9"},
+{"san":"Rad1","from":"a1","to":"d1","fen":"r1bq1r2/pp4pQ/5kn1/2n2pN1/8/2N5/PP3PPP/3R1RK1 b - - 1 9","note":"A Torre da Dama é a última peça a entrar no ataque. É o princípio do livro: todas as peças atacam em massa."},
+{"san":"Nd3","from":"c5","to":"d3","fen":"r1bq1r2/pp4pQ/5kn1/5pN1/8/2Nn4/PP3PPP/3R1RK1 w - - 2 10"},
+{"san":"Qh3","from":"h7","to":"h3","fen":"r1bq1r2/pp4p1/5kn1/5pN1/8/2Nn3Q/PP3PPP/3R1RK1 b - - 3 10"},
+{"san":"Ndf4","from":"d3","to":"f4","fen":"r1bq1r2/pp4p1/5kn1/5pN1/5n2/2N4Q/PP3PPP/3R1RK1 w - - 4 11"},
+{"san":"Qg3","from":"h3","to":"g3","fen":"r1bq1r2/pp4p1/5kn1/5pN1/5n2/2N3Q1/PP3PPP/3R1RK1 b - - 5 11"},
+{"san":"Qc7","from":"d8","to":"c7","fen":"r1b2r2/ppq3p1/5kn1/5pN1/5n2/2N3Q1/PP3PPP/3R1RK1 w - - 6 12"},
+{"san":"Rfe1","from":"f1","to":"e1","fen":"r1b2r2/ppq3p1/5kn1/5pN1/5n2/2N3Q1/PP3PPP/3RR1K1 b - - 7 12"},
+{"san":"Ne2+","from":"f4","to":"e2","fen":"r1b2r2/ppq3p1/5kn1/5pN1/8/2N3Q1/PP2nPPP/3RR1K1 w - - 8 13","note":"Perde de imediato, mas as Pretas já estavam perdidas: com Be6, Rxe6+ Nxe6 e Cd5 dava mate."},
+{"san":"Rxe2","from":"e1","to":"e2","fen":"r1b2r2/ppq3p1/5kn1/5pN1/8/2N3Q1/PP2RPPP/3R2K1 b - - 0 13"},
+{"san":"Qxg3","from":"c7","to":"g3","fen":"r1b2r2/pp4p1/5kn1/5pN1/8/2N3q1/PP2RPPP/3R2K1 w - - 0 14"},
+{"san":"Nh7+","from":"g5","to":"h7","fen":"r1b2r2/pp4pN/5kn1/5p2/8/2N3q1/PP2RPPP/3R2K1 b - - 1 14","note":"Xeque intermédio: o Cavalo dá xeque ao Rei e ataca a Torre f8 antes de as Brancas recapturarem a Dama."},
+{"san":"Kf7","from":"f6","to":"f7","fen":"r1b2r2/pp3kpN/6n1/5p2/8/2N3q1/PP2RPPP/3R2K1 w - - 2 15"},
+{"san":"hxg3","from":"h2","to":"g3","fen":"r1b2r2/pp3kpN/6n1/5p2/8/2N3P1/PP2RPP1/3R2K1 b - - 0 15"},
+{"san":"Rh8","from":"f8","to":"h8","fen":"r1b4r/pp3kpN/6n1/5p2/8/2N3P1/PP2RPP1/3R2K1 w - - 1 16"},
+{"san":"Ng5+","from":"h7","to":"g5","fen":"r1b4r/pp3kp1/6n1/5pN1/8/2N3P1/PP2RPP1/3R2K1 b - - 2 16"},
+{"san":"Kf6","from":"f7","to":"f6","fen":"r1b4r/pp4p1/5kn1/5pN1/8/2N3P1/PP2RPP1/3R2K1 w - - 3 17"},
+{"san":"f4","from":"f2","to":"f4","fen":"r1b4r/pp4p1/5kn1/5pN1/5P2/2N3P1/PP2R1P1/3R2K1 b - - 0 17","note":"As Pretas desistem: o material parece quase igual, mas o Rei preto continua exposto no centro e as Torres brancas dominam as colunas centrais, por isso as Pretas vão perder material."}
+]},
+{"after":2,"title":"O sacrifício do Bispo: se o Rei for para h6","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 18, Exemplo 47 (variante do livro)","description":"Na mesma posição, se o Rei preto for para h6, as Brancas ganham a Dama.","orientation":"w","start":"r1bq1rk1/pp2nppp/4p3/2n5/8/2NBPN2/PP3PPP/R2Q1RK1 w - - 0 1",
+"steps":[
+{"san":"Bxh7+","from":"d3","to":"h7","fen":"r1bq1rk1/pp2nppB/4p3/2n5/8/2N1PN2/PP3PPP/R2Q1RK1 b - - 0 1"},
+{"san":"Kxh7","from":"g8","to":"h7","fen":"r1bq1r2/pp2nppk/4p3/2n5/8/2N1PN2/PP3PPP/R2Q1RK1 w - - 0 2"},
+{"san":"Ng5+","from":"f3","to":"g5","fen":"r1bq1r2/pp2nppk/4p3/2n3N1/8/2N1P3/PP3PPP/R2Q1RK1 b - - 1 2"},
+{"san":"Kh6","from":"h7","to":"h6","fen":"r1bq1r2/pp2npp1/4p2k/2n3N1/8/2N1P3/PP3PPP/R2Q1RK1 w - - 2 3","note":"Se o Rei for para h6, as outras respostas perdem ainda mais depressa."},
+{"san":"Nxf7+","from":"g5","to":"f7","fen":"r1bq1r2/pp2nNp1/4p2k/2n5/8/2N1P3/PP3PPP/R2Q1RK1 b - - 0 3","note":"O Cavalo ataca ao mesmo tempo o Rei e a Dama."},
+{"san":"Rxf7","from":"f8","to":"f7","fen":"r1bq4/pp2nrp1/4p2k/2n5/8/2N1P3/PP3PPP/R2Q1RK1 w - - 0 4","note":"A Torre captura o Cavalo, mas deixa a Dama sem protecção: era a Torre que a defendia."},
+{"san":"Qxd8","from":"d1","to":"d8","fen":"r1bQ4/pp2nrp1/4p2k/2n5/8/2N1P3/PP3PPP/R4RK1 b - - 0 4","note":"As Brancas ganham a Dama."}
+]}
+],
 "text":[
 "Em certos ataques, os Cavalos são a força principal, e o aluno deve examinar com cuidado a posição do exemplo 47, porque o sacrifício do Bispo em situações semelhantes é típico, e a ocasião de o fazer surge com frequência nas partidas reais.",
 "Capablanca indica a melhor defesa das Pretas e mostra que as outras respostas perdem ainda mais depressa. Se o Rei fosse para h6, o Cavalo branco capturava um peão com xeque e ganhava a Dama. Se o Rei fosse para g8, a Dama branca ia para h5 com um ataque irresistível.",
