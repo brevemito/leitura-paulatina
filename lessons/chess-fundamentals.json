@@ -1242,6 +1242,50 @@
 {"q":"Com peões nos dois flancos, o que é preferível?","options":["Ter o Cavalo","Ter o Bispo, embora a posição, bem jogada, deva acabar em empate","Ter duas Torres","É igual"],"answer":1,"why":"O Bispo comanda os dois lados do tabuleiro de longe e passa depressa de um lado para o outro."}
 ],
 "summary":"O Bispo ganha valor quando há peões nos dois lados do tabuleiro; o Cavalo só se impõe em posições bloqueadas. E quem tem Bispo deve pôr os seus peões em casas de cor oposta à dele."
+},
+{
+"id":"035",
+"title":"Ganhar material antes de o adversário se consolidar",
+"text":[
+"Neste exemplo, as Brancas têm uma posição belíssima, mas mais vale ganharem material, se puderem, antes de as Pretas consolidarem a sua posição defensiva. Por isso jogam um sacrifício de Torre.",
+"Se as Pretas recapturam com o Cavalo, a Torre branca captura-o e as Pretas ficam indefesas. Depois, uma série de xeques da Dama ganha o Cavalo e, por fim, a troca das Damas deixa as Brancas com muito mais material, e as Pretas desistem.",
+"Nestes exemplos, o ataque foi feito pelas Torres e pelos Bispos em combinação com a Dama; não houve Cavalos a participar. A seguir, o livro dá exemplos em que os Cavalos desempenham um papel de destaque como força de ataque."
+],
+"diagrams":[
+{"after":0,"title":"Ganhar material antes de o adversário se consolidar","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo I, secção 17, Exemplo 45 (posição e linha do livro)","description":"As Brancas têm uma posição muito boa, mas jogam já um sacrifício de Torre para ganhar material.","orientation":"w","start":"3q1kn1/r5p1/1ppr1pQn/p2ppP2/P3P2R/1BPPB3/1P3PK1/7R w - - 0 1",
+"steps":[
+{"san":"Rxh6","from":"h4","to":"h6","fen":"3q1kn1/r5p1/1ppr1pQR/p2ppP2/P3P3/1BPPB3/1P3PK1/7R b - - 0 1","note":"Sacrifício de Torre para abrir o Rei preto antes de as Pretas consolidarem a defesa."},
+{"san":"gxh6","from":"g7","to":"h6","fen":"3q1kn1/r7/1ppr1pQp/p2ppP2/P3P3/1BPPB3/1P3PK1/7R w - - 0 2"},
+{"san":"Bxh6+","from":"e3","to":"h6","fen":"3q1kn1/r7/1ppr1pQB/p2ppP2/P3P3/1BPP4/1P3PK1/7R b - - 0 2","note":"O Bispo dá xeque. Se Cxh6, Txh6 deixa as Pretas sem defesa."},
+{"san":"Ke7","from":"f8","to":"e7","fen":"3q2n1/r3k3/1ppr1pQB/p2ppP2/P3P3/1BPP4/1P3PK1/7R w - - 1 3"},
+{"san":"Qh7+","from":"g6","to":"h7","fen":"3q2n1/r3k2Q/1ppr1p1B/p2ppP2/P3P3/1BPP4/1P3PK1/7R b - - 2 3"},
+{"san":"Ke8","from":"e7","to":"e8","fen":"3qk1n1/r6Q/1ppr1p1B/p2ppP2/P3P3/1BPP4/1P3PK1/7R w - - 3 4"},
+{"san":"Qxg8+","from":"h7","to":"g8","fen":"3qk1Q1/r7/1ppr1p1B/p2ppP2/P3P3/1BPP4/1P3PK1/7R b - - 0 4","note":"A Dama ganha o Cavalo com xeque."},
+{"san":"Kd7","from":"e8","to":"d7","fen":"3q2Q1/r2k4/1ppr1p1B/p2ppP2/P3P3/1BPP4/1P3PK1/7R w - - 1 5"},
+{"san":"Qh7+","from":"g8","to":"h7","fen":"3q4/r2k3Q/1ppr1p1B/p2ppP2/P3P3/1BPP4/1P3PK1/7R b - - 2 5"},
+{"san":"Qe7","from":"d8","to":"e7","fen":"8/r2kq2Q/1ppr1p1B/p2ppP2/P3P3/1BPP4/1P3PK1/7R w - - 3 6"},
+{"san":"Bf8","from":"h6","to":"f8","fen":"5B2/r2kq2Q/1ppr1p2/p2ppP2/P3P3/1BPP4/1P3PK1/7R b - - 4 6","note":"O Bispo ataca a Dama preta e ameaça Bxe7: obriga à troca de Damas."},
+{"san":"Qxh7","from":"e7","to":"h7","fen":"5B2/r2k3q/1ppr1p2/p2ppP2/P3P3/1BPP4/1P3PK1/7R w - - 0 7"},
+{"san":"Rxh7+","from":"h1","to":"h7","fen":"5B2/r2k3R/1ppr1p2/p2ppP2/P3P3/1BPP4/1P3PK1/8 b - - 0 7"},
+{"san":"Ke8","from":"d7","to":"e8","fen":"4kB2/r6R/1ppr1p2/p2ppP2/P3P3/1BPP4/1P3PK1/8 w - - 1 8"},
+{"san":"Rxa7","from":"h7","to":"a7","fen":"4kB2/R7/1ppr1p2/p2ppP2/P3P3/1BPP4/1P3PK1/8 b - - 0 8","note":"As Brancas ganham a Torre e ficam com dois Bispos a mais: as Pretas desistem."}
+]}
+],
+"glossary":[
+{"t":"Consolidar","d":"tornar sólida, reforçar."},
+{"t":"Sacrifício de Torre","d":"entregar uma Torre de propósito, para obter uma vantagem maior."},
+{"t":"Série de xeques","d":"xeques seguidos, que obrigam o adversário a responder sempre ao Rei."},
+{"t":"Troca de Damas","d":"quando cada lado captura a Dama do outro."},
+{"t":"Força de ataque","d":"as peças que levam o ataque."}
+],
+"questions":[
+{"q":"Porque jogam as Brancas já um sacrifício de Torre?","options":["Porque estão em desvantagem","Para ganhar material antes de as Pretas consolidarem a defesa","Porque não têm mais lances","Para trocar as Damas"],"answer":1,"why":"O texto diz que mais vale ganhar material, se possível, antes de as Pretas consolidarem a posição defensiva."},
+{"q":"O que acontece se as Pretas recapturam com o Cavalo?","options":["A Torre branca captura o Cavalo e as Pretas ficam indefesas","As Brancas perdem a Dama","Dá-se empate","As Pretas ganham a Torre"],"answer":0,"why":"Se o Cavalo recapturar, a Torre branca captura-o e as Pretas ficam sem defesa."},
+{"q":"Como ganha a Dama o Cavalo preto, no exemplo?","options":["Sem xeque","Com uma série de xeques","Trocando de Dama","Com um peão"],"answer":1,"why":"Uma série de xeques da Dama ganha o Cavalo."},
+{"q":"Que peças fazem o ataque neste exemplo?","options":["Cavalos e peões","Torres e Bispos em combinação com a Dama, sem Cavalos","Só a Dama","Só os peões"],"answer":1,"why":"O ataque é feito por Torres e Bispos em combinação com a Dama; não há Cavalos a participar."},
+{"q":"Como termina a combinação das Brancas?","options":["Com uma troca de Damas forçada pelo Bispo, e depois ganham a Torre","Com um empate","Com a perda da Dama","Com um mate imediato"],"answer":0,"why":"O Bispo ataca a Dama preta e força a troca; depois as Brancas ganham ainda uma Torre, e as Pretas desistem."}
+],
+"summary":"Quando se tem uma posição melhor, vale a pena ganhar material à força, antes de o adversário consolidar a defesa: um sacrifício bem calculado pode decidir logo a partida."
 }
 ]
 }
