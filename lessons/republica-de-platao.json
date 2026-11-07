@@ -1730,6 +1730,111 @@
 {"q":"Para que servem estas regras, segundo Sócrates?","options":["Para agradar aos poetas","Para que os guardiões sejam piedosos e tão semelhantes aos deuses quanto um homem pode ser","Para proibir as festas","Para castigar os poetas"],"answer":1,"why":"Sócrates diz que não se permitirá o uso dessas fábulas na educação, se se quer que os guardiões sejam piedosos e semelhantes aos deuses, no maior grau possível."}
 ],
 "summary":"Sócrates mostra que Deus não tem motivo algum para mentir nem para mudar de forma, fixa a segunda regra sobre os deuses e rejeita os versos que os mostram enganadores, para que os guardiões sejam piedosos."
+},
+  {
+"id":"065",
+"title":"Livro III: não ter medo da morte",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates resume o que, a propósito dos deuses, as crianças devem ouvir e o que não devem: devem aprender a honrar os deuses e os pais e a dar grande valor à amizade entre as pessoas. Adimanto concorda. Depois, para que sejam corajosos, é preciso dizer-lhes palavras que os façam recear a morte o menos possível. Quem abriga esse medo dentro de si nunca será corajoso. E quem acredita no Hades e nos seus horrores não receia a morte, nem prefere, em combate, ser derrotado a ser escravo? De forma alguma.",
+"Por isso, é preciso vigiar também quem conta essas histórias e pedir-lhe que não calunie o Hades, mas que o elogie, porque o que dizem não é verdadeiro nem útil a quem vai combater. Sócrates propõe expurgar, a começar por certos versos, todas as afirmações deste tipo: por exemplo, a de que mais valia ser servo de um homem pobre do que rei de todos os mortos; a que fala de um aspecto horrível, bolorento, que os deuses abominam; e a que diz que, no Hades, há uma alma e uma imagem, mas sem espírito. Pedir-se-á licença a Homero e aos outros poetas para as eliminar, não porque a maioria não as ache poéticas e suaves, mas porque, quanto mais poéticas, menos devem chegar aos ouvidos de crianças e de homens que devem ser livres e recear a escravidão mais do que a morte.",
+"Original no teu PDF: Livro III, pp. 97 e 98."
+],
+"glossary":[
+{"t":"Hades","d":"na mitologia grega, o mundo dos mortos."},
+{"t":"Expurgar","d":"limpar, retirar o que é mau ou indesejado."},
+{"t":"Asserção","d":"afirmação."},
+{"t":"Calúnia","d":"acusação falsa que prejudica alguém."},
+{"t":"Gleba","d":"terra de cultivo, aqui o trabalho de servo agrícola."},
+{"t":"Abominar","d":"detestar, ter horror."}
+],
+"questions":[
+{"q":"O que devem aprender as crianças sobre os deuses e as pessoas, segundo Sócrates?","options":["A temê-los","A honrar os deuses e os pais e a dar grande valor à amizade entre as pessoas","A ignorá-los","A discutir com eles"],"answer":1,"why":"Sócrates diz que as crianças devem ouvir o que as levará a honrar os deuses e os pais e a ter em grande conta a amizade."},
+{"q":"Que palavras convém dizer às crianças, para que sejam corajosas?","options":["Palavras que as façam recear a morte o menos possível","Palavras que as façam recear muito a morte","Palavras sobre o dinheiro","Palavras sobre a guerra"],"answer":0,"why":"Sócrates diz que, para serem corajosos, lhes devem dizer palavras que façam com que receiem o menos possível a morte."},
+{"q":"Porque não será corajoso quem acredita nos horrores do Hades?","options":["Porque é pobre","Porque é forte","Porque terá medo da morte e preferirá, em combate, ser derrotado a ser morto","Porque é velho"],"answer":2,"why":"Quem acredita nos horrores do Hades tem medo da morte; por isso não será corajoso."},
+{"q":"O que pede Sócrates a quem conta histórias sobre o Hades?","options":["Que as conte mais vezes","Que as conte só às crianças","Que as torne mais assustadoras","Que não calunie o Hades, mas o elogie, porque essas histórias não são verdadeiras nem úteis a quem vai combater"],"answer":3,"why":"Sócrates pede que não lancem calúnias contra o Hades, mas o elogiem, porque as histórias não são nem verdadeiras nem úteis."},
+{"q":"Porque devem ser eliminados esses versos, mesmo sendo poéticos e suaves?","options":["Porque são demasiado longos","Porque são antigos","Porque quanto mais poéticos, menos devem chegar aos ouvidos de crianças e de homens que devem ser livres e recear a escravidão mais do que a morte","Porque são feios"],"answer":2,"why":"Sócrates diz que quanto mais poéticos, menos devem chegar aos ouvidos de crianças e de homens que devem recear mais a escravidão do que a morte."}
+],
+"summary":"Para formar guardiões corajosos, Sócrates propõe retirar dos poemas as imagens assustadoras do Hades, porque quem teme a morte não pode ser corajoso e deve recear a escravidão mais do que ela."
+},
+{
+"id":"066",
+"title":"Livro III: nomes assustadores e lamentações",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Sócrates acrescenta que devem também rejeitar todos os nomes odiosos e medonhos usados para falar do Hades, como Cocito, Estígio, habitantes do inferno e espectros, que causam arrepios a quem os ouve. Talvez sejam úteis para outros fins, mas teme-se que os guardiões, por causa desses arrepios, fiquem febris e enfraquecidos além da conta. Adimanto acha o temor legítimo. Os nomes devem ser retirados, e deve haver um modelo contrário, nas conversas e nos poemas.",
+"Eliminar-se-ão também as lamentações e lástimas de homens famosos. Um homem probo não julga terrível a morte de outro homem probo, de quem é amigo, e por isso não se lamenta como se lhe tivesse acontecido uma desgraça. Um homem assim basta-se a si mesmo para ser feliz e precisa bem pouco dos outros. Para ele, é menos terrível perder um filho, um irmão ou dinheiro. Logo, lamentar-se-á menos e suportará com mais serenidade uma dessas desventuras.",
+"Original no teu PDF: Livro III, pp. 98 e 99."
+],
+"glossary":[
+{"t":"Cocito e Estígio","d":"rios do Hades, na mitologia grega."},
+{"t":"Espectros","d":"fantasmas."},
+{"t":"Probo","d":"honesto, íntegro."},
+{"t":"Lástimas","d":"queixas, lamentos."},
+{"t":"Serenidade","d":"calma, tranquilidade."},
+{"t":"Desventura","d":"desgraça, infortúnio."}
+],
+"questions":[
+{"q":"Que nomes rejeita Sócrates ao falar do Hades?","options":["Os nomes dos deuses","Os nomes dos heróis","Os nomes odiosos e medonhos, como Cocito, Estígio, habitantes do inferno e espectros","Os nomes das cidades"],"answer":2,"why":"Sócrates diz que se devem rejeitar os nomes odiosos e medonhos, como Cocito, Estígio, habitantes do inferno e espectros."},
+{"q":"Porque teme ele esses nomes?","options":["Por causa dos arrepios, os guardiões podem ficar febris e enfraquecidos além da conta","Porque são difíceis de pronunciar","Porque são antigos","Porque são longos"],"answer":0,"why":"Sócrates teme que os guardiões, por causa dos arrepios que esses nomes provocam, fiquem com febre e enfraquecidos."},
+{"q":"O que mais é preciso eliminar, segundo Sócrates?","options":["As canções de ninar","As lamentações e lástimas de homens famosos","Os nomes dos deuses","As histórias de guerra"],"answer":1,"why":"Sócrates diz que se devem eliminar também as lamentações e lástimas de homens famosos."},
+{"q":"O que pensa um homem probo da morte de um amigo probo?","options":["Que é uma grande desgraça","Que é um castigo","Que é terrível","Que não é terrível, e por isso não se lamenta como se lhe tivesse acontecido uma desgraça"],"answer":3,"why":"Sócrates diz que um homem probo não julga terrível o falecimento de outro homem probo de quem é amigo."},
+{"q":"Porque suporta esse homem melhor as desgraças, como perder um filho, um irmão ou dinheiro?","options":["Porque basta-se a si mesmo para ser feliz e precisa bem pouco dos outros","Porque é rico","Porque é insensível","Porque é velho"],"answer":0,"why":"Sócrates diz que um homem assim se basta a si mesmo para ser feliz e, ao contrário dos outros, precisa bem pouco dos outros."}
+],
+"summary":"Sócrates retira dos poemas os nomes assustadores do Hades e as lamentações dos homens famosos, porque o homem bom se basta a si mesmo e suporta com serenidade as perdas."
+},
+{
+"id":"067",
+"title":"Livro III: Aquiles, Príamo e os deuses que se lamentam",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Por isso, será justo retirar as lamentações aos homens famosos e deixá-las às mulheres, e mesmo só às que não tenham mérito, e aos homens covardes, para que os destinados à defesa do país não imitem tais condutas. Pedir-se-á a Homero e aos outros poetas que não mostrem Aquiles, filho de uma deusa, deitado de lado, de costas ou de cabeça para baixo, ou a vaguear agitado ao longo da praia, a erguer o pó com as duas mãos e a espalhá-lo pela cabeça, nem a verter lágrimas em tais termos; nem Príamo, descendente de deuses, a suplicar e a rolar na imundície, chamando os guerreiros pelo nome.",
+"E, mais ainda, pedir-se-á a Homero que não faça os deuses lamentarem-se, como Tétis a chorar o filho, ou Zeus, que vê Heitor perseguido e o seu coração geme, ou que se queixa do destino de Sarpédon. Se os jovens levassem a sério tais palavras, em vez de rirem delas, como indignas dos seres de quem se fala, dificilmente se julgariam indignos de agir assim, e, ao menor infortúnio, abandonar-se-iam sem vergonha a queixas e lamentações. Mas não deve ser assim, como prova o raciocínio, e é preciso acreditar nele até que nos convençam de outro melhor.",
+"Original no teu PDF: Livro III, pp. 100 e 101."
+],
+"glossary":[
+{"t":"Mérito","d":"valor de quem merece algo."},
+{"t":"Suplicar","d":"pedir com humildade e insistência."},
+{"t":"Imundície","d":"sujeira, lixo."},
+{"t":"Infortúnio","d":"má sorte, desgraça."},
+{"t":"Aquiles, Príamo, Heitor, Sarpédon","d":"personagens da Ilíada, de Homero."},
+{"t":"Lamentação","d":"choro, queixume."}
+],
+"questions":[
+{"q":"A quem se devem deixar as lamentações, segundo Sócrates?","options":["Aos guerreiros","Aos reis","Às mulheres sem mérito e aos homens covardes","Aos poetas"],"answer":2,"why":"Sócrates diz que se devem tirar as lamentações aos homens famosos e deixá-las às mulheres sem mérito e aos covardes."},
+{"q":"Para que se retiram as lamentações aos homens famosos?","options":["Para que os destinados à defesa do país não imitem esse comportamento","Para que haja mais silêncio","Para poupar tempo","Para agradar aos deuses"],"answer":0,"why":"Sócrates diz que é para que os que se destinam à defesa do país não suportem um procedimento semelhante."},
+{"q":"Que cena de Aquiles pede Sócrates a Homero que não mostre?","options":["Aquiles a lutar","Aquiles a rir","Aquiles a lamentar-se e a espalhar o pó pela cabeça, a rolar de um lado para o outro","Aquiles a comer"],"answer":2,"why":"Sócrates pede que não mostrem Aquiles deitado, agitado, a erguer o pó e a verter lágrimas em lamentações."},
+{"q":"O que pede ainda mais urgentemente a Homero?","options":["Que não fale de guerra","Que não fale de heróis","Que não fale de reis","Que não represente os deuses a lamentar-se"],"answer":3,"why":"Sócrates diz que muito mais ainda se deve pedir a Homero que não represente os deuses a lamentarem-se."},
+{"q":"O que aconteceria se os jovens levassem a sério tais lamentações?","options":["Ficariam mais fortes","Ficariam mais sábios","Ao menor infortúnio, abandonar-se-iam sem vergonha a queixas e lamentações","Esqueceriam as histórias"],"answer":2,"why":"Sócrates diz que, ao menor infortúnio, se abandonariam sem vergonha a queixas e lamentações."}
+],
+"summary":"Sócrates pede que os poetas não mostrem heróis nem deuses a lamentar-se, porque os jovens, tomando isso a sério, acabariam por se queixar e chorar ao menor infortúnio."
+},
+{
+"id":"068",
+"title":"Livro III: o riso, a verdade e a temperança",
+"text":[
+"Adaptação original, em palavras nossas, do que se passa neste ponto do diálogo.",
+"Os guardiões também não devem ser muito propensos ao riso, porque quem se entrega a um riso excessivo sofre uma transformação igualmente excessiva. É inadmissível representar homens dignos de estima dominados pelo riso, e pior ainda se forem deuses. Por isso não se pode admitir o verso de Homero em que um riso inextinguível se ergue entre os deuses ao verem Hefesto a esforçar-se pelo prado.",
+"Também é preciso valorizar muito a verdade. Se há pouco concordaram que a mentira é inútil aos deuses, mas útil aos homens como remédio, o seu uso deve ser exclusivo dos médicos. Se compete a alguém mentir, é aos líderes da cidade, no interesse da própria cidade, por causa dos inimigos ou dos cidadãos; a mais ninguém. Se um cidadão mentir aos chefes, comete um erro da mesma natureza, e ainda maior, do que um doente que não diga a verdade ao médico, um aluno que esconda ao professor de ginástica os seus sofrimentos físicos ou um marinheiro que oculte ao piloto o estado do navio. E o chefe castigará quem surpreender a mentir na cidade, seja artesão, adivinho, médico ou fabricante de lanças, por introduzir hábitos que podem arruinar a cidade como um navio.",
+"Aos jovens será necessária também a temperança. Para a maioria das pessoas, os pontos básicos da temperança são obedecer aos chefes e dominar os prazeres da bebida, do amor e da mesa. Por isso se aprovarão as palavras de Homero em que Diomedes manda o amigo calar-se, sentar-se e obedecer.",
+"Original no teu PDF: Livro III, pp. 101 a 103."
+],
+"glossary":[
+{"t":"Inextinguível","d":"que não se consegue apagar ou acabar."},
+{"t":"Hefesto","d":"deus grego do fogo e dos ferreiros."},
+{"t":"Líderes","d":"os que dirigem a cidade, os governantes."},
+{"t":"Fabricante de lanças","d":"artesão que faz armas."},
+{"t":"Temperança","d":"moderação, domínio de si mesmo."},
+{"t":"Diomedes","d":"herói grego da Ilíada."}
+],
+"questions":[
+{"q":"Porque não devem os guardiões ser muito propensos ao riso?","options":["Porque o riso é proibido","Porque quem se entrega a um riso excessivo sofre uma transformação igualmente excessiva","Porque o riso cansa","Porque o riso é caro"],"answer":1,"why":"Sócrates diz que, quando alguém se entrega a um riso excessivo, este lhe provoca uma transformação da mesma forma excessiva."},
+{"q":"Que passagem de Homero rejeita Sócrates, por causa do riso?","options":["A em que os deuses lutam","A em que um riso inextinguível se ergue entre os deuses ao verem Hefesto a esforçar-se","A em que os deuses cantam","A em que os deuses choram"],"answer":1,"why":"Sócrates diz que não se pode admitir a passagem em que um riso inextinguível se ergue entre os deuses ao verem Hefesto afadigar-se."},
+{"q":"A quem compete mentir, se compete a alguém?","options":["A todos os cidadãos","Aos artesãos","Aos líderes da cidade, no interesse da própria cidade, por causa dos inimigos ou dos cidadãos","Aos poetas"],"answer":2,"why":"Sócrates diz que, se compete a alguém mentir, é aos líderes da cidade, no interesse da própria cidade."},
+{"q":"Que comparações dá Sócrates para mostrar o erro de um cidadão que mente aos chefes?","options":["Um cozinheiro que mente ao cliente","Um doente que não diz a verdade ao médico, um aluno que esconde os sofrimentos ao professor de ginástica, um marinheiro que oculta ao piloto o estado do navio","Um poeta que mente ao público","Um soldado que mente ao inimigo"],"answer":1,"why":"Sócrates compara com o doente que não diz a verdade ao médico, o aluno ao professor de ginástica e o marinheiro ao piloto."},
+{"q":"Quais são, para a maioria, os pontos básicos da temperança?","options":["Obedecer aos chefes e dominar os prazeres da bebida, do amor e da mesa","Falar pouco","Rir pouco","Trabalhar muito"],"answer":0,"why":"Sócrates diz que, para a maioria, os pontos básicos da temperança são obedecer aos chefes e manter o domínio sobre os prazeres da bebida, do amor e da mesa."}
+],
+"summary":"Sócrates acrescenta aos guardiões o domínio do riso, o valor da verdade, que só os líderes podem trocar por mentira útil à cidade, e a temperança, que consiste em obedecer aos chefes e dominar os prazeres."
 }
 ]
 }
