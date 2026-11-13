@@ -551,6 +551,16 @@
 {
 "id":"016",
 "title":"A influência de um buraco",
+"diagrams":[
+{"after":1,"title":"O buraco em e5","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 33, Exemplo 67 (posição e lances da partida)","description":"Posição antes de as Pretas jogarem f5. Vê como esse lance dá um buraco aos Cavalos brancos.","orientation":"w","start":"r4rk1/pp1bqppp/1np1p3/3n4/3P4/2NBPN2/PP3PPP/2RQ1RK1 w - - 0 13",
+"steps":[
+{"san":"Ne4","from":"c3","to":"e4","fen":"r4rk1/pp1bqppp/1np1p3/3n4/3PN3/3BPN2/PP3PPP/2RQ1RK1 b - - 1 13","note":"O Cavalo vai para e4, a caminho de c5."},
+{"san":"f5","from":"f7","to":"f5","fen":"r4rk1/pp1bq1pp/1np1p3/3n1p2/3PN3/3BPN2/PP3PPP/2RQ1RK1 w - - 0 14","note":"O lance das Pretas: cria o buraco em e5, porque nenhum peão preto poderá voltar a controlar essa casa."},
+{"san":"Nc5","from":"e4","to":"c5","fen":"r4rk1/pp1bq1pp/1np1p3/2Nn1p2/3P4/3BPN2/PP3PPP/2RQ1RK1 b - - 1 14","note":"O Cavalo ocupa c5: o peão b7 não pode jogar b6 (o seu Cavalo está lá) e o peão d já não existe."},
+{"san":"Be8","from":"d7","to":"e8","fen":"r3brk1/pp2q1pp/1np1p3/2Nn1p2/3P4/3BPN2/PP3PPP/2RQ1RK1 w - - 2 15"},
+{"san":"Ne5","from":"f3","to":"e5","fen":"r3brk1/pp2q1pp/1np1p3/2NnNp2/3P4/3BP3/PP3PPP/2RQ1RK1 b - - 3 15","note":"O Cavalo instala-se no buraco de e5, de onde as Pretas não o podem expulsar. A partida completa está na lição 036."}
+]}
+],
 "text":[
 "Um buraco é uma casa fraca do campo de um jogador, que o adversário pode ocupar com uma peça, sem que ela possa ser expulsa por um peão. Num dos jogos estudados, as Pretas deixam criar um buraco na quinta fila, na coluna do Rei, para o Cavalo das Brancas.",
 "O autor diz que esse lance equivale praticamente a um suicídio, porque cria um buraco onde o Cavalo adversário ficará colocado de modo a ser praticamente impossível desalojá-lo. Se as Pretas queriam fazer esse lance, deviam tê-lo feito antes, quando ao menos haveria um objectivo em impedir que o Cavalo branco lá chegasse.",
