@@ -1159,6 +1159,16 @@
 {
 "id":"032",
 "title":"Peão atrasado e peças fixadas",
+"diagrams":[
+{"after":1,"title":"O peão do Bispo da Dama, atrasado","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 32, Exemplo 65 (posição do livro)","description":"O peão preto de c7 não pode avançar para c5, porque o peão d4 branco controla essa casa. As Brancas têm o peão e5, muito forte, que poderá avançar livremente quando se trocarem as peças, e movem-se com liberdade. Na prática, as Brancas estão claramente melhor: as peças pretas ficam presas à defesa de c7 e do centro, sem contrajogo.","orientation":"w","start":"r3r1k1/2pq1p1p/p5p1/1p1pP3/3P4/3Q4/PP3PPP/2R1R1K1 w - - 0 1"},
+{"after":2,"title":"As peças pretas fixadas","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 32, Exemplo 66 (posição do livro)","description":"As Brancas avançaram os peões do flanco do Rei e a Dama preta tem de seguir os movimentos da branca. Vê o que acontece depois de gxf5.","orientation":"w","start":"2r3k1/1q5p/p1p1r1p1/1pRpPp2/3P1PP1/Q6P/PP6/2R4K w - - 0 1",
+"steps":[
+{"san":"gxf5","from":"g4","to":"f5","fen":"2r3k1/1q5p/p1p1r1p1/1pRpPP2/3P1P2/Q6P/PP6/2R4K b - - 0 1","note":"As Brancas capturam: abre-se a coluna g e o peão e5 fica protegido pelo peão d4."},
+{"san":"gxf5","from":"g6","to":"f5","fen":"2r3k1/1q5p/p1p1r3/1pRpPp2/3P1P2/Q6P/PP6/2R4K w - - 0 2"},
+{"san":"Qf3","from":"a3","to":"f3","fen":"2r3k1/1q5p/p1p1r3/1pRpPp2/3P1P2/5Q1P/PP6/2R4K b - - 1 2","note":"A Dama ameaça Dxf5, que ganha um peão."},
+{"san":"Qd7","from":"b7","to":"d7","fen":"2r3k1/3q3p/p1p1r3/1pRpPp2/3P1P2/5Q1P/PP6/2R4K w - - 2 3","note":"A Dama preta tem de defender f5: as Pretas só se movem conforme as Brancas determinam."}
+]}
+],
 "text":[
 "Algumas variantes das aberturas e algumas manobras do meio-jogo assentam muitas vezes nos princípios elementares já expostos. Capablanca mostra-o a partir de uma Ruy Lopez, a bem conhecida variante do jogo Janowski–Lasker, jogado em Paris, em 1912.",
 "Suponha-se que as Brancas, jogando um Cavalo para a casa d4 no momento certo, forçam a troca dos dois Cavalos e, depois, a dos dois Bispos. Chega-se então a uma posição em que as Pretas têm o peão do Bispo da Dama atrasado, que não poderá avançar para c5. Tal posição pode dizer-se teoricamente perdida para as Pretas, e na prática um mestre de primeira classe ganha-a invariavelmente.",
