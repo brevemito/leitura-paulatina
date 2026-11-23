@@ -106,6 +106,7 @@ function open(b,i){
   var B=BK[b],L=B.lessons[i];
   cur={b:b,i:i};reading=true;
   setHash(b+"-"+L.id);
+  gc("/leitura-paulatina/"+b+"-"+L.id,B.title+" — "+L.title);
   var h="<button class=\"sec\" data-a=\"list\" data-b=\""+b+"\">← Trechos</button><h2>"+esc(B.title)+"</h2><p class=\"mu\">"+esc(L.id)+": "+esc(L.title)+"</p>";
   h+=shareHTML("📖 "+B.title+" — "+L.title+"\nLê este trecho no Leitura Paulatina:",SITE+"#"+b+"-"+L.id,"Partilhar este trecho");
   DGS=L.diagrams||[];DGI=DGS.map(function(){return -1});
@@ -155,14 +156,14 @@ $("v").onclick=function(e){
   else if(a==="list")list(t.dataset.b);
   else if(a==="next")open(t.dataset.b,nextIdx(t.dataset.b));
   else if(a==="open")open(t.dataset.b,+t.dataset.i);
-  else if(a==="done")fin();
+  else if(a==="done"){fin();var Ld=BK[cur.b].lessons[cur.i];gc("lp-trecho-concluido",BK[cur.b].title+" — "+Ld.id+": "+Ld.title,true)}
   else if(a==="dgp")dgGo(+t.dataset.d,DGI[+t.dataset.d]-1);
   else if(a==="dgn")dgGo(+t.dataset.d,DGI[+t.dataset.d]+1);
   else if(a==="dgr")dgGo(+t.dataset.d,-1);
   else if(a==="dgs")dgGo(+t.dataset.d,+t.dataset.s);
   else if(a==="pz")puzzle();
   else if(a==="pzh")pzHint();
-  else if(a==="pzr")pzRetry();
+  else if(a==="pzr"){pzRetry();gc("lp-desafio-treino","Desafio #"+pzNum(),true)}
   else if(a==="snd"){ST.mute=!ST.mute;save();t.textContent=ST.mute?"🔇 Som":"🔊 Som";if(!ST.mute)snd("move")}
   else if(a==="cp")copyTxt(t);
   else if(a==="opt"){
@@ -288,7 +289,7 @@ function pzTargets(s){
 }
 function pzMine(s){var g=grid(pzFen(pzToday())),pc=g[8-(+s.charAt(1))][s.charCodeAt(0)-97];return pc&&((pc===pc.toUpperCase())===PZS.wb)}
 function puzzle(){
-  reading=false;setHash("desafio");
+  reading=false;setHash("desafio");gc("/leitura-paulatina/desafio","Desafio de xadrez do dia #"+pzNum());
   var p=pzToday(),f=pzFen(p),wb=f.split(" ")[1]==="w";
   PZS={sel:"",lock:false,wb:wb,tg:{},pr:null};PZG=window.Chess?new Chess(f):null;
   ST.dz=ST.dz||{};var t=ST.dz[day(0)]||{n:0,r:"",f:0,ok:0};ST.dz[day(0)]=t;
@@ -355,6 +356,7 @@ function pzHint(){
 }
 function pzEnd(again){
   var s=pzState(),pr=!!PZS.pr,t=ST.dz[day(0)],p=pzToday(),a=p.a,stk=dzStreak();PZS.lock=true;
+  if(!again&&!pr)gc(t.ok?"lp-desafio-certo":"lp-desafio-falhado","Desafio #"+pzNum()+" "+t.r+(t.h?" com dica":""),true);
   var r=p.d.steps[p.i+2];
   if(again||!s.ok){var fe=a.fen,la={from:a.from,to:a.to};if(s.ok&&r){fe=r.fen;la={from:r.from,to:r.to}}pzRender(fe,{last:la,mark:{s:a.to,ok:true}});if(!again)pzAnim(a.from,a.to)}
   if(!s.ok&&!again)snd(sanSnd(a.san));
@@ -364,3 +366,16 @@ function pzEnd(again){
   var txt="♟️ Desafio de xadrez #"+pzNum()+" — Leitura Paulatina\n"+t.r+(t.h?"💡":"")+" "+res+(stk>1?"\n🔥 "+stk+" dias seguidos":"")+"\nConsegues?";
   $("pzr").innerHTML="<div class=\"card\"><p><b>"+t.r+(t.h?"💡":"")+" "+res+"</b>"+(stk?" · 🔥 "+stk+" dia(s) seguido(s)":"")+"</p>"+shareHTML(txt,SITE+"#desafio","Partilhar o resultado")+"<button data-a=\"open\" data-b=\""+CB+"\" data-i=\""+p.li+"\">Ver a partida completa</button><p class=\"mu\">Novo desafio amanhã.</p></div>";
 }
+
+/* ---- Estatísticas (GoatCounter, sem cookies) ---- */
+function gc(path,title,event){
+  try{if(window.goatcounter&&window.goatcounter.count)window.goatcounter.count({path:path,title:title||path,event:!!event})}catch(e){}
+}
+document.addEventListener("click",function(e){
+  var a=e.target.closest&&e.target.closest("a.wa,a.fb,[data-a=cp],.bm-chess-ad-button");if(!a)return;
+  var where=location.hash.slice(1)||"inicio";
+  if(a.classList.contains("wa"))gc("lp-partilhar-whatsapp",where,true);
+  else if(a.classList.contains("fb"))gc("lp-partilhar-facebook",where,true);
+  else if(a.classList.contains("bm-chess-ad-button"))gc("lp-anuncio-chesscom",where,true);
+  else gc("lp-copiar-texto",where,true);
+});
