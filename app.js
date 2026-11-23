@@ -106,7 +106,7 @@ function open(b,i){
   var B=BK[b],L=B.lessons[i];
   cur={b:b,i:i};reading=true;
   setHash(b+"-"+L.id);
-  gc("/leitura-paulatina/"+b+"-"+L.id,B.title+" — "+L.title);
+  gc("/"+b+"-"+L.id,B.title+" — "+L.title);
   var h="<button class=\"sec\" data-a=\"list\" data-b=\""+b+"\">← Trechos</button><h2>"+esc(B.title)+"</h2><p class=\"mu\">"+esc(L.id)+": "+esc(L.title)+"</p>";
   h+=shareHTML("📖 "+B.title+" — "+L.title+"\nLê este trecho no Leitura Paulatina:",SITE+"#"+b+"-"+L.id,"Partilhar este trecho");
   DGS=L.diagrams||[];DGI=DGS.map(function(){return -1});
@@ -191,7 +191,7 @@ fetch("lessons/index.json").then(function(r){return r.json()}).then(function(ix)
 }).then(function(){IDX=IDX.filter(function(x){return BK[x.id]});if(!IDX.length)throw 0;route()}).catch(function(){$("v").innerHTML="<p>Não foi possível carregar os livros.</p>"});
 
 /* ---- Partilha, links por trecho e desafio de xadrez do dia ---- */
-var SITE="https://brevemito.github.io/leitura-paulatina/",CB="chess-fundamentals",PZL=null,PZS={sel:"",lock:false};
+var SITE="https://leitura.brevemito.com/",CB="chess-fundamentals",PZL=null,PZS={sel:"",lock:false};
 function setHash(h){try{history.replaceState(null,"",location.pathname+location.search+(h?"#"+h:""))}catch(e){}}
 function route(){
   var h=decodeURIComponent(location.hash.slice(1)),m=h.match(/^(.+)-(\d{3})$/);
@@ -289,7 +289,7 @@ function pzTargets(s){
 }
 function pzMine(s){var g=grid(pzFen(pzToday())),pc=g[8-(+s.charAt(1))][s.charCodeAt(0)-97];return pc&&((pc===pc.toUpperCase())===PZS.wb)}
 function puzzle(){
-  reading=false;setHash("desafio");gc("/leitura-paulatina/desafio","Desafio de xadrez do dia #"+pzNum());
+  reading=false;setHash("desafio");gc("/desafio","Desafio de xadrez do dia #"+pzNum());
   var p=pzToday(),f=pzFen(p),wb=f.split(" ")[1]==="w";
   PZS={sel:"",lock:false,wb:wb,tg:{},pr:null};PZG=window.Chess?new Chess(f):null;
   ST.dz=ST.dz||{};var t=ST.dz[day(0)]||{n:0,r:"",f:0,ok:0};ST.dz[day(0)]=t;
