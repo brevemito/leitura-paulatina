@@ -86,9 +86,7 @@ function dgGo(k,s){
 }
 function home(){
   reading=false;setHash("");
-  var h="";
-  if(PZ().length){var t=ST.dz&&ST.dz[day(0)];h+="<div class=\"card dz\"><h3>♟️ Desafio de xadrez do dia #"+pzNum()+"</h3><p class=\"mu\">"+(t&&t.f?(t.ok?"Resolvido hoje. Volta amanhã para um novo desafio!":"Hoje escapou. Amanhã há outro!"):"Uma posição das partidas de Capablanca. Encontras o melhor lance?")+(dzStreak()?" 🔥 "+dzStreak()+" dia(s) seguido(s).":"")+"</p><button data-a=\"pz\">"+(t&&t.f?"Ver o desafio":"Resolver o desafio")+"</button></div>";}
-  h+="<h2>Os teus livros</h2>";
+  var h="<h2>Os teus livros</h2>";
   IDX.forEach(function(x){
     var B=BK[x.id],n=B.lessons.length,d=cnt(x.id);
     h+="<div class=\"card\"><h3>"+esc(B.title)+"</h3><p class=\"mu\">"+esc(B.author)+"</p>"+bar(d,n)+"<p class=\"mu\">"+d+" de "+n+" trechos lidos</p><button data-a=\"next\" data-b=\""+x.id+"\">"+(d?"Continuar":"Começar")+"</button><button class=\"sec\" data-a=\"list\" data-b=\""+x.id+"\">Ver trechos</button></div>";
@@ -98,6 +96,7 @@ function home(){
 function list(b){
   reading=false;
   var B=BK[b],h="<button class=\"sec\" data-a=\"home\">← Início</button><h2>"+esc(B.title)+"</h2>";
+  if(b===CB&&PZ().length){var t=ST.dz&&ST.dz[day(0)];h+="<div class=\"card dz\"><h3>♟️ Desafio de xadrez do dia #"+pzNum()+"</h3><p class=\"mu\">"+(t&&t.f?(t.ok?"Resolvido hoje. Volta amanhã para um novo desafio!":"Hoje escapou. Podes tentar outra vez para treinar."):"Uma posição das partidas de Capablanca. Encontras o melhor lance?")+(dzStreak()?" 🔥 "+dzStreak()+" dia(s) seguido(s).":"")+"</p><button data-a=\"pz\">"+(t&&t.f?"Ver o desafio":"Resolver o desafio")+"</button></div>";}
   B.lessons.forEach(function(L,i){
     h+="<button class=\"sec\" data-a=\"open\" data-b=\""+b+"\" data-i=\""+i+"\">"+(ST.done[b+"/"+L.id]?"✓ ":"")+esc(L.id)+": "+esc(L.title)+"</button><br>";
   });
@@ -163,6 +162,7 @@ $("v").onclick=function(e){
   else if(a==="dgs")dgGo(+t.dataset.d,+t.dataset.s);
   else if(a==="pz")puzzle();
   else if(a==="pzh")pzHint();
+  else if(a==="pzr")pzRetry();
   else if(a==="snd"){ST.mute=!ST.mute;save();t.textContent=ST.mute?"🔇 Som":"🔊 Som";if(!ST.mute)snd("move")}
   else if(a==="cp")copyTxt(t);
   else if(a==="opt"){
@@ -275,6 +275,13 @@ function pzAnim(from,to){
   pc.style.transition="none";pc.style.transform="translate("+(ra.left-rb.left)+"px,"+(ra.top-rb.top)+"px)";
   pc.getBoundingClientRect();pc.style.transition="transform .18s ease-out";pc.style.transform="";
 }
+function pzState(){return PZS.pr||ST.dz[day(0)]}
+function pzRetry(){
+  PZS.pr={n:0,r:"",f:0,ok:0,h:0};PZS.sel="";PZS.tg={};PZS.lock=false;
+  pzRender(pzFen(pzToday()));$("pzr").innerHTML="";
+  $("pzc").innerHTML="<button class=\"sec\" data-a=\"pzh\">💡 Dica</button><button class=\"sec\" data-a=\"snd\">"+(ST.mute?"🔇 Som":"🔊 Som")+"</button>";
+  $("pzm").textContent="Modo treino: tenta outra vez, sem limite de tentativas. O teu resultado do dia não muda.";
+}
 function pzTargets(s){
   PZS.tg={};if(!PZG||!s)return;
   PZG.moves({square:s,verbose:true}).forEach(function(m){PZS.tg[m.to]=1});
@@ -283,9 +290,9 @@ function pzMine(s){var g=grid(pzFen(pzToday())),pc=g[8-(+s.charAt(1))][s.charCod
 function puzzle(){
   reading=false;setHash("desafio");
   var p=pzToday(),f=pzFen(p),wb=f.split(" ")[1]==="w";
-  PZS={sel:"",lock:false,wb:wb,tg:{}};PZG=window.Chess?new Chess(f):null;
+  PZS={sel:"",lock:false,wb:wb,tg:{},pr:null};PZG=window.Chess?new Chess(f):null;
   ST.dz=ST.dz||{};var t=ST.dz[day(0)]||{n:0,r:"",f:0,ok:0};ST.dz[day(0)]=t;
-  var h="<button class=\"sec\" data-a=\"home\">← Início</button><h2>♟️ Desafio de xadrez do dia #"+pzNum()+"</h2>";
+  var h="<button class=\"sec\" data-a=\"list\" data-b=\""+CB+"\">← "+esc(BK[CB].title)+"</button><h2>♟️ Desafio de xadrez do dia #"+pzNum()+"</h2>";
   h+="<p class=\"mu\">"+esc(p.d.title)+"</p><p class=\"turn\"><i class=\"tc "+(wb?"tw":"tb")+"\"></i><b>Jogam as "+(wb?"Brancas":"Pretas")+".</b> "+esc(p.q.trim())+"</p>";
   h+="<div class=\"bd pz\" id=\"pzb\"></div><p id=\"pzm\" class=\"dn\" aria-live=\"polite\"></p>";
   h+="<div class=\"ct\" id=\"pzc\"><button class=\"sec\" data-a=\"pzh\">💡 Dica</button><button class=\"sec\" data-a=\"snd\">"+(ST.mute?"🔇 Som":"🔊 Som")+"</button></div><div id=\"pzr\"></div>";
@@ -297,7 +304,7 @@ function pzBind(){
   var b=$("pzb"),drag=null;
   function sqAt(x,y){var e=document.elementFromPoint(x,y);e=e&&e.closest?e.closest("#pzb [data-s]"):null;return e?e.dataset.s:""}
   b.onpointerdown=function(e){
-    var t=ST.dz[day(0)];if(t.f||PZS.lock)return;
+    var t=pzState();if(t.f||PZS.lock)return;
     var el=e.target.closest("[data-s]");if(!el)return;var s=el.dataset.s;
     if(PZS.sel&&PZS.sel!==s&&!pzMine(s)){pzTry(PZS.sel,s);return}
     if(!pzMine(s)){PZS.sel="";PZS.tg={};pzRender(pzFen(pzToday()));return}
@@ -321,7 +328,7 @@ function pzBind(){
   b.onpointercancel=function(){if(drag){drag.gh.remove();drag=null;pzRender(pzFen(pzToday()))}};
 }
 function pzTry(from,to){
-  var t=ST.dz[day(0)],p=pzToday(),f=pzFen(p),mv=null;
+  var t=pzState(),pr=!!PZS.pr,p=pzToday(),f=pzFen(p),mv=null;
   if(PZG){PZG.load(f);mv=PZG.move({from:from,to:to,promotion:"q"});
     if(!mv){PZS.sel="";PZS.tg={};pzRender(f);return}}
   PZS.sel="";PZS.tg={};PZS.lock=true;
@@ -329,9 +336,9 @@ function pzTry(from,to){
   pzRender(after,{last:{from:from,to:to},mark:{s:to,ok:ok}});pzAnim(from,to);
   snd(mv?sanSnd(mv.san):"move");
   t.n++;t.r+=ok?"✅":"❌";
-  if(ok){t.ok=1;t.f=1;save();setTimeout(function(){snd("right")},220);setTimeout(function(){pzReply()},900);return}
-  if(t.n>=3)t.f=1;save();
-  setTimeout(function(){snd("wrong");$("pzm").textContent=t.f?"Não era esse.":"Não é esse. Tenta outra vez ("+t.n+" de 3).";},250);
+  if(ok){t.ok=1;t.f=1;if(!pr)save();setTimeout(function(){snd("right")},220);setTimeout(function(){pzReply()},900);return}
+  if(!pr){if(t.n>=3)t.f=1;save()}
+  setTimeout(function(){snd("wrong");$("pzm").textContent=t.f?"Não era esse.":(pr?"Não é esse. Tenta outra vez.":"Não é esse. Tenta outra vez ("+t.n+" de 3).");},250);
   setTimeout(function(){
     pzRender(f,{last:{from:to,to:from}});pzAnim(to,from);PZS.lock=false;
     if(t.f)setTimeout(function(){pzEnd()},500);
@@ -343,16 +350,16 @@ function pzReply(){
   setTimeout(function(){pzEnd()},r?500:0);
 }
 function pzHint(){
-  var t=ST.dz[day(0)],p=pzToday();if(t.f||PZS.lock)return;
-  t.h=1;save();pzRender(pzFen(p),{hint:p.a.from});$("pzm").textContent="Dica: a peça a mexer está assinalada.";
+  var t=pzState(),p=pzToday();if(t.f||PZS.lock)return;
+  t.h=1;if(!PZS.pr)save();pzRender(pzFen(p),{hint:p.a.from});$("pzm").textContent="Dica: a peça a mexer está assinalada.";
 }
 function pzEnd(again){
-  var t=ST.dz[day(0)],p=pzToday(),a=p.a,stk=dzStreak();PZS.lock=true;
+  var s=pzState(),pr=!!PZS.pr,t=ST.dz[day(0)],p=pzToday(),a=p.a,stk=dzStreak();PZS.lock=true;
   var r=p.d.steps[p.i+2];
-  if(again||!t.ok){var fe=a.fen,la={from:a.from,to:a.to};if(t.ok&&r){fe=r.fen;la={from:r.from,to:r.to}}pzRender(fe,{last:la,mark:{s:a.to,ok:true}});if(!again)pzAnim(a.from,a.to)}
-  if(!t.ok&&!again)snd(sanSnd(a.san));
-  $("pzm").textContent=(t.ok?"Correcto! ":"Desta vez escapou. ")+"O lance era "+pt(a.san)+(a.note?": "+a.note.split("🧩")[0].trim():".")+(t.ok&&r?" Resposta das "+(PZS.wb?"Pretas":"Brancas")+": "+pt(r.san)+".":"");
-  var c=$("pzc");if(c)c.innerHTML="<button class=\"sec\" data-a=\"snd\">"+(ST.mute?"🔇 Som":"🔊 Som")+"</button>";
+  if(again||!s.ok){var fe=a.fen,la={from:a.from,to:a.to};if(s.ok&&r){fe=r.fen;la={from:r.from,to:r.to}}pzRender(fe,{last:la,mark:{s:a.to,ok:true}});if(!again)pzAnim(a.from,a.to)}
+  if(!s.ok&&!again)snd(sanSnd(a.san));
+  $("pzm").textContent=(s.ok?"Correcto! ":"Desta vez escapou. ")+"O lance era "+pt(a.san)+(a.note?": "+a.note.split("🧩")[0].trim():".")+(s.ok&&r?" Resposta das "+(PZS.wb?"Pretas":"Brancas")+": "+pt(r.san)+".":"")+(pr?" (treino: "+s.n+" tentativa(s))":"");
+  var c=$("pzc");if(c)c.innerHTML="<button data-a=\"pzr\">↻ Tentar outra vez</button><button class=\"sec\" data-a=\"snd\">"+(ST.mute?"🔇 Som":"🔊 Som")+"</button>";
   var res=t.ok?"Acertei à "+t.n+".ª tentativa"+(t.h?" (com dica)":""):"Desta vez escapou-me";
   var txt="♟️ Desafio de xadrez #"+pzNum()+" — Leitura Paulatina\n"+t.r+(t.h?"💡":"")+" "+res+(stk>1?"\n🔥 "+stk+" dias seguidos":"")+"\nConsegues?";
   $("pzr").innerHTML="<div class=\"card\"><p><b>"+t.r+(t.h?"💡":"")+" "+res+"</b>"+(stk?" · 🔥 "+stk+" dia(s) seguido(s)":"")+"</p>"+shareHTML(txt,SITE+"#desafio","Partilhar o resultado")+"<button data-a=\"open\" data-b=\""+CB+"\" data-i=\""+p.li+"\">Ver a partida completa</button><p class=\"mu\">Novo desafio amanhã.</p></div>";
