@@ -73,6 +73,7 @@ function dgHTML(k){
 function dgGo(k,s){
   var d=DGS[k];
   if(!d||!d.steps||s<-1||s>=d.steps.length)return;
+  if(s>DGI[k]&&s>=0)snd(sanSnd(d.steps[s].san));
   DGI[k]=s;
   $("bd"+k).innerHTML=boardHTML(d,s);
   $("bd"+k).setAttribute("aria-label",dgLabel(d,s));
@@ -161,7 +162,8 @@ $("v").onclick=function(e){
   else if(a==="dgr")dgGo(+t.dataset.d,-1);
   else if(a==="dgs")dgGo(+t.dataset.d,+t.dataset.s);
   else if(a==="pz")puzzle();
-  else if(a==="pzs")pzClick(t.dataset.s);
+  else if(a==="pzh")pzHint();
+  else if(a==="snd"){ST.mute=!ST.mute;save();t.textContent=ST.mute?"🔇 Som":"🔊 Som";if(!ST.mute)snd("move")}
   else if(a==="cp")copyTxt(t);
   else if(a==="opt"){
     var n=+t.dataset.q,o=+t.dataset.o;
@@ -199,7 +201,7 @@ function route(){
 window.addEventListener("hashchange",route);
 function shareHTML(txt,url,lab){
   var full=txt+"\n"+url;
-  return "<p class=\"sh\"><a class=\"wa\" href=\"https://wa.me/?text="+encodeURIComponent(full)+"\" target=\"_blank\" rel=\"noopener\">"+lab+" no WhatsApp</a><button class=\"sec\" data-a=\"cp\" data-t=\""+esc(full).replace(/"/g,"&quot;")+"\">Copiar texto</button></p>";
+  return "<p class=\"sh\"><a class=\"wa\" href=\"https://wa.me/?text="+encodeURIComponent(full)+"\" target=\"_blank\" rel=\"noopener\">"+lab+" no WhatsApp</a><a class=\"fb\" href=\"https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(url)+"\" target=\"_blank\" rel=\"noopener\">Facebook</a><button class=\"sec\" data-a=\"cp\" data-t=\""+esc(full).replace(/"/g,"&quot;")+"\">Copiar texto</button></p>";
 }
 function copyTxt(b){
   var t=b.dataset.t,ok=function(){b.textContent="Copiado ✓"};
@@ -218,46 +220,140 @@ function dayNo(){var d=new Date();return Math.floor((Date.UTC(d.getFullYear(),d.
 function pzNum(){return dayNo()+1}
 function pzToday(){var p=PZ();return p[((dayNo()%p.length)+p.length)%p.length]}
 function dzStreak(){var n=0,i=0;ST.dz=ST.dz||{};if(!(ST.dz[day(0)]&&ST.dz[day(0)].ok))i=1;while(ST.dz[day(i)]&&ST.dz[day(i)].ok){n++;i++}return n}
-function pzBoard(p,mark,wb){
-  var f=p.d.steps[p.i].fen,g=grid(f),h="";if(wb===undefined)wb=f.split(" ")[1]==="w";
+
+/* ---- Som das peças (sintetizado no navegador, sem ficheiros) ---- */
+var AC=null;
+function sanSnd(san){return /#|\+/.test(san)?"check":(/x/.test(san)?"cap":(/O-O/.test(san)?"castle":"move"))}
+function snd(type){
+  if(ST.mute)return;
+  try{
+    AC=AC||new (window.AudioContext||window.webkitAudioContext)();
+    if(AC.state==="suspended")AC.resume();
+    var t0=AC.currentTime;
+    function knock(at,freq,vol,len){
+      var n=Math.floor(AC.sampleRate*len),buf=AC.createBuffer(1,n,AC.sampleRate),ch=buf.getChannelData(0);
+      for(var i=0;i<n;i++)ch[i]=(Math.random()*2-1)*Math.pow(1-i/n,4);
+      var src=AC.createBufferSource(),bp=AC.createBiquadFilter(),g=AC.createGain();
+      src.buffer=buf;bp.type="bandpass";bp.frequency.value=freq;bp.Q.value=1.2;g.gain.value=vol;
+      src.connect(bp);bp.connect(g);g.connect(AC.destination);src.start(t0+at);
+    }
+    function tone(at,f,len,vol,type){
+      var o=AC.createOscillator(),g=AC.createGain();o.type=type||"sine";o.frequency.value=f;
+      g.gain.setValueAtTime(vol,t0+at);g.gain.exponentialRampToValueAtTime(0.001,t0+at+len);
+      o.connect(g);g.connect(AC.destination);o.start(t0+at);o.stop(t0+at+len);
+    }
+    if(type==="move")knock(0,1400,1.6,.07);
+    else if(type==="cap"){knock(0,1100,2.2,.08);knock(.06,1700,1.4,.06)}
+    else if(type==="castle"){knock(0,1400,1.4,.06);knock(.1,1300,1.4,.06)}
+    else if(type==="check"){knock(0,1500,1.8,.07);tone(.02,880,.18,.12,"triangle")}
+    else if(type==="wrong"){tone(0,220,.22,.18,"square");tone(.12,165,.28,.15,"square")}
+    else if(type==="right"){tone(0,660,.15,.18);tone(.12,880,.15,.18);tone(.24,1320,.3,.16)}
+  }catch(e){}
+}
+
+/* ---- Desafio do dia: jogabilidade ao estilo dos problemas de táctica ---- */
+var PZG=null;
+function pzFen(p){return p.d.steps[p.i].fen}
+function pzRender(fen,o){
+  o=o||{};var g=grid(fen),wb=PZS.wb,h="";
   for(var y=0;y<8;y++)for(var x=0;x<8;x++){
     var R=wb?y:7-y,C=wb?x:7-x,pc=g[R][C],s=String.fromCharCode(97+C)+(8-R);
-    var cl="sq "+((R+C)%2?"dk":"lt")+(s===PZS.sel?" sel":"")+(mark&&s===mark.from?" hf":"")+(mark&&s===mark.to?" ht":"");
-    h+="<div class=\""+cl+"\" data-a=\"pzs\" data-s=\""+s+"\">"+(pc?"<span class=\"pc "+(pc===pc.toUpperCase()?"pw":"pb")+"\">"+PG[pc.toLowerCase()]+"\uFE0E</span>":"");
+    var cl="sq "+((R+C)%2?"dk":"lt")+(s===PZS.sel?" sel":"")+(o.last&&(s===o.last.from||s===o.last.to)?" hl":"")+(o.hint===s?" hint":"");
+    if(PZS.tg[s])cl+=pc?" cap":" dot";
+    h+="<div class=\""+cl+"\" data-s=\""+s+"\">"+(pc?"<span class=\"pc "+(pc===pc.toUpperCase()?"pw":"pb")+"\">"+PG[pc.toLowerCase()]+"\uFE0E</span>":"");
+    if(o.mark&&o.mark.s===s)h+="<b class=\"mk "+(o.mark.ok?"mk-ok":"mk-no")+"\">"+(o.mark.ok?"✓":"✗")+"</b>";
     if(x===0)h+="<i class=\"rk\">"+(8-R)+"</i>";
     if(y===7)h+="<i class=\"fl\">"+String.fromCharCode(97+C)+"</i>";
     h+="</div>";
   }
-  return h;
+  $("pzb").innerHTML=h;
 }
+function pzAnim(from,to){
+  var a=$("pzb").querySelector("[data-s=\""+from+"\"]"),b=$("pzb").querySelector("[data-s=\""+to+"\"]");
+  if(!a||!b)return;var pc=b.querySelector(".pc");if(!pc)return;
+  var ra=a.getBoundingClientRect(),rb=b.getBoundingClientRect();
+  pc.style.transition="none";pc.style.transform="translate("+(ra.left-rb.left)+"px,"+(ra.top-rb.top)+"px)";
+  pc.getBoundingClientRect();pc.style.transition="transform .18s ease-out";pc.style.transform="";
+}
+function pzTargets(s){
+  PZS.tg={};if(!PZG||!s)return;
+  PZG.moves({square:s,verbose:true}).forEach(function(m){PZS.tg[m.to]=1});
+}
+function pzMine(s){var g=grid(pzFen(pzToday())),pc=g[8-(+s.charAt(1))][s.charCodeAt(0)-97];return pc&&((pc===pc.toUpperCase())===PZS.wb)}
 function puzzle(){
-  reading=false;setHash("desafio");PZS={sel:"",lock:false};
-  var p=pzToday(),f=p.d.steps[p.i].fen,wb=f.split(" ")[1]==="w";
+  reading=false;setHash("desafio");
+  var p=pzToday(),f=pzFen(p),wb=f.split(" ")[1]==="w";
+  PZS={sel:"",lock:false,wb:wb,tg:{}};PZG=window.Chess?new Chess(f):null;
   ST.dz=ST.dz||{};var t=ST.dz[day(0)]||{n:0,r:"",f:0,ok:0};ST.dz[day(0)]=t;
   var h="<button class=\"sec\" data-a=\"home\">← Início</button><h2>♟️ Desafio de xadrez do dia #"+pzNum()+"</h2>";
-  h+="<p class=\"mu\">"+esc(p.d.title)+"</p><p><b>Jogam as "+(wb?"Brancas":"Pretas")+".</b> "+esc(p.q.trim())+"</p>";
-  h+="<p class=\"mu\">Toca na peça e depois na casa para onde ela vai. Tens 3 tentativas.</p>";
-  h+="<div class=\"bd pz\" id=\"pzb\">"+pzBoard(p)+"</div><p id=\"pzm\" class=\"dn\" aria-live=\"polite\"></p><div id=\"pzr\"></div>";
+  h+="<p class=\"mu\">"+esc(p.d.title)+"</p><p class=\"turn\"><i class=\"tc "+(wb?"tw":"tb")+"\"></i><b>Jogam as "+(wb?"Brancas":"Pretas")+".</b> "+esc(p.q.trim())+"</p>";
+  h+="<div class=\"bd pz\" id=\"pzb\"></div><p id=\"pzm\" class=\"dn\" aria-live=\"polite\"></p>";
+  h+="<div class=\"ct\" id=\"pzc\"><button class=\"sec\" data-a=\"pzh\">💡 Dica</button><button class=\"sec\" data-a=\"snd\">"+(ST.mute?"🔇 Som":"🔊 Som")+"</button></div><div id=\"pzr\"></div>";
   $("v").innerHTML=h;window.scrollTo(0,0);
-  if(t.f)pzEnd();else $("pzm").textContent=t.n?"Tentativas usadas: "+t.n+" de 3.":"";
+  pzRender(f);pzBind();
+  if(t.f)pzEnd(true);else $("pzm").textContent=t.n?"Tentativas usadas: "+t.n+" de 3.":"Arrasta a peça, ou toca nela e depois na casa. Tens 3 tentativas.";
 }
-function pzClick(s){
-  var t=ST.dz[day(0)],p=pzToday();if(!t||t.f||PZS.lock)return;
-  var f=p.d.steps[p.i].fen,g=grid(f),wb=f.split(" ")[1]==="w",pc=g[8-(+s.charAt(1))][s.charCodeAt(0)-97];
-  var mine=pc&&((pc===pc.toUpperCase())===wb);
-  if(!PZS.sel||mine){if(mine){PZS.sel=s;$("pzb").innerHTML=pzBoard(p)}return}
-  var from=PZS.sel;PZS.sel="";
-  t.n++;var ok=from===p.a.from&&s===p.a.to;t.r+=ok?"✅":"❌";
-  if(ok){t.ok=1;t.f=1}else if(t.n>=3)t.f=1;
-  save();
-  if(t.f)return pzEnd();
-  $("pzb").innerHTML=pzBoard(p);$("pzm").textContent="Não é esse. Tenta outra vez ("+t.n+" de 3).";
+function pzBind(){
+  var b=$("pzb"),drag=null;
+  function sqAt(x,y){var e=document.elementFromPoint(x,y);e=e&&e.closest?e.closest("#pzb [data-s]"):null;return e?e.dataset.s:""}
+  b.onpointerdown=function(e){
+    var t=ST.dz[day(0)];if(t.f||PZS.lock)return;
+    var el=e.target.closest("[data-s]");if(!el)return;var s=el.dataset.s;
+    if(PZS.sel&&PZS.sel!==s&&!pzMine(s)){pzTry(PZS.sel,s);return}
+    if(!pzMine(s)){PZS.sel="";PZS.tg={};pzRender(pzFen(pzToday()));return}
+    e.preventDefault();
+    var again=PZS.sel===s;PZS.sel=s;pzTargets(s);pzRender(pzFen(pzToday()));
+    var pc=b.querySelector("[data-s=\""+s+"\"] .pc");if(!pc)return;
+    var r=pc.getBoundingClientRect(),gh=pc.cloneNode(true);
+    gh.className+=" ghost";gh.style.left=(e.clientX-r.width/2)+"px";gh.style.top=(e.clientY-r.height/2)+"px";gh.style.width=r.width+"px";
+    document.body.appendChild(gh);pc.style.opacity=".35";
+    drag={s:s,gh:gh,w:r.width,h:r.height,moved:false,again:again};
+    try{b.setPointerCapture(e.pointerId)}catch(x){}
+  };
+  b.onpointermove=function(e){if(!drag)return;drag.moved=true;drag.gh.style.left=(e.clientX-drag.w/2)+"px";drag.gh.style.top=(e.clientY-drag.h/2)+"px"};
+  b.onpointerup=function(e){
+    if(!drag)return;var d=drag;drag=null;d.gh.remove();
+    var to=sqAt(e.clientX,e.clientY);
+    if(to&&to!==d.s){pzTry(d.s,to);return}
+    if(d.again&&!d.moved){PZS.sel="";PZS.tg={}}
+    pzRender(pzFen(pzToday()));
+  };
+  b.onpointercancel=function(){if(drag){drag.gh.remove();drag=null;pzRender(pzFen(pzToday()))}};
 }
-function pzEnd(){
-  var t=ST.dz[day(0)],p=pzToday(),a=p.a,stk=dzStreak();
-  $("pzb").innerHTML=pzBoard({d:p.d,i:p.i+1},{from:a.from,to:a.to},p.d.steps[p.i].fen.split(" ")[1]==="w");
-  $("pzm").textContent=(t.ok?"Correcto! ":"Desta vez escapou. ")+"O lance era "+pt(a.san)+(a.note?": "+a.note.split("🧩")[0].trim():".");
-  var res=t.ok?"Acertei à "+t.n+".ª tentativa":"Desta vez escapou-me";
-  var txt="♟️ Desafio de xadrez #"+pzNum()+" — Leitura Paulatina\n"+t.r+" "+res+(stk>1?"\n🔥 "+stk+" dias seguidos":"")+"\nConsegues?";
-  $("pzr").innerHTML="<div class=\"card\"><p><b>"+t.r+" "+res+"</b>"+(stk?" · 🔥 "+stk+" dia(s) seguido(s)":"")+"</p>"+shareHTML(txt,SITE+"#desafio","Partilhar o resultado")+"<button data-a=\"open\" data-b=\""+CB+"\" data-i=\""+p.li+"\">Ver a partida completa</button><p class=\"mu\">Novo desafio amanhã.</p></div>";
+function pzTry(from,to){
+  var t=ST.dz[day(0)],p=pzToday(),f=pzFen(p),mv=null;
+  if(PZG){PZG.load(f);mv=PZG.move({from:from,to:to,promotion:"q"});
+    if(!mv){PZS.sel="";PZS.tg={};pzRender(f);return}}
+  PZS.sel="";PZS.tg={};PZS.lock=true;
+  var ok=from===p.a.from&&to===p.a.to,after=ok?p.a.fen:(PZG?PZG.fen():f);
+  pzRender(after,{last:{from:from,to:to},mark:{s:to,ok:ok}});pzAnim(from,to);
+  snd(mv?sanSnd(mv.san):"move");
+  t.n++;t.r+=ok?"✅":"❌";
+  if(ok){t.ok=1;t.f=1;save();setTimeout(function(){snd("right")},220);setTimeout(function(){pzReply()},900);return}
+  if(t.n>=3)t.f=1;save();
+  setTimeout(function(){snd("wrong");$("pzm").textContent=t.f?"Não era esse.":"Não é esse. Tenta outra vez ("+t.n+" de 3).";},250);
+  setTimeout(function(){
+    pzRender(f,{last:{from:to,to:from}});pzAnim(to,from);PZS.lock=false;
+    if(t.f)setTimeout(function(){pzEnd()},500);
+  },1100);
+}
+function pzReply(){
+  var p=pzToday(),r=p.d.steps[p.i+2];
+  if(r){pzRender(r.fen,{last:{from:r.from,to:r.to}});pzAnim(r.from,r.to);snd(sanSnd(r.san))}
+  setTimeout(function(){pzEnd()},r?500:0);
+}
+function pzHint(){
+  var t=ST.dz[day(0)],p=pzToday();if(t.f||PZS.lock)return;
+  t.h=1;save();pzRender(pzFen(p),{hint:p.a.from});$("pzm").textContent="Dica: a peça a mexer está assinalada.";
+}
+function pzEnd(again){
+  var t=ST.dz[day(0)],p=pzToday(),a=p.a,stk=dzStreak();PZS.lock=true;
+  var r=p.d.steps[p.i+2];
+  if(again||!t.ok){var fe=a.fen,la={from:a.from,to:a.to};if(t.ok&&r){fe=r.fen;la={from:r.from,to:r.to}}pzRender(fe,{last:la,mark:{s:a.to,ok:true}});if(!again)pzAnim(a.from,a.to)}
+  if(!t.ok&&!again)snd(sanSnd(a.san));
+  $("pzm").textContent=(t.ok?"Correcto! ":"Desta vez escapou. ")+"O lance era "+pt(a.san)+(a.note?": "+a.note.split("🧩")[0].trim():".")+(t.ok&&r?" Resposta das "+(PZS.wb?"Pretas":"Brancas")+": "+pt(r.san)+".":"");
+  var c=$("pzc");if(c)c.innerHTML="<button class=\"sec\" data-a=\"snd\">"+(ST.mute?"🔇 Som":"🔊 Som")+"</button>";
+  var res=t.ok?"Acertei à "+t.n+".ª tentativa"+(t.h?" (com dica)":""):"Desta vez escapou-me";
+  var txt="♟️ Desafio de xadrez #"+pzNum()+" — Leitura Paulatina\n"+t.r+(t.h?"💡":"")+" "+res+(stk>1?"\n🔥 "+stk+" dias seguidos":"")+"\nConsegues?";
+  $("pzr").innerHTML="<div class=\"card\"><p><b>"+t.r+(t.h?"💡":"")+" "+res+"</b>"+(stk?" · 🔥 "+stk+" dia(s) seguido(s)":"")+"</p>"+shareHTML(txt,SITE+"#desafio","Partilhar o resultado")+"<button data-a=\"open\" data-b=\""+CB+"\" data-i=\""+p.li+"\">Ver a partida completa</button><p class=\"mu\">Novo desafio amanhã.</p></div>";
 }
