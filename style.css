@@ -43,10 +43,27 @@ button.off{opacity:.4;cursor:default}
 .mn{color:var(--mu);margin:0 4px 0 8px}
 button.mb{background:transparent;color:var(--fg);border:1px solid transparent;padding:2px 7px;margin:0;font:15px sans-serif}
 button.mb.on{background:var(--ac);color:var(--bg)}
-/* Desafio do dia e partilha */
-.sq.sel{box-shadow:inset 0 0 0 4px #1e88e5}
+
+/* Desafio do dia: jogabilidade e partilha */
+.pz{touch-action:none}
 .pz .sq{cursor:pointer}
-.pz .pc{pointer-events:none}
+.pz .pc{pointer-events:none;position:relative;z-index:2;will-change:transform}
+.sq.sel{box-shadow:inset 0 0 0 100px rgba(255,235,70,.45)}
+.sq.hl{box-shadow:inset 0 0 0 100px rgba(255,225,40,.38)}
+.sq.hint{box-shadow:inset 0 0 0 4px #1e88e5,inset 0 0 0 100px rgba(30,136,229,.25);animation:pulse 1s ease-in-out 3}
+.sq.dot::after{content:"";position:absolute;width:28%;height:28%;border-radius:50%;background:rgba(0,0,0,.22)}
+.sq.cap::after{content:"";position:absolute;inset:4%;border-radius:50%;border:5px solid rgba(0,0,0,.22)}
+.mk{position:absolute;top:-6px;right:-6px;z-index:3;width:24px;height:24px;border-radius:50%;color:#fff;font:bold 15px/24px sans-serif;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,.4)}
+.mk-ok{background:#5d9e33}
+.mk-no{background:#d33b2f}
+.ghost{position:fixed;z-index:50;pointer-events:none;text-align:center;transform:scale(1.12)}
+.turn{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.tc{display:inline-block;width:14px;height:14px;border-radius:50%;border:2px solid #555}
+.tc.tw{background:#fff}
+.tc.tb{background:#222}
+@keyframes pulse{50%{box-shadow:inset 0 0 0 4px #1e88e5,inset 0 0 0 100px rgba(30,136,229,.05)}}
 .card.dz{border:2px solid var(--ac)}
 .sh{font:15px sans-serif;margin:8px 0}
-a.wa{display:inline-block;background:#25D366;color:#fff;text-decoration:none;border-radius:6px;padding:9px 14px;margin:4px 4px 4px 0;font:16px sans-serif}
+a.wa,a.fb{display:inline-block;color:#fff;text-decoration:none;border-radius:6px;padding:9px 14px;margin:4px 4px 4px 0;font:16px sans-serif}
+a.wa{background:#25D366}
+a.fb{background:#1877F2}
