@@ -1317,7 +1317,7 @@
 "As Brancas preparam o ataque com calma, avançam os peões do centro e sacrificam uma Torre por um Cavalo e um peão em e3. Capablanca resume a partida assim: durante todo o jogo, as Brancas controlaram as casas escuras, sobretudo e5 e c5."
 ],
 "diagrams":[
-{"after":0,"title":"A partida do buraco: Janowski contra Kupchik","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 33, Exemplo 67 (partida completa; Havana, 1913)","description":"Gambito da Dama recusado. Observa as casas e5 e c5, onde os Cavalos brancos se instalam e as Pretas já não os podem expulsar.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+{"after":0,"title":"A partida do buraco: Janowski contra Kupchik","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, capítulo II, secção 33, Exemplo 67 (partida completa; Havana, 1913)","description":"Gambito da Dama recusado. Observa as casas e5 e c5, onde os Cavalos brancos se instalam e as Pretas já não os podem expulsar. Procura os 🧩 desafios: antes de avançar, tenta descobrir o lance.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
 "steps":[
 {"san":"d4","from":"d2","to":"d4","fen":"rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1"},
 {"san":"d5","from":"d7","to":"d5","fen":"rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2"},
@@ -1344,7 +1344,7 @@
 {"san":"Rc1","from":"a1","to":"c1","fen":"r4rk1/pppbqppp/1n2p3/3n4/3P4/2NBPN2/PP3PPP/2RQ1RK1 b - - 5 12","note":"As Brancas estão perfeitamente desenvolvidas e ameaçam ganhar um peão: Cxd5 Cxd5, e4 e depois Txc7."},
 {"san":"c6","from":"c7","to":"c6","fen":"r4rk1/pp1bqppp/1np1p3/3n4/3P4/2NBPN2/PP3PPP/2RQ1RK1 w - - 0 13","note":"As Pretas são obrigadas a jogar c6 para não perder um peão, e isso basta para condenar o seu sistema. O Bispo de d7 fica fechado pelo seu próprio peão e vale pouco mais do que um peão. E as Brancas vão pôr os Cavalos em e5 e c5, onde só se desalojam com concessões. Teria sido melhor trocar antes um Cavalo com Cxc3, para ficar com menos peças a defender."},
 {"san":"Ne4","from":"c3","to":"e4","fen":"r4rk1/pp1bqppp/1np1p3/3n4/3PN3/3BPN2/PP3PPP/2RQ1RK1 b - - 1 13"},
-{"san":"f5","from":"f7","to":"f5","fen":"r4rk1/pp1bq1pp/1np1p3/3n1p2/3PN3/3BPN2/PP3PPP/2RQ1RK1 w - - 0 14","note":"Quase um suicídio: cria um buraco em e5, de onde o Cavalo branco não pode ser expulso, porque nenhum peão preto controla essa casa (o peão d já desapareceu e o f acabou de avançar). Se queriam jogar f5, deviam tê-lo feito antes, quando ainda havia razão para impedir o Cavalo branco de chegar a c5."},
+{"san":"f5","from":"f7","to":"f5","fen":"r4rk1/pp1bq1pp/1np1p3/3n1p2/3PN3/3BPN2/PP3PPP/2RQ1RK1 w - - 0 14","note":"Quase um suicídio: cria um buraco em e5, de onde o Cavalo branco não pode ser expulso, porque nenhum peão preto controla essa casa (o peão d já desapareceu e o f acabou de avançar). Se queriam jogar f5, deviam tê-lo feito antes, quando ainda havia razão para impedir o Cavalo branco de chegar a c5. 🧩 Desafio: o lance f5 deixou casas sem controlo de peões. Para onde vai o Cavalo de e4?"},
 {"san":"Nc5","from":"e4","to":"c5","fen":"r4rk1/pp1bq1pp/1np1p3/2Nn1p2/3P4/3BPN2/PP3PPP/2RQ1RK1 b - - 1 14","note":"O Cavalo vai para c5, outro posto que os peões pretos não controlam: o peão b7 não pode jogar b6, porque o seu Cavalo está em b6, e o peão d já não existe."},
 {"san":"Be8","from":"d7","to":"e8","fen":"r3brk1/pp2q1pp/1np1p3/2Nn1p2/3P4/3BPN2/PP3PPP/2RQ1RK1 w - - 2 15"},
 {"san":"Ne5","from":"f3","to":"e5","fen":"r3brk1/pp2q1pp/1np1p3/2NnNp2/3P4/3BP3/PP3PPP/2RQ1RK1 b - - 3 15","note":"Os dois Cavalos, sobretudo o de e5, estão em posições ideais e dominam a posição. As Pretas não têm peões que os ataquem. A questão passa a ser como as Brancas tiram partido disso."},
@@ -1364,7 +1364,7 @@
 {"san":"e4","from":"e3","to":"e4","fen":"4b2k/ppr1q2p/1np1p2r/2NnNpp1/3PP3/P2B1PQP/1P4P1/2R1R1K1 b - - 0 22"},
 {"san":"f4","from":"f5","to":"f4","fen":"4b2k/ppr1q2p/1np1p2r/2NnN1p1/3PPp2/P2B1PQP/1P4P1/2R1R1K1 w - - 0 23"},
 {"san":"Qf2","from":"g3","to":"f2","fen":"4b2k/ppr1q2p/1np1p2r/2NnN1p1/3PPp2/P2B1P1P/1P3QP1/2R1R1K1 b - - 1 23"},
-{"san":"Ne3","from":"d5","to":"e3","fen":"4b2k/ppr1q2p/1np1p2r/2N1N1p1/3PPp2/P2BnP1P/1P3QP1/2R1R1K1 w - - 2 24","note":"Era melhor Cf6, e tentar depois livrar-se dos Cavalos brancos com Cd7."},
+{"san":"Ne3","from":"d5","to":"e3","fen":"4b2k/ppr1q2p/1np1p2r/2N1N1p1/3PPp2/P2BnP1P/1P3QP1/2R1R1K1 w - - 2 24","note":"Era melhor Cf6, e tentar depois livrar-se dos Cavalos brancos com Cd7. 🧩 Desafio: o Cavalo preto de e3 é a única peça que incomoda. As Brancas livram-se dele com um sacrifício. Qual?"},
 {"san":"Rxe3","from":"e1","to":"e3","fen":"4b2k/ppr1q2p/1np1p2r/2N1N1p1/3PPp2/P2BRP1P/1P3QP1/2R3K1 b - - 0 24","note":"Sacrifício de Torre por um Cavalo e um peão. O Cavalo preto de e3 era a única peça que perturbava; depois de Dxe3, os dois Cavalos continuam a dominar e as Brancas ficam com uma posição esmagadora."},
 {"san":"fxe3","from":"f4","to":"e3","fen":"4b2k/ppr1q2p/1np1p2r/2N1N1p1/3PP3/P2BpP1P/1P3QP1/2R3K1 w - - 0 25"},
 {"san":"Qxe3","from":"f2","to":"e3","fen":"4b2k/ppr1q2p/1np1p2r/2N1N1p1/3PP3/P2BQP1P/1P4P1/2R3K1 b - - 0 25"},
@@ -1406,7 +1406,7 @@
 {"q":"Porque não podiam as Pretas expulsar o Cavalo de c5?","options":["Porque estavam em xeque","Porque o peão b7 não podia jogar b6 (o seu Cavalo estava lá) e o peão d já não existia","Porque tinham uma Torre a menos","Porque o Cavalo estava protegido pela Dama"],"answer":1,"why":"Só um peão em b6 ou d6 poderia atacar c5, e nenhum desses peões estava disponível."},
 {"q":"Que casas controlaram as Brancas durante toda a partida?","options":["As casas claras do flanco do Rei","As casas escuras, sobretudo e5 e c5","As casas da última fila","Só o canto h1"],"answer":1,"why":"A conclusão do livro é que as Brancas controlaram as casas escuras, sobretudo e5 e c5."}
 ],
-"summary":"Um buraco decide partidas: quando as Pretas deixaram e5 sem controlo de peões, os Cavalos brancos dominaram o centro e o resto do jogo foi só preparar o golpe final."
+"summary":"Um buraco decide partidas: quando as Pretas deixaram e5 sem controlo de peões, os Cavalos brancos dominaram o centro e o resto do jogo foi só preparar o golpe final. ➡️ Na próxima lição: começa a Parte II, com partidas do próprio Capablanca, e a primeira é uma derrota!"
 },
 {
 "id":"037",
@@ -1418,7 +1418,7 @@
 "As Brancas ganham um peão e terminam com um sacrifício de Dama por Torre, depois do qual o peão a decide a partida. Capablanca reconhece: uma partida bem jogada por Marshall."
 ],
 "diagrams":[
-{"after":0,"title":"Marshall contra Capablanca (1909): a derrota instrutiva","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 1 (partida completa; match, 1909)","description":"Gambito da Dama recusado. Capablanca joga de Pretas e perde: observa onde os peões do flanco da Dama ficam fracos.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+{"after":0,"title":"Marshall contra Capablanca (1909): a derrota instrutiva","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 1 (partida completa; match, 1909)","description":"Gambito da Dama recusado. Capablanca joga de Pretas e perde: observa onde os peões do flanco da Dama ficam fracos. Procura os 🧩 desafios: antes de avançar, tenta descobrir o lance.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
 "steps":[
 {"san":"d4","from":"d2","to":"d4","fen":"rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1"},
 {"san":"d5","from":"d7","to":"d5","fen":"rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2"},
@@ -1467,7 +1467,7 @@
 {"san":"Ne5","from":"f3","to":"e5","fen":"1r4k1/p2q1ppp/P1b5/2QpN3/8/2P1P3/5PPP/R5K1 b - - 1 23"},
 {"san":"Qf5","from":"d7","to":"f5","fen":"1r4k1/p4ppp/P1b5/2QpNq2/8/2P1P3/5PPP/R5K1 w - - 2 24"},
 {"san":"f4","from":"f2","to":"f4","fen":"1r4k1/p4ppp/P1b5/2QpNq2/5P2/2P1P3/6PP/R5K1 b - - 0 24"},
-{"san":"Rb6","from":"b8","to":"b6","fen":"6k1/p4ppp/Prb5/2QpNq2/5P2/2P1P3/6PP/R5K1 w - - 1 25"},
+{"san":"Rb6","from":"b8","to":"b6","fen":"6k1/p4ppp/Prb5/2QpNq2/5P2/2P1P3/6PP/R5K1 w - - 1 25","note":"🧩 Desafio: as Brancas acabam a partida com um sacrifício de Dama. Encontras o lance?"},
 {"san":"Qxb6","from":"c5","to":"b6","fen":"6k1/p4ppp/PQb5/3pNq2/5P2/2P1P3/6PP/R5K1 b - - 0 25","note":"Dxb6!, um sacrifício de Dama por Torre: depois de axb6, Cxc6 captura o Bispo que travava o peão a, e o peão avança para a8. Com Cxc6 as Pretas teriam empatado, com ...Tb1+! As Pretas desistem."}
 ]}
 ],
@@ -1485,7 +1485,7 @@
 {"q":"O que ganham as Brancas com Bxd7 e a6?","options":["Uma Dama","Um peão: o Cavalo que defendia c5 foi trocado e o Bispo preto é expulso","Um Bispo","Nada"],"answer":1,"why":"Sem o Cavalo d7, o peão c5 fica mais fraco, e dxc5 seguido de Dxc5 ganha um peão."},
 {"q":"Como termina a partida?","options":["Com um mate de Torre","Com um sacrifício de Dama por Torre, depois do qual o peão a avança e as Pretas desistem","Com empate por afogamento","Com a troca de todas as peças"],"answer":1,"why":"As Brancas jogam Dxb6!, e o peão a promove depois de Cxc6."}
 ],
-"summary":"Também as derrotas ensinam: na partida contra Marshall, o desenvolvimento lento do Bispo e a desorganização dos peões do flanco da Dama deram às Brancas o ataque que ganhou o jogo."
+"summary":"Também as derrotas ensinam: na partida contra Marshall, o desenvolvimento lento do Bispo e a desorganização dos peões do flanco da Dama deram às Brancas o ataque que ganhou o jogo. ➡️ Na próxima lição: Rubinstein prepara uma combinação célebre, e Capablanca não vê um lance de Rei!"
 },
 {
 "id":"038",
@@ -1497,7 +1497,7 @@
 "O final foi mal jogado pelos dois lados. Capablanca perdeu uma boa hipótese de empate com a6 e, mais tarde, não aproveitou um erro grave das Brancas. Ele próprio diz que, como final, é um triste espectáculo para dois mestres; o que fica é a bela combinação de Rubinstein."
 ],
 "diagrams":[
-{"after":0,"title":"Rubinstein contra Capablanca (1911): a combinação","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 2 (partida completa; San Sebastián, 1911)","description":"Gambito da Dama recusado. Capablanca joga de Pretas e perde. Observa a diagonal do Bispo de h3 e a combinação que começa com Bxf6.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+{"after":0,"title":"Rubinstein contra Capablanca (1911): a combinação","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 2 (partida completa; San Sebastián, 1911)","description":"Gambito da Dama recusado. Capablanca joga de Pretas e perde. Observa a diagonal do Bispo de h3 e a combinação que começa com Bxf6. Procura os 🧩 desafios: antes de avançar, tenta descobrir o lance.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
 "steps":[
 {"san":"d4","from":"d2","to":"d4","fen":"rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1"},
 {"san":"d5","from":"d7","to":"d5","fen":"rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2"},
@@ -1528,9 +1528,9 @@
 {"san":"Bxf6","from":"g5","to":"f6","fen":"2r2rk1/pp2q1pp/2n1pB2/2bp4/8/2N3PB/PP2PP1P/R2Q1RK1 b - - 0 14","note":"Início da combinação de Rubinstein: o Bispo troca o Cavalo que defendia d5."},
 {"san":"Qxf6","from":"e7","to":"f6","fen":"2r2rk1/pp4pp/2n1pq2/2bp4/8/2N3PB/PP2PP1P/R2Q1RK1 w - - 0 15","note":"Capablanca pensou em gxf6, que lhe daria um jogo aceitável, mas achou que a combinação branca era incorrecta e deixou-a acontecer."},
 {"san":"Nxd5","from":"c3","to":"d5","fen":"2r2rk1/pp4pp/2n1pq2/2bN4/8/6PB/PP2PP1P/R2Q1RK1 b - - 0 15","note":"Cxd5! O Cavalo ganha um peão e ataca a Dama. Se exd5, abre-se a diagonal do Bispo de h3 até à Torre de c8, e as Brancas ganham a qualidade."},
-{"san":"Qh6","from":"f6","to":"h6","fen":"2r2rk1/pp4pp/2n1p2q/2bN4/8/6PB/PP2PP1P/R2Q1RK1 w - - 1 16","note":"A Dama foge e ataca o Bispo de h3."},
+{"san":"Qh6","from":"f6","to":"h6","fen":"2r2rk1/pp4pp/2n1p2q/2bN4/8/6PB/PP2PP1P/R2Q1RK1 w - - 1 16","note":"A Dama foge e ataca o Bispo de h3. 🧩 Desafio: o Bispo de h3 está atacado. Como o defendem as Brancas, deixando a Dama livre?"},
 {"san":"Kg2","from":"g1","to":"g2","fen":"2r2rk1/pp4pp/2n1p2q/2bN4/8/6PB/PP2PPKP/R2Q1R2 b - - 2 16","note":"Rg2! Era o lance que Capablanca não tinha previsto. O Rei defende o Bispo de h3, e a Dama branca fica livre para ir a c1. Capablanca esperava Bg2, contra o qual tinha preparado uma combinação ganhadora."},
-{"san":"Rcd8","from":"c8","to":"d8","fen":"3r1rk1/pp4pp/2n1p2q/2bN4/8/6PB/PP2PPKP/R2Q1R2 w - - 3 17","note":"Depois de Rg2, só restava aceitar o inevitável."},
+{"san":"Rcd8","from":"c8","to":"d8","fen":"3r1rk1/pp4pp/2n1p2q/2bN4/8/6PB/PP2PPKP/R2Q1R2 w - - 3 17","note":"Depois de Rg2, só restava aceitar o inevitável. 🧩 Desafio: que lance de Dama ataca duas peças pretas ao mesmo tempo?"},
 {"san":"Qc1","from":"d1","to":"c1","fen":"3r1rk1/pp4pp/2n1p2q/2bN4/8/6PB/PP2PPKP/R1Q2R2 b - - 4 17","note":"Dc1! A Dama ataca ao mesmo tempo a Dama preta (pela diagonal c1–h6) e o Bispo de c5 (pela coluna c, que a Torre preta abandonou)."},
 {"san":"exd5","from":"e6","to":"d5","fen":"3r1rk1/pp4pp/2n4q/2bp4/8/6PB/PP2PPKP/R1Q2R2 w - - 0 18","note":"As Pretas recuperam a peça, mas vão perder o Bispo de c5."},
 {"san":"Qxc5","from":"c1","to":"c5","fen":"3r1rk1/pp4pp/2n4q/2Qp4/8/6PB/PP2PPKP/R4R2 b - - 0 18","note":"Feitas as contas, as Brancas ganharam um peão e ficam com a melhor posição."},
@@ -1598,7 +1598,7 @@
 {"q":"O que ataca o lance Dc1!?","options":["Só o Rei preto","A Dama preta e o Bispo de c5 ao mesmo tempo","A Torre de f8","Nada: é um lance de espera"],"answer":1,"why":"Pela diagonal c1–h6 ataca a Dama, e pela coluna c ataca o Bispo de c5: é um ataque duplo."},
 {"q":"Que lance do final tirou às Pretas a hipótese de empatar?","options":["a6, quando o certo era Rd6","O roque","Cd4","Td6"],"answer":0,"why":"Capablanca chama a a6 um mau lance, que perde tempo; Rd6 dava às Pretas boas hipóteses."}
 ],
-"summary":"Uma combinação bem calculada vale mais do que um plano original mal preparado: Rubinstein aproveitou a Torre de c8 na diagonal do Bispo e ganhou material com Rg2! e Dc1!."
+"summary":"Uma combinação bem calculada vale mais do que um plano original mal preparado: Rubinstein aproveitou a Torre de c8 na diagonal do Bispo e ganhou material com Rg2! e Dc1!. ➡️ Na próxima lição: um peão fraco no centro prende o Rei de Capablanca."
 },
 {
 "id":"039",
@@ -1610,7 +1610,7 @@
 "Com o lance g6, as Pretas teriam uma posição segura. Em vez disso, Capablanca perdeu um peão com Td8. As Brancas usaram a Dama para ganhar outro peão, trocaram as Damas e ganharam com os dois peões passados."
 ],
 "diagrams":[
-{"after":0,"title":"Janowski contra Capablanca (1913): o peão fraco em e5","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 3 (partida completa; Havana, 1913)","description":"Defesa irregular. Capablanca joga de Pretas e perde. Observa como o peão e5 obriga o Rei preto a ficar no centro.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+{"after":0,"title":"Janowski contra Capablanca (1913): o peão fraco em e5","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 3 (partida completa; Havana, 1913)","description":"Defesa irregular. Capablanca joga de Pretas e perde. Observa como o peão e5 obriga o Rei preto a ficar no centro. Procura os 🧩 desafios: antes de avançar, tenta descobrir o lance.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
 "steps":[
 {"san":"d4","from":"d2","to":"d4","fen":"rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1"},
 {"san":"Nf6","from":"g8","to":"f6","fen":"rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2"},
@@ -1657,7 +1657,7 @@
 {"san":"Rxd3","from":"d1","to":"d3","fen":"7r/ppq2pp1/2p1nk2/4p1p1/1PP1Q3/3RPN1P/P4PP1/6K1 b - - 0 22"},
 {"san":"Rd8","from":"h8","to":"d8","fen":"3r4/ppq2pp1/2p1nk2/4p1p1/1PP1Q3/3RPN1P/P4PP1/6K1 w - - 1 23","note":"Um erro muito sério, que perde um peão. O certo era g6: num final simples, o Rei preto bem colocado até seria uma vantagem."},
 {"san":"Rxd8","from":"d3","to":"d8","fen":"3R4/ppq2pp1/2p1nk2/4p1p1/1PP1Q3/4PN1P/P4PP1/6K1 b - - 0 23"},
-{"san":"Nxd8","from":"e6","to":"d8","fen":"3n4/ppq2pp1/2p2k2/4p1p1/1PP1Q3/4PN1P/P4PP1/6K1 w - - 0 24"},
+{"san":"Nxd8","from":"e6","to":"d8","fen":"3n4/ppq2pp1/2p2k2/4p1p1/1PP1Q3/4PN1P/P4PP1/6K1 w - - 0 24","note":"🧩 Desafio: um lance de peão ganha um peão às Pretas. Qual?"},
 {"san":"h4","from":"h3","to":"h4","fen":"3n4/ppq2pp1/2p2k2/4p1p1/1PP1Q2P/4PN2/P4PP1/6K1 b - - 0 24","note":"Este lance ganha um peão. As Pretas não podem jogar Ce6, porque hxg5+ Cxg5 e Dh4 cravam o Cavalo contra o Rei e ganham-no."},
 {"san":"gxh4","from":"g5","to":"h4","fen":"3n4/ppq2pp1/2p2k2/4p3/1PP1Q2p/4PN2/P4PP1/6K1 w - - 0 25"},
 {"san":"Qxh4+","from":"e4","to":"h4","fen":"3n4/ppq2pp1/2p2k2/4p3/1PP4Q/4PN2/P4PP1/6K1 b - - 0 25"},
@@ -1700,7 +1700,7 @@
 {"q":"Que lance deixaria a posição preta segura?","options":["Td8","g6","Ce6","f5"],"answer":1,"why":"Capablanca repete que g6 daria às Pretas um jogo perfeitamente seguro."},
 {"q":"Porque não podem as Pretas responder a 24.h4 com Ce6?","options":["Porque perdem a Dama","Porque hxg5+ Cxg5 e Dh4 cravam o Cavalo e ganham-no","Porque levam mate","Porque o Cavalo não chega a e6"],"answer":1,"why":"Depois de hxg5+ Cxg5, a Dama em h4 crava o Cavalo contra o Rei de f6."}
 ],
-"summary":"Todas as fases do jogo estão ligadas: o medo de um final mau levou Capablanca a erros no meio-jogo, e um peão fraco no centro acabou por custar a partida."
+"summary":"Todas as fases do jogo estão ligadas: o medo de um final mau levou Capablanca a erros no meio-jogo, e um peão fraco no centro acabou por custar a partida. ➡️ Na próxima lição: Capablanca tem grande vantagem, mas procura um golpe brilhante e perde."
 },
 {
 "id":"040",
@@ -1712,7 +1712,7 @@
 "Depois Capablanca quis ganhar depressa, à procura de uma «grande combinação», e rejeitou os lances simples. As Pretas defenderam-se muito bem, sempre com o melhor lance a partir do 22.º, e acabaram por ganhar. Capablanca chama-lhe uma batalha muito interessante."
 ],
 "diagrams":[
-{"after":0,"title":"Capablanca contra Snosko-Borovski (1913): o grande golpe que não veio","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 4 (partida completa; São Petersburgo, 1913)","description":"Defesa Francesa, variante McCutcheon. Capablanca joga de Brancas, tem vantagem, mas perde. Observa o roque grande das Brancas e os peões desfeitos do Rei preto.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+{"after":0,"title":"Capablanca contra Snosko-Borovski (1913): o grande golpe que não veio","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 4 (partida completa; São Petersburgo, 1913)","description":"Defesa Francesa, variante McCutcheon. Capablanca joga de Brancas, tem vantagem, mas perde. Observa o roque grande das Brancas e os peões desfeitos do Rei preto. Procura os 🧩 desafios: antes de avançar, tenta descobrir o lance.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
 "steps":[
 {"san":"d4","from":"d2","to":"d4","fen":"rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1"},
 {"san":"e6","from":"e7","to":"e6","fen":"rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2"},
@@ -1741,7 +1741,7 @@
 {"san":"Qe3","from":"d2","to":"e3","fen":"2kr3r/pbpn1p1p/1p2pp2/5q2/2PP4/4QN2/P1P1BPPP/2KR3R b - - 4 13"},
 {"san":"Rhg8","from":"h8","to":"g8","fen":"2kr2r1/pbpn1p1p/1p2pp2/5q2/2PP4/4QN2/P1P1BPPP/2KR3R w - - 5 14"},
 {"san":"g3","from":"g2","to":"g3","fen":"2kr2r1/pbpn1p1p/1p2pp2/5q2/2PP4/4QNP1/P1P1BP1P/2KR3R b - - 0 14"},
-{"san":"Qa5","from":"f5","to":"a5","fen":"2kr2r1/pbpn1p1p/1p2pp2/q7/2PP4/4QNP1/P1P1BP1P/2KR3R w - - 1 15","note":"Sem dúvida um erro, que não vê a boa resposta das Brancas. Mas as Brancas já tinham a melhor posição."},
+{"san":"Qa5","from":"f5","to":"a5","fen":"2kr2r1/pbpn1p1p/1p2pp2/q7/2PP4/4QNP1/P1P1BP1P/2KR3R w - - 1 15","note":"Sem dúvida um erro, que não vê a boa resposta das Brancas. Mas as Brancas já tinham a melhor posição. 🧩 Desafio: as Pretas não viram uma boa resposta das Brancas. Qual é?"},
 {"san":"Rd3","from":"d1","to":"d3","fen":"2kr2r1/pbpn1p1p/1p2pp2/q7/2PP4/3RQNP1/P1P1BP1P/2K4R b - - 2 15","note":"Td3! A boa resposta que as Pretas não tinham previsto."},
 {"san":"Kb8","from":"c8","to":"b8","fen":"1k1r2r1/pbpn1p1p/1p2pp2/q7/2PP4/3RQNP1/P1P1BP1P/2K4R w - - 3 16"},
 {"san":"Rhd1","from":"h1","to":"d1","fen":"1k1r2r1/pbpn1p1p/1p2pp2/q7/2PP4/3RQNP1/P1P1BP1P/2KR4 b - - 4 16"},
@@ -1753,7 +1753,7 @@
 {"san":"Bf3","from":"e2","to":"f3","fen":"1k1r2r1/pbpn1pqp/1p2pp2/8/2PP1P1N/3RQBP1/P1P4P/2KR4 b - - 2 19","note":"Nestas posições convém trocar o Bispo preto que defende a6 e c6, casas que são buracos para as peças brancas. Esse Bispo tem um grande valor defensivo."},
 {"san":"Rge8","from":"g8","to":"e8","fen":"1k1rr3/pbpn1pqp/1p2pp2/8/2PP1P1N/3RQBP1/P1P4P/2KR4 w - - 3 20"},
 {"san":"Bxb7","from":"f3","to":"b7","fen":"1k1rr3/pBpn1pqp/1p2pp2/8/2PP1P1N/3RQ1P1/P1P4P/2KR4 b - - 0 20"},
-{"san":"Kxb7","from":"b8","to":"b7","fen":"3rr3/pkpn1pqp/1p2pp2/8/2PP1P1N/3RQ1P1/P1P4P/2KR4 w - - 0 21"},
+{"san":"Kxb7","from":"b8","to":"b7","fen":"3rr3/pkpn1pqp/1p2pp2/8/2PP1P1N/3RQ1P1/P1P4P/2KR4 w - - 0 21","note":"🧩 Desafio: que avanço de peão ameaça um xeque ao Rei preto?"},
 {"san":"c5","from":"c4","to":"c5","fen":"3rr3/pkpn1pqp/1p2pp2/2P5/3P1P1N/3RQ1P1/P1P4P/2KR4 b - - 0 21","note":"c5! As Brancas ameaçavam c6+."},
 {"san":"c6","from":"c7","to":"c6","fen":"3rr3/pk1n1pqp/1pp1pp2/2P5/3P1P1N/3RQ1P1/P1P4P/2KR4 w - - 0 22"},
 {"san":"Nf3","from":"h4","to":"f3","fen":"3rr3/pk1n1pqp/1pp1pp2/2P5/3P1P2/3RQNP1/P1P4P/2KR4 b - - 1 22"},
@@ -1810,7 +1810,7 @@
 {"q":"Qual foi o grande erro de Capablanca nesta partida?","options":["Fazer o roque grande","Procurar uma «grande combinação» em vez de jogar os lances simples, como Tb3 e Cc4","Trocar as Damas","Jogar c5"],"answer":1,"why":"Capablanca diz que rejeitou Tb3 por ser lento e que ainda procurava a «grande combinação»."},
 {"q":"Como jogaram as Pretas a partir do lance 22?","options":["Cometeram muitos erros","Jogaram sempre o melhor lance","Ofereceram empate","Perderam a Dama"],"answer":1,"why":"Capablanca diz que as Pretas merecem grande crédito: a partir do lance 22, jogaram sempre o melhor lance."}
 ],
-"summary":"Ter vantagem não basta: quem a tem deve jogar os lances simples e seguros. Ao procurar uma combinação brilhante, Capablanca deu ao adversário o tempo de que precisava."
+"summary":"Ter vantagem não basta: quem a tem deve jogar os lances simples e seguros. Ao procurar uma combinação brilhante, Capablanca deu ao adversário o tempo de que precisava. ➡️ Na próxima lição: Capablanca contra Lasker, o campeão do mundo, num dos jogos mais famosos de São Petersburgo."
 },
 {
 "id":"041",
@@ -1822,7 +1822,7 @@
 "A lição que ele próprio tira é clara: o seu jogo foi indeciso. Quando se faz um plano, deve cumprir-se, se for possível. Lasker jogou muito bem e acabou a partida com precisão."
 ],
 "diagrams":[
-{"after":0,"title":"Lasker contra Capablanca (1914): um plano tem de ser cumprido","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 5 (partida completa; São Petersburgo, 1914)","description":"Ruy Lopez, variante das trocas. Capablanca joga de Pretas e perde. Observa o Cavalo branco em e6 e as mudanças de plano das Pretas.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+{"after":0,"title":"Lasker contra Capablanca (1914): um plano tem de ser cumprido","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 5 (partida completa; São Petersburgo, 1914)","description":"Ruy Lopez, variante das trocas. Capablanca joga de Pretas e perde. Observa o Cavalo branco em e6 e as mudanças de plano das Pretas. Procura os 🧩 desafios: antes de avançar, tenta descobrir o lance.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
 "steps":[
 {"san":"e4","from":"e2","to":"e4","fen":"rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1"},
 {"san":"e5","from":"e7","to":"e5","fen":"rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"},
@@ -1851,7 +1851,7 @@
 {"san":"Bf4","from":"c1","to":"f4","fen":"r1b1r1k1/2p1n1pp/pppb1p2/5P2/4PB2/1NN5/PPP3PP/R4RK1 b - - 1 13"},
 {"san":"Bb7","from":"c8","to":"b7","fen":"r3r1k1/1bp1n1pp/pppb1p2/5P2/4PB2/1NN5/PPP3PP/R4RK1 w - - 2 14","note":"Jogado contra o próprio juízo de Capablanca. O certo era Bxf4."},
 {"san":"Bxd6","from":"f4","to":"d6","fen":"r3r1k1/1bp1n1pp/pppB1p2/5P2/4P3/1NN5/PPP3PP/R4RK1 b - - 0 14"},
-{"san":"cxd6","from":"c7","to":"d6","fen":"r3r1k1/1b2n1pp/pppp1p2/5P2/4P3/1NN5/PPP3PP/R4RK1 w - - 0 15"},
+{"san":"cxd6","from":"c7","to":"d6","fen":"r3r1k1/1b2n1pp/pppp1p2/5P2/4P3/1NN5/PPP3PP/R4RK1 w - - 0 15","note":"🧩 Desafio: o Cavalo branco tem um caminho até uma casa muito forte no campo preto. Por onde vai?"},
 {"san":"Nd4","from":"b3","to":"d4","fen":"r3r1k1/1b2n1pp/pppp1p2/5P2/3NP3/2N5/PPP3PP/R4RK1 b - - 1 15","note":"Capablanca não tinha visto este lance quando jogou Bb7. O Cavalo vai a e6."},
 {"san":"Rad8","from":"a8","to":"d8","fen":"3rr1k1/1b2n1pp/pppp1p2/5P2/3NP3/2N5/PPP3PP/R4RK1 w - - 2 16","note":"A partida ainda não está perdida: contra o Cavalo, as Pretas podem jogar c5 e depois d5."},
 {"san":"Ne6","from":"d4","to":"e6","fen":"3rr1k1/1b2n1pp/ppppNp2/5P2/4P3/2N5/PPP3PP/R4RK1 b - - 3 16"},
@@ -1923,7 +1923,7 @@
 {"q":"Onde se instala o Cavalo branco, com grande força?","options":["Em a5","Em e6","Em h4","Em b1"],"answer":1,"why":"Depois de Cd4, o Cavalo vai a e6, de onde domina a posição preta."},
 {"q":"Que lição tira Capablanca desta derrota?","options":["Nunca trocar as Damas","Quando se faz um plano, deve cumprir-se, se for possível","Atacar sempre o Rei","Jogar sempre e4"],"answer":1,"why":"Ele diz que o seu jogo foi indeciso e que um plano, uma vez feito, deve ser cumprido."}
 ],
-"summary":"Mudar de plano sem razão custa caro: Capablanca teve várias hipóteses de se defender, mas a indecisão deu a Lasker tempo para instalar o Cavalo em e6 e ganhar."
+"summary":"Mudar de plano sem razão custa caro: Capablanca teve várias hipóteses de se defender, mas a indecisão deu a Lasker tempo para instalar o Cavalo em e6 e ganhar. ➡️ Na próxima lição: Capablanca domina com um Cavalo em d5, mas um lance impaciente muda tudo."
 },
 {
 "id":"042",
@@ -1935,7 +1935,7 @@
 "Mesmo assim, as Pretas tinham boas hipóteses, mas perderam o momento certo para o contra-ataque. Capablanca elogia o adversário: a partir do lance 25, Chajes não deixou escapar nenhuma oportunidade."
 ],
 "diagrams":[
-{"after":0,"title":"Chajes contra Capablanca (1916): a vantagem que escapou","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 6 (partida completa; Torneio Rice Memorial, 1916)","description":"Defesa Francesa. Capablanca joga de Pretas, ganha um peão e domina com o Cavalo em d5, mas perde. Observa o sacrifício das Brancas que ganha a Dama.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+{"after":0,"title":"Chajes contra Capablanca (1916): a vantagem que escapou","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 6 (partida completa; Torneio Rice Memorial, 1916)","description":"Defesa Francesa. Capablanca joga de Pretas, ganha um peão e domina com o Cavalo em d5, mas perde. Observa o sacrifício das Brancas que ganha a Dama. Procura os 🧩 desafios: antes de avançar, tenta descobrir o lance.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
 "steps":[
 {"san":"e4","from":"e2","to":"e4","fen":"rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1"},
 {"san":"e6","from":"e7","to":"e6","fen":"rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"},
@@ -1988,7 +1988,7 @@
 {"san":"exf6","from":"e5","to":"f6","fen":"2r3r1/pp1b3k/4pPpp/3n3P/1q1NQP2/2p4R/P1P2BP1/R5K1 b - - 0 25"},
 {"san":"Nxf6","from":"d5","to":"f6","fen":"2r3r1/pp1b3k/4pnpp/7P/1q1NQP2/2p4R/P1P2BP1/R5K1 w - - 0 26"},
 {"san":"hxg6+","from":"h5","to":"g6","fen":"2r3r1/pp1b3k/4pnPp/8/1q1NQP2/2p4R/P1P2BP1/R5K1 b - - 0 26"},
-{"san":"Rxg6","from":"g8","to":"g6","fen":"2r5/pp1b3k/4pnrp/8/1q1NQP2/2p4R/P1P2BP1/R5K1 w - - 0 27"},
+{"san":"Rxg6","from":"g8","to":"g6","fen":"2r5/pp1b3k/4pnrp/8/1q1NQP2/2p4R/P1P2BP1/R5K1 w - - 0 27","note":"🧩 Desafio: as Brancas ganham a Dama preta com um sacrifício de Torre. Como?"},
 {"san":"Rxh6+","from":"h3","to":"h6","fen":"2r5/pp1b3k/4pnrR/8/1q1NQP2/2p5/P1P2BP1/R5K1 b - - 0 27","note":"Txh6+! Este sacrifício ganha a Dama preta."},
 {"san":"Kxh6","from":"h7","to":"h6","fen":"2r5/pp1b4/4pnrk/8/1q1NQP2/2p5/P1P2BP1/R5K1 w - - 0 28"},
 {"san":"Nf5+","from":"d4","to":"f5","fen":"2r5/pp1b4/4pnrk/5N2/1q2QP2/2p5/P1P2BP1/R5K1 b - - 1 28"},
@@ -2072,7 +2072,7 @@
 {"q":"O que ganham as Brancas com Txh6+?","options":["Um peão","A Dama preta","Uma Torre","Nada"],"answer":1,"why":"O sacrifício de Torre, seguido de Cf5+, ganha a Dama preta."},
 {"q":"Que lance dava às Pretas pelo menos o empate, nos lances 31 e 32?","options":["Ce4","Rh5","Be4","Tg8"],"answer":0,"why":"Capablanca diz que Ce4 daria pelo menos o empate."}
 ],
-"summary":"Uma vantagem estratégica pode escapar com um lance impaciente: Capablanca dominava com o Cavalo em d5, mas quis a iniciativa cedo demais e Chajes aproveitou todas as oportunidades."
+"summary":"Uma vantagem estratégica pode escapar com um lance impaciente: Capablanca dominava com o Cavalo em d5, mas quis a iniciativa cedo demais e Chajes aproveitou todas as oportunidades. ➡️ Na próxima lição: Capablanca ganha um peão e elimina o único perigo com um só lance."
 },
 {
 "id":"043",
@@ -2778,6 +2778,226 @@
 {"q":"Que ideia geral mostra esta partida?","options":["O Rei deve ficar sempre escondido","O Rei pode ser uma peça de combate mesmo com as Damas no tabuleiro","As Torres não servem nos finais","Os Bispos valem mais do que as Torres"],"answer":1,"why":"Capablanca diz que a partida mostra o Rei como peça de combate, mesmo com as Damas em jogo."}
 ],
 "summary":"O Rei não serve só para ser defendido: com o caminho preparado, pode atravessar o tabuleiro e ajudar a ganhar, mesmo com as Damas em jogo. ➡️ Na próxima lição: Capablanca, de Pretas, numa Ruy Lopez em Nova Iorque!"
+},
+{
+"id":"049",
+"title":"Morrison contra Capablanca (1918): o Bispo posto fora de jogo",
+"text":[
+"A décima terceira partida da Parte II foi jogada em Nova Iorque, em 1918, contra Morrison. Capablanca joga de Pretas e desenvolve o Bispo do Rei em g7, onde ele tem a força máxima: pressiona a grande diagonal e protege o Rei.",
+"Morrison comete dois erros de juízo: deixa as Pretas rocar à vontade e faz ele próprio o roque grande, com ousadia. O Bispo de g7 torna-se uma peça de ataque muito forte, e a ofensiva passa para as Pretas.",
+"Com f5! e f4, Capablanca põe o Bispo branco de g3 fora de jogo. As Brancas contra-atacam e até oferecem o Bispo, mas Capablanca não o come: prefere deixá-lo inactivo.",
+"Depois de eliminar o Cavalo de d5, a chave da defesa branca, as Pretas trocam as Damas e levam o Rei branco para um canto, numa rede de mate. Capablanca chama-lhe «uma partida muito viva»."
+],
+"diagrams":[
+{"after":0,"title":"Morrison contra Capablanca (1918): o Bispo posto fora de jogo","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 13 (partida completa; Nova Iorque, 1918)","description":"Ruy Lopez. Capablanca joga de Pretas e ganha. Repara no Bispo preto de g7 e no Bispo branco de g3, que fica fora de jogo. Procura os 🧩 desafios.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+"steps":[
+{"san":"e4","from":"e2","to":"e4","fen":"rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1"},
+{"san":"e5","from":"e7","to":"e5","fen":"rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"},
+{"san":"Nf3","from":"g1","to":"f3","fen":"rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2"},
+{"san":"Nc6","from":"b8","to":"c6","fen":"r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3"},
+{"san":"Bb5","from":"f1","to":"b5","fen":"r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3"},
+{"san":"d6","from":"d7","to":"d6","fen":"r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4"},
+{"san":"Nc3","from":"b1","to":"c3","fen":"r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4"},
+{"san":"Bd7","from":"c8","to":"d7","fen":"r2qkbnr/pppb1ppp/2np4/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5"},
+{"san":"d4","from":"d2","to":"d4","fen":"r2qkbnr/pppb1ppp/2np4/1B2p3/3PP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 5"},
+{"san":"exd4","from":"e5","to":"d4","fen":"r2qkbnr/pppb1ppp/2np4/1B6/3pP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 6"},
+{"san":"Nxd4","from":"f3","to":"d4","fen":"r2qkbnr/pppb1ppp/2np4/1B6/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 6"},
+{"san":"g6","from":"g7","to":"g6","fen":"r2qkbnr/pppb1p1p/2np2p1/1B6/3NP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 7","note":"Nesta defesa, o Bispo do Rei em g7 é muito importante: pressiona a grande diagonal e, com os peões à frente do Rei depois do roque, dá uma defesa muito sólida. Compara com a partida contra Burn (lição 043)."},
+{"san":"Nf3","from":"d4","to":"f3","fen":"r2qkbnr/pppb1p1p/2np2p1/1B6/4P3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 7"},
+{"san":"Bg7","from":"f8","to":"g7","fen":"r2qk1nr/pppb1pbp/2np2p1/1B6/4P3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 2 8"},
+{"san":"Bg5","from":"c1","to":"g5","fen":"r2qk1nr/pppb1pbp/2np2p1/1B4B1/4P3/2N2N2/PPP2PPP/R2QK2R b KQkq - 3 8"},
+{"san":"Nf6","from":"g8","to":"f6","fen":"r2qk2r/pppb1pbp/2np1np1/1B4B1/4P3/2N2N2/PPP2PPP/R2QK2R w KQkq - 4 9","note":"Não Cge7, por causa de Cd5. Também era possível f6 e depois Cge7, mas aqui é melhor o Cavalo em f6."},
+{"san":"Qd2","from":"d1","to":"d2","fen":"r2qk2r/pppb1pbp/2np1np1/1B4B1/4P3/2N2N2/PPPQ1PPP/R3K2R b KQkq - 5 9"},
+{"san":"h6","from":"h7","to":"h6","fen":"r2qk2r/pppb1pb1/2np1npp/1B4B1/4P3/2N2N2/PPPQ1PPP/R3K2R w KQkq - 0 10"},
+{"san":"Bh4","from":"g5","to":"h4","fen":"r2qk2r/pppb1pb1/2np1npp/1B6/4P2B/2N2N2/PPPQ1PPP/R3K2R b KQkq - 1 10","note":"Um erro de juízo. As Brancas querem manter o Cavalo cravado, mas era mais importante impedir o roque preto. Bf4 fazia isso."},
+{"san":"O-O","from":"e8","to":"g8","fen":"r2q1rk1/pppb1pb1/2np1npp/1B6/4P2B/2N2N2/PPPQ1PPP/R3K2R w KQ - 2 11"},
+{"san":"O-O-O","from":"e1","to":"c1","fen":"r2q1rk1/pppb1pb1/2np1npp/1B6/4P2B/2N2N2/PPPQ1PPP/2KR3R b - - 3 11","note":"Jogo ousado, mas outra vez um erro de juízo. O Bispo de g7 vai ser uma peça de ataque muito forte, e as peças pretas estão muito melhor colocadas. São as Pretas que vão atacar."},
+{"san":"Re8","from":"f8","to":"e8","fen":"r2qr1k1/pppb1pb1/2np1npp/1B6/4P2B/2N2N2/PPPQ1PPP/2KR3R w - - 4 12"},
+{"san":"Rhe1","from":"h1","to":"e1","fen":"r2qr1k1/pppb1pb1/2np1npp/1B6/4P2B/2N2N2/PPPQ1PPP/2KRR3 b - - 5 12","note":"As Brancas querem manter a Torre da Dama na coluna aberta e trazem a outra Torre para defender e4, que as Pretas ameaçavam ganhar com g5 e Cxe4."},
+{"san":"g5","from":"g6","to":"g5","fen":"r2qr1k1/pppb1pb1/2np1n1p/1B4p1/4P2B/2N2N2/PPPQ1PPP/2KRR3 w - - 0 13","note":"g5! Agora as Pretas podem avançar sem risco: para atacar no flanco do Rei, as Brancas teriam de mudar as Torres de lugar, e não o podem fazer enquanto as Pretas pressionam o centro."},
+{"san":"Bg3","from":"h4","to":"g3","fen":"r2qr1k1/pppb1pb1/2np1n1p/1B4p1/4P3/2N2NB1/PPPQ1PPP/2KRR3 b - - 1 13"},
+{"san":"Nh5","from":"f6","to":"h5","fen":"r2qr1k1/pppb1pb1/2np3p/1B4pn/4P3/2N2NB1/PPPQ1PPP/2KRR3 w - - 2 14","note":"Destapa o Bispo de g7, que agora actua na grande diagonal, e impede e5."},
+{"san":"Nd5","from":"c3","to":"d5","fen":"r2qr1k1/pppb1pb1/2np3p/1B1N2pn/4P3/5NB1/PPPQ1PPP/2KRR3 b - - 3 14"},
+{"san":"a6","from":"a7","to":"a6","fen":"r2qr1k1/1ppb1pb1/p1np3p/1B1N2pn/4P3/5NB1/PPPQ1PPP/2KRR3 w - - 0 15","note":"Para expulsar o Bispo branco, descravar as peças e manobrar à vontade."},
+{"san":"Bd3","from":"b5","to":"d3","fen":"r2qr1k1/1ppb1pb1/p1np3p/3N2pn/4P3/3B1NB1/PPPQ1PPP/2KRR3 b - - 1 15"},
+{"san":"Be6","from":"d7","to":"e6","fen":"r2qr1k1/1pp2pb1/p1npb2p/3N2pn/4P3/3B1NB1/PPPQ1PPP/2KRR3 w - - 2 16","note":"As Pretas preparam o ataque: as suas peças começam a pesar sobre o Rei branco."},
+{"san":"c3","from":"c2","to":"c3","fen":"r2qr1k1/1pp2pb1/p1npb2p/3N2pn/4P3/2PB1NB1/PP1Q1PPP/2KRR3 b - - 0 16","note":"c3 tapa o Bispo de g7. As Brancas querem pôr o Bispo em b1 e a Dama em c2, e avançar e5 para dar xeque em h7. 🧩 Desafio: as Pretas lançam um ataque sem resposta, para ganhar ou tirar de jogo o Bispo de g3. Com que lance de peão?"},
+{"san":"f5","from":"f7","to":"f5","fen":"r2qr1k1/1pp3b1/p1npb2p/3N1ppn/4P3/2PB1NB1/PP1Q1PPP/2KRR3 w - - 0 17","note":"f5! Começa um ataque sem resposta, que quer ganhar o Bispo branco de g3 ou tirá-lo de jogo."},
+{"san":"h4","from":"h2","to":"h4","fen":"r2qr1k1/1pp3b1/p1npb2p/3N1ppn/4P2P/2PB1NB1/PP1Q1PP1/2KRR3 b - - 0 17"},
+{"san":"f4","from":"f5","to":"f4","fen":"r2qr1k1/1pp3b1/p1npb2p/3N2pn/4Pp1P/2PB1NB1/PP1Q1PP1/2KRR3 w - - 0 18","note":"O Bispo de g3 fica fora de jogo. As Brancas contra-atacam com violência e, com bom juízo, até oferecem o Bispo."},
+{"san":"hxg5","from":"h4","to":"g5","fen":"r2qr1k1/1pp3b1/p1npb2p/3N2Pn/4Pp2/2PB1NB1/PP1Q1PP1/2KRR3 b - - 0 18","note":"hxg5! As Brancas oferecem o Bispo."},
+{"san":"hxg5","from":"h6","to":"g5","fen":"r2qr1k1/1pp3b1/p1npb3/3N2pn/4Pp2/2PB1NB1/PP1Q1PP1/2KRR3 w - - 0 19","note":"hxg5! Comer o Bispo seria perigoso. Assim, as Pretas conseguem o que queriam: o Bispo branco fica fora de jogo."},
+{"san":"Rh1","from":"e1","to":"h1","fen":"r2qr1k1/1pp3b1/p1npb3/3N2pn/4Pp2/2PB1NB1/PP1Q1PP1/2KR3R b - - 1 19"},
+{"san":"Bf7","from":"e6","to":"f7","fen":"r2qr1k1/1pp2bb1/p1np4/3N2pn/4Pp2/2PB1NB1/PP1Q1PP1/2KR3R w - - 2 20"},
+{"san":"Kb1","from":"c1","to":"b1","fen":"r2qr1k1/1pp2bb1/p1np4/3N2pn/4Pp2/2PB1NB1/PP1Q1PP1/1K1R3R b - - 3 20","note":"Este lance perde tempo: o Bispo teria de ir a h2 mais cedo ou mais tarde. Mas já é duvidoso que as Brancas se pudessem salvar."},
+{"san":"Ne5","from":"c6","to":"e5","fen":"r2qr1k1/1pp2bb1/p2p4/3Nn1pn/4Pp2/2PB1NB1/PP1Q1PP1/1K1R3R w - - 4 21"},
+{"san":"Nxe5","from":"f3","to":"e5","fen":"r2qr1k1/1pp2bb1/p2p4/3NN1pn/4Pp2/2PB2B1/PP1Q1PP1/1K1R3R b - - 0 21"},
+{"san":"Rxe5","from":"e8","to":"e5","fen":"r2q2k1/1pp2bb1/p2p4/3Nr1pn/4Pp2/2PB2B1/PP1Q1PP1/1K1R3R w - - 0 22","note":"Capablanca retoma com a Torre, para a ter pronta para um ataque ao Rei."},
+{"san":"Bh2","from":"g3","to":"h2","fen":"r2q2k1/1pp2bb1/p2p4/3Nr1pn/4Pp2/2PB4/PP1Q1PPB/1K1R3R b - - 1 22"},
+{"san":"Nf6","from":"h5","to":"f6","fen":"r2q2k1/1pp2bb1/p2p1n2/3Nr1p1/4Pp2/2PB4/PP1Q1PPB/1K1R3R w - - 2 23","note":"Com o Bispo branco recuado, as Pretas querem eliminar o Cavalo de d5, que tapa o Bispo de f7. Esse Cavalo é a chave da defesa branca."},
+{"san":"g3","from":"g2","to":"g3","fen":"r2q2k1/1pp2bb1/p2p1n2/3Nr1p1/4Pp2/2PB2P1/PP1Q1P1B/1K1R3R b - - 0 23","note":"As Brancas querem jogo para o Bispo e desfazer os peões pretos. O ponto fraco das Pretas é que a Torre de a8 ainda não está em jogo."},
+{"san":"Nxe4","from":"f6","to":"e4","fen":"r2q2k1/1pp2bb1/p2p4/3Nr1p1/4np2/2PB2P1/PP1Q1P1B/1K1R3R w - - 0 24"},
+{"san":"Bxe4","from":"d3","to":"e4","fen":"r2q2k1/1pp2bb1/p2p4/3Nr1p1/4Bp2/2P3P1/PP1Q1P1B/1K1R3R b - - 0 24"},
+{"san":"Rxe4","from":"e5","to":"e4","fen":"r2q2k1/1pp2bb1/p2p4/3N2p1/4rp2/2P3P1/PP1Q1P1B/1K1R3R w - - 0 25"},
+{"san":"gxf4","from":"g3","to":"f4","fen":"r2q2k1/1pp2bb1/p2p4/3N2p1/4rP2/2P5/PP1Q1P1B/1K1R3R b - - 0 25"},
+{"san":"c6","from":"c7","to":"c6","fen":"r2q2k1/1p3bb1/p1pp4/3N2p1/4rP2/2P5/PP1Q1P1B/1K1R3R w - - 0 26"},
+{"san":"Ne3","from":"d5","to":"e3","fen":"r2q2k1/1p3bb1/p1pp4/6p1/4rP2/2P1N3/PP1Q1P1B/1K1R3R b - - 1 26","note":"Cg4 era a alternativa, mas as Brancas já não resistiam ao ataque."},
+{"san":"Qa5","from":"d8","to":"a5","fen":"r5k1/1p3bb1/p1pp4/q5p1/4rP2/2P1N3/PP1Q1P1B/1K1R3R w - - 2 27"},
+{"san":"c4","from":"c3","to":"c4","fen":"r5k1/1p3bb1/p1pp4/q5p1/2P1rP2/4N3/PP1Q1P1B/1K1R3R b - - 0 27"},
+{"san":"Qxd2","from":"a5","to":"d2","fen":"r5k1/1p3bb1/p1pp4/6p1/2P1rP2/4N3/PP1q1P1B/1K1R3R w - - 0 28"},
+{"san":"Rxd2","from":"d1","to":"d2","fen":"r5k1/1p3bb1/p1pp4/6p1/2P1rP2/4N3/PP1R1P1B/1K5R b - - 0 28"},
+{"san":"gxf4","from":"g5","to":"f4","fen":"r5k1/1p3bb1/p1pp4/8/2P1rp2/4N3/PP1R1P1B/1K5R w - - 0 29"},
+{"san":"Ng4","from":"e3","to":"g4","fen":"r5k1/1p3bb1/p1pp4/8/2P1rpN1/8/PP1R1P1B/1K5R b - - 1 29"},
+{"san":"Bg6","from":"f7","to":"g6","fen":"r5k1/1p4b1/p1pp2b1/8/2P1rpN1/8/PP1R1P1B/1K5R w - - 2 30","note":"Obriga o Rei branco a ir para o canto, onde vai ficar numa rede de mate."},
+{"san":"Ka1","from":"b1","to":"a1","fen":"r5k1/1p4b1/p1pp2b1/8/2P1rpN1/8/PP1R1P1B/K6R b - - 3 30"},
+{"san":"Rae8","from":"a8","to":"e8","fen":"4r1k1/1p4b1/p1pp2b1/8/2P1rpN1/8/PP1R1P1B/K6R w - - 4 31","note":"Finalmente a Torre de a8 entra em jogo, e a luta acaba depressa."},
+{"san":"a3","from":"a2","to":"a3","fen":"4r1k1/1p4b1/p1pp2b1/8/2P1rpN1/P7/1P1R1P1B/K6R b - - 0 31","note":"Se Txf4, Te1+ Td1 e T8e2."},
+{"san":"Re1+","from":"e4","to":"e1","fen":"4r1k1/1p4b1/p1pp2b1/8/2P2pN1/P7/1P1R1P1B/K3r2R w - - 1 32"},
+{"san":"Rxe1","from":"h1","to":"e1","fen":"4r1k1/1p4b1/p1pp2b1/8/2P2pN1/P7/1P1R1P1B/K3R3 b - - 0 32"},
+{"san":"Rxe1+","from":"e8","to":"e1","fen":"6k1/1p4b1/p1pp2b1/8/2P2pN1/P7/1P1R1P1B/K3r3 w - - 0 33"},
+{"san":"Ka2","from":"a1","to":"a2","fen":"6k1/1p4b1/p1pp2b1/8/2P2pN1/P7/KP1R1P1B/4r3 b - - 1 33"},
+{"san":"Bf7","from":"g6","to":"f7","fen":"6k1/1p3bb1/p1pp4/8/2P2pN1/P7/KP1R1P1B/4r3 w - - 2 34"},
+{"san":"Kb3","from":"a2","to":"b3","fen":"6k1/1p3bb1/p1pp4/8/2P2pN1/PK6/1P1R1P1B/4r3 b - - 3 34"},
+{"san":"d5","from":"d6","to":"d5","fen":"6k1/1p3bb1/p1p5/3p4/2P2pN1/PK6/1P1R1P1B/4r3 w - - 0 35","note":"A forma mais rápida de acabar a partida."},
+{"san":"Bxf4","from":"h2","to":"f4","fen":"6k1/1p3bb1/p1p5/3p4/2P2BN1/PK6/1P1R1P2/4r3 b - - 0 35"},
+{"san":"dxc4+","from":"d5","to":"c4","fen":"6k1/1p3bb1/p1p5/8/2p2BN1/PK6/1P1R1P2/4r3 w - - 0 36"},
+{"san":"Kb4","from":"b3","to":"b4","fen":"6k1/1p3bb1/p1p5/8/1Kp2BN1/P7/1P1R1P2/4r3 b - - 1 36"},
+{"san":"c3","from":"c4","to":"c3","fen":"6k1/1p3bb1/p1p5/8/1K3BN1/P1p5/1P1R1P2/4r3 w - - 0 37"},
+{"san":"bxc3","from":"b2","to":"c3","fen":"6k1/1p3bb1/p1p5/8/1K3BN1/P1P5/3R1P2/4r3 b - - 0 37"},
+{"san":"Re4+","from":"e1","to":"e4","fen":"6k1/1p3bb1/p1p5/8/1K2rBN1/P1P5/3R1P2/8 w - - 1 38"},
+{"san":"c4","from":"c3","to":"c4","fen":"6k1/1p3bb1/p1p5/8/1KP1rBN1/P7/3R1P2/8 b - - 0 38"},
+{"san":"Rxf4","from":"e4","to":"f4","fen":"6k1/1p3bb1/p1p5/8/1KP2rN1/P7/3R1P2/8 w - - 0 39"},
+{"san":"Ka5","from":"b4","to":"a5","fen":"6k1/1p3bb1/p1p5/K7/2P2rN1/P7/3R1P2/8 b - - 1 39"},
+{"san":"Rxg4","from":"f4","to":"g4","fen":"6k1/1p3bb1/p1p5/K7/2P3r1/P7/3R1P2/8 w - - 0 40"},
+{"san":"Rd8+","from":"d2","to":"d8","fen":"3R2k1/1p3bb1/p1p5/K7/2P3r1/P7/5P2/8 b - - 1 40"},
+{"san":"Kh7","from":"g8","to":"h7","fen":"3R4/1p3bbk/p1p5/K7/2P3r1/P7/5P2/8 w - - 2 41"},
+{"san":"Rd7","from":"d8","to":"d7","fen":"8/1p1R1bbk/p1p5/K7/2P3r1/P7/5P2/8 b - - 3 41"},
+{"san":"Be6","from":"f7","to":"e6","fen":"8/1p1R2bk/p1p1b3/K7/2P3r1/P7/5P2/8 w - - 4 42","note":"As Brancas desistem. Uma partida muito viva."}
+]}
+],
+"glossary":[
+{"t":"Grande diagonal","d":"a diagonal mais longa do tabuleiro, de a1 a h8 ou de h1 a a8."},
+{"t":"Fianqueto","d":"pôr o Bispo em g7, b7, g2 ou b2, depois de avançar o peão da frente."},
+{"t":"Erro de juízo","d":"decisão errada sobre o que é mais importante na posição."},
+{"t":"Fora de jogo","d":"peça que não participa na luta, por estar bloqueada ou longe."},
+{"t":"Rede de mate","d":"posição em que o Rei fica preso e o mate está para chegar."}
+],
+"questions":[
+{"q":"Porque é tão forte o Bispo preto em g7?","options":["Porque ataca a Dama","Porque pressiona a grande diagonal e protege o Rei depois do roque","Porque pode dar xeque","Porque está cravado"],"answer":1,"why":"Capablanca diz que, em g7, o Bispo exerce a sua força máxima, no ataque e na defesa."},
+{"q":"Que lance devia ter jogado Morrison em vez de 10.Bh4?","options":["Bf4, para impedir o roque das Pretas","Dxh6","O roque grande","a4"],"answer":0,"why":"Era mais importante impedir o roque preto, e Bf4 fazia isso."},
+{"q":"O que consegue o avanço f5 e f4?","options":["Dar mate","Pôr o Bispo branco de g3 fora de jogo","Ganhar a Dama","Fazer o roque"],"answer":1,"why":"O ataque com os peões quer ganhar o Bispo de g3 ou tirá-lo de jogo."},
+{"q":"Porque não come Capablanca o Bispo oferecido em g3?","options":["Porque não pode","Porque comê-lo seria perigoso, e com hxg5 o Bispo fica fora de jogo","Porque prefere empatar","Porque perdia a Dama"],"answer":1,"why":"O livro diz que comer o Bispo seria perigoso e que hxg5 já atinge o objectivo."},
+{"q":"Qual era a chave da defesa branca?","options":["A Torre de h1","O Cavalo de d5","O peão a3","O Rei em a1"],"answer":1,"why":"Capablanca diz que o Cavalo em d5 é a chave da defesa branca."}
+],
+"summary":"Um Bispo fora de jogo vale pouco: Capablanca não comeu o Bispo oferecido, deixou-o preso e atacou com todas as outras peças. ➡️ Na próxima lição, a última do livro: um peão a menos, uma Torre na sétima fila e um final que Capablanca manda estudar com cuidado!"
+},
+{
+"id":"050",
+"title":"Marshall contra Capablanca (1918): a Torre na sétima fila",
+"text":[
+"A última partida do livro foi jogada em Nova Iorque, em 1918, contra Marshall. Capablanca usa uma das defesas mais antigas contra o Gambito da Dama: troca peças e depois desenvolve o Bispo da Dama em b7, o grande problema das Pretas nesta abertura.",
+"Marshall avança d5 para atacar o centro preto e prepara uma surpresa, Cd4!. Capablanca encontra o único lance satisfatório, De5!, e entra num final com um peão a menos, mas com a Torre na sétima fila.",
+"Marshall acha que está melhor por ter um peão a mais, mas engana-se: a Torre em d2 compensa o peão, e com peões nos dois flancos o Bispo é mais forte do que o Cavalo. As Pretas atacam o centro, depois o Rei, e o peão dobrado de h4 dá o golpe final.",
+"Capablanca chama-lhe «um final que vale a pena estudar com muito cuidado». Com esta partida, terminas o livro: parabéns!"
+],
+"diagrams":[
+{"after":0,"title":"Marshall contra Capablanca (1918): a Torre na sétima fila","kind":"capablanca","source":"Capablanca, Fundamentos do Xadrez, Parte II, Partida 14 (partida completa; Nova Iorque, 1918)","description":"Gambito da Dama recusado. Capablanca joga de Pretas, fica com um peão a menos e ganha. Repara na Torre preta em d2 e no peão dobrado de h4. Procura os 🧩 desafios.","orientation":"w","start":"rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+"steps":[
+{"san":"d4","from":"d2","to":"d4","fen":"rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1"},
+{"san":"d5","from":"d7","to":"d5","fen":"rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2"},
+{"san":"Nf3","from":"g1","to":"f3","fen":"rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2"},
+{"san":"Nf6","from":"g8","to":"f6","fen":"rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3"},
+{"san":"c4","from":"c2","to":"c4","fen":"rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3"},
+{"san":"e6","from":"e7","to":"e6","fen":"rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4"},
+{"san":"Nc3","from":"b1","to":"c3","fen":"rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4"},
+{"san":"Nbd7","from":"b8","to":"d7","fen":"r1bqkb1r/pppn1ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5"},
+{"san":"Bg5","from":"c1","to":"g5","fen":"r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 3 5"},
+{"san":"Be7","from":"f8","to":"e7","fen":"r1bqk2r/pppnbppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 4 6"},
+{"san":"e3","from":"e2","to":"e3","fen":"r1bqk2r/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 6"},
+{"san":"O-O","from":"e8","to":"g8","fen":"r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 1 7"},
+{"san":"Rc1","from":"a1","to":"c1","fen":"r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R b K - 2 7"},
+{"san":"c6","from":"c7","to":"c6","fen":"r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R w K - 0 8","note":"Uma das defesas mais antigas contra o Gambito da Dama. Capablanca já a tinha jogado contra Kostic neste torneio. Num torneio, quando um sistema dá bons resultados, ele costuma repeti-lo."},
+{"san":"Qc2","from":"d1","to":"c2","fen":"r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R b K - 1 8"},
+{"san":"dxc4","from":"d5","to":"c4","fen":"r1bq1rk1/pp1nbppp/2p1pn2/6B1/2pP4/2N1PN2/PPQ2PPP/2R1KB1R w K - 0 9"},
+{"san":"Bxc4","from":"f1","to":"c4","fen":"r1bq1rk1/pp1nbppp/2p1pn2/6B1/2BP4/2N1PN2/PPQ2PPP/2R1K2R b K - 0 9"},
+{"san":"Nd5","from":"f6","to":"d5","fen":"r1bq1rk1/pp1nbppp/2p1p3/3n2B1/2BP4/2N1PN2/PPQ2PPP/2R1K2R w K - 1 10"},
+{"san":"Bxe7","from":"g5","to":"e7","fen":"r1bq1rk1/pp1nBppp/2p1p3/3n4/2BP4/2N1PN2/PPQ2PPP/2R1K2R b K - 0 10"},
+{"san":"Qxe7","from":"d8","to":"e7","fen":"r1b2rk1/pp1nqppp/2p1p3/3n4/2BP4/2N1PN2/PPQ2PPP/2R1K2R w K - 0 11"},
+{"san":"O-O","from":"e1","to":"g1","fen":"r1b2rk1/pp1nqppp/2p1p3/3n4/2BP4/2N1PN2/PPQ2PPP/2R2RK1 b - - 1 11"},
+{"san":"Nxc3","from":"d5","to":"c3","fen":"r1b2rk1/pp1nqppp/2p1p3/8/2BP4/2n1PN2/PPQ2PPP/2R2RK1 w - - 0 12"},
+{"san":"Qxc3","from":"c2","to":"c3","fen":"r1b2rk1/pp1nqppp/2p1p3/8/2BP4/2Q1PN2/PP3PPP/2R2RK1 b - - 0 12"},
+{"san":"b6","from":"b7","to":"b6","fen":"r1b2rk1/p2nqppp/1pp1p3/8/2BP4/2Q1PN2/PP3PPP/2R2RK1 w - - 0 13","note":"A chave desta defesa: depois de simplificar com as trocas, as Pretas desenvolvem o Bispo da Dama na grande diagonal, sem criar fraquezas. Desenvolver bem esse Bispo é o maior problema das Pretas no Gambito da Dama."},
+{"san":"e4","from":"e3","to":"e4","fen":"r1b2rk1/p2nqppp/1pp1p3/8/2BPP3/2Q2N2/PP3PPP/2R2RK1 b - - 0 13"},
+{"san":"Bb7","from":"c8","to":"b7","fen":"r4rk1/pb1nqppp/1pp1p3/8/2BPP3/2Q2N2/PP3PPP/2R2RK1 w - - 1 14"},
+{"san":"Rfe1","from":"f1","to":"e1","fen":"r4rk1/pb1nqppp/1pp1p3/8/2BPP3/2Q2N2/PP3PPP/2R1R1K1 b - - 2 14"},
+{"san":"Rfd8","from":"f8","to":"d8","fen":"r2r2k1/pb1nqppp/1pp1p3/8/2BPP3/2Q2N2/PP3PPP/2R1R1K1 w - - 3 15","note":"O desenvolvimento está completo. As Brancas têm o centro; as Pretas estão entrincheiradas e querem jogar Tc8, Cf6 e c5, para desfazer o centro branco e abrir o Bispo de b7."},
+{"san":"d5","from":"d4","to":"d5","fen":"r2r2k1/pb1nqppp/1pp1p3/3P4/2B1P3/2Q2N2/PP3PPP/2R1R1K1 b - - 0 15","note":"As Brancas avançam para antecipar o plano preto: na verdade, é um ataque ao peão e6. 🧩 Desafio: que lance de Cavalo dá às Pretas um jogo excelente?"},
+{"san":"Nc5","from":"d7","to":"c5","fen":"r2r2k1/pb2qppp/1pp1p3/2nP4/2B1P3/2Q2N2/PP3PPP/2R1R1K1 w - - 1 16","note":"Cc5! Contra Kostic, Capablanca tinha jogado Cf8, por descuido. Agora ameaça cxd5 e também Cxe4."},
+{"san":"dxe6","from":"d5","to":"e6","fen":"r2r2k1/pb2qppp/1pp1P3/2n5/2B1P3/2Q2N2/PP3PPP/2R1R1K1 b - - 0 16"},
+{"san":"Nxe6","from":"c5","to":"e6","fen":"r2r2k1/pb2qppp/1pp1n3/8/2B1P3/2Q2N2/PP3PPP/2R1R1K1 w - - 0 17"},
+{"san":"Bxe6","from":"c4","to":"e6","fen":"r2r2k1/pb2qppp/1pp1B3/8/4P3/2Q2N2/PP3PPP/2R1R1K1 b - - 0 17"},
+{"san":"Qxe6","from":"e7","to":"e6","fen":"r2r2k1/pb3ppp/1pp1q3/8/4P3/2Q2N2/PP3PPP/2R1R1K1 w - - 0 18","note":"Capablanca julgava que as Brancas teriam de perder tempo a defender o peão a2, e que ele jogaria c5 com grande vantagem. Mas Marshall tinha uma surpresa."},
+{"san":"Nd4","from":"f3","to":"d4","fen":"r2r2k1/pb3ppp/1pp1q3/8/3NP3/2Q5/PP3PPP/2R1R1K1 b - - 1 18","note":"Cd4! A surpresa de Marshall. Se Dxa2, Ta1 ganha a Dama. 🧩 Desafio: as Pretas só têm um lance satisfatório. Qual?"},
+{"san":"Qe5","from":"e6","to":"e5","fen":"r2r2k1/pb3ppp/1pp5/4q3/3NP3/2Q5/PP3PPP/2R1R1K1 w - - 2 19","note":"De5! O único lance satisfatório. O natural Dd7 daria às Brancas uma enorme vantagem de posição. Com De5, as Pretas ficam pelo menos com o jogo igual."},
+{"san":"Nxc6","from":"d4","to":"c6","fen":"r2r2k1/pb3ppp/1pN5/4q3/4P3/2Q5/PP3PPP/2R1R1K1 b - - 0 19"},
+{"san":"Qxc3","from":"e5","to":"c3","fen":"r2r2k1/pb3ppp/1pN5/8/4P3/2q5/PP3PPP/2R1R1K1 w - - 0 20"},
+{"san":"Rxc3","from":"c1","to":"c3","fen":"r2r2k1/pb3ppp/1pN5/8/4P3/2R5/PP3PPP/4R1K1 b - - 0 20"},
+{"san":"Rd2","from":"d8","to":"d2","fen":"r5k1/pb3ppp/1pN5/8/4P3/2R5/PP1r1PPP/4R1K1 w - - 1 21","note":"A Torre preta na sétima fila compensa bem o peão a menos."},
+{"san":"Rb1","from":"e1","to":"b1","fen":"r5k1/pb3ppp/1pN5/8/4P3/2R5/PP1r1PPP/1R4K1 b - - 2 21","note":"Um erro de juízo muito sério. Marshall pensa que está melhor por ter um peão a mais, mas não está. Com peões nos dois flancos, o Bispo é melhor do que o Cavalo, por ter longo alcance. O melhor era forçar o empate com Ce7+."},
+{"san":"Re8","from":"a8","to":"e8","fen":"4r1k1/pb3ppp/1pN5/8/4P3/2R5/PP1r1PPP/1R4K1 w - - 3 22","note":"Um lance poderoso: as Pretas começam um assalto ao centro, que depois passa para o Rei. As Brancas não se atrevem a jogar f3, por causa de f5."},
+{"san":"e5","from":"e4","to":"e5","fen":"4r1k1/pb3ppp/1pN5/4P3/8/2R5/PP1r1PPP/1R4K1 b - - 0 22"},
+{"san":"g5","from":"g7","to":"g5","fen":"4r1k1/pb3p1p/1pN5/4P1p1/8/2R5/PP1r1PPP/1R4K1 w - - 0 23","note":"Para impedir f4. O Cavalo branco está praticamente cravado, porque se sair as Pretas comem e5."},
+{"san":"h4","from":"h2","to":"h4","fen":"4r1k1/pb3p1p/1pN5/4P1p1/7P/2R5/PP1r1PP1/1R4K1 b - - 0 23","note":"As Brancas querem desfazer os peões pretos, para os enfraquecer."},
+{"san":"gxh4","from":"g5","to":"h4","fen":"4r1k1/pb3p1p/1pN5/4P3/7p/2R5/PP1r1PP1/1R4K1 w - - 0 24","note":"Este peão, dobrado e isolado, faz uma pressão enorme. As Pretas ameaçam Te6, Tg6, h3 e h2 na altura certa."},
+{"san":"Re1","from":"b1","to":"e1","fen":"4r1k1/pb3p1p/1pN5/4P3/7p/2R5/PP1r1PP1/4R1K1 b - - 1 24","note":"As Brancas já não aguentam esta morte lenta e querem salvar-se pelo flanco do Rei, mesmo que percam os peões do flanco da Dama."},
+{"san":"Re6","from":"e8","to":"e6","fen":"6k1/pb3p1p/1pN1r3/4P3/7p/2R5/PP1r1PP1/4R1K1 w - - 2 25","note":"Te6! Muito melhor do que comer peões. Obriga a Torre de e1 a defender o Cavalo, por causa da ameaça Tg6."},
+{"san":"Rec1","from":"e1","to":"c1","fen":"6k1/pb3p1p/1pN1r3/4P3/7p/2R5/PP1r1PP1/2R3K1 b - - 3 25"},
+{"san":"Kg7","from":"g8","to":"g7","fen":"8/pb3pkp/1pN1r3/4P3/7p/2R5/PP1r1PP1/2R3K1 w - - 4 26","note":"Prepara Tg6. A partida vai decidir-se no flanco do Rei, e é o peão dobrado que vai dar o golpe final."},
+{"san":"b4","from":"b2","to":"b4","fen":"8/pb3pkp/1pN1r3/4P3/1P5p/2R5/P2r1PP1/2R3K1 b - - 0 26"},
+{"san":"b5","from":"b6","to":"b5","fen":"8/pb3pkp/2N1r3/1p2P3/1P5p/2R5/P2r1PP1/2R3K1 w - - 0 27","note":"Para impedir b5, que defenderia o Cavalo e libertaria as Torres brancas."},
+{"san":"a3","from":"a2","to":"a3","fen":"8/pb3pkp/2N1r3/1p2P3/1P5p/P1R5/3r1PP1/2R3K1 b - - 0 27"},
+{"san":"Rg6","from":"e6","to":"g6","fen":"8/pb3pkp/2N3r1/1p2P3/1P5p/P1R5/3r1PP1/2R3K1 w - - 1 28"},
+{"san":"Kf1","from":"g1","to":"f1","fen":"8/pb3pkp/2N3r1/1p2P3/1P5p/P1R5/3r1PP1/2R2K2 b - - 2 28"},
+{"san":"Ra2","from":"d2","to":"a2","fen":"8/pb3pkp/2N3r1/1p2P3/1P5p/P1R5/r4PP1/2R2K2 w - - 3 29","note":"Repara na posição das peças: as Brancas não podem mexer em nada sem perder alguma coisa."},
+{"san":"Kg1","from":"f1","to":"g1","fen":"8/pb3pkp/2N3r1/1p2P3/1P5p/P1R5/r4PP1/2R3K1 b - - 4 29"},
+{"san":"h3","from":"h4","to":"h3","fen":"8/pb3pkp/2N3r1/1p2P3/1P6/P1R4p/r4PP1/2R3K1 w - - 0 30"},
+{"san":"g3","from":"g2","to":"g3","fen":"8/pb3pkp/2N3r1/1p2P3/1P6/P1R3Pp/r4P2/2R3K1 b - - 0 30"},
+{"san":"a6","from":"a7","to":"a6","fen":"8/1b3pkp/p1N3r1/1p2P3/1P6/P1R3Pp/r4P2/2R3K1 w - - 0 31","note":"Outra vez, as Brancas têm de mexer e perder alguma coisa, porque todas as peças estão presas."},
+{"san":"e6","from":"e5","to":"e6","fen":"8/1b3pkp/p1N1P1r1/1p6/1P6/P1R3Pp/r4P2/2R3K1 b - - 0 31"},
+{"san":"Rxe6","from":"g6","to":"e6","fen":"8/1b3pkp/p1N1r3/1p6/1P6/P1R3Pp/r4P2/2R3K1 w - - 0 32","note":"Mesmo agora o Cavalo não se pode mexer, por causa de h2+ Rxh2, Th6+ Rg1 e Th1 mate."},
+{"san":"g4","from":"g3","to":"g4","fen":"8/1b3pkp/p1N1r3/1p6/1P4P1/P1R4p/r4P2/2R3K1 b - - 0 32"},
+{"san":"Rh6","from":"e6","to":"h6","fen":"8/1b3pkp/p1N4r/1p6/1P4P1/P1R4p/r4P2/2R3K1 w - - 1 33"},
+{"san":"f3","from":"f2","to":"f3","fen":"8/1b3pkp/p1N4r/1p6/1P4P1/P1R2P1p/r7/2R3K1 b - - 0 33","note":"Se g5, h2+ Rh1 Txc6 Txc6 Txf2, e as Pretas ganham facilmente."},
+{"san":"Rd6","from":"h6","to":"d6","fen":"8/1b3pkp/p1Nr4/1p6/1P4P1/P1R2P1p/r7/2R3K1 w - - 1 34"},
+{"san":"Ne7","from":"c6","to":"e7","fen":"8/1b2Npkp/p2r4/1p6/1P4P1/P1R2P1p/r7/2R3K1 b - - 2 34"},
+{"san":"Rdd2","from":"d6","to":"d2","fen":"8/1b2Npkp/p7/1p6/1P4P1/P1R2P1p/r2r4/2R3K1 w - - 3 35"},
+{"san":"Nf5+","from":"e7","to":"f5","fen":"8/1b3pkp/p7/1p3N2/1P4P1/P1R2P1p/r2r4/2R3K1 b - - 4 35"},
+{"san":"Kf6","from":"g7","to":"f6","fen":"8/1b3p1p/p4k2/1p3N2/1P4P1/P1R2P1p/r2r4/2R3K1 w - - 5 36"},
+{"san":"Nh4","from":"f5","to":"h4","fen":"8/1b3p1p/p4k2/1p6/1P4PN/P1R2P1p/r2r4/2R3K1 b - - 6 36"},
+{"san":"Kg5","from":"f6","to":"g5","fen":"8/1b3p1p/p7/1p4k1/1P4PN/P1R2P1p/r2r4/2R3K1 w - - 7 37"},
+{"san":"Nf5","from":"h4","to":"f5","fen":"8/1b3p1p/p7/1p3Nk1/1P4P1/P1R2P1p/r2r4/2R3K1 b - - 8 37"},
+{"san":"Rg2+","from":"d2","to":"g2","fen":"8/1b3p1p/p7/1p3Nk1/1P4P1/P1R2P1p/r5r1/2R3K1 w - - 9 38"},
+{"san":"Kf1","from":"g1","to":"f1","fen":"8/1b3p1p/p7/1p3Nk1/1P4P1/P1R2P1p/r5r1/2R2K2 b - - 10 38"},
+{"san":"h2","from":"h3","to":"h2","fen":"8/1b3p1p/p7/1p3Nk1/1P4P1/P1R2P2/r5rp/2R2K2 w - - 0 39"},
+{"san":"f4+","from":"f3","to":"f4","fen":"8/1b3p1p/p7/1p3Nk1/1P3PP1/P1R5/r5rp/2R2K2 b - - 0 39"},
+{"san":"Kxf4","from":"g5","to":"f4","fen":"8/1b3p1p/p7/1p3N2/1P3kP1/P1R5/r5rp/2R2K2 w - - 0 40","note":"As Brancas desistem. Capablanca diz que é um final que vale a pena estudar com muito cuidado. Parabéns: chegaste ao fim do livro!"}
+]}
+],
+"glossary":[
+{"t":"Gambito da Dama recusado","d":"abertura 1.d4 d5 2.c4 e6, em que as Pretas não aceitam o peão oferecido."},
+{"t":"Sétima fila","d":"a penúltima fila do adversário; uma Torre aí ataca os peões e prende o Rei."},
+{"t":"Peão dobrado","d":"dois peões da mesma cor na mesma coluna."},
+{"t":"Longo alcance","d":"capacidade do Bispo de actuar de longe, de um flanco ao outro."},
+{"t":"Zugzwang","d":"situação em que qualquer lance piora a posição de quem tem de jogar."}
+],
+"questions":[
+{"q":"Qual é o maior problema das Pretas no Gambito da Dama, segundo Capablanca?","options":["Fazer o roque","Desenvolver bem o Bispo da Dama","Defender o peão a7","Trocar as Torres"],"answer":1,"why":"Ele diz que o desenvolvimento do Bispo da Dama é o maior problema das Pretas nesta abertura."},
+{"q":"Porque não podia Capablanca jogar 18...Dxa2?","options":["Porque levava mate","Porque Ta1 ganhava a Dama","Porque perdia a Torre","Porque não era legal"],"answer":1,"why":"Depois de Dxa2, a Torre branca vai a a1 e a Dama preta fica presa."},
+{"q":"O que compensa o peão a menos das Pretas?","options":["Um Cavalo a mais","A Torre na sétima fila e o Bispo, melhor do que o Cavalo","Uma Dama a mais","Nada"],"answer":1,"why":"Capablanca diz que a Torre em d2 compensa o peão e que, com peões nos dois flancos, o Bispo é superior."},
+{"q":"Que peça dá o golpe final, segundo Capablanca?","options":["O Cavalo","O peão dobrado de h4","A Dama","O Rei branco"],"answer":1,"why":"Ele diz que é o peão dobrado e isolado que vai dar o toque final."},
+{"q":"Porque não se pode mexer o Cavalo branco no lance 31?","options":["Porque está em xeque","Por causa de h2+ Rxh2, Th6+ Rg1 e Th1 mate","Porque não tem casas","Porque defende a Dama"],"answer":1,"why":"Se o Cavalo sair, as Pretas dão mate com as Torres e o peão h."}
+],
+"summary":"Um peão a menos não é uma desvantagem quando as peças estão activas: a Torre na sétima fila e o Bispo de longo alcance valeram mais do que o peão. 🏆 Terminaste os Fundamentos do Xadrez de Capablanca! Volta às lições com 🧩 desafios e tenta acertar todos os lances."
 }
 ]
 }
