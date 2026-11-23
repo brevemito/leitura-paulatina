@@ -1,5 +1,5 @@
 # leitura-paulatina
-https://brevemito.github.io/leitura-paulatina/
+https://leitura.brevemito.com/
 # Leitura Paulatina | Brevemito 
 
 Assistente gratuito para motivar a leitura, um trecho de cada vez. Não tem contas, chaves API, servidor nem inteligência artificial. Usa apenas HTML, CSS, JavaScript e JSON, e guarda o progresso no próprio navegador (localStorage).
